@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>���}800�`</title> 
+  <title>京急800形</title> 
   <author>Noz</author> 
   <homepage></homepage> 
-<!-- ���}800�`�擪�� --> 
-�@<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 京急800形先頭車 --> 
+　<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="kei800a.bmp" /> 
   </sprite>
   <capacity>136</capacity> 
   <seatedcapacity>56</seatedcapacity>
   </contribution>
-<!-- ���}800�`�Ō���� -->
-�@<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 京急800形最後尾車 -->
+　<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{1699C9F1-DF64-4678-9B60-8C9AAB6C800A}" />  
   </contribution> 
-<!--���}800�`���Ԏ�-->
-�@<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--京急800形中間車-->
+　<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="kei800a2.bmp" /> 
   </sprite>
   <capacity>144</capacity> 
   <seatedcapacity>48</seatedcapacity>
   </contribution>
-<!--���}800�`�p���^��-->
-�@<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800P}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--京急800形パンタ車-->
+　<contribution type="trainCar" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800P}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="kei800a3p.bmp" /> 
   </sprite>
   <capacity>144</capacity> 
@@ -37,15 +37,15 @@
   </contribution>
 
   <contribution type="train" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800M}">
-<company>���l�}�s�d�S</company>
-<type>800�`(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>800形(中)</type>
+<name>京急線</name>
 <author>Noz</author>
 <description>
-1978�N�A���b�V�����ԑт̗D����Ԃ̑��x������������邽�߂ɐ������ꂽ�ԗ��B
-���Ă�D�}�s�Ȃǂł��g���Ă��܂����B
-1982�N�Ɍ��݂̓h���ɂȂ�܂����B
-3�A6���Ґ���p�ӂ��Ă���܂��B
+1978年、ラッシュ時間帯の優等列車の速度向上を実現するために製造された車両。
+かつてはD急行などでも使われていました。
+1982年に現在の塗装になりました。
+3、6両編成を用意しております。
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -63,15 +63,15 @@
 </contribution>
 
   <contribution type="train" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800S}">
-<company>���l�}�s�d�S</company>
-<type>800�`(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>800形(低)</type>
+<name>京急線</name>
 <author>Noz</author>
 <description>
-1978�N�A���b�V�����ԑт̗D����Ԃ̑��x������������邽�߂ɐ������ꂽ�ԗ��B
-���Ă�D�}�s�Ȃǂł��g���Ă��܂����B
-1982�N�Ɍ��݂̓h���ɂȂ�܂����B
-3�A6���Ґ���p�ӂ��Ă���܂��B
+1978年、ラッシュ時間帯の優等列車の速度向上を実現するために製造された車両。
+かつてはD急行などでも使われていました。
+1982年に現在の塗装になりました。
+3、6両編成を用意しております。
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -89,15 +89,15 @@
 </contribution>
 
   <contribution type="train" id="{1699C9F1-DF64-4678-9B60-8C9AAB6C800F}">
-<company>���l�}�s�d�S</company>
-<type>800�`(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>800形(高)</type>
+<name>京急線</name>
 <author>Noz</author>
 <description>
-1978�N�A���b�V�����ԑт̗D����Ԃ̑��x������������邽�߂ɐ������ꂽ�ԗ��B
-���Ă�D�}�s�Ȃǂł��g���Ă��܂����B
-1982�N�Ɍ��݂̓h���ɂȂ�܂����B
-3�A6���Ґ���p�ӂ��Ă���܂��B
+1978年、ラッシュ時間帯の優等列車の速度向上を実現するために製造された車両。
+かつてはD急行などでも使われていました。
+1982年に現在の塗装になりました。
+3、6両編成を用意しております。
 </description>
 <fare>400</fare>
 <price>28000000</price>

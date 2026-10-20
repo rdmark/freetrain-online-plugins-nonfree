@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“S“¹Ž{Ýƒvƒ‰ƒOƒCƒ“</title>
-	<author>‰Ô•H—ó‰Î</author>
+	<title>é‰„é“æ–½è¨­ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>èŠ±è±çƒˆç«</author>
 	<homepage></homepage>
 
 	<contribution type="railStationary" id="{DD1224B0-2F1B-4c26-9E66-4E604F3342C8}">
-		<group>‰ºü1</group>
+		<group>ä¸‹ç·š1</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -22,7 +22,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B1-2F1C-4c27-9E67-4E604F3342C9}">
-		<group>‰ºü2</group>
+		<group>ä¸‹ç·š2</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -39,7 +39,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B4-2F1C-4c29-9E69-4E604F3342CB}">
-		<group>‰ºü3</group>
+		<group>ä¸‹ç·š3</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -56,7 +56,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B5-2F1C-4c29-9E69-4E604F3342CB}">
-		<group>‰ºü4</group>
+		<group>ä¸‹ç·š4</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -73,7 +73,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{AA1224B5-2F1C-4c29-9E69-4E604F3342CB}">
-		<group>‰ºü5</group>
+		<group>ä¸‹ç·š5</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -90,7 +90,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{AA1224B5-2F1C-4c29-9E70-4E604F3342CB}">
-		<group>‰ºü6</group>
+		<group>ä¸‹ç·š6</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -107,7 +107,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B2-2F1D-4c28-9E68-4E604F3342CA}">
-		<group>‰ºü–³‚µ1</group>
+		<group>ä¸‹ç·šç„¡ã—1</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -124,7 +124,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B3-2F1C-4c29-9E69-4E604F3342CB}">
-		<group>‰ºü–³‚µ2</group>
+		<group>ä¸‹ç·šç„¡ã—2</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -141,7 +141,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B2-2F1D-4c30-9E68-4E604F3342CA}">
-		<group>‰ºü–³‚µ3</group>
+		<group>ä¸‹ç·šç„¡ã—3</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -158,7 +158,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{DD1224B3-2F1C-4c31-9E69-4E604F3342CB}">
-		<group>‰ºü–³‚µ4</group>
+		<group>ä¸‹ç·šç„¡ã—4</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>

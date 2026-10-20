@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE plug-in [
 
@@ -29,28 +29,28 @@
 
 <plug-in>
 
-<author>��������</author>
+<author>しかしか</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>����(�����{��)</title>
+<title>建物(研究施設)</title>
 
 
-<!-- �ϑ��� -->
+<!-- 観測所 -->
 
-<!-- �V�̊ϑ���(1x1) -->
+<!-- 天体観測所(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-astronomicalobservatory-001}">
 	<picture  src="astronomicalobservatory_001.bmp">
 		<override when="night" src="astronomicalobservatory_001n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- �V�̊ϑ���(1x1) -->
+<!-- 天体観測所(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-001a}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(1x1)</name>
-	<design>�V�̖]�����h�[��A</design>
+	<group>天体観測所</group>
+	<name>天体観測所(1x1)</name>
+	<design>天体望遠鏡ドームA</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>100000000</price>
 	<size>1,1</size>
@@ -86,11 +86,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-001b}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(1x1)</name>
-	<design>�V�̖]�����h�[��B</design>
+	<group>天体観測所</group>
+	<name>天体観測所(1x1)</name>
+	<design>天体望遠鏡ドームB</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>100000000</price>
 	<size>1,1</size>
@@ -126,11 +126,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-001c}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(1x1)</name>
-	<design>�V�̖]�����h�[��C</design>
+	<group>天体観測所</group>
+	<name>天体観測所(1x1)</name>
+	<design>天体望遠鏡ドームC</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>100000000</price>
 	<size>1,1</size>
@@ -166,11 +166,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-001d}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(1x1)</name>
-	<design>�V�̖]�����h�[��D</design>
+	<group>天体観測所</group>
+	<name>天体観測所(1x1)</name>
+	<design>天体望遠鏡ドームD</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>100000000</price>
 	<size>1,1</size>
@@ -205,20 +205,20 @@
 
 </contribution>
 
-<!-- �V�̊ϑ���(2x2) -->
+<!-- 天体観測所(2x2) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-astronomicalobservatory-002}">
 	<picture  src="astronomicalobservatory_002.bmp">
 		<override when="night" src="astronomicalobservatory_002n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- �V�̊ϑ���(2x2) -->
+<!-- 天体観測所(2x2) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-002a}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(2x2)</name>
-	<design>����a�V�̖]�����h�[��A</design>
+	<group>天体観測所</group>
+	<name>天体観測所(2x2)</name>
+	<design>大口径天体望遠鏡ドームA</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>200000000</price>
 	<size>2,2</size>
@@ -253,13 +253,13 @@
 
 </contribution>
 
-<!-- �V�̊ϑ���(2x2) -->
+<!-- 天体観測所(2x2) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-astronomicalobservatory-002b}">
-	<group>�V�̊ϑ���</group>
-	<name>�V�̊ϑ���(2x2)</name>
-	<design>����a�V�̖]�����h�[��B</design>
+	<group>天体観測所</group>
+	<name>天体観測所(2x2)</name>
+	<design>大口径天体望遠鏡ドームB</design>
 	<structure>
-		<category byname="�V�̊ϑ���"/>
+		<category byname="天体観測所"/>
 	</structure>
 	<price>200000000</price>
 	<size>2,2</size>

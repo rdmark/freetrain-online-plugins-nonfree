@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�O�c�� 6300�`</title>
+	<title>三田線 6300形</title>
 	<homepage></homepage>
 	<author>Noz</author>
 
 
-<!-- �s�c�O�c�� -->
+<!-- 都営三田線 -->
 
 
-	<!-- 6300�` �擪�� -->
+	<!-- 6300形 先頭車 -->
 	<contribution type="trainCar" id="{F672416D-1560-4E1D-BEF7-22747D6EB483}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -17,12 +17,12 @@
 		<capacity>136</capacity>
   		<seatedcapacity>49</seatedcapacity>
 	</contribution>
-	<!--�@6300�` �擪�� ����� -->
+	<!--　6300形 先頭車 後尾車 -->
 	<contribution type="trainCar" id="{F672416D-1560-4E1D-BEF7-22747D6EB483}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{F672416D-1560-4E1D-BEF7-22747D6EB483}-h"/>
 	</contribution>
-	<!-- 6300�` ���Ԏ� --> 
+	<!-- 6300形 中間車 --> 
 	<contribution type="trainCar" id="{F672416D-1560-4E1D-BEF7-22747D6EB483}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
 		<sprite origin="0,0">
@@ -31,7 +31,7 @@
 		<capacity>147</capacity> 
   		<seatedcapacity>55</seatedcapacity>
 	</contribution>
-	<!-- 6300�` �p���^���Ԏ� --> 
+	<!-- 6300形 パンタ中間車 --> 
 	<contribution type="trainCar" id="{F672416D-1560-4E1D-BEF7-22747D6EB483}-p">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
 		<sprite origin="0,0">
@@ -43,11 +43,11 @@
 
 
 	<contribution type="train" id="{1D0D0131-DD35-4FE5-9F7E-9CBDA44CE22F}">
-		<company>�����s��ʋ�</company>
-		<type>6300�`</type>
-		<name>�O�c��</name>
+		<company>東京都交通局</company>
+		<type>6300形</type>
+		<name>三田線</name>
 		<author>Noz</author>
-		<description>1993�N��6000�`��u�������鎖�ړI�ɓo�ꂵ���ԗ��B6���Ґ��݂̂ł��B</description>
+		<description>1993年に6000形を置き換える事目的に登場した車両。6両編成のみです。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

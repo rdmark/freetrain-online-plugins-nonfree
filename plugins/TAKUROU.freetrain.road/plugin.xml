@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜H</title>
-	<author>TAKUROU—l(XMLƒR[ƒh)/477—l•˜TŒŽ˜O–é(‰æ‘œ)</author>
+	<title>é“è·¯</title>
+	<author>TAKUROUæ§˜(XMLã‚³ãƒ¼ãƒ‰)/477æ§˜ï¼†ç‹¼æœˆæ¥¼å¤œ(ç”»åƒ)</author>
 	<homepage>http://www14.big.oir.jp/~ayase/</homepage>
 	
-	<!-- ‚±‚ê‚ÍATAKUROU—l‚Éì‚Á‚Ä‚¢‚½‚¾‚¢‚½ƒvƒ‰ƒOƒCƒ“ƒR[ƒh‚ðA˜TŒŽ‚ª’Ç‰ÁC³‚µ‚½‚à‚Ì‚Å‚·B -->
-	<!-- ‚Ü‚½Auü˜H•~Î4v‚É‚Â‚«‚Ü‚µ‚Ä‚ÍA477—l‚ªì¬‚µ‚½‚à‚Ì‚ðA’Ç‰Á‚µ‚½‚à‚Ì‚Å‚·B -->
+	<!-- ã“ã‚Œã¯ã€TAKUROUæ§˜ã«ä½œã£ã¦ã„ãŸã ã„ãŸãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚³ãƒ¼ãƒ‰ã‚’ã€ç‹¼æœˆãŒè¿½åŠ ä¿®æ­£ã—ãŸã‚‚ã®ã§ã™ã€‚ -->
+	<!-- ã¾ãŸã€ã€Œç·šè·¯æ•·çŸ³4ã€ã«ã¤ãã¾ã—ã¦ã¯ã€477æ§˜ãŒä½œæˆã—ãŸã‚‚ã®ã‚’ã€è¿½åŠ ã—ãŸã‚‚ã®ã§ã™ã€‚ -->
 	
-	<!-- V‚µ‚¢ü˜H•~Î -->
+	<!-- æ–°ã—ã„ç·šè·¯æ•·çŸ³ -->
 	<contribution type="road" id="{FreeTrain-TAKUROU-RoadImg-Isi}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ü˜H•~Î/•~Î1</name>
-		<description>ü˜H•~Î</description>
+		<name>ç·šè·¯æ•·çŸ³/æ•·çŸ³1</name>
+		<description>ç·šè·¯æ•·çŸ³</description>
 		<picture src="road_isi.bmp" size="32,32" offset="16" />
 	</contribution>
 	
-	<!-- ‚â‚âŽK‚Ñ‚ªˆÚ‚Á‚½•~Î(’n•ûü“™) -->
+	<!-- ã‚„ã‚„éŒ†ã³ãŒç§»ã£ãŸæ•·çŸ³(åœ°æ–¹ç·šç­‰) -->
 	<contribution type="road" id="{FreeTrain-TAKUROU-RoadImg-Isi}-2">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ü˜H•~Î/•~Î2</name>
-		<description>ü˜H•~Î</description>
+		<name>ç·šè·¯æ•·çŸ³/æ•·çŸ³2</name>
+		<description>ç·šè·¯æ•·çŸ³</description>
 		<picture src="road_isi2.bmp" size="32,32" offset="16" />
 	</contribution>	
 	
-	<!-- ”N‹G‚Ì“ü‚Á‚½•~Î(”pü“™) -->
+	<!-- å¹´å­£ã®å…¥ã£ãŸæ•·çŸ³(å»ƒç·šç­‰) -->
 	<contribution type="road" id="{FreeTrain-TAKUROU-RoadImg-Isi}-3">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ü˜H•~Î/•~Î3</name>
-		<description>ü˜H•~Î</description>
+		<name>ç·šè·¯æ•·çŸ³/æ•·çŸ³3</name>
+		<description>ç·šè·¯æ•·çŸ³</description>
 		<picture src="road_isi3.bmp" size="32,32" offset="16" />
 	</contribution>	
 	
-	<!--477—l‚Éì‚Á‚Ä‚¢‚½‚¾‚¢‚½•~Î  -->
+	<!--477æ§˜ã«ä½œã£ã¦ã„ãŸã ã„ãŸæ•·çŸ³  -->
 	<contribution type="road" id="{FreeTrain-TAKUROU-RoadImg-Isi}-4">
 		<style name="railballast" />
 		<class name="freetrain.contributions.road.A3RoadContribution" />
-		<name>ü˜H•~Î/•~Î4</name>
-		<description>ü˜H•~Î</description>
+		<name>ç·šè·¯æ•·çŸ³/æ•·çŸ³4</name>
+		<description>ç·šè·¯æ•·çŸ³</description>
 		<picture src="road_isi4.bmp" size="32,32" offset="16" />
 	</contribution>	
 		

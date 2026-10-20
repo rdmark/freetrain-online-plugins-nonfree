@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>‚ä‚¤‚ ŒšÝ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>ã‚†ã†ã‚å»ºè¨­</author>
 	<homepage>yu-a.love2@k5.dion.ne.jp</homepage>
 	
 
 	<contribution type="commercial" id="{D50BA778-25F4-465B-8A73-4C15F8772362}">
-		<name>Á–h</name>
+		<name>æ¶ˆé˜²ç½²</name>
 		<price>16000000</price>
 		<size>3,3</size>
 		<height>2</height>

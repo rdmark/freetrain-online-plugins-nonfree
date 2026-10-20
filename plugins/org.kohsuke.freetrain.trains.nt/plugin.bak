@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�����{�S�� �ԗ��L�b�g</title>
+	<title>西日本鉄道 車両キット</title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	
 	
 	
-	<!-- ���S 5000�`/6000�n/6050�n -->
+	<!-- 西鉄 5000形/6000系/6050系 -->
 	<contribution type="trainCar" id="{3D986977-0EB5-423b-97C9-9694C3D3AD24}">
 		<class name="freetrain.framework.plugin.impl.ColoredTrainCarImpl" />
 		<colorMap picture="1" base="64,242,202" line1="255,0,0" line2="64,242,202" line3="64,242,202" />
@@ -13,11 +13,11 @@
 	</contribution>
 	
 	<contribution type="train" id="{A99766D7-C2A4-415d-BF85-0A80B35CA154}">
-		<company>�����{�S��</company>
-		<type>5000�`/6000�n/6050�n</type>
-		<name>�W���F</name>
-		<author>Min����</author>
-		<description>�V�_�喴�c���𑖂�d�ԁB���b�V�����̓��}���畁�ʂ܂ŕ��L���g�p�����B</description>
+		<company>西日本鉄道</company>
+		<type>5000形/6000系/6050系</type>
+		<name>標準色</name>
+		<author>Minさん</author>
+		<description>天神大牟田線を走る電車。ラッシュ時の特急から普通まで幅広く使用される。</description>
 
 		<price>1</price>
 		<speed>medium</speed>
@@ -29,7 +29,7 @@
 	
 	
 	
-	<!-- ���S 600�` -->
+	<!-- 西鉄 600形 -->
 	<contribution type="trainCar" id="{C2DDE39A-C617-49d9-A9E2-143745240F21}">
 		<class name="freetrain.framework.plugin.impl.ColoredTrainCarImpl" />
 		<colorMap picture="1" base="64,242,202" line1="255,0,0" line2="64,242,202" line3="64,242,202" />
@@ -37,11 +37,11 @@
 	</contribution>
 	
 	<contribution type="train" id="{C8C28E0C-09E4-415a-BA48-1D7039B3D7EC}">
-		<company>�����{�S��</company>
-		<type>600�`</type>
-		<name>�W���F</name>
-		<author>Min����</author>
-		<description>�V�_�喴�c���E�Öؐ��𑖂�d�ԁB�����}���^�]���\�B���X�ɖ{�������炵�Ă���B</description>
+		<company>西日本鉄道</company>
+		<type>600形</type>
+		<name>標準色</name>
+		<author>Minさん</author>
+		<description>天神大牟田線・甘木線を走る電車。ワンマン運転が可能。徐々に本数を減らしている。</description>
 		<price>1</price>
 		<speed>medium</speed>
 		<composition>
@@ -50,7 +50,7 @@
 	</contribution>
 	
 
-	<!-- ���S 2000�` -->
+	<!-- 西鉄 2000形 -->
 	<contribution type="trainCar" id="{7FB180D4-9D11-49da-B3BA-994B09412AE7}">
 		<class name="freetrain.framework.plugin.impl.ColoredTrainCarImpl" />
 		<colorMap picture="4" base="254,230,133" line1="255,0,0" line2="254,230,133" line3="254,230,133" />
@@ -58,11 +58,11 @@
 	</contribution>
 	
 	<contribution type="train" id="{D5429C22-40B3-4d36-BCBB-B61968CA3F65}">
-		<company>�����{�S��</company>
-		<type>2000�`</type>
-		<name>�W���F</name>
-		<author>Min����</author>
-		<description>�V�_�喴�c���𑖂�d�ԁB��ɋ}�s�ȂǂɎg�p�����B�����ɉ^�]�䂪����B</description>
+		<company>西日本鉄道</company>
+		<type>2000形</type>
+		<name>標準色</name>
+		<author>Minさん</author>
+		<description>天神大牟田線を走る電車。主に急行などに使用される。中央に運転台がある。</description>
 		<price>1</price>
 		<speed>medium</speed>
 		<composition>

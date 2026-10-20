@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒtƒWƒeƒŒƒr</title>
-	<author>Žü</author>
+	<title>ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“</title>
+	<author>å‘¨</author>
 	<homepage></homepage>
 	
  <contribution type="commercial" id="{AACA403C-56ED-418C-8444-ED4CB868234C}">
-		<name>ƒtƒWƒeƒŒƒr</name>
+		<name>ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“</name>
 		<price>10000000</price>
 		<size>8,2</size>
 		<height>6</height>

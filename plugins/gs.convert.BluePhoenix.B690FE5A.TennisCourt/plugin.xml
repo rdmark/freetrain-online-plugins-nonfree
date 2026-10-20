@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY TennisCourtData '
-	<group>僥僯僗僐乕僩</group>
+	<group>銉嗐儖銈广偝銉笺儓</group>
 	<price>1000000</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -15,50 +15,50 @@
 
 ]>
 <plug-in>
-	<title>寶暔憤崌僐儞僶乕僩丂楾寧極栭</title>
-	<author>傝偍傝偍</author>
+	<title>寤虹墿绶忓悎銈炽兂銉愩兗銉堛��鐙兼湀妤煎</title>
+	<author>銈娿亰銈娿亰</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="BluePhoenix.B690FE5A.TennisCourt" />
 
-	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000a-B690FE5A-楾寧}-gs">
-		<name>僥僯僗僐乕僩</name>
+	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000a-B690FE5A-鐙兼湀}-gs">
+		<name>銉嗐儖銈广偝銉笺儓</name>
 				&TennisCourtData;
 		<structure>
-			<category byname="僥僯僗僐乕僩" />
+			<category byname="銉嗐儖銈广偝銉笺儓" />
 		</structure>
 		<sprite origin="0,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 		<sprite origin="32,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 	</contribution>
 
-	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000c-B690FE5A-楾寧}-gs">
-		<name>僥僯僗僐乕僩</name>
+	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000c-B690FE5A-鐙兼湀}-gs">
+		<name>銉嗐儖銈广偝銉笺儓</name>
 				&TennisCourtData;
 		<structure>
-			<category byname="僥僯僗僐乕僩" />
+			<category byname="銉嗐儖銈广偝銉笺儓" />
 		</structure>
 		<sprite origin="64,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 		<sprite origin="96,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 	</contribution>
 
-	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000e-B690FE5A-楾寧}-gs">
-		<name>僥僯僗僐乕僩</name>
+	<contribution type="GenericStructure" id="{TennisCourt-commercial-C000-000e-B690FE5A-鐙兼湀}-gs">
+		<name>銉嗐儖銈广偝銉笺儓</name>
 				&TennisCourtData;
 		<structure>
-			<category byname="僥僯僗僐乕僩" />
+			<category byname="銉嗐儖銈广偝銉笺儓" />
 		</structure>
 		<sprite origin="128,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 		<sprite origin="160,0" offset="0">
-			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-楾寧}" />
+			<picture ref="{TennisCourt-picture-C000-0000-B690FE5A-鐙兼湀}" />
 		</sprite>
 	</contribution>
 

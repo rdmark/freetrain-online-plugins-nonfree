@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‚½‚¢‚Ó`‚ñ</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ãŸã„ãµï½žã‚“</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.co.infoseek.hp.efa-typoon.built" />
 	
 
 	<contribution type="GenericStructure" id="{TYPHOON-SUPERL-YOKADO-7567171D3CEF}-gs">
-		<group>’´‘åŒ^ƒX[ƒp[</group>
+		<group>è¶…å¤§åž‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</group>
 		<price>30000000</price>
 		<height>3</height>
 		<size>8,8</size>
 		<structure>
-			<category byname="ƒX[ƒp[" />
-			<category byname="ˆê”ÊˆùH“X" hide="true" />
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh" hide="true" />
+			<category byname="ã‚¹ãƒ¼ãƒ‘ãƒ¼" />
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true" />
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰" hide="true" />
 		</structure>
 	<population>
 		<class name="freetrain.contributions.population.CombinationPopulation"/>

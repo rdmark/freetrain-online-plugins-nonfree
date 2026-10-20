@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 
 <plug-in>
 
-<title>公民館</title>
+<title>蜈ｬ豌鷹､ｨ</title>
 
-<author>げんき</author>
+<author>縺偵ｓ縺�</author>
 
 <homepage>http://www19.atwiki.jp/freetrain-exav/pages/1.html</homepage>
 
@@ -14,10 +14,10 @@
 
 <contribution type="GenericStructure" id="{B615E561-5E57-4FCE-8F5C-17DA82C3470C}">
 
-<group>公民館</group>
+<group>蜈ｬ豌鷹､ｨ</group>
 
 <structure>
-  　<category byname="集会所" /> 
+  縲<category byname="髮�莨壽園" /> 
   </structure>
 
 <size>1,1</size>

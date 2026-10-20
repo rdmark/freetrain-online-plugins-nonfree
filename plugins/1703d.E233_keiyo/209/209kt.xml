@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-  <!-- 209�n500�ԑ䋞�l���k���擪�� -->
+  <!-- 209系500番台京浜東北線先頭車 -->
   <contribution type="trainCar" id="{CyberExpress1703d-209-500-KT}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -13,7 +13,7 @@
     <seatedcapacity>43</seatedcapacity>
   </contribution>
 
-  <!-- 209�n500�ԑ䋞�l���k�����Ԏ� -->
+  <!-- 209系500番台京浜東北線中間車 -->
   <contribution type="trainCar" id="{CyberExpress1703d-209-500-KT}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -26,19 +26,19 @@
     <seatedcapacity>54</seatedcapacity>
   </contribution>
 
-  <!-- 209�n500�ԑ䋞�l���k������� -->
+  <!-- 209系500番台京浜東北線後尾車 -->
   <contribution type="trainCar" id="{CyberExpress1703d-209-500-KT}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{CyberExpress1703d-209-500-KT}-h" />
   </contribution>
 
-  <!-- 209�n500�ԑ䋞�l���k�� -->
+  <!-- 209系500番台京浜東北線 -->
   <contribution type="train" id="{CyberExpress1703d-209-500-KT}">
-    <company>JR�����{</company>
-    <type>209�n500�ԑ�</type>
-    <name>���l���k��</name>
-    <author>�������[</author>
-    <description>��{�`��D�Ԃ̋��l���k���𑖂镝�L�ԑ̂�209�n�ł��B</description>
+    <company>JR東日本</company>
+    <type>209系500番台</type>
+    <name>京浜東北線</name>
+    <author>いっちー</author>
+    <description>大宮～大船間の京浜東北線を走る幅広車体の209系です。</description>
     <fare>400</fare>
     <price>25000000</price>
 	<amenity>100</amenity>

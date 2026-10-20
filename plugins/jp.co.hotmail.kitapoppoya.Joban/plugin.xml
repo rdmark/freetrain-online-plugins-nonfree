@@ -1,127 +1,127 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>��փp�b�N</title> 
-  <author>�k�̋D�ԉ�</author> 
+  <title>常磐パック</title> 
+  <author>北の汽車屋</author> 
   <homepage>karlos427@hotmail.com</homepage> 
-<!-- 203�n�擪�� --> 
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 203系先頭車 --> 
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="203_a.bmp" /> 
   </sprite>
     <capacity>136</capacity>
     <seatedcapacity>48</seatedcapacity>
   </contribution>
-<!-- 203�n�Ō���� -->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 203系最後尾車 -->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{69ADC1FD-A7A8-4963-B63C-C66852-203-A}"/> 
   </contribution> 
-<!-- 203�n���Ԏ�-->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 203系中間車-->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="203_b.bmp" /> 
   </sprite>
     <capacity>144</capacity>
     <seatedcapacity>54</seatedcapacity>
   </contribution>
-<!-- 207�n900�擪�� --> 
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 207系900先頭車 --> 
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="207_900_a.bmp" /> 
   </sprite>
     <capacity>136</capacity>
     <seatedcapacity>48</seatedcapacity>
   </contribution>
-<!-- 207�n900�Ō���� -->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 207系900最後尾車 -->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{69ADC1FD-A7A8-4963-B63C-C66-207900-A}"/> 
   </contribution> 
-<!-- 207�n900���Ԏ�-->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 207系900中間車-->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="207_900_b.bmp" /> 
   </sprite>
     <capacity>144</capacity>
     <seatedcapacity>54</seatedcapacity>
   </contribution>
-<!-- 209�n1000�擪�� --> 
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 209系1000先頭車 --> 
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="209_1000_a.bmp" /> 
   </sprite>
     <capacity>136</capacity>
     <seatedcapacity>48</seatedcapacity>
   </contribution>
-<!-- 209�n1000�Ō���� -->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 209系1000最後尾車 -->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{69ADC1FD-A7A8-4963-B63C-C6-2091000-A}"/> 
   </contribution> 
-<!-- 209�n1000���Ԏ�-->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 209系1000中間車-->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="209_1000_b.bmp" /> 
   </sprite>
     <capacity>144</capacity>
     <seatedcapacity>54</seatedcapacity>
   </contribution>
-<!-- E531�n�擪�� --> 
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- E531系先頭車 --> 
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E531_a.bmp" /> 
   </sprite>
     <capacity>137</capacity>
     <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- E531�n�Ō���� -->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E531系最後尾車 -->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{69ADC1FD-A7A8-4963-B63C-C6685-E531-A}"/> 
   </contribution> 
-<!-- E531�n���Ԏ�-->
-�@<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- E531系中間車-->
+　<contribution type="trainCar" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E531_b.bmp" /> 
   </sprite>
     <capacity>162</capacity>
     <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!-- E531G�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- E531G先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E531_a.bmp" /> 
   </sprite>
     <capacity>137</capacity>
     <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- E531G�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E531G最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-E531G-A}" />  
   </contribution> 
-<!--E531G���Ԏ�-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--E531G中間車-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E531_b.bmp" /> 
   </sprite>
     <capacity>162</capacity>
     <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!--E531G�O���[��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-G}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--E531Gグリーン-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E531G-G}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saroE530.bmp" /> 
   </sprite>
   <capacity>90</capacity> 
@@ -129,11 +129,11 @@
   </contribution>
 
   <contribution type="train" id="{69ADC1FD-A7A8-4963-B63C-C66852-203-W}">
-<company>JR�����{</company>
-<type>203�n</type>
-<name>��֊ɍs��</name>
-<author>�k�̋D�ԉ�</author>
-<description>���݂̏�֊ɍs���̎���B201�n���x�[�X�B100�ԑ�ȍ~��205�n�ɏ�������Ԃ𗚂��Ă���B
+<company>JR東日本</company>
+<type>203系</type>
+<name>常磐緩行線</name>
+<author>北の汽車屋</author>
+<description>現在の常磐緩行線の主役。201系がベース。100番代以降は205系に準じた台車を履いている。
 </description>
 <fare>400</fare>
 <price>35000000</price>
@@ -147,11 +147,11 @@
  </composition>
 </contribution>
   <contribution type="train" id="{69ADC1FD-A7A8-4963-B63C-C66-207900-W}">
-<company>JR�����{</company>
-<type>207�n900�ԑ�</type>
-<name>��֊ɍs��</name>
-<author>�k�̋D�ԉ�</author>
-<description>�����S�B���VVVF�C���o�[�^����ԁB205�n���x�[�X�ɂ��Ă��邪�A���܂�ɂ������Ȃ��ߓ����͎����Ґ��݂̂ɂƂǂ܂����B
+<company>JR東日本</company>
+<type>207系900番台</type>
+<name>常磐緩行線</name>
+<author>北の汽車屋</author>
+<description>旧国鉄唯一のVVVFインバータ制御車。205系をベースにしているが、あまりにも高価なため導入は試作一編成のみにとどまった。
 </description>
 <fare>400</fare>
 <price>35000000</price>
@@ -165,11 +165,11 @@
  </composition>
 </contribution>
  <contribution type="train" id="{69ADC1FD-A7A8-4963-B63C-C6-2091000-W}">
-<company>JR�����{</company>
-<type>209�n1000�ԑ�</type>
-<name>��֊ɍs��</name>
-<author>�k�̋D�ԉ�</author>
-<description>�A���͑�����ړI�ɂ��ē�Ґ����������ꂽ�A��֊ɍs���̐V��BE231������ł͂��������̂�209�n���x�[�X�Ƃ��Ă���B
+<company>JR東日本</company>
+<type>209系1000番台</type>
+<name>常磐緩行線</name>
+<author>北の汽車屋</author>
+<description>輸送力増強を目的にして二編成が導入された、常磐緩行線の新顔。E231導入後ではあったものの209系をベースとしている。
 </description>
 <fare>400</fare>
 <price>25000000</price>
@@ -183,11 +183,11 @@
  </composition>
 </contribution>
  <contribution type="train" id="{69ADC1FD-A7A8-4963-B63C-C6685-E531-W}">
-<company>JR�����{</company>
-<type>E531�n</type>
-<name>��։���</name>
-<author>�k�̋D�ԉ�</author>
-<description>2005�N���瓱�����J�n�����A��֐��̐V��BE231�n�̋ߍx�^���x�[�X�Ƃ��A�𒼗���Ԓ��ʁE130km/h���s���\�ɂ���B
+<company>JR東日本</company>
+<type>E531系</type>
+<name>常磐快速</name>
+<author>北の汽車屋</author>
+<description>2005年から導入が開始される、常磐線の新顔。E231系の近郊型をベースとし、交直流区間直通・130km/h走行を可能にする。
 </description>
 <fare>500</fare>
 <price>38000000</price>
@@ -202,11 +202,11 @@
  </composition>
 </contribution>
 <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-E531G}">
-<company>JR�����{</company>
-<type>E531�n(�O���[���ԑg�ݍ��ݕҐ�)</type>
-<name>��։���</name>
-<author>�k�̋D�ԉ�</author>
-<description>TX�̊J�Ƃɑ΍R���A��։�����E531�n�ɂ�W�f�b�J�[�̃O���[���ԑg�ݍ��݂��n�܂����B������͒����̕Ґ��ɏ]���Ă��܂��B
+<company>JR東日本</company>
+<type>E531系(グリーン車組み込み編成)</type>
+<name>常磐快速</name>
+<author>北の汽車屋</author>
+<description>TXの開業に対抗し、常磐快速のE531系にもWデッカーのグリーン車組み込みが始まった。こちらは忠実の編成に従っています。
 </description>
 <fare>550</fare>
 <triprange>middle</triprange>

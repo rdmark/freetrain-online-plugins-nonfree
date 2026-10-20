@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY hc01 '
 	<colorVariation/>
@@ -91,17 +91,17 @@
 	</spriteType>
 '>
 <!ENTITY ha1101 '
-	<name>Œù”z“¹˜H(ˆê”Ê)ˆêŽÔü“¹˜H—p</name>
+	<name>å‹¾é…é“è·¯(ä¸€èˆ¬)ä¸€è»Šç·šé“è·¯ç”¨</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY h1101B '
-	<name>Œù”z“¹˜HB/ˆêŽÔü</name>
+	<name>å‹¾é…é“è·¯B/ä¸€è»Šç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -110,9 +110,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1101C '
-	<name>Œù”z“¹˜HB/ˆêŽÔü/ŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/ä¸€è»Šç·š/è¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -121,17 +121,17 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY ha1201 '
-	<name>Œù”z“¹˜H(ˆê”Ê)“ñŽÔü“¹˜H—p</name>
+	<name>å‹¾é…é“è·¯(ä¸€èˆ¬)äºŒè»Šç·šé“è·¯ç”¨</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<size>1,4</size>
 	<computerCannotBuild/>
 '>
 <!ENTITY h1201B '
-	<name>Œù”z“¹˜HB/“ñŽÔü/”’”jü</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/ç™½ç ´ç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -140,9 +140,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1201C '
-	<name>Œù”z“¹˜HB/“ñŽÔü/”’”jŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/ç™½ç ´è¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -151,9 +151,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1202B '
-	<name>Œù”z“¹˜HB/“ñŽÔü/”’ŽÀü</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/ç™½å®Ÿç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -162,9 +162,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1202C '
-	<name>Œù”z“¹˜HB/“ñŽÔü/”’ŽÀŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/ç™½å®Ÿè¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -173,9 +173,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1203B '
-	<name>Œù”z“¹˜HB/“ñŽÔü/žòŽÀü</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/æ©™å®Ÿç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -184,9 +184,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1203C '
-	<name>Œù”z“¹˜HB/“ñŽÔü/žòŽÀŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/äºŒè»Šç·š/æ©™å®Ÿè¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -195,9 +195,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1301A '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’”jü</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½ç ´ç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -206,9 +206,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1301B '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’ŽÀü</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½å®Ÿç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -217,9 +217,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1301C '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’ŽÀ”jü</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½å®Ÿç ´ç·š</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -228,9 +228,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1301D '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/•ª‡—¬</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/åˆ†åˆæµ</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>1</height>
 	<size>1,1</size>
@@ -239,9 +239,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1311A '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’”jŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½ç ´è¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -250,9 +250,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1311B '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’ŽÀŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½å®Ÿè¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -261,9 +261,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1311C '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/”’ŽÀ”jŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/ç™½å®Ÿç ´è¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -272,9 +272,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1311D '
-	<name>Œù”z“¹˜HB/ŽOŽÔü/•ª‡—¬ŠX“”•t</name>
+	<name>å‹¾é…é“è·¯B/ä¸‰è»Šç·š/åˆ†åˆæµè¡—ç¯ä»˜</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<height>2</height>
 	<size>1,1</size>
@@ -283,26 +283,26 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY ha2101 '
-	<name>Œù”z“¹˜H(‚‘¬)ˆêŽÔü“¹˜H—p</name>
+	<name>å‹¾é…é“è·¯(é«˜é€Ÿ)ä¸€è»Šç·šé“è·¯ç”¨</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<size>1,4</size>
 	<height>2</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY ha2201 '
-	<name>Œù”z“¹˜H(‚‘¬)“ñŽÔü“¹˜H—p</name>
+	<name>å‹¾é…é“è·¯(é«˜é€Ÿ)äºŒè»Šç·šé“è·¯ç”¨</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<size>1,4</size>
 	<computerCannotBuild/>
 '>
 <!ENTITY ha2301 '
-	<name>Œù”z“¹˜H(‚‘¬)ŽOŽÔü“¹˜H—p</name>
+	<name>å‹¾é…é“è·¯(é«˜é€Ÿ)ä¸‰è»Šç·šé“è·¯ç”¨</name>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<price>20000000</price>
 	<size>2,4</size>
@@ -310,9 +310,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY ha5001 '
-	<name>—¿‹àŠ</name>
+	<name>æ–™é‡‘æ‰€</name>
 	<structure>
-		<category byname="—¿‹àŠ"/>
+		<category byname="æ–™é‡‘æ‰€"/>
 	</structure>
 	<height>1</height>
 	<computerCannotBuild/>
@@ -320,12 +320,12 @@
 ]>
 
 <plug-in>
-	<title>FreeTrainExAVer—pŒš•¨‘‡(“¹˜H)</title>
+	<title>FreeTrainExAVerç”¨å»ºç‰©ç·åˆ(é“è·¯)</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>
 
 
-<!-- Œù”z“¹˜H(ˆê”Ê)ˆêŽÔü—p -->
+<!-- å‹¾é…é“è·¯(ä¸€èˆ¬)ä¸€è»Šç·šç”¨ -->
 	<contribution type="picture" id="{HEUER-1001-SR-PICTURE-1101}">
 		<picture src="1101.bmp">
 		</picture>
@@ -338,7 +338,7 @@
 		&ha1101;
 		<price>2500000</price>
 		<size>1,4</size>
-		<design>—’dF/–³“”</design>
+		<design>é››å£‡è‰²/ç„¡ç¯</design>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1101}"/>
 		</sprite>
@@ -356,7 +356,7 @@
 		&ha1101;
 		<price>2000000</price>
 		<size>1,3</size>
-		<design>—’dF/–³“”/‹}Œù”z—p</design>
+		<design>é››å£‡è‰²/ç„¡ç¯/æ€¥å‹¾é…ç”¨</design>
 		<sprite origin="0,0" offset="32">
 			<picture ref="{HEUER-1001-SR-PICTURE-1102}"/>
 		</sprite>
@@ -371,13 +371,13 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/ˆêŽÔü -->
+<!-- å‹¾é…é“è·¯B/ä¸€è»Šç·š -->
 	<contribution type="picture" id="{HEUER-1001-SRB-PICTURE-1101}">
 		<picture src="1100.bmp">
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1101}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1101B;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -399,7 +399,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1102}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1101B;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -421,7 +421,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1103}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1101B;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -443,7 +443,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1111}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1101B;
 		<sprite origin="192,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -459,7 +459,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1112}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1101B;
 		<sprite origin="192,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -475,7 +475,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1113}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1101B;
 		<sprite origin="192,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -491,7 +491,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1121}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1101B;
 		<sprite origin="320,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -510,7 +510,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1122}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1101B;
 		<sprite origin="320,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -529,7 +529,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1123}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1101B;
 		<sprite origin="320,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -548,7 +548,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1131}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1101B;
 		<sprite origin="480,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -564,7 +564,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1132}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1101B;
 		<sprite origin="480,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -580,7 +580,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1133}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1101B;
 		<sprite origin="480,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -596,7 +596,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1134}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1101B;
 		<sprite origin="480,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -612,7 +612,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1141}">
-		<design>Œù”z0-2</design>
+		<design>å‹¾é…0-2</design>
 		&h1101B;
 		<sprite origin="608,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -628,7 +628,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1142}">
-		<design>Œù”z1-3</design>
+		<design>å‹¾é…1-3</design>
 		&h1101B;
 		<sprite origin="608,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -644,7 +644,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1143}">
-		<design>Œù”z2-4</design>
+		<design>å‹¾é…2-4</design>
 		&h1101B;
 		<sprite origin="608,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1101}"/>
@@ -660,14 +660,14 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/ˆêŽÔü/ŠX“”•t -->
+<!-- å‹¾é…é“è·¯B/ä¸€è»Šç·š/è¡—ç¯ä»˜ -->
 	<contribution type="picture" id="{HEUER-1001-SRB-PICTURE-1102}">
 		<picture src="1100l.bmp">
 			<override when="night" src="1100ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1101l}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1101C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -683,7 +683,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1102l}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1101C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -699,7 +699,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1103l}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1101C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -715,7 +715,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1111l}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1101C;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -731,7 +731,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1112l}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1101C;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -747,7 +747,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1113l}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1101C;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -763,7 +763,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1121l}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1101C;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -782,7 +782,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1122l}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1101C;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -801,7 +801,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1123l}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1101C;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -820,7 +820,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1131l}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1101C;
 		<sprite origin="416,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -848,7 +848,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1132l}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1101C;
 		<sprite origin="416,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -876,7 +876,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1133l}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1101C;
 		<sprite origin="416,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -904,7 +904,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1134l}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1101C;
 		<sprite origin="416,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -932,7 +932,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1141l}">
-		<design>Œù”z0-2</design>
+		<design>å‹¾é…0-2</design>
 		&h1101C;
 		<sprite origin="672,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -960,7 +960,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1142l}">
-		<design>Œù”z1-3</design>
+		<design>å‹¾é…1-3</design>
 		&h1101C;
 		<sprite origin="672,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -988,7 +988,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1143l}">
-		<design>Œù”z2-4</design>
+		<design>å‹¾é…2-4</design>
 		&h1101C;
 		<sprite origin="672,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1102}"/>
@@ -1016,7 +1016,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜H(ˆê”Ê)“ñŽÔü—p -->
+<!-- å‹¾é…é“è·¯(ä¸€èˆ¬)äºŒè»Šç·šç”¨ -->
 	<contribution type="picture" id="{HEUER-1001-SR-PICTURE-1201}">
 		<picture src="1201.bmp">
 		</picture>
@@ -1062,7 +1062,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1204}">
 		&ha1201;
 		<price>3000000</price>
-		<design>”’”jü/ŽÅ/–³“”</design>
+		<design>ç™½ç ´ç·š/èŠ/ç„¡ç¯</design>
 		<height>1</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1204}"/>
@@ -1080,7 +1080,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1202}">
 		&ha1201;
 		<price>5000000</price>
-		<design>”’”jü/—’dF/–³“”</design>
+		<design>ç™½ç ´ç·š/é››å£‡è‰²/ç„¡ç¯</design>
 		<height>1</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1202}"/>
@@ -1098,7 +1098,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1202B}">
 		&ha1201;
 		<price>6000000</price>
-		<design>”’”jü/—’dF/ŠX“”(‰E)</design>
+		<design>ç™½ç ´ç·š/é››å£‡è‰²/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1202A}"/>
@@ -1116,7 +1116,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1202A}">
 		&ha1201;
 		<price>6000000</price>
-		<design>”’”jü/—’dF/ŠX“”(¶)</design>
+		<design>ç™½ç ´ç·š/é››å£‡è‰²/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1202A}"/>
@@ -1134,7 +1134,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1202D}">
 		&ha1201;
 		<price>7000000</price>
-		<design>”’”jü/ºÝ¸Ø°Ä/ŠX“”(‰E)</design>
+		<design>ç™½ç ´ç·š/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1202B}"/>
@@ -1152,7 +1152,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1202C}">
 		&ha1201;
 		<price>7000000</price>
-		<design>”’”jü/ºÝ¸Ø°Ä/ŠX“”(¶)</design>
+		<design>ç™½ç ´ç·š/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1202B}"/>
@@ -1170,7 +1170,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1203}">
 		&ha1201;
 		<price>3000000</price>
-		<design>žòŽÀü/ŽÅ/–³“”</design>
+		<design>æ©™å®Ÿç·š/èŠ/ç„¡ç¯</design>
 		<height>1</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1203}"/>
@@ -1188,7 +1188,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1201}">
 		&ha1201;
 		<price>5000000</price>
-		<design>žòŽÀü/—’dF/–³“”</design>
+		<design>æ©™å®Ÿç·š/é››å£‡è‰²/ç„¡ç¯</design>
 		<height>1</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1201}"/>
@@ -1206,7 +1206,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1201B}">
 		&ha1201;
 		<price>6000000</price>
-		<design>žòŽÀü/—’dF/ŠX“”(‰E)</design>
+		<design>æ©™å®Ÿç·š/é››å£‡è‰²/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1201A}"/>
@@ -1224,7 +1224,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1201A}">
 		&ha1201;
 		<price>6000000</price>
-		<design>žòŽÀü/—’dF/ŠX“”(¶)</design>
+		<design>æ©™å®Ÿç·š/é››å£‡è‰²/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1201A}"/>
@@ -1242,7 +1242,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1201D}">
 		&ha1201;
 		<price>7000000</price>
-		<design>žòŽÀü/ºÝ¸Ø°Ä/ŠX“”(‰E)</design>
+		<design>æ©™å®Ÿç·š/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1201B}"/>
@@ -1260,7 +1260,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-1201C}">
 		&ha1201;
 		<price>7000000</price>
-		<design>žòŽÀü/ºÝ¸Ø°Ä/ŠX“”(¶)</design>
+		<design>æ©™å®Ÿç·š/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-1201B}"/>
@@ -1276,7 +1276,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/“ñŽÔü -->
+<!-- å‹¾é…é“è·¯B/äºŒè»Šç·š -->
 	<contribution type="picture" id="{HEUER-1001-SRB-PICTURE-1201}">
 		<picture src="1200.bmp">
 		</picture>
@@ -1290,7 +1290,7 @@
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1201}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1201B;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1300,7 +1300,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1202}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1201B;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1310,7 +1310,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1203}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1201B;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1320,7 +1320,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1211}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1201B;
 		<sprite origin="64,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1336,7 +1336,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1212}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1201B;
 		<sprite origin="64,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1352,7 +1352,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1213}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1201B;
 		<sprite origin="64,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1368,7 +1368,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1221}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1201B;
 		<sprite origin="192,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1387,7 +1387,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1222}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1201B;
 		<sprite origin="192,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1406,7 +1406,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1223}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1201B;
 		<sprite origin="192,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1425,7 +1425,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1231}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1201B;
 		<sprite origin="352,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1441,7 +1441,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1232}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1201B;
 		<sprite origin="352,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1457,7 +1457,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1233}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1201B;
 		<sprite origin="352,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1473,7 +1473,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1234}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1201B;
 		<sprite origin="352,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201}"/>
@@ -1489,7 +1489,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1301}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1202B;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1499,7 +1499,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1302}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1202B;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1509,7 +1509,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1303}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1202B;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1519,7 +1519,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1311}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1202B;
 		<sprite origin="64,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1535,7 +1535,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1312}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1202B;
 		<sprite origin="64,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1551,7 +1551,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1313}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1202B;
 		<sprite origin="64,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1567,7 +1567,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1321}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1202B;
 		<sprite origin="192,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1586,7 +1586,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1322}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1202B;
 		<sprite origin="192,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1605,7 +1605,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1323}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1202B;
 		<sprite origin="192,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1624,7 +1624,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1331}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1202B;
 		<sprite origin="352,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1640,7 +1640,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1332}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1202B;
 		<sprite origin="352,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1656,7 +1656,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1333}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1202B;
 		<sprite origin="352,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1672,7 +1672,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1334}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1202B;
 		<sprite origin="352,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202}"/>
@@ -1688,7 +1688,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1401}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1203B;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1698,7 +1698,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1402}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1203B;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1708,7 +1708,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1403}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1203B;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1718,7 +1718,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1411}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1203B;
 		<sprite origin="64,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1734,7 +1734,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1412}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1203B;
 		<sprite origin="64,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1750,7 +1750,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1413}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1203B;
 		<sprite origin="64,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1766,7 +1766,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1421}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1203B;
 		<sprite origin="192,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1785,7 +1785,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1422}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1203B;
 		<sprite origin="192,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1804,7 +1804,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1423}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1203B;
 		<sprite origin="192,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1823,7 +1823,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1431}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1203B;
 		<sprite origin="352,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1839,7 +1839,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1432}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1203B;
 		<sprite origin="352,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1855,7 +1855,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1433}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1203B;
 		<sprite origin="352,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1871,7 +1871,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1434}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1203B;
 		<sprite origin="352,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203}"/>
@@ -1887,7 +1887,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/“ñŽÔü/ŠX“”•t -->
+<!-- å‹¾é…é“è·¯B/äºŒè»Šç·š/è¡—ç¯ä»˜ -->
 	<contribution type="picture" id="{HEUER-1001-SRB-PICTURE-1201l}">
 		<picture src="1200l.bmp">
 			<override when="night" src="1200ln.bmp"/>
@@ -1904,7 +1904,7 @@
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1201l}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1201C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -1920,7 +1920,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1202l}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1201C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -1936,7 +1936,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1203l}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1201C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -1952,7 +1952,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1211l}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1201C;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -1980,7 +1980,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1212l}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1201C;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2008,7 +2008,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1213l}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1201C;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2036,7 +2036,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1221l}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1201C;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2070,7 +2070,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1222l}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1201C;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2104,7 +2104,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1223l}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1201C;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2138,7 +2138,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1231l}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1201C;
 		<sprite origin="416,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2166,7 +2166,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1232l}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1201C;
 		<sprite origin="416,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2194,7 +2194,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1233l}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1201C;
 		<sprite origin="416,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2222,7 +2222,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1234l}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1201C;
 		<sprite origin="416,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1201l}"/>
@@ -2250,7 +2250,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1301l}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1202C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2266,7 +2266,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1302l}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1202C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2282,7 +2282,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1303l}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1202C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2298,7 +2298,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1311l}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1202C;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2326,7 +2326,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1312l}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1202C;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2354,7 +2354,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1313l}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1202C;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2382,7 +2382,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1321l}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1202C;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2416,7 +2416,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1322l}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1202C;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2450,7 +2450,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1323l}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1202C;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2484,7 +2484,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1331l}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1202C;
 		<sprite origin="416,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2512,7 +2512,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1332l}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1202C;
 		<sprite origin="416,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2540,7 +2540,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1333l}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1202C;
 		<sprite origin="416,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2568,7 +2568,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1334l}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1202C;
 		<sprite origin="416,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1202l}"/>
@@ -2596,7 +2596,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1401l}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1203C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2612,7 +2612,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1402l}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1203C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2628,7 +2628,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1403l}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1203C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2644,7 +2644,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1411l}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1203C;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2672,7 +2672,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1412l}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1203C;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2700,7 +2700,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1413l}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1203C;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2728,7 +2728,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1421l}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1203C;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2762,7 +2762,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1422l}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1203C;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2796,7 +2796,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1423l}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1203C;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2830,7 +2830,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1431l}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1203C;
 		<sprite origin="416,0" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2858,7 +2858,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1432l}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1203C;
 		<sprite origin="416,4" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2886,7 +2886,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1433l}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1203C;
 		<sprite origin="416,8" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2914,7 +2914,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SRB-STRUCTURE-1434l}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1203C;
 		<sprite origin="416,12" offset="16">
 			<picture ref="{HEUER-1001-SRB-PICTURE-1203l}"/>
@@ -2942,7 +2942,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/ŽOŽÔü -->
+<!-- å‹¾é…é“è·¯B/ä¸‰è»Šç·š -->
 	<contribution type="picture" id="{HEUER-SRB-P1300}">
 		<picture src="1300.bmp">
 		</picture>
@@ -2956,7 +2956,7 @@
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301A}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1301A;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -2966,7 +2966,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302A}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1301A;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -2976,7 +2976,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303A}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1301A;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -2986,7 +2986,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311A}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1301A;
 		<sprite origin="64,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3002,7 +3002,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312A}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1301A;
 		<sprite origin="64,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3018,7 +3018,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313A}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1301A;
 		<sprite origin="64,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3034,7 +3034,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321A}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1301A;
 		<sprite origin="192,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3053,7 +3053,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322A}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1301A;
 		<sprite origin="192,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3072,7 +3072,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323A}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1301A;
 		<sprite origin="192,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3091,7 +3091,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331A}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1301A;
 		<sprite origin="352,0" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3107,7 +3107,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332A}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1301A;
 		<sprite origin="352,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3123,7 +3123,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333A}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1301A;
 		<sprite origin="352,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3139,7 +3139,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334A}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1301A;
 		<sprite origin="352,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3155,7 +3155,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301B}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1301B;
 		<sprite origin="480,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3165,7 +3165,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302B}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1301B;
 		<sprite origin="480,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3175,7 +3175,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303B}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1301B;
 		<sprite origin="480,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3185,7 +3185,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311B}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1301B;
 		<sprite origin="544,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3201,7 +3201,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312B}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1301B;
 		<sprite origin="544,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3217,7 +3217,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313B}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1301B;
 		<sprite origin="544,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3233,7 +3233,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321B}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1301B;
 		<sprite origin="672,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3252,7 +3252,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322B}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1301B;
 		<sprite origin="672,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3271,7 +3271,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323B}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1301B;
 		<sprite origin="672,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3290,7 +3290,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331B}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1301B;
 		<sprite origin="832,0" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3306,7 +3306,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332B}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1301B;
 		<sprite origin="832,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3322,7 +3322,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333B}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1301B;
 		<sprite origin="832,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3338,7 +3338,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334B}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1301B;
 		<sprite origin="832,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300}"/>
@@ -3354,7 +3354,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301C}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1301C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3370,7 +3370,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302C}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1301C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3386,7 +3386,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303C}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1301C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3402,7 +3402,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311C}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1301C;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3430,7 +3430,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312C}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1301C;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3458,7 +3458,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313C}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1301C;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3486,7 +3486,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321C}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1301C;
 		<sprite origin="384,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3520,7 +3520,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322C}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1301C;
 		<sprite origin="384,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3554,7 +3554,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323C}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1301C;
 		<sprite origin="384,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3588,7 +3588,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331C}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1301C;
 		<sprite origin="704,0" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3616,7 +3616,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332C}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1301C;
 		<sprite origin="704,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3644,7 +3644,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333C}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1301C;
 		<sprite origin="704,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3672,7 +3672,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334C}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1301C;
 		<sprite origin="704,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310}"/>
@@ -3700,7 +3700,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301D}">
-		<design>…•½a1-1</design>
+		<design>æ°´å¹³a1-1</design>
 		&h1301D;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3716,7 +3716,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302D}">
-		<design>…•½a2-2</design>
+		<design>æ°´å¹³a2-2</design>
 		&h1301D;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3732,7 +3732,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303D}">
-		<design>…•½a3-3</design>
+		<design>æ°´å¹³a3-3</design>
 		&h1301D;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3748,7 +3748,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1304D}">
-		<design>…•½b1-1</design>
+		<design>æ°´å¹³b1-1</design>
 		&h1301D;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3764,7 +3764,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1305D}">
-		<design>…•½b2-2</design>
+		<design>æ°´å¹³b2-2</design>
 		&h1301D;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3780,7 +3780,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1306D}">
-		<design>…•½b3-3</design>
+		<design>æ°´å¹³b3-3</design>
 		&h1301D;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3796,7 +3796,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1307D}">
-		<design>…•½c1-1</design>
+		<design>æ°´å¹³c1-1</design>
 		&h1301D;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3812,7 +3812,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1308D}">
-		<design>…•½c2-2</design>
+		<design>æ°´å¹³c2-2</design>
 		&h1301D;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3828,7 +3828,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1309D}">
-		<design>…•½c3-3</design>
+		<design>æ°´å¹³c3-3</design>
 		&h1301D;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3844,7 +3844,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1310D}">
-		<design>…•½d1-1</design>
+		<design>æ°´å¹³d1-1</design>
 		&h1301D;
 		<sprite origin="384,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3860,7 +3860,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311D}">
-		<design>…•½d2-2</design>
+		<design>æ°´å¹³d2-2</design>
 		&h1301D;
 		<sprite origin="384,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3876,7 +3876,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312D}">
-		<design>…•½d3-3</design>
+		<design>æ°´å¹³d3-3</design>
 		&h1301D;
 		<sprite origin="384,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3892,7 +3892,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331D}">
-		<design>Œù”za0-1</design>
+		<design>å‹¾é…a0-1</design>
 		&h1301D;
 		<sprite origin="512,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3908,7 +3908,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332D}">
-		<design>Œù”za1-2</design>
+		<design>å‹¾é…a1-2</design>
 		&h1301D;
 		<sprite origin="512,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3924,7 +3924,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333D}">
-		<design>Œù”za2-3</design>
+		<design>å‹¾é…a2-3</design>
 		&h1301D;
 		<sprite origin="512,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3940,7 +3940,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334D}">
-		<design>Œù”za3-4</design>
+		<design>å‹¾é…a3-4</design>
 		&h1301D;
 		<sprite origin="512,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3956,7 +3956,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1335D}">
-		<design>Œù”zb0-1</design>
+		<design>å‹¾é…b0-1</design>
 		&h1301D;
 		<sprite origin="640,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3972,7 +3972,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1336D}">
-		<design>Œù”zb1-2</design>
+		<design>å‹¾é…b1-2</design>
 		&h1301D;
 		<sprite origin="640,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -3988,7 +3988,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1337D}">
-		<design>Œù”zb2-3</design>
+		<design>å‹¾é…b2-3</design>
 		&h1301D;
 		<sprite origin="640,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4004,7 +4004,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1338D}">
-		<design>Œù”zb3-4</design>
+		<design>å‹¾é…b3-4</design>
 		&h1301D;
 		<sprite origin="640,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4020,7 +4020,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1339D}">
-		<design>Œù”zc0-1</design>
+		<design>å‹¾é…c0-1</design>
 		&h1301D;
 		<sprite origin="768,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4036,7 +4036,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1340D}">
-		<design>Œù”zc1-2</design>
+		<design>å‹¾é…c1-2</design>
 		&h1301D;
 		<sprite origin="768,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4052,7 +4052,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1341D}">
-		<design>Œù”zc2-3</design>
+		<design>å‹¾é…c2-3</design>
 		&h1301D;
 		<sprite origin="768,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4068,7 +4068,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1342D}">
-		<design>Œù”zc3-4</design>
+		<design>å‹¾é…c3-4</design>
 		&h1301D;
 		<sprite origin="768,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4084,7 +4084,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1343D}">
-		<design>Œù”zd0-1</design>
+		<design>å‹¾é…d0-1</design>
 		&h1301D;
 		<sprite origin="896,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4100,7 +4100,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1344D}">
-		<design>Œù”zd1-2</design>
+		<design>å‹¾é…d1-2</design>
 		&h1301D;
 		<sprite origin="896,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4116,7 +4116,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1345D}">
-		<design>Œù”zd2-3</design>
+		<design>å‹¾é…d2-3</design>
 		&h1301D;
 		<sprite origin="896,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4132,7 +4132,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1346D}">
-		<design>Œù”zd3-4</design>
+		<design>å‹¾é…d3-4</design>
 		&h1301D;
 		<sprite origin="896,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4148,7 +4148,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1347D}">
-		<design>Œù”ze0-1</design>
+		<design>å‹¾é…e0-1</design>
 		&h1301D;
 		<sprite origin="1024,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4164,7 +4164,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1348D}">
-		<design>Œù”ze1-2</design>
+		<design>å‹¾é…e1-2</design>
 		&h1301D;
 		<sprite origin="1024,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4180,7 +4180,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1349D}">
-		<design>Œù”ze2-3</design>
+		<design>å‹¾é…e2-3</design>
 		&h1301D;
 		<sprite origin="1024,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4196,7 +4196,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1350D}">
-		<design>Œù”ze3-4</design>
+		<design>å‹¾é…e3-4</design>
 		&h1301D;
 		<sprite origin="1024,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4212,7 +4212,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1351D}">
-		<design>Œù”zf0-1</design>
+		<design>å‹¾é…f0-1</design>
 		&h1301D;
 		<sprite origin="1152,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4228,7 +4228,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1352D}">
-		<design>Œù”zf1-2</design>
+		<design>å‹¾é…f1-2</design>
 		&h1301D;
 		<sprite origin="1152,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4244,7 +4244,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1353D}">
-		<design>Œù”zf2-3</design>
+		<design>å‹¾é…f2-3</design>
 		&h1301D;
 		<sprite origin="1152,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4260,7 +4260,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1354D}">
-		<design>Œù”zf3-4</design>
+		<design>å‹¾é…f3-4</design>
 		&h1301D;
 		<sprite origin="1152,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4276,7 +4276,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1355D}">
-		<design>Œù”zg0-1</design>
+		<design>å‹¾é…g0-1</design>
 		&h1301D;
 		<sprite origin="1280,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4292,7 +4292,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1356D}">
-		<design>Œù”zg1-2</design>
+		<design>å‹¾é…g1-2</design>
 		&h1301D;
 		<sprite origin="1280,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4308,7 +4308,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1357D}">
-		<design>Œù”zg2-3</design>
+		<design>å‹¾é…g2-3</design>
 		&h1301D;
 		<sprite origin="1280,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4324,7 +4324,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1358D}">
-		<design>Œù”zg3-4</design>
+		<design>å‹¾é…g3-4</design>
 		&h1301D;
 		<sprite origin="1280,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4340,7 +4340,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1359D}">
-		<design>Œù”zh0-1</design>
+		<design>å‹¾é…h0-1</design>
 		&h1301D;
 		<sprite origin="1408,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4356,7 +4356,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1360D}">
-		<design>Œù”zh1-2</design>
+		<design>å‹¾é…h1-2</design>
 		&h1301D;
 		<sprite origin="1408,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4372,7 +4372,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1361D}">
-		<design>Œù”zh2-3</design>
+		<design>å‹¾é…h2-3</design>
 		&h1301D;
 		<sprite origin="1408,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4388,7 +4388,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1362D}">
-		<design>Œù”zh3-4</design>
+		<design>å‹¾é…h3-4</design>
 		&h1301D;
 		<sprite origin="1408,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320}"/>
@@ -4404,7 +4404,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜HB/ŽOŽÔü/ŠX“”•t -->
+<!-- å‹¾é…é“è·¯B/ä¸‰è»Šç·š/è¡—ç¯ä»˜ -->
 	<contribution type="picture" id="{HEUER-SRB-P1300L}">
 		<picture src="1300l.bmp">
 			<override when="night" src="1300ln.bmp"/>
@@ -4421,7 +4421,7 @@
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301AL}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1311A;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4437,7 +4437,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302AL}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1311A;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4453,7 +4453,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303AL}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1311A;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4469,7 +4469,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311AL}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1311A;
 		<sprite origin="128,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4497,7 +4497,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312AL}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1311A;
 		<sprite origin="128,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4525,7 +4525,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313AL}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1311A;
 		<sprite origin="128,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4553,7 +4553,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321AL}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1311A;
 		<sprite origin="384,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4587,7 +4587,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322AL}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1311A;
 		<sprite origin="384,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4621,7 +4621,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323AL}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1311A;
 		<sprite origin="384,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4655,7 +4655,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331AL}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1311A;
 		<sprite origin="704,0" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4683,7 +4683,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332AL}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1311A;
 		<sprite origin="704,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4711,7 +4711,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333AL}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1311A;
 		<sprite origin="704,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4739,7 +4739,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334AL}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1311A;
 		<sprite origin="704,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4767,7 +4767,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301BL}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1311B;
 		<sprite origin="960,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4783,7 +4783,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302BL}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1311B;
 		<sprite origin="960,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4799,7 +4799,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303BL}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1311B;
 		<sprite origin="960,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4815,7 +4815,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311BL}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1311B;
 		<sprite origin="1088,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4843,7 +4843,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312BL}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1311B;
 		<sprite origin="1088,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4871,7 +4871,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313BL}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1311B;
 		<sprite origin="1088,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4899,7 +4899,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321BL}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1311B;
 		<sprite origin="1344,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4933,7 +4933,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322BL}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1311B;
 		<sprite origin="1344,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -4967,7 +4967,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323BL}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1311B;
 		<sprite origin="1344,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -5001,7 +5001,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331BL}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1311B;
 		<sprite origin="1664,0" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -5029,7 +5029,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332BL}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1311B;
 		<sprite origin="1664,4" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -5057,7 +5057,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333BL}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1311B;
 		<sprite origin="1664,8" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -5085,7 +5085,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334BL}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1311B;
 		<sprite origin="1664,12" offset="16">
 			<picture ref="{HEUER-SRB-P1300L}"/>
@@ -5113,7 +5113,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301CL}">
-		<design>’¼ü1-1</design>
+		<design>ç›´ç·š1-1</design>
 		&h1311C;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5141,7 +5141,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302CL}">
-		<design>’¼ü2-2</design>
+		<design>ç›´ç·š2-2</design>
 		&h1311C;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5169,7 +5169,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303CL}">
-		<design>’¼ü3-3</design>
+		<design>ç›´ç·š3-3</design>
 		&h1311C;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5197,7 +5197,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311CL}">
-		<design>‹È•”1-1</design>
+		<design>æ›²éƒ¨1-1</design>
 		&h1311C;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5249,7 +5249,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312CL}">
-		<design>‹È•”2-2</design>
+		<design>æ›²éƒ¨2-2</design>
 		&h1311C;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5301,7 +5301,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1313CL}">
-		<design>‹È•”3-3</design>
+		<design>æ›²éƒ¨3-3</design>
 		&h1311C;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5353,7 +5353,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1321CL}">
-		<design>Œð·1-1</design>
+		<design>äº¤å·®1-1</design>
 		&h1311C;
 		<sprite origin="768,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5417,7 +5417,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1322CL}">
-		<design>Œð·2-2</design>
+		<design>äº¤å·®2-2</design>
 		&h1311C;
 		<sprite origin="768,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5481,7 +5481,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1323CL}">
-		<design>Œð·3-3</design>
+		<design>äº¤å·®3-3</design>
 		&h1311C;
 		<sprite origin="768,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5545,7 +5545,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331CL}">
-		<design>Œù”z0-1</design>
+		<design>å‹¾é…0-1</design>
 		&h1311C;
 		<sprite origin="1408,0" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5597,7 +5597,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332CL}">
-		<design>Œù”z1-2</design>
+		<design>å‹¾é…1-2</design>
 		&h1311C;
 		<sprite origin="1408,4" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5649,7 +5649,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333CL}">
-		<design>Œù”z2-3</design>
+		<design>å‹¾é…2-3</design>
 		&h1311C;
 		<sprite origin="1408,8" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5701,7 +5701,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334CL}">
-		<design>Œù”z3-4</design>
+		<design>å‹¾é…3-4</design>
 		&h1311C;
 		<sprite origin="1408,12" offset="16">
 			<picture ref="{HEUER-SRB-P1310L}"/>
@@ -5753,7 +5753,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1301DL}">
-		<design>…•½a1-1</design>
+		<design>æ°´å¹³a1-1</design>
 		&h1311D;
 		<sprite origin="0,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5781,7 +5781,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1302DL}">
-		<design>…•½a2-2</design>
+		<design>æ°´å¹³a2-2</design>
 		&h1311D;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5809,7 +5809,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1303DL}">
-		<design>…•½a3-3</design>
+		<design>æ°´å¹³a3-3</design>
 		&h1311D;
 		<sprite origin="0,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5837,7 +5837,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1304DL}">
-		<design>…•½b1-1</design>
+		<design>æ°´å¹³b1-1</design>
 		&h1311D;
 		<sprite origin="256,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5865,7 +5865,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1305DL}">
-		<design>…•½b2-2</design>
+		<design>æ°´å¹³b2-2</design>
 		&h1311D;
 		<sprite origin="256,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5893,7 +5893,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1306DL}">
-		<design>…•½b3-3</design>
+		<design>æ°´å¹³b3-3</design>
 		&h1311D;
 		<sprite origin="256,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5921,7 +5921,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1307DL}">
-		<design>…•½c1-1</design>
+		<design>æ°´å¹³c1-1</design>
 		&h1311D;
 		<sprite origin="512,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5949,7 +5949,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1308DL}">
-		<design>…•½c2-2</design>
+		<design>æ°´å¹³c2-2</design>
 		&h1311D;
 		<sprite origin="512,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -5977,7 +5977,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1309DL}">
-		<design>…•½c3-3</design>
+		<design>æ°´å¹³c3-3</design>
 		&h1311D;
 		<sprite origin="512,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6005,7 +6005,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1310DL}">
-		<design>…•½d1-1</design>
+		<design>æ°´å¹³d1-1</design>
 		&h1311D;
 		<sprite origin="768,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6033,7 +6033,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1311DL}">
-		<design>…•½d2-2</design>
+		<design>æ°´å¹³d2-2</design>
 		&h1311D;
 		<sprite origin="768,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6061,7 +6061,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1312DL}">
-		<design>…•½d3-3</design>
+		<design>æ°´å¹³d3-3</design>
 		&h1311D;
 		<sprite origin="768,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6089,7 +6089,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1331DL}">
-		<design>Œù”za0-1</design>
+		<design>å‹¾é…a0-1</design>
 		&h1311D;
 		<sprite origin="1024,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6117,7 +6117,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1332DL}">
-		<design>Œù”za1-2</design>
+		<design>å‹¾é…a1-2</design>
 		&h1311D;
 		<sprite origin="1024,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6145,7 +6145,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1333DL}">
-		<design>Œù”za2-3</design>
+		<design>å‹¾é…a2-3</design>
 		&h1311D;
 		<sprite origin="1024,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6173,7 +6173,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1334DL}">
-		<design>Œù”za3-4</design>
+		<design>å‹¾é…a3-4</design>
 		&h1311D;
 		<sprite origin="1024,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6201,7 +6201,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1335DL}">
-		<design>Œù”zb0-1</design>
+		<design>å‹¾é…b0-1</design>
 		&h1311D;
 		<sprite origin="1280,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6229,7 +6229,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1336DL}">
-		<design>Œù”zb1-2</design>
+		<design>å‹¾é…b1-2</design>
 		&h1311D;
 		<sprite origin="1280,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6257,7 +6257,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1337DL}">
-		<design>Œù”zb2-3</design>
+		<design>å‹¾é…b2-3</design>
 		&h1311D;
 		<sprite origin="1280,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6285,7 +6285,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1338DL}">
-		<design>Œù”zb3-4</design>
+		<design>å‹¾é…b3-4</design>
 		&h1311D;
 		<sprite origin="1280,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6313,7 +6313,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1339DL}">
-		<design>Œù”zc0-1</design>
+		<design>å‹¾é…c0-1</design>
 		&h1311D;
 		<sprite origin="1536,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6341,7 +6341,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1340DL}">
-		<design>Œù”zc1-2</design>
+		<design>å‹¾é…c1-2</design>
 		&h1311D;
 		<sprite origin="1536,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6369,7 +6369,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1341DL}">
-		<design>Œù”zc2-3</design>
+		<design>å‹¾é…c2-3</design>
 		&h1311D;
 		<sprite origin="1536,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6397,7 +6397,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1342DL}">
-		<design>Œù”zc3-4</design>
+		<design>å‹¾é…c3-4</design>
 		&h1311D;
 		<sprite origin="1536,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6425,7 +6425,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1343DL}">
-		<design>Œù”zd0-1</design>
+		<design>å‹¾é…d0-1</design>
 		&h1311D;
 		<sprite origin="1792,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6453,7 +6453,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1344DL}">
-		<design>Œù”zd1-2</design>
+		<design>å‹¾é…d1-2</design>
 		&h1311D;
 		<sprite origin="1792,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6481,7 +6481,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1345DL}">
-		<design>Œù”zd2-3</design>
+		<design>å‹¾é…d2-3</design>
 		&h1311D;
 		<sprite origin="1792,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6509,7 +6509,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1346DL}">
-		<design>Œù”zd3-4</design>
+		<design>å‹¾é…d3-4</design>
 		&h1311D;
 		<sprite origin="1792,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6537,7 +6537,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1347DL}">
-		<design>Œù”ze0-1</design>
+		<design>å‹¾é…e0-1</design>
 		&h1311D;
 		<sprite origin="2048,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6565,7 +6565,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1348DL}">
-		<design>Œù”ze1-2</design>
+		<design>å‹¾é…e1-2</design>
 		&h1311D;
 		<sprite origin="2048,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6593,7 +6593,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1349DL}">
-		<design>Œù”ze2-3</design>
+		<design>å‹¾é…e2-3</design>
 		&h1311D;
 		<sprite origin="2048,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6621,7 +6621,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1350DL}">
-		<design>Œù”ze3-4</design>
+		<design>å‹¾é…e3-4</design>
 		&h1311D;
 		<sprite origin="2048,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6649,7 +6649,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1351DL}">
-		<design>Œù”zf0-1</design>
+		<design>å‹¾é…f0-1</design>
 		&h1311D;
 		<sprite origin="2304,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6677,7 +6677,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1352DL}">
-		<design>Œù”zf1-2</design>
+		<design>å‹¾é…f1-2</design>
 		&h1311D;
 		<sprite origin="2304,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6705,7 +6705,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1353DL}">
-		<design>Œù”zf2-3</design>
+		<design>å‹¾é…f2-3</design>
 		&h1311D;
 		<sprite origin="2304,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6733,7 +6733,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1354DL}">
-		<design>Œù”zf3-4</design>
+		<design>å‹¾é…f3-4</design>
 		&h1311D;
 		<sprite origin="2304,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6761,7 +6761,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1355DL}">
-		<design>Œù”zg0-1</design>
+		<design>å‹¾é…g0-1</design>
 		&h1311D;
 		<sprite origin="2560,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6789,7 +6789,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1356DL}">
-		<design>Œù”zg1-2</design>
+		<design>å‹¾é…g1-2</design>
 		&h1311D;
 		<sprite origin="2560,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6817,7 +6817,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1357DL}">
-		<design>Œù”zg2-3</design>
+		<design>å‹¾é…g2-3</design>
 		&h1311D;
 		<sprite origin="2560,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6845,7 +6845,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1358DL}">
-		<design>Œù”zg3-4</design>
+		<design>å‹¾é…g3-4</design>
 		&h1311D;
 		<sprite origin="2560,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6873,7 +6873,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1359DL}">
-		<design>Œù”zh0-1</design>
+		<design>å‹¾é…h0-1</design>
 		&h1311D;
 		<sprite origin="2816,0" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6901,7 +6901,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1360DL}">
-		<design>Œù”zh1-2</design>
+		<design>å‹¾é…h1-2</design>
 		&h1311D;
 		<sprite origin="2816,4" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6929,7 +6929,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1361DL}">
-		<design>Œù”zh2-3</design>
+		<design>å‹¾é…h2-3</design>
 		&h1311D;
 		<sprite origin="2816,8" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6957,7 +6957,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-SRB-S1362DL}">
-		<design>Œù”zh3-4</design>
+		<design>å‹¾é…h3-4</design>
 		&h1311D;
 		<sprite origin="2816,12" offset="16">
 			<picture ref="{HEUER-SRB-P1320L}"/>
@@ -6985,7 +6985,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜H(‚‘¬)ˆêŽÔü—p -->
+<!-- å‹¾é…é“è·¯(é«˜é€Ÿ)ä¸€è»Šç·šç”¨ -->
 	<contribution type="picture" id="{HEUER-1001-SR-PICTURE-2101}">
 		<picture src="2101.bmp">
 			<override when="night" src="2101n.bmp" />
@@ -6999,7 +6999,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2101B}">
 		&ha2101;
 		<price>6000000</price>
-		<design>—’dF/’Pü‰E—p</design>
+		<design>é››å£‡è‰²/å˜ç·šå³ç”¨</design>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2101}"/>
 		</sprite>
@@ -7016,7 +7016,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2101A}">
 		&ha2101;
 		<price>6000000</price>
-		<design>—’dF/’Pü¶—p</design>
+		<design>é››å£‡è‰²/å˜ç·šå·¦ç”¨</design>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2101}"/>
 		</sprite>
@@ -7033,7 +7033,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2102B}">
 		&ha2101;
 		<price>7000000</price>
-		<design>ºÝ¸Ø°Ä/’Pü‰E—p</design>
+		<design>ï½ºï¾ï½¸ï¾˜ï½°ï¾„/å˜ç·šå³ç”¨</design>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2102}"/>
 		</sprite>
@@ -7050,7 +7050,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2102A}">
 		&ha2101;
 		<price>7000000</price>
-		<design>ºÝ¸Ø°Ä/’Pü¶—p</design>
+		<design>ï½ºï¾ï½¸ï¾˜ï½°ï¾„/å˜ç·šå·¦ç”¨</design>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2102}"/>
 		</sprite>
@@ -7065,7 +7065,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜H(‚‘¬)“ñŽÔü—p -->
+<!-- å‹¾é…é“è·¯(é«˜é€Ÿ)äºŒè»Šç·šç”¨ -->
 	<contribution type="picture" id="{HEUER-1001-SR-PICTURE-2201}">
 		<picture src="2201.bmp">
 			<override when="night" src="2201n.bmp" />
@@ -7094,7 +7094,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2202B}">
 		&ha2201;
 		<price>7000000</price>
-		<design>—’dF/ŠX“”(‰E)</design>
+		<design>é››å£‡è‰²/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2202}"/>
@@ -7112,7 +7112,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2202A}">
 		&ha2201;
 		<price>7000000</price>
-		<design>—’dF/ŠX“”(¶)</design>
+		<design>é››å£‡è‰²/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2202}"/>
@@ -7130,7 +7130,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2201B}">
 		&ha2201;
 		<price>8000000</price>
-		<design>ºÝ¸Ø°Ä/ŠX“”(‰E)</design>
+		<design>ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å³)</design>
 		<height>2</height>
 		<sprite origin="80,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2201}"/>
@@ -7148,7 +7148,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2201A}">
 		&ha2201;
 		<price>8000000</price>
-		<design>ºÝ¸Ø°Ä/ŠX“”(¶)</design>
+		<design>ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å·¦)</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2201}"/>
@@ -7166,7 +7166,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2203}">
 		&ha2201;
 		<price>8000000</price>
-		<design>‘Î–Ê’Ês—p/ºÝ¸Ø°Ä/ŠX“”</design>
+		<design>å¯¾é¢é€šè¡Œç”¨/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯</design>
 		<height>2</height>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{HEUER-1001-SR-PICTURE-2203}"/>
@@ -7184,7 +7184,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2204B}">
 		&ha2201;
 		<price>12000000</price>
-		<design>2F/ºÝ¸Ø°Ä/ŠX“”(‰E)</design>
+		<design>2F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å³)</design>
 		<height>3</height>
 		<sprite origin="80,0" offset="40">
 			<picture ref="{HEUER-1001-SR-PICTURE-2204}"/>
@@ -7202,7 +7202,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2204A}">
 		&ha2201;
 		<price>12000000</price>
-		<design>2F/ºÝ¸Ø°Ä/ŠX“”(¶)</design>
+		<design>2F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å·¦)</design>
 		<height>3</height>
 		<sprite origin="0,0" offset="40">
 			<picture ref="{HEUER-1001-SR-PICTURE-2204}"/>
@@ -7220,7 +7220,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2205B}">
 		&ha2201;
 		<price>16000000</price>
-		<design>3F/ºÝ¸Ø°Ä/ŠX“”(‰E)</design>
+		<design>3F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å³)</design>
 		<height>4</height>
 		<sprite origin="80,0" offset="56">
 			<picture ref="{HEUER-1001-SR-PICTURE-2205}"/>
@@ -7238,7 +7238,7 @@
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2205A}">
 		&ha2201;
 		<price>16000000</price>
-		<design>3F/ºÝ¸Ø°Ä/ŠX“”(¶)</design>
+		<design>3F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/è¡—ç¯(å·¦)</design>
 		<height>4</height>
 		<sprite origin="0,0" offset="56">
 			<picture ref="{HEUER-1001-SR-PICTURE-2205}"/>
@@ -7254,7 +7254,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Œù”z“¹˜H(‚‘¬)ŽOŽÔü—p -->
+<!-- å‹¾é…é“è·¯(é«˜é€Ÿ)ä¸‰è»Šç·šç”¨ -->
 	<contribution type="picture" id="{HEUER-1001-SR-PICTURE-2301}">
 		<picture src="2301.bmp">
 			<override when="night" src="2301n.bmp" />
@@ -7262,7 +7262,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2301A}">
 		&ha2301;
-		<design>2F/ºÝ¸Ø°Ä/‰EŠñ</design>
+		<design>2F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/å³å¯„</design>
 		<sprite origin="0,0" offset="45">
 			<picture ref="{HEUER-1001-SR-PICTURE-2301}"/>
 		</sprite>
@@ -7278,7 +7278,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1001-SR-STRUCTURE-2301B}">
 		&ha2301;
-		<design>2F/ºÝ¸Ø°Ä/¶Šñ</design>
+		<design>2F/ï½ºï¾ï½¸ï¾˜ï½°ï¾„/å·¦å¯„</design>
 		<sprite origin="96,0" offset="45">
 			<picture ref="{HEUER-1001-SR-PICTURE-2301}"/>
 		</sprite>
@@ -7293,7 +7293,7 @@
 		</sprite>
 	</contribution>
 
-<!-- —¿‹àŠ -->
+<!-- æ–™é‡‘æ‰€ -->
 	<contribution type="picture" id="{HEUER-1002-TG-PICTURE-1001}">
 		<picture src="tollgate.bmp">
 			<override when="night" src="tollgate_n.bmp" />
@@ -7301,7 +7301,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1002-TG-STRUCTURE-1001A}">
 		&ha5001;
-		<design>2ƒŒ[ƒ“</design>
+		<design>2ãƒ¬ãƒ¼ãƒ³</design>
 		<price>10000000</price>
 		<size>1,1</size>
 		<population>
@@ -7323,7 +7323,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1002-TG-STRUCTURE-1001B}">
 		&ha5001;
-		<design>4ƒŒ[ƒ“</design>
+		<design>4ãƒ¬ãƒ¼ãƒ³</design>
 		<price>20000000</price>
 		<size>1,2</size>
 		<population>
@@ -7344,9 +7344,9 @@
 		</sprite>
 	</contribution>
 
-<!-- M† -->
+<!-- ä¿¡å· -->
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1101}">
-		<name>M†(‰E‰œ•\)</name>
+		<name>ä¿¡å·(å³å¥¥è¡¨)</name>
 		<sprite>
 			<picture src="sn1101.bmp">
 				<override when="night" src="sn1101n.bmp"/>
@@ -7354,13 +7354,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1102}">
-		<name>M†(‰E‰œ— )</name>
+		<name>ä¿¡å·(å³å¥¥è£)</name>
 		<sprite>
 			<picture src="sn1102.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1103}">
-		<name>M†(‰E‘O•\)</name>
+		<name>ä¿¡å·(å³å‰è¡¨)</name>
 		<sprite>
 			<picture src="sn1103.bmp">
 				<override when="night" src="sn1103n.bmp"/>
@@ -7368,13 +7368,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1104}">
-		<name>M†(‰E‘O— )</name>
+		<name>ä¿¡å·(å³å‰è£)</name>
 		<sprite>
 			<picture src="sn1104.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1105}">
-		<name>M†(‰E’†•\)</name>
+		<name>ä¿¡å·(å³ä¸­è¡¨)</name>
 		<sprite>
 			<picture src="sn1105.bmp">
 				<override when="night" src="sn1105n.bmp"/>
@@ -7382,13 +7382,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1106}">
-		<name>M†(‰E’†— )</name>
+		<name>ä¿¡å·(å³ä¸­è£)</name>
 		<sprite>
 			<picture src="sn1106.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1107}">
-		<name>M†(¶‰œ•\)</name>
+		<name>ä¿¡å·(å·¦å¥¥è¡¨)</name>
 		<sprite>
 			<picture src="sn1107.bmp">
 				<override when="night" src="sn1107n.bmp"/>
@@ -7396,13 +7396,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1108}">
-		<name>M†(¶‰œ— )</name>
+		<name>ä¿¡å·(å·¦å¥¥è£)</name>
 		<sprite>
 			<picture src="sn1108.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1109}">
-		<name>M†(¶‘O•\)</name>
+		<name>ä¿¡å·(å·¦å‰è¡¨)</name>
 		<sprite>
 			<picture src="sn1109.bmp">
 				<override when="night" src="sn1109n.bmp"/>
@@ -7410,13 +7410,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1110}">
-		<name>M†(¶‘O— )</name>
+		<name>ä¿¡å·(å·¦å‰è£)</name>
 		<sprite>
 			<picture src="sn1110.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1111}">
-		<name>M†(¶’†•\)</name>
+		<name>ä¿¡å·(å·¦ä¸­è¡¨)</name>
 		<sprite>
 			<picture src="sn1111.bmp">
 				<override when="night" src="sn1111n.bmp"/>
@@ -7424,13 +7424,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1112}">
-		<name>M†(¶’†— )</name>
+		<name>ä¿¡å·(å·¦ä¸­è£)</name>
 		<sprite>
 			<picture src="sn1112.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1121}">
-		<name>M†(’†‰E‰œ•\)</name>
+		<name>ä¿¡å·(ä¸­å³å¥¥è¡¨)</name>
 		<sprite>
 			<picture src="sn1121.bmp">
 				<override when="night" src="sn1121n.bmp"/>
@@ -7438,13 +7438,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1122}">
-		<name>M†(’†‰E‰œ— )</name>
+		<name>ä¿¡å·(ä¸­å³å¥¥è£)</name>
 		<sprite>
 			<picture src="sn1122.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1123}">
-		<name>M†(’†‰E‘O•\)</name>
+		<name>ä¿¡å·(ä¸­å³å‰è¡¨)</name>
 		<sprite>
 			<picture src="sn1123.bmp">
 				<override when="night" src="sn1123n.bmp"/>
@@ -7452,13 +7452,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1124}">
-		<name>M†(’†‰E‘O— )</name>
+		<name>ä¿¡å·(ä¸­å³å‰è£)</name>
 		<sprite>
 			<picture src="sn1124.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1125}">
-		<name>M†(’†‰E’†•\)</name>
+		<name>ä¿¡å·(ä¸­å³ä¸­è¡¨)</name>
 		<sprite>
 			<picture src="sn1125.bmp">
 				<override when="night" src="sn1125n.bmp"/>
@@ -7466,13 +7466,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1126}">
-		<name>M†(’†‰E’†— )</name>
+		<name>ä¿¡å·(ä¸­å³ä¸­è£)</name>
 		<sprite>
 			<picture src="sn1126.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1127}">
-		<name>M†(’†¶‰œ•\)</name>
+		<name>ä¿¡å·(ä¸­å·¦å¥¥è¡¨)</name>
 		<sprite>
 			<picture src="sn1127.bmp">
 				<override when="night" src="sn1127n.bmp"/>
@@ -7480,13 +7480,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1128}">
-		<name>M†(’†¶‰œ— )</name>
+		<name>ä¿¡å·(ä¸­å·¦å¥¥è£)</name>
 		<sprite>
 			<picture src="sn1128.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1129}">
-		<name>M†(’†¶‘O•\)</name>
+		<name>ä¿¡å·(ä¸­å·¦å‰è¡¨)</name>
 		<sprite>
 			<picture src="sn1129.bmp">
 				<override when="night" src="sn1129n.bmp"/>
@@ -7494,13 +7494,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1130}">
-		<name>M†(’†¶‘O— )</name>
+		<name>ä¿¡å·(ä¸­å·¦å‰è£)</name>
 		<sprite>
 			<picture src="sn1130.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1131}">
-		<name>M†(’†¶’†•\)</name>
+		<name>ä¿¡å·(ä¸­å·¦ä¸­è¡¨)</name>
 		<sprite>
 			<picture src="sn1131.bmp">
 				<override when="night" src="sn1131n.bmp"/>
@@ -7508,13 +7508,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1132}">
-		<name>M†(’†¶’†— )</name>
+		<name>ä¿¡å·(ä¸­å·¦ä¸­è£)</name>
 		<sprite>
 			<picture src="sn1132.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1201}">
-		<name>M†’ƒ(‰E‰œ•\)</name>
+		<name>ä¿¡å·èŒ¶(å³å¥¥è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1101.bmp">
@@ -7523,14 +7523,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1202}">
-		<name>M†’ƒ(‰E‰œ— )</name>
+		<name>ä¿¡å·èŒ¶(å³å¥¥è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1102.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1203}">
-		<name>M†’ƒ(‰E‘O•\)</name>
+		<name>ä¿¡å·èŒ¶(å³å‰è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1103.bmp">
@@ -7539,14 +7539,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1204}">
-		<name>M†’ƒ(‰E‘O— )</name>
+		<name>ä¿¡å·èŒ¶(å³å‰è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1104.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1205}">
-		<name>M†’ƒ(‰E’†•\)</name>
+		<name>ä¿¡å·èŒ¶(å³ä¸­è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1105.bmp">
@@ -7555,14 +7555,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1206}">
-		<name>M†’ƒ(‰E’†— )</name>
+		<name>ä¿¡å·èŒ¶(å³ä¸­è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1106.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1207}">
-		<name>M†’ƒ(¶‰œ•\)</name>
+		<name>ä¿¡å·èŒ¶(å·¦å¥¥è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1107.bmp">
@@ -7571,14 +7571,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1208}">
-		<name>M†’ƒ(¶‰œ— )</name>
+		<name>ä¿¡å·èŒ¶(å·¦å¥¥è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1108.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1209}">
-		<name>M†’ƒ(¶‘O•\)</name>
+		<name>ä¿¡å·èŒ¶(å·¦å‰è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1109.bmp">
@@ -7587,14 +7587,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1210}">
-		<name>M†’ƒ(¶‘O— )</name>
+		<name>ä¿¡å·èŒ¶(å·¦å‰è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1110.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1211}">
-		<name>M†’ƒ(¶’†•\)</name>
+		<name>ä¿¡å·èŒ¶(å·¦ä¸­è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1111.bmp">
@@ -7603,14 +7603,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1212}">
-		<name>M†’ƒ(¶’†— )</name>
+		<name>ä¿¡å·èŒ¶(å·¦ä¸­è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1112.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1221}">
-		<name>M†’ƒ(’†‰E‰œ•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³å¥¥è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1121.bmp">
@@ -7619,14 +7619,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1222}">
-		<name>M†’ƒ(’†‰E‰œ— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³å¥¥è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1122.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1223}">
-		<name>M†’ƒ(’†‰E‘O•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³å‰è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1123.bmp">
@@ -7635,14 +7635,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1224}">
-		<name>M†’ƒ(’†‰E‘O— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³å‰è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1124.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1225}">
-		<name>M†’ƒ(’†‰E’†•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³ä¸­è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1125.bmp">
@@ -7651,14 +7651,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1226}">
-		<name>M†’ƒ(’†‰E’†— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å³ä¸­è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1126.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1227}">
-		<name>M†’ƒ(’†¶‰œ•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦å¥¥è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1127.bmp">
@@ -7667,14 +7667,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1228}">
-		<name>M†’ƒ(’†¶‰œ— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦å¥¥è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1128.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1229}">
-		<name>M†’ƒ(’†¶‘O•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦å‰è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1129.bmp">
@@ -7683,14 +7683,14 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1230}">
-		<name>M†’ƒ(’†¶‘O— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦å‰è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1130.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1231}">
-		<name>M†’ƒ(’†¶’†•\)</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦ä¸­è¡¨)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1131.bmp">
@@ -7699,72 +7699,72 @@
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-SN-RA-1232}">
-		<name>M†’ƒ(’†¶’†— )</name>
+		<name>ä¿¡å·èŒ¶(ä¸­å·¦ä¸­è£)</name>
 		<sprite>
 			&hc51;
 			<picture src="sn1132.bmp"/>
 		</sprite>
 	</contribution>
 
-<!-- ’âŽ~‹ÖŽ~•”•ª -->
+<!-- åœæ­¢ç¦æ­¢éƒ¨åˆ† -->
 	<contribution type="roadAccessory" id="{HEUER-1001-DS-RA-1201}">
-		<name>’âŽ~‹ÖŽ~•”•ª</name>
+		<name>åœæ­¢ç¦æ­¢éƒ¨åˆ†</name>
 		<sprite>
 			<picture src="ds1201.bmp"/>
 		</sprite>
 	</contribution>
 
-<!-- ‰¡’f•à“¹ -->
+<!-- æ¨ªæ–­æ­©é“ -->
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1201}">
-		<name>‰¡’f•à“¹(‰œ’†)</name>
+		<name>æ¨ªæ–­æ­©é“(å¥¥ä¸­)</name>
 		<sprite>
 			<picture src="cw1201.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1202}">
-		<name>‰¡’f•à“¹(‘O’†)</name>
+		<name>æ¨ªæ–­æ­©é“(å‰ä¸­)</name>
 		<sprite>
 			<picture src="cw1202.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1203}">
-		<name>‰¡’f•à“¹(‰œ‰E)</name>
+		<name>æ¨ªæ–­æ­©é“(å¥¥å³)</name>
 		<sprite>
 			<picture src="cw1203.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1204}">
-		<name>‰¡’f•à“¹(‰œ¶)</name>
+		<name>æ¨ªæ–­æ­©é“(å¥¥å·¦)</name>
 		<sprite>
 			<picture src="cw1204.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1205}">
-		<name>‰¡’f•à“¹(‘O‰E)</name>
+		<name>æ¨ªæ–­æ­©é“(å‰å³)</name>
 		<sprite>
 			<picture src="cw1205.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1206}">
-		<name>‰¡’f•à“¹(‘O¶)</name>
+		<name>æ¨ªæ–­æ­©é“(å‰å·¦)</name>
 		<sprite>
 			<picture src="cw1206.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1207}">
-		<name>‰¡’f•à“¹(‰œ)</name>
+		<name>æ¨ªæ–­æ­©é“(å¥¥)</name>
 		<sprite>
 			<picture src="cw1207.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="roadAccessory" id="{HEUER-1001-CW-RA-1208}">
-		<name>‰¡’f•à“¹(‘O)</name>
+		<name>æ¨ªæ–­æ­©é“(å‰)</name>
 		<sprite>
 			<picture src="cw1208.bmp"/>
 		</sprite>
 	</contribution>
 
-<!-- Ž©“®ŽÔ -->
+<!-- è‡ªå‹•è»Š -->
 	<contribution type="picture" id="{HEUER-1001-CAR-PICTURE-1001}">
 		<picture src="cars.bmp">
 			<override when="night" src="cars_n.bmp" />
@@ -7774,7 +7774,7 @@
 		<picture src="cars2.bmp"/>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1001}">
-		<name>Ž–ŒÌˆ—ŽÔ(‘O)</name>
+		<name>äº‹æ•…å‡¦ç†è»Š(å‰)</name>
 		<sprite origin="0,0" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7783,7 +7783,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1002}">
-		<name>Ž–ŒÌˆ—ŽÔ(Œã)</name>
+		<name>äº‹æ•…å‡¦ç†è»Š(å¾Œ)</name>
 		<sprite origin="64,0" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7792,7 +7792,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1003}">
-		<name>ƒpƒgƒJ[(‘O)</name>
+		<name>ãƒ‘ãƒˆã‚«ãƒ¼(å‰)</name>
 		<sprite origin="0,16" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7801,7 +7801,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1004}">
-		<name>ƒpƒgƒJ[(Œã)</name>
+		<name>ãƒ‘ãƒˆã‚«ãƒ¼(å¾Œ)</name>
 		<sprite origin="64,16" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7810,7 +7810,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1005}">
-		<name>ƒ~ƒjƒpƒgƒJ[(‘O)</name>
+		<name>ãƒŸãƒ‹ãƒ‘ãƒˆã‚«ãƒ¼(å‰)</name>
 		<sprite origin="0,32" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7819,7 +7819,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1006}">
-		<name>ƒ~ƒjƒpƒgƒJ[(Œã)</name>
+		<name>ãƒŸãƒ‹ãƒ‘ãƒˆã‚«ãƒ¼(å¾Œ)</name>
 		<sprite origin="64,32" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7828,7 +7828,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1007}">
-		<name>‹@“®‘àƒoƒX(‘O)</name>
+		<name>æ©Ÿå‹•éšŠãƒã‚¹(å‰)</name>
 		<sprite origin="0,47" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7837,7 +7837,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1008}">
-		<name>‹@“®‘àƒoƒX(Œã)</name>
+		<name>æ©Ÿå‹•éšŠãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,47" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7846,7 +7846,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1011}">
-		<name>Ž–ŒÌˆ—ŽÔ(‘O)*</name>
+		<name>äº‹æ•…å‡¦ç†è»Š(å‰)*</name>
 		<sprite origin="128,0" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7855,7 +7855,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1012}">
-		<name>Ž–ŒÌˆ—ŽÔ(Œã)*</name>
+		<name>äº‹æ•…å‡¦ç†è»Š(å¾Œ)*</name>
 		<sprite origin="192,0" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7864,7 +7864,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1013}">
-		<name>ƒpƒgƒJ[(‘O)*</name>
+		<name>ãƒ‘ãƒˆã‚«ãƒ¼(å‰)*</name>
 		<sprite origin="128,16" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7873,7 +7873,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1014}">
-		<name>ƒpƒgƒJ[(Œã)*</name>
+		<name>ãƒ‘ãƒˆã‚«ãƒ¼(å¾Œ)*</name>
 		<sprite origin="192,16" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7882,7 +7882,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1015}">
-		<name>ƒ~ƒjƒpƒgƒJ[(‘O)*</name>
+		<name>ãƒŸãƒ‹ãƒ‘ãƒˆã‚«ãƒ¼(å‰)*</name>
 		<sprite origin="128,32" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7891,7 +7891,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1016}">
-		<name>ƒ~ƒjƒpƒgƒJ[(Œã)*</name>
+		<name>ãƒŸãƒ‹ãƒ‘ãƒˆã‚«ãƒ¼(å¾Œ)*</name>
 		<sprite origin="192,32" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7900,7 +7900,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1017}">
-		<name>‹@“®‘àƒoƒX(‘O)*</name>
+		<name>æ©Ÿå‹•éšŠãƒã‚¹(å‰)*</name>
 		<sprite origin="128,47" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7909,7 +7909,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1018}">
-		<name>‹@“®‘àƒoƒX(Œã)*</name>
+		<name>æ©Ÿå‹•éšŠãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,47" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7918,7 +7918,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1101}">
-		<name>‹~‹}ŽÔ(‘O)</name>
+		<name>æ•‘æ€¥è»Š(å‰)</name>
 		<sprite origin="0,74" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7927,7 +7927,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1102}">
-		<name>‹~‹}ŽÔ(Œã)</name>
+		<name>æ•‘æ€¥è»Š(å¾Œ)</name>
 		<sprite origin="64,74" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7936,7 +7936,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1103}">
-		<name>Á–hŽwŠöŽÔ(‘O)</name>
+		<name>æ¶ˆé˜²æŒ‡æ®è»Š(å‰)</name>
 		<sprite origin="0,91" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7945,7 +7945,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1104}">
-		<name>Á–hŽwŠöŽÔ(Œã)</name>
+		<name>æ¶ˆé˜²æŒ‡æ®è»Š(å¾Œ)</name>
 		<sprite origin="64,91" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7954,7 +7954,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1105}">
-		<name>‚Í‚µ‚²ŽÔ(‘O)</name>
+		<name>ã¯ã—ã”è»Š(å‰)</name>
 		<sprite origin="0,108" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7963,7 +7963,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1106}">
-		<name>‚Í‚µ‚²ŽÔ(Œã)</name>
+		<name>ã¯ã—ã”è»Š(å¾Œ)</name>
 		<sprite origin="64,108" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7972,7 +7972,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1107}">
-		<name>ƒ|ƒ“ƒvŽÔ(‘O)</name>
+		<name>ãƒãƒ³ãƒ—è»Š(å‰)</name>
 		<sprite origin="0,131" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7981,7 +7981,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1108}">
-		<name>ƒ|ƒ“ƒvŽÔ(Œã)</name>
+		<name>ãƒãƒ³ãƒ—è»Š(å¾Œ)</name>
 		<sprite origin="64,131" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7990,7 +7990,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1111}">
-		<name>‹~‹}ŽÔ(‘O)*</name>
+		<name>æ•‘æ€¥è»Š(å‰)*</name>
 		<sprite origin="128,74" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -7999,7 +7999,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1112}">
-		<name>‹~‹}ŽÔ(Œã)*</name>
+		<name>æ•‘æ€¥è»Š(å¾Œ)*</name>
 		<sprite origin="192,74" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8008,7 +8008,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1113}">
-		<name>Á–hŽwŠöŽÔ(‘O)*</name>
+		<name>æ¶ˆé˜²æŒ‡æ®è»Š(å‰)*</name>
 		<sprite origin="128,91" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8017,7 +8017,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1114}">
-		<name>Á–hŽwŠöŽÔ(Œã)*</name>
+		<name>æ¶ˆé˜²æŒ‡æ®è»Š(å¾Œ)*</name>
 		<sprite origin="192,91" offset="0">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8026,7 +8026,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1115}">
-		<name>‚Í‚µ‚²ŽÔ(‘O)*</name>
+		<name>ã¯ã—ã”è»Š(å‰)*</name>
 		<sprite origin="128,108" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8035,7 +8035,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1116}">
-		<name>‚Í‚µ‚²ŽÔ(Œã)*</name>
+		<name>ã¯ã—ã”è»Š(å¾Œ)*</name>
 		<sprite origin="192,108" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8044,7 +8044,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1117}">
-		<name>ƒ|ƒ“ƒvŽÔ(‘O)*</name>
+		<name>ãƒãƒ³ãƒ—è»Š(å‰)*</name>
 		<sprite origin="128,131" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8053,7 +8053,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1118}">
-		<name>ƒ|ƒ“ƒvŽÔ(Œã)*</name>
+		<name>ãƒãƒ³ãƒ—è»Š(å¾Œ)*</name>
 		<sprite origin="192,131" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1001}"/>
 			<variations>
@@ -8062,7 +8062,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1201}">
-		<name>ƒ_ƒ“ƒvƒJ[[‹ó](‘O)</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©º](å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8071,7 +8071,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1202}">
-		<name>ƒ_ƒ“ƒvƒJ[[‹ó](Œã)</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©º](å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8080,7 +8080,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1211}">
-		<name>ƒ_ƒ“ƒvƒJ[[‹ó](‘O)*</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©º](å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8089,7 +8089,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1212}">
-		<name>ƒ_ƒ“ƒvƒJ[[‹ó](Œã)*</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©º](å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8098,7 +8098,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1203}">
-		<name>ƒ_ƒ“ƒvƒJ[[Ï](‘O)</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©](å‰)</name>
 		<sprite origin="0,24" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8107,7 +8107,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1204}">
-		<name>ƒ_ƒ“ƒvƒJ[[Ï](Œã)</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©](å¾Œ)</name>
 		<sprite origin="64,24" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8116,7 +8116,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1213}">
-		<name>ƒ_ƒ“ƒvƒJ[[Ï](‘O)*</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©](å‰)*</name>
 		<sprite origin="128,24" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8125,7 +8125,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1214}">
-		<name>ƒ_ƒ“ƒvƒJ[[Ï](Œã)*</name>
+		<name>ãƒ€ãƒ³ãƒ—ã‚«ãƒ¼[ç©](å¾Œ)*</name>
 		<sprite origin="192,24" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8134,7 +8134,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1205}">
-		<name>ƒVƒ‡ƒxƒ‹ƒJ[(‘O)</name>
+		<name>ã‚·ãƒ§ãƒ™ãƒ«ã‚«ãƒ¼(å‰)</name>
 		<sprite origin="0,48" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8143,7 +8143,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1206}">
-		<name>ƒVƒ‡ƒxƒ‹ƒJ[(Œã)</name>
+		<name>ã‚·ãƒ§ãƒ™ãƒ«ã‚«ãƒ¼(å¾Œ)</name>
 		<sprite origin="64,48" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8152,7 +8152,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1215}">
-		<name>ƒVƒ‡ƒxƒ‹ƒJ[(‘O)*</name>
+		<name>ã‚·ãƒ§ãƒ™ãƒ«ã‚«ãƒ¼(å‰)*</name>
 		<sprite origin="128,48" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8161,7 +8161,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1216}">
-		<name>ƒVƒ‡ƒxƒ‹ƒJ[(Œã)*</name>
+		<name>ã‚·ãƒ§ãƒ™ãƒ«ã‚«ãƒ¼(å¾Œ)*</name>
 		<sprite origin="192,48" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8170,7 +8170,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1207}">
-		<name>ƒuƒ‹ƒh[ƒU[(‘O)</name>
+		<name>ãƒ–ãƒ«ãƒ‰ãƒ¼ã‚¶ãƒ¼(å‰)</name>
 		<sprite origin="0,72" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8179,7 +8179,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1208}">
-		<name>ƒuƒ‹ƒh[ƒU[(Œã)</name>
+		<name>ãƒ–ãƒ«ãƒ‰ãƒ¼ã‚¶ãƒ¼(å¾Œ)</name>
 		<sprite origin="64,72" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8188,7 +8188,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1217}">
-		<name>ƒuƒ‹ƒh[ƒU[(‘O)*</name>
+		<name>ãƒ–ãƒ«ãƒ‰ãƒ¼ã‚¶ãƒ¼(å‰)*</name>
 		<sprite origin="128,72" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8197,7 +8197,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1218}">
-		<name>ƒuƒ‹ƒh[ƒU[(Œã)*</name>
+		<name>ãƒ–ãƒ«ãƒ‰ãƒ¼ã‚¶ãƒ¼(å¾Œ)*</name>
 		<sprite origin="192,72" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8206,7 +8206,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1221}">
-		<name>ƒNƒŒ[ƒ“ŽÔ(‘O)</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š(å‰)</name>
 		<sprite origin="0,96" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8215,7 +8215,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1222}">
-		<name>ƒNƒŒ[ƒ“ŽÔ(Œã)</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š(å¾Œ)</name>
 		<sprite origin="64,96" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8224,7 +8224,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1231}">
-		<name>ƒNƒŒ[ƒ“ŽÔ(‘O)*</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š(å‰)*</name>
 		<sprite origin="128,96" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8233,7 +8233,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1232}">
-		<name>ƒNƒŒ[ƒ“ŽÔ(Œã)*</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š(å¾Œ)*</name>
 		<sprite origin="192,96" offset="8">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8242,7 +8242,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1223}">
-		<name>ƒNƒŒ[ƒ“ŽÔ[L](‘O)</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š[ä¼¸](å‰)</name>
 		<sprite origin="0,120" offset="32">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8251,7 +8251,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1224}">
-		<name>ƒNƒŒ[ƒ“ŽÔ[L](Œã)</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š[ä¼¸](å¾Œ)</name>
 		<sprite origin="64,120" offset="32">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8260,7 +8260,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1233}">
-		<name>ƒNƒŒ[ƒ“ŽÔ[L](‘O)*</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š[ä¼¸](å‰)*</name>
 		<sprite origin="128,120" offset="32">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>
@@ -8269,7 +8269,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{HEUER-1001-CAR-STRUCTURE-1234}">
-		<name>ƒNƒŒ[ƒ“ŽÔ[L](Œã)*</name>
+		<name>ã‚¯ãƒ¬ãƒ¼ãƒ³è»Š[ä¼¸](å¾Œ)*</name>
 		<sprite origin="192,120" offset="32">
 			<picture ref="{HEUER-1001-CAR-PICTURE-1002}"/>
 			<variations>

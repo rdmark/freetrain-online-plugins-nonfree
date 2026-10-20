@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY oldhouseM '
-	<group>ŒÃ‚¢–¯‰Æ(’†)</group>
+	<group>å¤ã„æ°‘å®¶(ä¸­)</group>
 	<price>5000000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -14,11 +14,11 @@
 	</population>
 '>
 <!ENTITY oldhouseS '
-	<group>ŒÃ‚¢–¯‰Æ(¬)</group>
+	<group>å¤ã„æ°‘å®¶(å°)</group>
 	<price>4000000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -28,8 +28,8 @@
 '>]>
 
 <plug-in>
-	<title>ŒÃ‚¢–¯‰Æ</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å¤ã„æ°‘å®¶</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{84083099-B583-4B22-C477-23869F3F3969}">
@@ -70,7 +70,7 @@
 		</sprite>
 	</contribution>
 	
-	<!--”¼ƒ{ƒNƒZƒ‹x2-->
+	<!--åŠãƒœã‚¯ã‚»ãƒ«x2-->
 	<contribution type="GenericStructure" id="{58311256-1E0E-44A9-C477-A8CAB001ACAB}">
 		&oldhouseS;
 		<sprite origin="0,0" offset="16">

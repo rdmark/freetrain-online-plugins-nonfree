@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY pm-distill '
-	<group>PM-蒸留塔</group>
+	<group>PM-闥ｸ逡吝｡�</group>
 	<structure>
-		<category byname="化学工場"/>
+		<category byname="蛹門ｭｦ蟾･蝣ｴ"/>
 	</structure>
 	<size>1,1</size>
 	<price>160000000</price>
@@ -11,8 +11,8 @@
 '>
 ]>
 <plug-in>
-	<title>プラント蒸留塔</title>
-	<author>C477@2両目</author>
+	<title>繝励Λ繝ｳ繝郁頂逡吝｡�</title>
+	<author>C477@2荳｡逶ｮ</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	
 	<contribution type="picture" id="{D6D7F90F-1923-4B30-C477-91146BFC0BFD}">

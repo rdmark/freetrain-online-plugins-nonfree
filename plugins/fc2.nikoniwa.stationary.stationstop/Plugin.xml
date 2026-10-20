@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
  <plug-in>
-  <title>�w�Ԏ~�߃v���O�C��</title> 
-  <author>201-nishi(�w�͈����q�����A�o���X�g�͉ԕH��Ύ�)</author> 
+  <title>駅車止めプラグイン</title> 
+  <author>201-nishi(駅は綾瀬ヒロ氏、バラストは花菱烈火氏)</author> 
   <homepage>http://niconiwa.wiki.fc2.com/</homepage> 
   
-�@<contribution type="picture" id="{201-nishi-picture-stoprailstation-A0DB42934E04}">
+　<contribution type="picture" id="{201-nishi-picture-stoprailstation-A0DB42934E04}">
   <picture src="stoprailstation.bmp" /> 
   </contribution>
   
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-A}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -19,7 +19,7 @@
   </contribution>
   
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-B}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -29,7 +29,7 @@
   </contribution>
   
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-C}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -38,7 +38,7 @@
   </sprite>
   </contribution>
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-D}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -47,7 +47,7 @@
   </sprite>
   </contribution>
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-E}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -56,7 +56,7 @@
   </sprite>
   </contribution>
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-F}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -65,7 +65,7 @@
   </sprite>
   </contribution>
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-G}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 
@@ -74,7 +74,7 @@
   </sprite>
   </contribution>
   <contribution type="railStationary" id="{201-nishi-railStationary-stoprailstation-A0DB42934E04-H}">
-  <group>�ԕH�o���X�g�Ԏ~��(�w)</group> 
+  <group>花菱バラスト車止め(駅)</group> 
   <price>100000</price> 
   <size>1,1</size> 
   <height>1</height> 

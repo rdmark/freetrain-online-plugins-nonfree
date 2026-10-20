@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>255�n���}�^�d�Ԏԗ��v���O�C��</title>
+	<title>255系特急型電車車両プラグイン</title>
 	<homepage>http://www.geocities.jp/cyber_express_1703d/freetrain/FT_plugin.html</homepage>
 
 
-	<!-- 255�n�擪�� -->
+	<!-- 255系先頭車 -->
 	<contribution type="trainCar" id="{187DF275-70DE-ec255-8F66-BF0E327B80CF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -13,7 +13,7 @@
 		<capacity>52</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- 255�n���Ԏ� -->
+	<!-- 255系中間車 -->
 	<contribution type="trainCar" id="{187DF275-70DE-ec255-8F66-BF0E327B80CF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -22,22 +22,22 @@
 		<capacity>64</capacity>
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
-	<!-- 255�n����� -->
+	<!-- 255系後尾車 -->
 	<contribution type="trainCar" id="{187DF275-70DE-ec255-8F66-BF0E327B80CF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{187DF275-70DE-ec255-8F66-BF0E327B80CF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{187DF275-70DE-ec255-8F66-BF0E327B80CF}">
-		<company>JR�����{</company>
-		<type>255�n</type>
-		<name>�[���r���[�G�N�X�v���X</name>
-		<author>�������[</author>
-		<description>1993�N�A�[�����ʂŊ��􂵂Ă���183�n�̒u�������p�Ƃ��ēo��B
-��[���̊ό��q��ʔN���p�̃r�W�l�X�}�����̑��ړI�ȗ��p���l���A�n�C�u���b�g���r���e�B�i�����ړ���ԁj�Ƃ����g�[�^���R���Z�v�g�����Ƀf�U�C�����ꂽ�B 
-JR�����{�̓��}�ԗ��Ƃ��Ă͏��߂�VVVF�C���o�[�^������̗p�����ԗ��ŁA�]���̓��}�Ԃɔ�ׂl�s��������ďȃG�l����}���Ă���B
-�h���͑����m���C���[�W����u���[�ƍ��l�E�C�ӂ��C���[�W����z���C�g����ɂ��āA�h�A�t�߂ƎԒ[�ɍ؂̉Ԃ��C���[�W����C�G���[��z�F�B 
-�Վ���ԂŒ��������ɂ������ꂷ��B�^�]�ō����x��130km/h�B</description>
+		<company>JR東日本</company>
+		<type>255系</type>
+		<name>房総ビューエクスプレス</name>
+		<author>いっちー</author>
+		<description>1993年、房総方面で活躍している183系の置き換え用として登場。
+南房総の観光客や通年利用のビジネスマン等の多目的な利用を考え、ハイブリットモビリティ（複合移動空間）というトータルコンセプトを元にデザインされた。 
+JR東日本の特急車両としては初めてVVVFインバータ制御を採用した車両で、従来の特急車に比べＭＴ比を下げて省エネ化を図っている。
+塗装は太平洋をイメージするブルーと砂浜・海辺をイメージするホワイトを基調にして、ドア付近と車端に菜の花をイメージするイエローを配色。 
+臨時列車で中央東線にも乗り入れする。運転最高速度は130km/h。</description>
 		<fare>800</fare>
 		<price>56000000</price>
 		<amenity>120</amenity>	

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY br-red '
@@ -35,446 +35,446 @@
 
 <plug-in>
 
-<title>‹´</title>
-<author>‚µ‚©‚µ‚©</author>
+<title>æ©‹</title>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<!-- ƒ[ƒŒƒ“ƒgƒ‰ƒX‹´ -->
+<!-- ãƒ¯ãƒ¼ãƒ¬ãƒ³ãƒˆãƒ©ã‚¹æ©‹ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1r-a}">
-<name>‹´-ƒgƒ‰ƒX1(Ô,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(èµ¤,å‰)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1r-b}">
-<name>‹´-ƒgƒ‰ƒX1(Ô,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(èµ¤,ä¸­)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1r-c}">
-<name>‹´-ƒgƒ‰ƒX1(Ô,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(èµ¤,å¥¥)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1g-a}">
-<name>‹´-ƒgƒ‰ƒX1(—Î,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç·‘,å‰)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1g-b}">
-<name>‹´-ƒgƒ‰ƒX1(—Î,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç·‘,ä¸­)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1g-c}">
-<name>‹´-ƒgƒ‰ƒX1(—Î,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç·‘,å¥¥)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1b-a}">
-<name>‹´-ƒgƒ‰ƒX1(®,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç´º,å‰)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1b-b}">
-<name>‹´-ƒgƒ‰ƒX1(®,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç´º,ä¸­)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1b-c}">
-<name>‹´-ƒgƒ‰ƒX1(®,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç´º,å¥¥)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1s-a}">
-<name>‹´-ƒgƒ‰ƒX1(‹ó,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç©º,å‰)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1s-b}">
-<name>‹´-ƒgƒ‰ƒX1(‹ó,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç©º,ä¸­)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1s-c}">
-<name>‹´-ƒgƒ‰ƒX1(‹ó,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç©º,å¥¥)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1gr-a}">
-<name>‹´-ƒgƒ‰ƒX1(ŠD,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1gr-b}">
-<name>‹´-ƒgƒ‰ƒX1(ŠD,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1gr-c}">
-<name>‹´-ƒgƒ‰ƒX1(ŠD,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1w-a}">
-<name>‹´-ƒgƒ‰ƒX1(”’,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1w-b}">
-<name>‹´-ƒgƒ‰ƒX1(”’,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge1w-c}">
-<name>‹´-ƒgƒ‰ƒX1(”’,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹1(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge1c.bmp"/>
 </sprite></contribution>
 
-<!-- ƒ[ƒŒƒ“(‚’¼Þ•t)ƒgƒ‰ƒX‹´ -->
+<!-- ãƒ¯ãƒ¼ãƒ¬ãƒ³(åž‚ç›´æä»˜)ãƒˆãƒ©ã‚¹æ©‹ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2r-a}">
-<name>‹´-ƒgƒ‰ƒX2(Ô,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(èµ¤,å‰)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2r-b}">
-<name>‹´-ƒgƒ‰ƒX2(Ô,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(èµ¤,ä¸­)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2r-c}">
-<name>‹´-ƒgƒ‰ƒX2(Ô,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(èµ¤,å¥¥)</name>
 <sprite>&br-red;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2g-a}">
-<name>‹´-ƒgƒ‰ƒX2(—Î,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç·‘,å‰)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2g-b}">
-<name>‹´-ƒgƒ‰ƒX2(—Î,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç·‘,ä¸­)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2g-c}">
-<name>‹´-ƒgƒ‰ƒX2(—Î,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç·‘,å¥¥)</name>
 <sprite>&br-green;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2b-a}">
-<name>‹´-ƒgƒ‰ƒX2(®,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç´º,å‰)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2b-b}">
-<name>‹´-ƒgƒ‰ƒX2(®,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç´º,ä¸­)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2b-c}">
-<name>‹´-ƒgƒ‰ƒX2(®,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç´º,å¥¥)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2s-a}">
-<name>‹´-ƒgƒ‰ƒX2(‹ó,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç©º,å‰)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2s-b}">
-<name>‹´-ƒgƒ‰ƒX2(‹ó,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç©º,ä¸­)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2s-c}">
-<name>‹´-ƒgƒ‰ƒX2(‹ó,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç©º,å¥¥)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2gr-a}">
-<name>‹´-ƒgƒ‰ƒX2(ŠD,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2gr-b}">
-<name>‹´-ƒgƒ‰ƒX2(ŠD,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2gr-c}">
-<name>‹´-ƒgƒ‰ƒX2(ŠD,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2w-a}">
-<name>‹´-ƒgƒ‰ƒX2(”’,‘O)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2w-b}">
-<name>‹´-ƒgƒ‰ƒX2(”’,’†)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-trussbridge2w-c}">
-<name>‹´-ƒgƒ‰ƒX2(”’,‰œ)</name>
+<name>æ©‹-ãƒˆãƒ©ã‚¹2(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_trussbridge2c.bmp"/>
 </sprite></contribution>
 
-<!-- ƒA[ƒ`(ƒ[ƒ[)‹´ -->
+<!-- ã‚¢ãƒ¼ãƒ(ãƒ­ãƒ¼ã‚¼)æ©‹ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1r-a}">
-<name>‹´-ƒ[ƒ[(Ô,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(èµ¤,å‰)</name>
 <sprite>&br-red;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1r-b}">
-<name>‹´-ƒ[ƒ[(Ô,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(èµ¤,ä¸­)</name>
 <sprite>&br-red;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1r-c}">
-<name>‹´-ƒ[ƒ[(Ô,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(èµ¤,å¥¥)</name>
 <sprite>&br-red;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1g-a}">
-<name>‹´-ƒ[ƒ[(—Î,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç·‘,å‰)</name>
 <sprite>&br-green;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1g-b}">
-<name>‹´-ƒ[ƒ[(—Î,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç·‘,ä¸­)</name>
 <sprite>&br-green;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1g-c}">
-<name>‹´-ƒ[ƒ[(—Î,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç·‘,å¥¥)</name>
 <sprite>&br-green;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1b-a}">
-<name>‹´-ƒ[ƒ[(®,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç´º,å‰)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1b-b}">
-<name>‹´-ƒ[ƒ[(®,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç´º,ä¸­)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1b-c}">
-<name>‹´-ƒ[ƒ[(®,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç´º,å¥¥)</name>
 <sprite>&br-navyblue;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1s-a}">
-<name>‹´-ƒ[ƒ[(‹ó,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç©º,å‰)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1s-b}">
-<name>‹´-ƒ[ƒ[(‹ó,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç©º,ä¸­)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1s-c}">
-<name>‹´-ƒ[ƒ[(‹ó,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç©º,å¥¥)</name>
 <sprite>&br-skyblue;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1gr-a}">
-<name>‹´-ƒ[ƒ[(ŠD,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1gr-b}">
-<name>‹´-ƒ[ƒ[(ŠD,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1gr-c}">
-<name>‹´-ƒ[ƒ[(ŠD,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1w-a}">
-<name>‹´-ƒ[ƒ[(”’,‘O)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_loshebridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1w-b}">
-<name>‹´-ƒ[ƒ[(”’,’†)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_loshebridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-loshebridge1w-c}">
-<name>‹´-ƒ[ƒ[(”’,‰œ)</name>
+<name>æ©‹-ãƒ­ãƒ¼ã‚¼(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_loshebridge1c.bmp"/>
 </sprite></contribution>
 
-<!-- Œ…‹´ -->
+<!-- æ¡æ©‹ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1gr-a}">
-<name>‹´-Œ…‹´1(ŠD,‘O)</name>
+<name>æ©‹-æ¡æ©‹1(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1gr-b}">
-<name>‹´-Œ…‹´1(ŠD,’†)</name>
+<name>æ©‹-æ¡æ©‹1(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1gr-c}">
-<name>‹´-Œ…‹´1(ŠD,‰œ)</name>
+<name>æ©‹-æ¡æ©‹1(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1w-a}">
-<name>‹´-Œ…‹´1(”’,‘O)</name>
+<name>æ©‹-æ¡æ©‹1(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge1a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1w-b}">
-<name>‹´-Œ…‹´1(”’,’†)</name>
+<name>æ©‹-æ¡æ©‹1(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge1b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge1w-c}">
-<name>‹´-Œ…‹´1(”’,‰œ)</name>
+<name>æ©‹-æ¡æ©‹1(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge1c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2gr-a}">
-<name>‹´-Œ…‹´2(ŠD,‘O)</name>
+<name>æ©‹-æ¡æ©‹2(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2gr-b}">
-<name>‹´-Œ…‹´2(ŠD,’†)</name>
+<name>æ©‹-æ¡æ©‹2(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2gr-c}">
-<name>‹´-Œ…‹´2(ŠD,‰œ)</name>
+<name>æ©‹-æ¡æ©‹2(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2w-a}">
-<name>‹´-Œ…‹´2(”’,‘O)</name>
+<name>æ©‹-æ¡æ©‹2(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge2a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2w-b}">
-<name>‹´-Œ…‹´2(”’,’†)</name>
+<name>æ©‹-æ¡æ©‹2(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge2b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge2w-c}">
-<name>‹´-Œ…‹´2(”’,‰œ)</name>
+<name>æ©‹-æ¡æ©‹2(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge2c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3gr-a}">
-<name>‹´-Œ…‹´3(ŠD,‘O)</name>
+<name>æ©‹-æ¡æ©‹3(ç°,å‰)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge3a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3gr-b}">
-<name>‹´-Œ…‹´3(ŠD,’†)</name>
+<name>æ©‹-æ¡æ©‹3(ç°,ä¸­)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge3b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3gr-c}">
-<name>‹´-Œ…‹´3(ŠD,‰œ)</name>
+<name>æ©‹-æ¡æ©‹3(ç°,å¥¥)</name>
 <sprite>&br-gray;
 <picture src="r_a_girderbridge3c.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3w-a}">
-<name>‹´-Œ…‹´3(”’,‘O)</name>
+<name>æ©‹-æ¡æ©‹3(ç™½,å‰)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge3a.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3w-b}">
-<name>‹´-Œ…‹´3(”’,’†)</name>
+<name>æ©‹-æ¡æ©‹3(ç™½,ä¸­)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge3b.bmp"/>
 </sprite></contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-GirderBridge3w-c}">
-<name>‹´-Œ…‹´3(”’,‰œ)</name>
+<name>æ©‹-æ¡æ©‹3(ç™½,å¥¥)</name>
 <sprite>&br-white;
 <picture src="r_a_girderbridge3c.bmp"/>
 </sprite></contribution>

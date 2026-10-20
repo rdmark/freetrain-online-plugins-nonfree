@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>砲台</title> 
-  <author>モガミ</author> 
+  <title>遐ｲ蜿ｰ</title> 
+  <author>繝｢繧ｬ繝�</author> 
   <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{mogami-buildingi-building-yousaihou-picture-64A28EF056DD}">
   <picture src="yousaihou.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-buildingi-building-yousaihou-C5EC9E5936B8}-0">
-  <group>砲台・機関砲</group> 
+  <group>遐ｲ蜿ｰ繝ｻ讖滄未遐ｲ</group> 
   <structure>
-  <category byname="軍事施設" /> 
+  <category byname="霆堺ｺ区命險ｭ" /> 
   </structure>
   <size>1,1</size> 
   <price>80000000</price> 
@@ -28,9 +28,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-buildingi-building-yousaihou-C5EC9E5936B8}-1">
-  <group>砲台・墳進砲</group> 
+  <group>遐ｲ蜿ｰ繝ｻ蠅ｳ騾ｲ遐ｲ</group> 
   <structure>
-  <category byname="軍事施設" /> 
+  <category byname="霆堺ｺ区命險ｭ" /> 
   </structure>
   <size>1,1</size> 
   <price>80000000</price> 

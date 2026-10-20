@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-	<title>�����d�S�ԗ��v���O�C��</title>
+	<title>京王電鉄車両プラグイン</title>
 	<author>Altima</author>
 	<homepage>http://zero-d.web.infoseek.co.jp/</homepage>
 
@@ -22,7 +22,7 @@
 	</contribution>
 
 
-	<!-- 6000�n���h���擪�� -->
+	<!-- 6000系旧塗装先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO11A006000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -46,7 +46,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- 6000�n���h�����Ԏ� -->
+	<!-- 6000系旧塗装中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO12A006000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -64,18 +64,18 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- 6000�n���h������� -->
+	<!-- 6000系旧塗装後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO13A006000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO11A006000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO10A006000}">
-		<company>�����d�S</company>
-		<type>6000�n</type>
-		<name>������,���͌����Ȃ�</name>
+		<company>京王電鉄</company>
+		<type>6000系</type>
+		<name>京王線,相模原線など</name>
 		<author>Altima</author>
-		<description>�����d�S����20���ԂƂ���1972�N�ɓo��B�����n���h���}�X�R���̗̍p��s�c�V�h�����ʂ��l�������݌v�ŁA1���Ԃ͒�R����A2���Ԉȍ~�͊E���`���b�p���̗p���Ă���B5���Ԃ�s�c��������ԂȂǂ�����A�ő�304���̑及�т��������A9000�n�Ɠ���ւ��悤�ɏ��X�ɔp�Ԃ��i��ł���B</description>
+		<description>京王電鉄初の20ｍ車として1972年に登場。ワンハンドルマスコンの採用や都営新宿線直通を考慮した設計で、1次車は抵抗制御、2次車以降は界磁チョッパを採用している。5扉車や都営線乗り入れ車などもあり、最大304両の大所帯だったが、9000系と入れ替わるように徐々に廃車が進んでいる。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
@@ -89,7 +89,7 @@
 	</contribution>
 
 
-	<!-- 6000�n�V�h���擪�� -->
+	<!-- 6000系新塗装先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO15A006000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -113,7 +113,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- 6000�n�V�h�����Ԏ� -->
+	<!-- 6000系新塗装中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO16A006000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -137,18 +137,18 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- 6000�n�V�h������� -->
+	<!-- 6000系新塗装後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO17A006000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO15A006000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO14A006000}">
-		<company>�����d�S</company>
-		<type>6000�n(�V�h��)</type>
-		<name>�������Ȃ�</name>
+		<company>京王電鉄</company>
+		<type>6000系(新塗装)</type>
+		<name>京王線など</name>
 		<author>Altima</author>
-		<description>2002�N�x���ɑS�Ԃ��]���̃G���W�т���Ԑ�2�F�тɕύX���ꂽ�B�ēh�����ꂽ���̂ƃV�[����\��t�������̂�2��ނ�����B</description>
+		<description>2002年度中に全車が従来のエンジ帯から赤青2色帯に変更された。再塗装されたものとシールを貼り付けたものの2種類がある。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
@@ -162,7 +162,7 @@
 	</contribution>
 
 
-	<!-- 7000�n���h���擪�� -->
+	<!-- 7000系旧塗装先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO11B007000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -180,7 +180,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- 7000�n���h�����Ԏ� -->
+	<!-- 7000系旧塗装中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO12B007000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -198,18 +198,18 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- 7000�n���h������� -->
+	<!-- 7000系旧塗装後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO13B007000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO11B007000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO10B007000}">
-		<company>�����d�S</company>
-		<type>7000�n</type>
-		<name>������,���͌����Ȃ�</name>
+		<company>京王電鉄</company>
+		<type>7000系</type>
+		<name>京王線,相模原線など</name>
 		<author>Altima</author>
-		<description>1984�N�ɓo��B�����ȂǊ�{�I��6000�n�Ɠ����E���`���b�p�ŁA�X�e�����X�ԑ̂��̗p���Čy�ʉ������B���h���̋�F�O�ʂ��������A���F������̂��߃A�C�{���[�ɓh��ꂽ�B�R���Q�[�g�ԑ̂���r�[�g�v���X�ɕύX����X�}�[�g�ɂȂ���20�ԑ�(7020�n)����ɓo��B���݂�2�A4�A6�A8�A10�A�������Ă���B</description>
+		<description>1984年に登場。足回りなど基本的に6000系と同じ界磁チョッパで、ステンレス車体を採用して軽量化した。無塗装の銀色前面だったが、視認性向上のためアイボリーに塗られた。コルゲート車体からビートプレスに変更されスマートになった20番台(7020系)が後に登場。現在は2、4、6、8、10連が揃っている。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -223,7 +223,7 @@
 	</contribution>
 
 
-	<!-- 7000�n�V�h���擪�� -->
+	<!-- 7000系新塗装先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO15B007000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -241,7 +241,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- 7000�n�V�h�����Ԏ� -->
+	<!-- 7000系新塗装中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO16B007000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -259,18 +259,18 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- 7000�n�V�h������� -->
+	<!-- 7000系新塗装後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO17B007000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO15B007000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO14B007000}">
-		<company>�����d�S</company>
-		<type>7000�n(�V�h��)</type>
-		<name>�������Ȃ�</name>
+		<company>京王電鉄</company>
+		<type>7000系(新塗装)</type>
+		<name>京王線など</name>
 		<author>Altima</author>
-		<description>2001�N���珉���̎ԗ��𒆐S�ɓ��O���̍X�V�H�������{�A�]���̃G���W�т���Ԑ�2�F�тɕύX���ꂽ�B�ǂ��Ė��X�V�̎ԗ��ɂ����l�̓h�F�ύX���s�Ȃ�ꂽ�B</description>
+		<description>2001年から初期の車両を中心に内外装の更新工事を実施、従来のエンジ帯から赤青2色帯に変更された。追って未更新の車両にも同様の塗色変更が行なわれた。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -284,7 +284,7 @@
 	</contribution>
 
 
-	<!-- 8000�n�擪�� -->
+	<!-- 8000系先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO11C008000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -294,7 +294,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-	<!-- 8000�n���Ԏ� -->
+	<!-- 8000系中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO12C008000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -304,18 +304,18 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- 8000�n����� -->
+	<!-- 8000系後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO13C008000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO11C008000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO10C008000}">
-		<company>�����d�S</company>
-		<type>8000�n</type>
-		<name>������,���͌���,������</name>
+		<company>京王電鉄</company>
+		<type>8000系</type>
+		<name>京王線,相模原線,高尾線</name>
 		<author>Altima</author>
-		<description>1992�N�ɓo�ꂵ����������GTO-VVVF�ԁB�V���ȃR�[�|���[�g�J���[�ł���`�F���[���b�h�A�C���f�B�S�u���[�̑т������A90�N��̋����̃C���[�W���[�_�[�ƂȂ����B6�A�{4�A�A8�A������B�s�c�V�h����������ɂ͎g���Ȃ��B</description>
+		<description>1992年に登場した京王初のGTO-VVVF車。新たなコーポレートカラーであるチェリーレッド、インディゴブルーの帯を巻き、90年代の京王のイメージリーダーとなった。6連＋4連、8連がある。都営新宿線内乗り入れには使われない。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -330,11 +330,11 @@
 
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO20C008000}">
-		<company>�����d�S</company>
-		<type>8000�n(6�A�{4�A)</type>
+		<company>京王電鉄</company>
+		<type>8000系(6連＋4連)</type>
 		<name></name>
 		<author>Altima</author>
-		<description>6�A�{4�A��10���Ґ����Č��B(10���Ґ��̂ݍw���\)</description>
+		<description>6連＋4連の10両編成を再現。(10両編成のみ購入可能)</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -349,7 +349,7 @@
 	</contribution>
 
 
-	<!-- 9000�n�擪�� -->
+	<!-- 9000系先頭車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO11D009000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -359,7 +359,7 @@
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
 
-	<!-- 9000�n���Ԏ� -->
+	<!-- 9000系中間車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO12D009000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -369,18 +369,18 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- 9000�n����� -->
+	<!-- 9000系後尾車 -->
 	<contribution type="trainCar" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO13D009000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{C8A90EE2-2C5E-4F1E-ALTM-KEO11D009000}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO10D009000}">
-		<company>�����d�S</company>
-		<type>9000�n</type>
-		<name>������,���͌���,������</name>
+		<company>京王電鉄</company>
+		<type>9000系</type>
+		<name>京王線,相模原線,高尾線</name>
 		<author>Altima</author>
-		<description>2000�N�ɓo�ꂵ�������̍ŐV�s�ԗ��BIGBT-VVVF��Ў������V�[�g���̗p�A8000�n�ɔ�ׂē��Ƀo���A�t���[���������Ă���B�s�c�V�h��������ɂ��Ή����邪�A�s���ɂ��܂��^�p����Ă��Ȃ��B8���Ґ��݂̂̂��߁A10�A�^�p����Ƃ���6000�n�܂���7000�n2�A�𑝌�����B</description>
+		<description>2000年に登場した京王の最新鋭車両。IGBT-VVVFや片持ち式シートを採用、8000系に比べて特にバリアフリーを強化している。都営新宿線乗り入れにも対応するが、都合によりまだ運用されていない。8両編成のみのため、10連運用するときは6000系または7000系2連を増結する。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -395,11 +395,11 @@
 
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO20D009000}">
-		<company>�����d�S</company>
-		<type>9000�n�{6000�n</type>
+		<company>京王電鉄</company>
+		<type>9000系＋6000系</type>
 		<name></name>
 		<author>Altima</author>
-		<description>�u���}�v�ȂǗD����ԂƂ��ĉ^�p����鎞�͎��6000�n2�A�𑝌���10���Ґ��ƂȂ�B(10���Ґ��̂ݍw���\)</description>
+		<description>「特急」など優等列車として運用される時は主に6000系2連を増結し10両編成となる。(10両編成のみ購入可能)</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -417,11 +417,11 @@
 
 
 	<contribution type="train" id="{C8A90EE2-2C5E-4F1E-ALTM-KEO30D009000}">
-		<company>�����d�S</company>
-		<type>9000�n�{7000�n</type>
+		<company>京王電鉄</company>
+		<type>9000系＋7000系</type>
 		<name></name>
 		<author>Altima</author>
-		<description>�����H��7000�n2�A�𑝌����邱�Ƃ�����B(10���Ґ��̂ݍw���\)</description>
+		<description>ごく稀に7000系2連を増結することもある。(10両編成のみ購入可能)</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

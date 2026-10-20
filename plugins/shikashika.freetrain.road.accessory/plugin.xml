@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY fb-skyblue '
@@ -29,122 +29,122 @@
 
 <plug-in>
 
-<title>“¹˜HƒAƒNƒZƒTƒŠ</title>
+<title>é“è·¯ã‚¢ã‚¯ã‚»ã‚µãƒª</title>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<!-- •à“¹‹´ -->
+<!-- æ­©é“æ©‹ -->
 	
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1}">
-<name>•à“¹‹´</name>
+<name>æ­©é“æ©‹</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge1.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1l}">
-<name>•à“¹‹´(¶)</name>
+<name>æ­©é“æ©‹(å·¦)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge1l.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1r}">
-<name>•à“¹‹´(‰E)</name>
+<name>æ­©é“æ©‹(å³)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge1r.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1m}">
-<name>•à“¹‹´(’†‰›)</name>
+<name>æ­©é“æ©‹(ä¸­å¤®)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge1m.bmp"/>
 </sprite>
 </contribution>
 
-<!-- •à“¹‹´(—†ùŠK’i) -->
+<!-- æ­©é“æ©‹(èžºæ—‹éšŽæ®µ) -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2}">
-<name>•à“¹‹´(—†ù)</name>
+<name>æ­©é“æ©‹(èžºæ—‹)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge2.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2l}">
-<name>•à“¹‹´(—†ù¶)</name>
+<name>æ­©é“æ©‹(èžºæ—‹å·¦)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge2l.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2r}">
-<name>•à“¹‹´(—†ù‰E)</name>
+<name>æ­©é“æ©‹(èžºæ—‹å³)</name>
 <sprite>&fb-skyblue;
 <picture src="r_a_footbridge2r.bmp"/>
 </sprite>
 </contribution>
 
-<!-- •à“¹‹´(”’) -->
+<!-- æ­©é“æ©‹(ç™½) -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1w}">
-<name>•à“¹‹´(”’)</name>
+<name>æ­©é“æ©‹(ç™½)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge1.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1wl}">
-<name>•à“¹‹´(”’,¶)</name>
+<name>æ­©é“æ©‹(ç™½,å·¦)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge1l.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1wr}">
-<name>•à“¹‹´(”’,‰E)</name>
+<name>æ­©é“æ©‹(ç™½,å³)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge1r.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge1wm}">
-<name>•à“¹‹´(”’,’†‰›)</name>
+<name>æ­©é“æ©‹(ç™½,ä¸­å¤®)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge1m.bmp"/>
 </sprite>
 </contribution>
 
-<!-- •à“¹‹´(”’,—†ùŠK’i) -->
+<!-- æ­©é“æ©‹(ç™½,èžºæ—‹éšŽæ®µ) -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2w}">
-<name>•à“¹‹´(”’,—†ù)</name>
+<name>æ­©é“æ©‹(ç™½,èžºæ—‹)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge2.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2wl}">
-<name>•à“¹‹´(”’,—†ù¶)</name>
+<name>æ­©é“æ©‹(ç™½,èžºæ—‹å·¦)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge2l.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-footbridge2wr}">
-<name>•à“¹‹´(”’,—†ù‰E)</name>
+<name>æ­©é“æ©‹(ç™½,èžºæ—‹å³)</name>
 <sprite>&fb-white;
 <picture src="r_a_footbridge2r.bmp"/>
 </sprite>
 </contribution>
 
 
-<!-- ’n‰º“¹“üŒû -->
+<!-- åœ°ä¸‹é“å…¥å£ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-underpass1}">
-<name>’n‰º“¹“üŒû</name>
+<name>åœ°ä¸‹é“å…¥å£</name>
 <sprite>
 <picture src="r_a_underpass1.bmp">
 <override when="night" src="r_a_underpass1n.bmp"/>
@@ -153,7 +153,7 @@
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-underpass1l}">
-<name>’n‰º“¹“üŒû(¶)</name>
+<name>åœ°ä¸‹é“å…¥å£(å·¦)</name>
 <sprite>
 <picture src="r_a_underpass1l.bmp">
 <override when="night" src="r_a_underpass1ln.bmp"/>
@@ -162,7 +162,7 @@
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-underpass1r}">
-<name>’n‰º“¹“üŒû(‰E)</name>
+<name>åœ°ä¸‹é“å…¥å£(å³)</name>
 <sprite>
 <picture src="r_a_underpass1r.bmp">
 <override when="night" src="r_a_underpass1rn.bmp"/>
@@ -171,7 +171,7 @@
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-subway1}">
-<name>’n‰º“S“üŒû</name>
+<name>åœ°ä¸‹é‰„å…¥å£</name>
 <sprite>
 <picture src="r_a_subway1.bmp">
 <override when="night" src="r_a_subway1n.bmp"/>
@@ -179,10 +179,10 @@
 </sprite>
 </contribution>
 
-<!-- ’n‰º“S“üŒû -->
+<!-- åœ°ä¸‹é‰„å…¥å£ -->
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-subway1l}">
-<name>’n‰º“S“üŒû(¶)</name>
+<name>åœ°ä¸‹é‰„å…¥å£(å·¦)</name>
 <sprite>
 <picture src="r_a_subway1l.bmp">
 <override when="night" src="r_a_subway1ln.bmp"/>
@@ -191,7 +191,7 @@
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-subway1r}">
-<name>’n‰º“S“üŒû(‰E)</name>
+<name>åœ°ä¸‹é‰„å…¥å£(å³)</name>
 <sprite>
 <picture src="r_a_subway1r.bmp">
 <override when="night" src="r_a_subway1rn.bmp"/>
@@ -199,61 +199,61 @@
 </sprite>
 </contribution>
 
-<!-- ‹´‹r -->
+<!-- æ©‹è„š -->
 	
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-pier1r-w}">
-<name>‹´‹r(‰E)</name>
+<name>æ©‹è„š(å³)</name>
 <sprite>&fb-white;
 <picture src="r_a_pier1r.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-pier1l-w}">
-<name>‹´‹r(¶)</name>
+<name>æ©‹è„š(å·¦)</name>
 <sprite>&fb-white;
 <picture src="r_a_pier1l.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-pier2r-w}">
-<name>‹´‹r(×,‰E)</name>
+<name>æ©‹è„š(ç´°,å³)</name>
 <sprite>&fb-white;
 <picture src="r_a_pier2r.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-pier2l-w}">
-<name>‹´‹r(×,¶)</name>
+<name>æ©‹è„š(ç´°,å·¦)</name>
 <sprite>&fb-white;
 <picture src="r_a_pier2l.bmp"/>
 </sprite>
 </contribution>
 
-<!-- ’¹‹ -->
+<!-- é³¥å±… -->
 	
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-torii01-c}">
-<name>’¹‹(ŠD)</name>
+<name>é³¥å±…(ç°)</name>
 <sprite>&fb-concrete;
 <picture src="r_a_torii1.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-torii01-v}">
-<name>’¹‹(Žé)</name>
+<name>é³¥å±…(æœ±)</name>
 <sprite>&fb-vermilion;
 <picture src="r_a_torii1.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-torii02-c}">
-<name>’¹‹(‘å,ŠD)</name>
+<name>é³¥å±…(å¤§,ç°)</name>
 <sprite>&fb-concrete;
 <picture src="r_a_torii2.bmp"/>
 </sprite>
 </contribution>
 
 <contribution type="roadAccessory" id="{FreeTrain-Shika-Road-Accessory-torii02-v}">
-<name>’¹‹(‘å,Žé)</name>
+<name>é³¥å±…(å¤§,æœ±)</name>
 <sprite>&fb-vermilion;
 <picture src="r_a_torii2.bmp"/>
 </sprite>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY t400 '
 	<name>T400</name>
         <price>300000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆê”Ê“S“¹•t‘®•¨"/>
+		<category byname="ä¸€èˆ¬é‰„é“ä»˜å±žç‰©"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -14,11 +14,11 @@
 	</population>
 '>
 <!ENTITY railtruck '
-	<name>ƒŒ[ƒ‹‰^”À—pƒgƒƒbƒR</name>
+	<name>ãƒ¬ãƒ¼ãƒ«é‹æ¬ç”¨ãƒˆãƒ­ãƒƒã‚³</name>
         <price>120000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆê”Ê“S“¹•t‘®•¨"/>
+		<category byname="ä¸€èˆ¬é‰„é“ä»˜å±žç‰©"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -29,8 +29,8 @@
 '>]>
 
 <plug-in>
-	<title>•ÛüŽÔ—¼</title>
-	<author>‚è‚¨‚è‚¨@©ì‰æHermes</author>
+	<title>ä¿ç·šè»Šä¸¡</title>
+	<author>ã‚ŠãŠã‚ŠãŠã€€â†ä½œç”»Hermes</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/fretrain/</homepage>
 		
 	<contribution type="picture" id="{riorio-HERM-railbuilding-picture-t400A-0001}">
@@ -49,7 +49,7 @@
 	
 	<contribution type="GenericStructure" id="{riorio-HERM-railbuilding-t400-01-9DC15A63C612}">
 		&t400;
-		<design>—ó‰Îƒoƒ‰ƒXƒg</design>
+		<design>çƒˆç«ãƒãƒ©ã‚¹ãƒˆ</design>
 
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-HERM-railbuilding-picture-t400A-0001}"/>
@@ -68,7 +68,7 @@
 
 	<contribution type="GenericStructure" id="{riorio-HERM-railbuilding-t400-02-9DC15A63C612}">
 		&t400;
-		<design>TAKUROUƒoƒ‰ƒXƒg</design>
+		<design>TAKUROUãƒãƒ©ã‚¹ãƒˆ</design>
 
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-HERM-railbuilding-picture-t400A-0002}"/>
@@ -88,7 +88,7 @@
 
         <contribution type="GenericStructure" id="{riorio-HERM-railbuild-truck-01-739EC56EF56D}">
 		&railtruck;
-		<design>—ó‰Îƒoƒ‰ƒXƒg</design>
+		<design>çƒˆç«ãƒãƒ©ã‚¹ãƒˆ</design>
 
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-HERM-railbuilding-picture-rtruck-0001}"/>
@@ -101,7 +101,7 @@
 
         <contribution type="GenericStructure" id="{riorio-HERM-railbuild-truck-02-739EC56EF56D}">
 		&railtruck;
-		<design>TAKUROUƒoƒ‰ƒXƒg</design>
+		<design>TAKUROUãƒãƒ©ã‚¹ãƒˆ</design>
 
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-HERM-railbuilding-picture-rtruck-0002}"/>

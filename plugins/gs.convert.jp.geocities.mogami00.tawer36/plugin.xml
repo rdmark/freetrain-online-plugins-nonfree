@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
  <plug-in>
-  <title>建物総合コンバート　モガミ</title>
-  <author>りおりお</author>
+  <title>蟒ｺ迚ｩ邱丞粋繧ｳ繝ｳ繝舌�ｼ繝医繝｢繧ｬ繝�</title>
+  <author>繧翫♀繧翫♀</author>
   <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
   <depend on="jp.geocities.mogami00.tawer36" />
 
   <contribution type="GenericStructure" id="{37DF0EE7-6EA7-4D07-BE5A-FDD33FC9E91A}-gs" >
-   <group>貸しビル01号</group>
+   <group>雋ｸ縺励ン繝ｫ01蜿ｷ</group>
    <price>550000000</price>
    <size>3,3</size>
    <structure>
-    <category byname="貸事務所"/> 
+    <category byname="雋ｸ莠句漁謇"/> 
    </structure>
    <height>10</height>
    <population>

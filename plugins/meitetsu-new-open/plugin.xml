@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>���É��S��</title>
-	<author>���X�ؗ�����</author>
+	<title>名古屋鉄道</title>
+	<author>佐々木利恩音</author>
 	<homepage>http://blog.livedoor.jp/sasakirione/</homepage>
 	
-        <!-- 5000�n�擪 -->
+        <!-- 5000系先頭 -->
 	<contribution type="trainCar" id="{sasaki-train-meitetsu5000-5000F-709E989B8B9F-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -14,7 +14,7 @@
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
 
-	<!-- 5000�n���� -->
+	<!-- 5000系中間 -->
 	<contribution type="trainCar" id="{sasaki-train-meitetsu5000-5000F-709E989B8B9F-2}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -24,27 +24,27 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-	<!-- 5000�n��� -->
+	<!-- 5000系後尾 -->
 	<contribution type="trainCar" id="{sasaki-train-meitetsu5000-5000F-709E989B8B9F-3}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{sasaki-train-meitetsu5000-5000F-709E989B8B9F-1}"/>
 	</contribution>
 
 	<contribution type="train" id="{sasaki-train-meitetsu5000-5000F-709E989B8B9F}">
-<company>���É��S��</company>
-<type>5000�n</type>
-<name>5000�n�ꎟ��</name>
+<company>名古屋鉄道</company>
+<type>5000系</type>
+<name>5000系一次車</name>
 <speed>medium</speed>
-<author>���X�ؗ�����</author>
+<author>佐々木利恩音</author>
 <fare>400</fare>
 <price>28000000</price>
 <amenity>100</amenity>
-<description>���}��Ԃ̉^�s�̌n�������ɂ��A
-2000�n�u�~���[�X�J�C�v�ŉ^�]����钆�����ۋ�`�A�N�Z�X���}�ȊO�̗�Ԃ�
-���ׂĈ�ʎԂ�A�������ꕔ���ʎԕҐ��ɕύX����邱�ƂƂȂ����B
-����ɂ��]��p�ԂƂȂ�1000�n�̑S�ԓ��ʎԕҐ������v�@��𗬗p���A
-�V�K�ɐ������ꂽ�ԑ̂Ƒg�ݍ��킹�Ēa�������̂����̗�Ԃł���B
-3�h�A�A�I�[�������O�V�[�g�A�t���J���[LED�\��</description>
+<description>特急列車の運行体系見直しにより、
+2000系「ミュースカイ」で運転される中部国際空港アクセス特急以外の列車は
+すべて一般車を連結した一部特別車編成に変更されることとなった。
+これにより余剰廃車となる1000系の全車特別車編成から主要機器を流用し、
+新規に製造された車体と組み合わせて誕生したのがこの列車である。
+3ドア、オールロングシート、フルカラーLED表示</description>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
 <car char="a" ref="{sasaki-train-meitetsu5000-5000F-709E989B8B9F-1}"/>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
  <plug-in>
- <title>神風財閥ビル</title> 
- <author>モガミ</author> 
+ <title>逾樣｢ｨ雋｡髢･繝薙Ν</title> 
+ <author>繝｢繧ｬ繝�</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-building-kamikaze-picture-27CE13BAF090}">
  <picture src="kamikazeb.bmp">
@@ -9,9 +9,9 @@
  </picture>
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-kamikaze-14763E0C38D5}">
- <group>神風財閥ビル</group> 
+ <group>逾樣｢ｨ雋｡髢･繝薙Ν</group> 
  <structure>
- <category byname="貸事務所" /> 
+ <category byname="雋ｸ莠句漁謇" /> 
  </structure>
  <price>550000000</price>  
  <computerCannotBuild /> 

@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒŒ[ƒ‹Œ^“¹˜Hƒvƒ‰ƒOƒCƒ“</title>
-	<author>‚µ‚Ì</author>
+	<title>ãƒ¬ãƒ¼ãƒ«åž‹é“è·¯ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>ã—ã®</author>
 	<homepage></homepage>
 	
 	<contribution type="road" id="{1D9E6967-3BDF-4A26-89B0-52179C499E03}-A">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œœ‚Ž®ƒ‚ƒmƒŒ[ƒ‹—pƒŒ[ƒ‹/ƒŒ[ƒ‹1</name>
-		<description>Œœ‚Ž®ƒ‚ƒmƒŒ[ƒ‹—p‚ÌƒŒ[ƒ‹</description>
+		<name>æ‡¸åž‚å¼ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ãƒ¬ãƒ¼ãƒ«/ãƒ¬ãƒ¼ãƒ«1</name>
+		<description>æ‡¸åž‚å¼ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ã®ãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="mono1.bmp" size="32,32" offset="16" />
 	</contribution>
 
         <contribution type="road" id="{1D9E6967-3BDF-4A26-89B0-52179C499E03}-B">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œœ‚Ž®ƒ‚ƒmƒŒ[ƒ‹—pƒŒ[ƒ‹/ƒŒ[ƒ‹2</name>
-		<description>Œœ‚Ž®ƒ‚ƒmƒŒ[ƒ‹—p‚ÌƒŒ[ƒ‹</description>
+		<name>æ‡¸åž‚å¼ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ãƒ¬ãƒ¼ãƒ«/ãƒ¬ãƒ¼ãƒ«2</name>
+		<description>æ‡¸åž‚å¼ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ã®ãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="mono2.bmp" size="32,32" offset="16" />
 	</contribution>
 
         <contribution type="road" id="{1D9E6967-3BDF-4A26-89B0-52179C499E03}-C">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚ä‚è‚©‚à‚ß—pƒŒ[ƒ‹/ƒŒ[ƒ‹1</name>
-		<description>‚ä‚è‚©‚à‚ß—p‚ÌƒŒ[ƒ‹</description>
+		<name>ã‚†ã‚Šã‹ã‚‚ã‚ç”¨ãƒ¬ãƒ¼ãƒ«/ãƒ¬ãƒ¼ãƒ«1</name>
+		<description>ã‚†ã‚Šã‹ã‚‚ã‚ç”¨ã®ãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="yurikamome1.bmp" size="32,32" offset="16" />
 	</contribution>
 
         <contribution type="road" id="{1D9E6967-3BDF-4A26-89B0-52179C499E03}-D">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚ä‚è‚©‚à‚ß—pƒŒ[ƒ‹/ƒŒ[ƒ‹2</name>
-		<description>‚ä‚è‚©‚à‚ß—p‚ÌƒŒ[ƒ‹</description>
+		<name>ã‚†ã‚Šã‹ã‚‚ã‚ç”¨ãƒ¬ãƒ¼ãƒ«/ãƒ¬ãƒ¼ãƒ«2</name>
+		<description>ã‚†ã‚Šã‹ã‚‚ã‚ç”¨ã®ãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="yurikamome2.bmp" size="32,32" offset="16" />
 	</contribution>
 

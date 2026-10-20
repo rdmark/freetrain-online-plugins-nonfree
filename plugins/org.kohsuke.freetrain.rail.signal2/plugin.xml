@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“S“¹—pM†‹@</title>
-	<author>‰Ô•H‚³‚ñ</author>
+	<title>é‰„é“ç”¨ä¿¡å·æ©Ÿ</title>
+	<author>èŠ±è±ã•ã‚“</author>
 	<homepage></homepage>
 		
-	<!-- ’âŽÔˆÊ’u•[ -->
+	<!-- åœè»Šä½ç½®ç¥¨ -->
 	<contribution type="railSignal" id="{6FA55843-E694-4140-A121-0A3D0C613B22}-r">
-		<name>’âŽÔˆÊ’u•[</name> 
+		<name>åœè»Šä½ç½®ç¥¨</name> 
  		<side>left</side> 
  		<picture src="teisyaba.bmp" /> 
  	</contribution>
 
-	<!-- —U“±M†‹@ -->
+	<!-- èª˜å°Žä¿¡å·æ©Ÿ -->
 	<contribution type="railSignal" id="{6FA55844-E695-4141-A122-0A3D0C613B23}-r">
-		<name>—U“±M†‹@</name> 
+		<name>èª˜å°Žä¿¡å·æ©Ÿ</name> 
  		<side>left</side> 
  		<picture src="yuudou.bmp" /> 
  	</contribution>
 
-	<!-- “üŠ·M†‹@ -->
+	<!-- å…¥æ›ä¿¡å·æ©Ÿ -->
 	<contribution type="railSignal" id="{6FA55844-E695-4141-A133-0A3D0C613B23}-r">
-		<name>“üŠ·M†‹@</name> 
+		<name>å…¥æ›ä¿¡å·æ©Ÿ</name> 
  		<side>left</side> 
  		<picture src="iresin0.bmp" > 
 			<override when="night" src="iresin1.bmp" />

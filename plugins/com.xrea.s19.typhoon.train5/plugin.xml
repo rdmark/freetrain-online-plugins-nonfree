@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�ԗ��Z�b�g�@5����</title>
+	<title>車両セット　5号車</title>
 	<homepage></homepage>
 
-	<!-- 413�n �擪��-->
+	<!-- 413系 先頭車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-413A-8FE0-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -12,7 +12,7 @@
 		<capacity>118</capacity>
 		<seatedcapacity>65</seatedcapacity>
 	</contribution>
-	<!-- 413�n ���Ԏ�-->
+	<!-- 413系 中間車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-413A-8FE0-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -21,18 +21,18 @@
 		<capacity>132</capacity>
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
-	<!-- 413�n �����-->
+	<!-- 413系 後尾車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-413A-8FE0-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-413A-8FE0-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{57644AE6-7FFA-A413-8FE0-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>413�n</type>
+		<company>JR西日本</company>
+		<type>413系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>1986�N����1989�N�ɂ����Ėk���{���̃��[�J����ԗp�Ƃ��āA471�E473�n�}�s�`�𒼗��d�Ԃ̋@��𗬗p����417�n�ɏ�����2���Z�~�N���X�V�[�g�̐V���ԑ̂�g�ݍ��킹���ԗ��ł��B</description>
+		<author>たいふ～ん</author>
+		<description>1986年から1989年にかけて北陸本線のローカル列車用として、471・473系急行形交直流電車の機器を流用して417系に準じた2扉セミクロスシートの新製車体を組み合わせた車両です。</description>
 		<fare>500</fare>
 		<price>30000000</price>
 		<amenity>100</amenity>
@@ -46,7 +46,7 @@
 	</contribution>
 
 
-	<!-- 205�n-1000�擪�� -->
+	<!-- 205系-1000先頭車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205A-8FE0-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -55,18 +55,18 @@
 		<capacity>136</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 205�n-1000����� -->
+	<!-- 205系-1000後尾車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205A-8FE0-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-205A-8FE0-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{57644AE6-7FFA-A205-8FE0-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>205�n</type>
-		<name>1000�ԑ� �앐�x��</name>
-		<author>�����Ӂ`��</author>
-		<description>(8���܂ł̋������̂ݕҐ���)</description>
+		<company>JR東日本</company>
+		<type>205系</type>
+		<name>1000番台 南武支線</name>
+		<author>たいふ～ん</author>
+		<description>(8両までの偶数両のみ編成可)</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -84,7 +84,7 @@
 	</contribution>
 
 
-	<!-- 205�n-3100�擪�� -->
+	<!-- 205系-3100先頭車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205B-8FE0-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -101,7 +101,7 @@
 		<capacity>142</capacity>
 		<seatedcapacity>42</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3100 ���Ԏ�-->
+	<!-- 205系-3100 中間車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205B-8FE0-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -110,16 +110,16 @@
 		<capacity>157</capacity>
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3100����� -->
+	<!-- 205系-3100後尾車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205B-8FE0-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-205B-8FE0-7567171D3CEF}-h"/>
 	</contribution>
 	<contribution type="train" id="{57644AE6-7FFA-B205-8FE0-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>205�n</type>
-		<name>3100�ԑ� ��ΐ�</name>
-		<author>�����Ӂ`��</author>
+		<company>JR東日本</company>
+		<type>205系</type>
+		<name>3100番台 仙石線</name>
+		<author>たいふ～ん</author>
 		<description></description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -133,7 +133,7 @@
 	</contribution>
 
 
-	<!-- 205�n-3100-2way�擪�� -->
+	<!-- 205系-3100-2way先頭車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-a">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -150,7 +150,7 @@
 		<capacity>126</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3100-2way�擪��2 -->
+	<!-- 205系-3100-2way先頭車2 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-b">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -167,12 +167,12 @@
 		<capacity>126</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3100-2way����� -->
+	<!-- 205系-3100-2way後尾車 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-c">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-b"/>
 	</contribution>
-	<!-- 205�n-3100-2way���Ԏ�1 -->
+	<!-- 205系-3100-2way中間車1 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-d">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -186,7 +186,7 @@
 		<capacity>157</capacity>
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3100-2way���Ԏ�2 -->
+	<!-- 205系-3100-2way中間車2 -->
 	<contribution type="trainCar" id="{57644AE6-7FFA-205C-8FE0-7567171D3CEF}-e">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -201,11 +201,11 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 	<contribution type="train" id="{57644AE6-7FFA-C205-8FE0-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>205�n</type>
-		<name>3100�ԑ�2way�V�[�g ��ΐ�</name>
-		<author>�����Ӂ`��</author>
-		<description>(4���A8���̂ݕҐ���)</description>
+		<company>JR東日本</company>
+		<type>205系</type>
+		<name>3100番台2wayシート 仙石線</name>
+		<author>たいふ～ん</author>
+		<description>(4両、8両のみ編成可)</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -224,7 +224,7 @@
 	</contribution>
 
 
-	<!-- 205�n-3000�擪�� -->
+	<!-- 205系-3000先頭車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20530K-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -241,7 +241,7 @@
 		<capacity>145</capacity>
 		<seatedcapacity>45</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3000 ���Ԏ�-->
+	<!-- 205系-3000 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20530K-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -256,18 +256,18 @@
 		<capacity>157</capacity>
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
-	<!-- 205�n-3000����� -->
+	<!-- 205系-3000後尾車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20530K-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRE-20530K-7567171D3CEF}-h"/>
 	</contribution>
 	<contribution type="train" id="{TYPHOON-JRE-20530K-HENSEI-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>205�n</type>
-		<name>3000�ԑ� ������</name>
-		<author>�����Ӂ`��</author>
-		<description>�R����Ŏg�p����Ă���205�n�����ƂɁA�T�n2���ɉ^�]����t���������s���N�n�Ƃ��ă��n������Ő��܂ꂽ4���Ґ��ł���B
-�������h�A�{�^���̑��݂Ȃǂ��s���Ă���B</description>
+		<company>JR東日本</company>
+		<type>205系</type>
+		<name>3000番台 八高線</name>
+		<author>たいふ～ん</author>
+		<description>山手線で使用されていた205系をもとに、サハ2両に運転台取り付け改造を行いクハとしてモハを挟んで生まれた4両編成である。
+半自動ドアボタンの増設なども行われている。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -279,7 +279,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 205�n-1200�擪�� -->
+	<!-- 205系-1200先頭車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20512K-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -296,7 +296,7 @@
 		<capacity>145</capacity>
 		<seatedcapacity>45</seatedcapacity>
 	</contribution>
-	<!-- 205�n-1200 ���Ԏ�-->
+	<!-- 205系-1200 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20512K-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -311,17 +311,17 @@
 		<capacity>154</capacity>
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
-	<!-- 205�n-1200����� -->
+	<!-- 205系-1200後尾車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-20512K-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRE-20512K-7567171D3CEF}-h"/>
 	</contribution>
 	<contribution type="train" id="{TYPHOON-JRE-20512K-HENSEI-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>205�n</type>
-		<name>1200�ԑ� �앐��</name>
-		<author>�����Ӂ`��</author>
-		<description>�앐����205�n�̂����A�擪�ԗ����R����Ŏg�p����Ă����T�n�ɉ^�]����t�������ł܂��Ȃ������̂�1200�ԑ�ł��B</description>
+		<company>JR東日本</company>
+		<type>205系</type>
+		<name>1200番台 南武線</name>
+		<author>たいふ～ん</author>
+		<description>南武線の205系のうち、先頭車両を山手線で使用されていたサハに運転台取り付け改造でまかなったものが1200番台です。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -333,7 +333,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 883�n �擪��-->
+	<!-- 883系 先頭車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -342,7 +342,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 883�n �擪��white-->
+	<!-- 883系 先頭車white-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-wh">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -351,7 +351,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 883�n ���Ԏ�-->
+	<!-- 883系 中間車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -360,24 +360,24 @@
 		<capacity>56</capacity>
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
-	<!-- 883�n �����-->
+	<!-- 883系 後尾車-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-h"/>
 	</contribution>
-	<!-- 883�n �����white-->
+	<!-- 883系 後尾車white-->
 	<contribution type="trainCar" id="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-wt">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{57644AE6-7FFA-883A-8FE0-7567171D3CEF}-wh"/>
 	</contribution>
 
 	<contribution type="train" id="{57644AE6-7FFA-A883-8FE0-7567171D3CEF}">
-		<company>JR��B</company>
-		<type>883�n</type>
+		<company>JR九州</company>
+		<type>883系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>�����Ƒ啪�����ԁu�\�j�b�N�v�Ɏg�p����Ă�����}�`��ԁB����t���U��q�ŋȐ��������ʉ߂ł���B
-���̕Ґ��̓��j���[�A���O�̎p�ł��B</description>
+		<author>たいふ～ん</author>
+		<description>博多と大分を結ぶ「ソニック」に使用されている特急形列車。制御付き振り子で曲線も高速通過できる。
+この編成はリニューアル前の姿です。</description>
 		<fare>800</fare>
 		<price>60000000</price>
 		<amenity>140</amenity>
@@ -390,12 +390,12 @@
 		</composition>
 	</contribution>
 	<contribution type="train" id="{57644AE6-7FFA-B883-8FE0-7567171D3CEF}">
-		<company>JR��B</company>
-		<type>883�n</type>
-		<name>�O�ʔ�</name>
-		<author>�����Ӂ`��</author>
-		<description>�����Ƒ啪�����ԁu�\�j�b�N�v�Ɏg�p����Ă�����}�`��ԁB����t���U��q�ŋȐ��������ʉ߂ł���B
-���̕Ґ��̓��j���[�A���O�̎p�ł��B</description>
+		<company>JR九州</company>
+		<type>883系</type>
+		<name>前面白</name>
+		<author>たいふ～ん</author>
+		<description>博多と大分を結ぶ「ソニック」に使用されている特急形列車。制御付き振り子で曲線も高速通過できる。
+この編成はリニューアル前の姿です。</description>
 		<fare>800</fare>
 		<price>60000000</price>
 		<amenity>140</amenity>
@@ -408,7 +408,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 651�n �擪��-->
+	<!-- 651系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-651-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -417,7 +417,7 @@
 		<capacity>56</capacity>
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
-	<!-- 651�n ���Ԏ�-->
+	<!-- 651系 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-651-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -426,18 +426,18 @@
 		<capacity>64</capacity>
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
-	<!-- 651�n �����-->
+	<!-- 651系 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-651-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRE-651-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JRE-651-HENSEI-7567171D3CEF}">
-		<company>JR�����{</company>
-		<type>651�n</type>
-		<name>�X�[�p�[�Ђ���</name>
-		<author>�����Ӂ`��</author>
-		<description>1989�N����c�Ƃ��J�n�����A�u�X�[�p�[�Ђ����v�p���}�ԗ��B</description>
+		<company>JR東日本</company>
+		<type>651系</type>
+		<name>スーパーひたち</name>
+		<author>たいふ～ん</author>
+		<description>1989年から営業を開始した、「スーパーひたち」用特急車両。</description>
 		<fare>800</fare>
 		<price>56000000</price>
 		<amenity>130</amenity>
@@ -450,7 +450,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 113�n�l���X�V��1 �擪��-->
+	<!-- 113系四国更新車1 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113AOMIDO-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -459,7 +459,7 @@
 		<capacity>121</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��1 ���Ԏ�-->
+	<!-- 113系四国更新車1 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113AOMIDO-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -468,18 +468,18 @@
 		<capacity>134</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��1 �����-->
+	<!-- 113系四国更新車1 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113AOMIDO-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRS-113AOMIDO-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JRS-113AOMIDO-HENSEI-7567171D3CEF}">
-		<company>JR�l��</company>
-		<type>113�n</type>
-		<name>�X�V�ԁi�E�΁j</name>
-		<author>�����Ӂ`��</author>
-		<description>JR�l���ł́AJR�����{������n���ꂽ113�n���A�]���N���X�V�[�g�Ɏ��ւ��h������V����ȂǍX�V���s���Ďg�p���Ă���B</description>
+		<company>JR四国</company>
+		<type>113系</type>
+		<name>更新車（青・緑）</name>
+		<author>たいふ～ん</author>
+		<description>JR四国では、JR東日本から譲渡された113系を、転換クロスシートに取り替え塗装も一新するなど更新を行って使用している。</description>
 		<fare>500</fare>
 		<price>35000000</price>
 		<triprange>middle</triprange>
@@ -492,7 +492,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 113�n�l���X�V��2 �擪��-->
+	<!-- 113系四国更新車2 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113MOAKA-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -510,7 +510,7 @@
 		<capacity>121</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��2 ���Ԏ�-->
+	<!-- 113系四国更新車2 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113MOAKA-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -527,18 +527,18 @@
 		<capacity>134</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��2 �����-->
+	<!-- 113系四国更新車2 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113MOAKA-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRS-113MOAKA-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JRS-113MOAKA-HENSEI-7567171D3CEF}">
-		<company>JR�l��</company>
-		<type>113�n</type>
-		<name>�X�V�ԁi���E�ԁj</name>
-		<author>�����Ӂ`��</author>
-		<description>JR�l���ł́AJR�����{������n���ꂽ113�n���A�]���N���X�V�[�g�Ɏ��ւ��h������V����ȂǍX�V���s���Ďg�p���Ă���B</description>
+		<company>JR四国</company>
+		<type>113系</type>
+		<name>更新車（桃・赤）</name>
+		<author>たいふ～ん</author>
+		<description>JR四国では、JR東日本から譲渡された113系を、転換クロスシートに取り替え塗装も一新するなど更新を行って使用している。</description>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>105</amenity>
@@ -551,7 +551,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 113�n�l���X�V��3 �擪��-->
+	<!-- 113系四国更新車3 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113OREKI-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -569,7 +569,7 @@
 		<capacity>121</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��3 ���Ԏ�-->
+	<!-- 113系四国更新車3 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113OREKI-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -586,7 +586,7 @@
 		<capacity>134</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- 113�n�l���X�V��3 �����-->
+	<!-- 113系四国更新車3 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-JRS-113OREKI-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRS-113OREKI-7567171D3CEF}-h"/>
@@ -596,11 +596,11 @@
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JRS-113OREKI-HENSEI-7567171D3CEF}">
-		<company>JR�l��</company>
-		<type>113�n</type>
-		<name>�X�V�ԁi���E��j</name>
-		<author>�����Ӂ`��</author>
-		<description>JR�l���ł́AJR�����{������n���ꂽ113�n���A�]���N���X�V�[�g�Ɏ��ւ��h������V����ȂǍX�V���s���Ďg�p���Ă���B</description>
+		<company>JR四国</company>
+		<type>113系</type>
+		<name>更新車（黄・橙）</name>
+		<author>たいふ～ん</author>
+		<description>JR四国では、JR東日本から譲渡された113系を、転換クロスシートに取り替え塗装も一新するなど更新を行って使用している。</description>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>105</amenity>
@@ -613,7 +613,7 @@
 		</composition>
 	</contribution>
 
-	<!--�L�n08-->
+	<!--キハ08-->
 	<contribution type="trainCar" id="{TYPHOON-KAYA-KIHA083-7567171D3CEF}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -623,12 +623,12 @@
 		<seatedcapacity>76</seatedcapacity>
 	</contribution>
 	<contribution type="train" id="{TYPHOON-KAYA-KIHA083-HENSEI-7567171D3CEF}">
-		<company>���x�S��</company>
-		<type>�L�n08 3</type>
+		<company>加悦鉄道</company>
+		<type>キハ08 3</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>���S�{�Ð��O��R�c�w������x���̉��x�w������ł������S�����x�S���ł��B
-���S�������󂯂��q�ԉ����C���Ԃ̃L�n08�������Ă��܂����B
+		<author>たいふ～ん</author>
+		<description>国鉄宮津線丹後山田駅から加悦町の加悦駅を結んでいた私鉄が加悦鉄道です。
+国鉄から譲り受けた客車改造気動車のキハ08が走っていました。
 		</description>
 		<fare>500</fare>
 		<triprange>middle</triprange>
@@ -640,7 +640,7 @@
 		</composition>
 	</contribution>
 
-	<!-- ����3000�n �擪��-->
+	<!-- 京成3000系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3000-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -649,7 +649,7 @@
 		<capacity>122</capacity>
 		<seatedcapacity>43</seatedcapacity>
 	</contribution>
-	<!-- ����3000�n ���Ԏ�-->
+	<!-- 京成3000系 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3000-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -658,18 +658,18 @@
 		<capacity>133</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- ����3000�n �����-->
+	<!-- 京成3000系 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3000-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-KEISEI-3000-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-KEISEI-3000-HENSEI-7567171D3CEF}">
-		<company>�����d�S</company>
-		<type>3000�n</type>
+		<company>京成電鉄</company>
+		<type>3000系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>2003�N����c�Ƃ��Ă��鋞���d�S�̒ʋΓd�Ԃł��B�s�c�󑐐��E���}���ւ����ʉ^�]���Ă��܂��B</description>
+		<author>たいふ～ん</author>
+		<description>2003年から営業している京成電鉄の通勤電車です。都営浅草線・京急線へも直通運転しています。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -681,7 +681,7 @@
 		</composition>
 	</contribution>
 
-	<!-- ����3400�n �擪��-->
+	<!-- 京成3400系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3400-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -690,7 +690,7 @@
 		<capacity>123</capacity>
 		<seatedcapacity>47</seatedcapacity>
 	</contribution>
-	<!-- ����3400�n ���Ԏ�-->
+	<!-- 京成3400系 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3400-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -699,18 +699,18 @@
 		<capacity>133</capacity>
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
-	<!-- ����3400�n �����-->
+	<!-- 京成3400系 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3400-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-KEISEI-3400-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-KEISEI-3400-HENSEI-7567171D3CEF}">
-		<company>�����d�S</company>
-		<type>3400�n</type>
+		<company>京成電鉄</company>
+		<type>3400系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>1993�N�ɉc�Ƃ��J�n���������d�S�̒ʋΌ^�d�Ԃł��B����AE�`�X�J�C���C�i�[�̑��s�@��𗬗p���A�V�������ԑ̂��̂��܂����B</description>
+		<author>たいふ～ん</author>
+		<description>1993年に営業を開始した京成電鉄の通勤型電車です。初代AE形スカイライナーの走行機器を流用し、新造した車体をのせました。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -722,7 +722,7 @@
 		</composition>
 	</contribution>
 
-	<!-- ����3700�n �擪��-->
+	<!-- 京成3700系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3700-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -731,7 +731,7 @@
 		<capacity>126</capacity>
 		<seatedcapacity>47</seatedcapacity>
 	</contribution>
-	<!-- ����3700�n ���Ԏ�-->
+	<!-- 京成3700系 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3700-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -740,18 +740,18 @@
 		<capacity>136</capacity>
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
-	<!-- ����3700�n �����-->
+	<!-- 京成3700系 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-KEISEI-3700-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-KEISEI-3700-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-KEISEI-3700-HENSEI-7567171D3CEF}">
-		<company>�����d�S</company>
-		<type>3700�n</type>
+		<company>京成電鉄</company>
+		<type>3700系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>1991�N�ɉc�ƊJ�n�����ʋΌ^�d�ԂŁA�����d�S�̒ʋΎԂł͏���VVVF������̗p�����B</description>
+		<author>たいふ～ん</author>
+		<description>1991年に営業開始した通勤型電車で、京成電鉄の通勤車では初のVVVF制御を採用した。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -763,7 +763,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 211�n���� �擪��-->
+	<!-- 211系中京 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JNR-211CK-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -772,7 +772,7 @@
 		<capacity>108</capacity>
 		<seatedcapacity>59</seatedcapacity>
 	</contribution>
-	<!-- 211�n���� ���Ԏ� -->
+	<!-- 211系中京 中間車 -->
 	<contribution type="trainCar" id="{TYPHOON-JNR-211CK-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -781,18 +781,18 @@
 		<capacity>132</capacity>
 		<seatedcapacity>68</seatedcapacity>
 	</contribution>
-	<!--  211�n���� ����� -->
+	<!--  211系中京 後尾車 -->
 	<contribution type="trainCar" id="{TYPHOON-JNR-211CK-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JNR-211CK-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JNR-211CK-HENSEI-7567171D3CEF}">
-		<company>JR���C</company>
-		<type>211�n</type>
-		<name>�����F</name>
-		<author>�����Ӂ`��</author>
-		<description>1986�N�ɖ��É��n�������2�Ґ��������ꂽ211�n�́A�����Ǝ��̃u���[�̃��C���̊O�ςœo�ꂵ���B</description>
+		<company>JR東海</company>
+		<type>211系</type>
+		<name>中京色</name>
+		<author>たいふ～ん</author>
+		<description>1986年に名古屋地区向けに2編成投入された211系は、ここ独自のブルーのラインの外観で登場した。</description>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>110</amenity>
@@ -805,7 +805,7 @@
 		</composition>
 	</contribution>
 
-	<!-- E257-500�n �擪��-->
+	<!-- E257-500系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JRE-E257500-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -814,7 +814,7 @@
 		<capacity>59</capacity>
 		<seatedcapacity>59</seatedcapacity>
 	</contribution>
-	<!-- E257-500�n ���Ԏ� -->
+	<!-- E257-500系 中間車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-E257500-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -823,18 +823,18 @@
 		<capacity>68</capacity>
 		<seatedcapacity>68</seatedcapacity>
 	</contribution>
-	<!--  E257-500�n ����� -->
+	<!--  E257-500系 後尾車 -->
 	<contribution type="trainCar" id="{TYPHOON-JRE-E257500-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JRE-E257500-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JRE-E257500-HENSEI-7567171D3CEF}">
-		<author>�����Ӂ`��</author>
-		<company>JR�����{</company>
-		<type>E257�n</type>
-		<name>500�ԑ�@�����Ȃ݁E�킩����</name>
-		<description>���������t�E�[�����ʂ֌��������}��ԂɎg�p����Ă���ԗ��ł��B</description>
+		<author>たいふ～ん</author>
+		<company>JR東日本</company>
+		<type>E257系</type>
+		<name>500番台　さざなみ・わかしお</name>
+		<description>東京から千葉・房総方面へ向かう特急列車に使用されている車両です。</description>
 		<fare>800</fare>
 		<price>56000000</price>
 		<triprange>long</triprange>

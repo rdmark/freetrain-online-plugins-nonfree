@@ -1,64 +1,64 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>���}�V600�`</title> 
+  <title>京急新600形</title> 
   <author>Noz</author> 
   <homepage></homepage>
  
-<!-- 600�擪�� --> 
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-A">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 600先頭車 --> 
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-A">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-a.bmp" /> 
   </sprite>
   <capacity>118</capacity> 
   <seatedcapacity>40</seatedcapacity>
   </contribution>
-<!-- 600�p���^�擪�� --> 
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-AP">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 600パンタ先頭車 --> 
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-AP">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-ap.bmp" /> 
   </sprite>
   <capacity>118</capacity> 
   <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-<!-- 600�Ō���� -->
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-B">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 600最後尾車 -->
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-B">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-A" />  
   </contribution> 
-<!--600���Ԏ�-->
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-C">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--600中間車-->
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-C">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-c.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>40</seatedcapacity>
   </contribution>
-<!--600W�p���^��-->
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-WP">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--600Wパンタ車-->
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-WP">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-2b.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>40</seatedcapacity>
   </contribution>
-<!--600�p���^��-->
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-P">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--600パンタ車-->
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-P">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-1b.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>40</seatedcapacity>
   </contribution>
-<!--600W�p���^��4����-->
-�@<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-FP">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--600Wパンタ車4次車-->
+　<contribution type="trainCar" id="{28C10FF0-AC45-42CB-869C-D81DBE62DC4C}-FP">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyu600-b4.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
@@ -67,11 +67,11 @@
 
 
   <contribution type="train" id="{B6468B3E-0862-4234-82B0-6ABF087F1D63}">
-<company>���l�}�s�d�S</company>
-<type>600�`4����(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>600形4次車(高)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>1994�N��1000�`�̒u���p�s�c�n���S�󑐐�����ԗ��Ƃ��ēo�ꂵ���ԗ��B4���Ԃ̓V���O���A�[������������Ă��܂��B���̎ԗ��͍����ł��B4�A8�A12�Ґ���p�ӂ��Ă��܂��B
+<description>1994年に1000形の置換用都営地下鉄浅草線乗入車両として登場した車両。4次車はシングルアームが装備されています。この車両は高速です。4、8、12編成を用意しています。
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -91,11 +91,11 @@
 </contribution>
 
   <contribution type="train" id="{4ABBEA82-DAF9-4C46-82DD-E660BC5335BF}">
-<company>���l�}�s�d�S</company>
-<type>600�`4����(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>600形4次車(中)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>1994�N��1000�`�̒u���p�s�c�n���S�󑐐�����ԗ��Ƃ��ēo�ꂵ���ԗ��B4���Ԃ̓V���O���A�[������������Ă��܂��B���̎ԗ��͒����ł��B4�A8�A12�Ґ���p�ӂ��Ă���܂��B
+<description>1994年に1000形の置換用都営地下鉄浅草線乗入車両として登場した車両。4次車はシングルアームが装備されています。この車両は中速です。4、8、12編成を用意しております。
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -115,11 +115,11 @@
 </contribution>
 
   <contribution type="train" id="{6AC1450C-9506-48F1-8B49-D6D3BFEE3CB5}">
-<company>���l�}�s�d�S</company>
-<type>600�`1,2,3����(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>600形1,2,3次車(高)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>1994�N��1000�`�̒u���p�s�c�n���S�󑐐�����ԗ��Ƃ��ēo�ꂵ���ԗ��B���̎ԗ��͍����ł��B8�A12�Ґ���p�ӂ��Ă���܂��B
+<description>1994年に1000形の置換用都営地下鉄浅草線乗入車両として登場した車両。この車両は高速です。8、12編成を用意しております。
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -141,11 +141,11 @@
 </contribution>
 
   <contribution type="train" id="{E6AF5AE6-AAA4-494A-B8C2-CA1BBD4F4649}">
-<company>���l�}�s�d�S</company>
-<type>600�`1,2,3����(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>600形1,2,3次車(中)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>1994�N��1000�`�̒u���p�s�c�n���S�󑐐�����ԗ��Ƃ��ēo�ꂵ���ԗ��B���̎ԗ��͒����ł��B8�A12�Ґ���p�ӂ��Ă��܂��B
+<description>1994年に1000形の置換用都営地下鉄浅草線乗入車両として登場した車両。この車両は中速です。8、12編成を用意しています。
 </description>
 <fare>500</fare>
 <price>35000000</price>

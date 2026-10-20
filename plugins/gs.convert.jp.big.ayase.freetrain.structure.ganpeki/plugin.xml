@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>åöï®ëççáÉRÉìÉoÅ[ÉgÅ@àªê£ÉqÉç</title>
-	<author>ÇËÇ®ÇËÇ®</author>
+	<title>Âª∫Áâ©Á∑èÂêà„Ç≥„É≥„Éê„Éº„Éà„ÄÄÁ∂æÁÄ¨„Éí„É≠</title>
+	<author>„Çä„Åä„Çä„Åä</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.big.ayase.freetrain.structure.ganpeki" />
 	
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-01}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -20,12 +20,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-02}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="32,0" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -33,12 +33,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-03}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -46,12 +46,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-04}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="0,32" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -59,12 +59,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-05}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="32,32" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -72,12 +72,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-06}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -85,12 +85,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-07}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="0,64" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>
@@ -98,12 +98,12 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-ganpeki-08}-gs">
-		<group>ä›ï«</group>
+		<group>Â≤∏Â£Å</group>
 		<price>1000000</price>
 		<height>1</height>
 		<size>1,1</size>
 		<structure>
-			<category byname="ÇªÇÃëºç`òpê›îı" />
+			<category byname="„Åù„ÅÆ‰ªñÊ∏ØÊπæË®≠ÂÇô" />
 		</structure>
 		<sprite origin="32,64" offset="16">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-ganpeki-01}"/>

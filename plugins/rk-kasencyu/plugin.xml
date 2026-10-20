@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œ</title>
+	<title>æž¶ç·šæŸ±</title>
 	<author></author>
 	<homepage></homepage>
 	
 	<contribution type="electricPole" id="{rk-kasen-0001}">
-		<name>ƒpƒCƒvŒ^01’Pü</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹01å˜ç·š</name>
 		<sprite>
 			<picture src="k001.bmp"/>
 		</sprite>
 	</contribution>
 	
 	<contribution type="electricPole" id="{rk-kasen-0002}">
-		<name>ƒpƒCƒvŒ^01’†‰›</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹01ä¸­å¤®</name>
 		<sprite>
 			<picture src="k002.bmp"/>
 		</sprite>
 	</contribution>	
 	<contribution type="electricPole" id="{rk-kasen-0003}">
-		<name>ƒpƒCƒvŒ^01</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹01</name>
 		<sprite>
 			<picture src="k003.bmp"/>
 		</sprite>
 	</contribution>
 	
 	<contribution type="electricPole" id="{rk-kasen-0004}">
-		<name>ƒpƒCƒvŒ^01</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹01</name>
 		<sprite>
 			<picture src="k004.bmp"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{rk-kasen-0005}">
-		<name>ƒpƒCƒvŒ^’Pü02’Pü</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹å˜ç·š02å˜ç·š</name>
 		<sprite>
 			<picture src="k005.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{rk-kasen-0006}">
-		<name>ƒpƒCƒvŒ^’Pü02’†‰›</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹å˜ç·š02ä¸­å¤®</name>
 		<sprite>
 			<picture src="k006.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{rk-kasen-0007}">
-		<name>ƒpƒCƒvŒ^’Pü02</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹å˜ç·š02</name>
 		<sprite>
 			<picture src="k007.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{rk-kasen-0008}">
-		<name>ƒpƒCƒvŒ^’Pü02</name>
+		<name>ãƒ‘ã‚¤ãƒ—åž‹å˜ç·š02</name>
 		<sprite>
 			<picture src="k008.bmp"/>
 		</sprite>
@@ -62,7 +62,7 @@
 		<picture src="k009.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-001-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -79,7 +79,7 @@
 		<picture src="k010.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-002-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -97,7 +97,7 @@
 		<picture src="k011.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-011-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -114,7 +114,7 @@
 		<picture src="k012.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-012-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -132,7 +132,7 @@
 		<picture src="k013.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-013-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -149,7 +149,7 @@
 		<picture src="k014.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-0014-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
@@ -166,7 +166,7 @@
 		<picture src="k015.bmp"/>
 	</contribution>
 	<contribution type="land" id="{rk-kasen-02a-0015-FENCE-PICTURE-2001}">
-		<group>‰Ëü‚’¼ƒpƒCƒv</group>
+		<group>æž¶ç·šåž‚ç›´ãƒ‘ã‚¤ãƒ—</group>
 		<name>001</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"

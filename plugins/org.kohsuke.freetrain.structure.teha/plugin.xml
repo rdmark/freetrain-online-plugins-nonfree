@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>‚Ä‚Í</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>ã¦ã¯</author>
 	<homepage>http://www.cwo.zaq.ne.jp/pant012/freetrain/</homepage>
 	
 	<contribution type="commercial" id="{B7330314-2AB8-48CB-842A-083088D1E239}">
-		<group>ƒJ[ƒtƒFƒŠ[(‹ßŠC—p)</group>
+		<group>ã‚«ãƒ¼ãƒ•ã‚§ãƒªãƒ¼(è¿‘æµ·ç”¨)</group>
 		<price>500000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -15,7 +15,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{275F3C07-94DC-4D79-B356-D53A4BBD514B}">
-		<group>ƒJ[ƒtƒFƒŠ[(‹ßŠC—p)</group>
+		<group>ã‚«ãƒ¼ãƒ•ã‚§ãƒªãƒ¼(è¿‘æµ·ç”¨)</group>
 		<price>500000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -25,7 +25,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{E1346B3F-4B69-4831-9433-5B82F3C83324}">
-		<name>‰Ý•¨‘D</name>
+		<name>è²¨ç‰©èˆ¹</name>
 		<price>500000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -35,7 +35,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{B14C68C1-22CC-4BD1-B5B9-0429106E1B01}">
-		<group>‰F‚˜A—ü</group>
+		<group>å®‡é«˜é€£çµ¡ç·š</group>
 		<price>500000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -45,7 +45,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{825023F3-C5FA-4E68-9EFC-DB03005A0424}">
-		<group>‰F‚˜A—ü</group>
+		<group>å®‡é«˜é€£çµ¡ç·š</group>
 		<price>500000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -55,7 +55,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{13C1C973-27E8-40B3-AE37-139F39D68B89}">
-		<name>ƒAƒp[ƒg</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ</name>
 		<price>500000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -69,7 +69,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{DFE65244-99FE-48B4-A8A7-C3AE17178798}">
-		<group>Hê</group>
+		<group>å·¥å ´</group>
 		<price>500000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -79,7 +79,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{2679B42F-D747-488A-B327-6CF0CD2577DC}">
-		<group>Hê</group>
+		<group>å·¥å ´</group>
 		<price>500000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -89,7 +89,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{E24C700F-40D3-4397-B4B3-6C9C98ECA774}">
-		<name>”~“cƒXƒJƒCƒrƒ‹</name>
+		<name>æ¢…ç”°ã‚¹ã‚«ã‚¤ãƒ“ãƒ«</name>
 		<price>500000000</price>
 		<size>5,5</size>
 		<height>10</height>
@@ -99,7 +99,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{619F301B-EB53-4FA9-8B69-6A80E9C3DD42}">
-		<name>‘åãƒ^ƒ[</name>
+		<name>å¤§é˜ªã‚¿ãƒ¯ãƒ¼</name>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>5</height>
@@ -111,7 +111,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{5FF50C0C-BECF-4AFD-AA82-EEBE3D609BA8}">
-		<name>ŠwZ</name>
+		<name>å­¦æ ¡</name>
 		<price>500000000</price>
 		<size>5,3</size>
 		<height>1</height>
@@ -125,7 +125,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{F5B4222A-3EA0-4F98-BECD-1F32B5E64932}">
-		<name>ƒVƒƒƒAê—pƒUƒN</name>
+		<name>ã‚·ãƒ£ã‚¢å°‚ç”¨ã‚¶ã‚¯</name>
 		<price>500000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -135,7 +135,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{2EAF3250-AA84-4B86-9F79-02D2A3DD931E}">
-		<name>ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</name>
+		<name>ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</name>
 		<price>500000000</price>
 		<size>3,4</size>
 		<height>2</height>
@@ -145,7 +145,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{1A87615B-4B76-443F-8417-728D6BF0361A}">
-		<name>ƒ_ƒ€ŒÎ</name>
+		<name>ãƒ€ãƒ æ¹–</name>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -155,7 +155,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7D039D58-B250-4A93-AE83-DD81BA77B757}">
-		<name>…(ƒŒƒxƒ‹3)</name>
+		<name>æ°´(ãƒ¬ãƒ™ãƒ«3)</name>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>3</height>
@@ -166,7 +166,7 @@
 
 
 	<contribution type="commercial" id="{CC6A8B66-BE28-4863-B5E5-18F238938B00}">
-		<name>‘ê</name>
+		<name>æ»</name>
 		<price>500000000</price>
 		<size>2,1</size>
 		<height>3</height>
@@ -176,7 +176,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7225141D-052F-4642-A084-8583DFE3484F}">
-		<name>ƒ_ƒ€</name>
+		<name>ãƒ€ãƒ </name>
 		<price>500000000</price>
 		<size>2,3</size>
 		<height>2</height>
@@ -187,7 +187,7 @@
 
 
 	<contribution type="commercial" id="{FBDDC8DC-8E9D-422B-AD97-B7E9157D3D62}">
-		<name>–‚éƒKƒbƒfƒ€</name>
+		<name>é­”åŸŽã‚¬ãƒƒãƒ‡ãƒ </name>
 		<price>500000000</price>
 		<size>2,2</size>
 		<height>2</height>
@@ -197,7 +197,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{6323EA1B-3D1E-4E7D-BEB9-1D6E6ED2E1A1}">
-		<name>‰^–½‚Ì“ƒ</name>
+		<name>é‹å‘½ã®å¡”</name>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -207,7 +207,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{A9823026-15C6-4836-905D-9DFE38E119A1}">
-		<name>Hì‘D</name>
+		<name>å·¥ä½œèˆ¹</name>
 		<price>500000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -217,7 +217,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{F752307B-C840-4162-9307-316389B29CF8}">
-		<name>„Ž‹‘D</name>
+		<name>å·¡è¦–èˆ¹</name>
 		<price>500000000</price>
 		<size>3,1</size>
 		<height>1</height>
@@ -227,7 +227,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{189F360B-CC55-4ACA-B406-1DD689F9D2E6}">
-		<name>ƒtƒFƒŠ[ƒ^[ƒ~ƒiƒ‹</name>
+		<name>ãƒ•ã‚§ãƒªãƒ¼ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</name>
 		<price>500000000</price>
 		<size>3,2</size>
 		<height>1</height>
@@ -241,7 +241,7 @@
 </contribution>
 
 	<contribution type="commercial" id="{947753DE-3568-440D-9D66-02D405001C32}-0">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -251,7 +251,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{947753DE-3568-440D-9D66-02D405001C32}-1">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -261,7 +261,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{947753DE-3568-440D-9D66-02D405001C32}-2">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -271,7 +271,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{947753DE-3568-440D-9D66-02D405001C32}-3">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -281,7 +281,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{947753DE-3568-440D-9D66-02D405001C32}-4">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -291,7 +291,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{53134BEE-9DE4-4660-9966-01764EC731D0}">
-		<name>‚³‚ñ‚Ó‚ç‚í‚ </name>
+		<name>ã•ã‚“ãµã‚‰ã‚ã‚</name>
 		<price>500000000</price>
 		<size>1,5</size>
 		<height>1</height>
@@ -301,7 +301,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{61CD8A5D-6A2D-4EC6-A1AA-99319C83EC2E}">
-		<name>ƒJ[ƒtƒFƒŠ[(‰“—m)</name>
+		<name>ã‚«ãƒ¼ãƒ•ã‚§ãƒªãƒ¼(é æ´‹)</name>
 		<price>500000000</price>
 		<size>1,5</size>
 		<height>1</height>
@@ -311,7 +311,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{C4A9FCAA-2754-409B-ABE3-573EF5DE92E6}">
-		<name>…(ƒŒƒxƒ‹1)</name>
+		<name>æ°´(ãƒ¬ãƒ™ãƒ«1)</name>
 		<price>500000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -321,7 +321,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{DFBD51DE-E6D1-4CE0-BD2F-5C0E1CBC61FE}">
-		<name>Ã‰ª•ú‘—“Œ‹žŽxŽÐ</name>
+		<name>é™å²¡æ”¾é€æ±äº¬æ”¯ç¤¾</name>
 		<price>500000000</price>
 		<size>2,1</size>
 		<height>4</height>
@@ -331,7 +331,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{F34E2C0D-9ECE-4590-A25A-3203BA9184C8}">
-		<name>’†‹âƒJƒvƒZƒ‹ƒ^ƒ[ƒrƒ‹</name>
+		<name>ä¸­éŠ€ã‚«ãƒ—ã‚»ãƒ«ã‚¿ãƒ¯ãƒ¼ãƒ“ãƒ«</name>
 		<price>500000000</price>
 		<size>1,2</size>
 		<height>3</height>
@@ -341,7 +341,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{5C13B5F3-7CDF-44A4-9C59-3D359E4DB6FE}">
-		<name>ƒ\ƒj[ƒ^ƒ[</name>
+		<name>ã‚½ãƒ‹ãƒ¼ã‚¿ãƒ¯ãƒ¼</name>
 		<price>500000000</price>
 		<size>1,2</size>
 		<height>4</height>
@@ -351,7 +351,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{54A932D2-12BE-44BF-8E63-B517E93354F8}">
-		<name>ƒAƒNƒeƒB‘åã</name>
+		<name>ã‚¢ã‚¯ãƒ†ã‚£å¤§é˜ª</name>
 		<price>500000000</price>
 		<size>4,2</size>
 		<height>8</height>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY Causeway_Def '
 	<price>250000</price>
@@ -9,65 +9,65 @@
 <plug-in>
 <author>foobar</author>
 <homepage>http://foobar.ifdef.jp</homepage>
-<title>Œš•¨</title>
+<title>å»ºç‰©</title>
 
-<!-- ·“y‚‰Ëiƒoƒ‰ƒXƒgF’ƒj -->
+<!-- ç››åœŸé«˜æ¶ï¼ˆãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶ï¼‰ -->
 
 	<contribution type="picture" id="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}">
 		<picture src="causeway/causeway.b.png"/>
 	</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
@@ -76,114 +76,114 @@
 	
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 
-	<!-- …•½/‚’¼•ûŒü‚ÌƒoƒŠƒG[ƒVƒ‡ƒ“ -->
+	<!-- æ°´å¹³/å‚ç›´æ–¹å‘ã®ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ -->
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,224" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
@@ -191,108 +191,108 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,256" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 
-	<!-- •ªŠò -->
+	<!-- åˆ†å² -->
 
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,96" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
@@ -300,115 +300,115 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,128" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 
-	<!-- ƒJ[ƒu -->
+	<!-- ã‚«ãƒ¼ãƒ– -->
 
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,64" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
@@ -416,56 +416,56 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,160" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
@@ -473,63 +473,63 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-0,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-1,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-2,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-3,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="96,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-4,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="128,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-5,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="160,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-6,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="192,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-7,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="224,192" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}" />
 			</sprite>
 		</contribution>
 
-	<!-- ‹Gß•Ï‰» -->
+	<!-- å­£ç¯€å¤‰åŒ– -->
 	<contribution type="picture" id="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r">
 		<picture src="causeway/causeway.b.spr.png">
 			<override when="summer" src="causeway/causeway.b.sum.png"/>
@@ -539,21 +539,21 @@
 	</contribution>
 	
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-0,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-1,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-2,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,0" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
@@ -561,84 +561,84 @@
 		</contribution>
 
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-0,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="0,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-1,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="32,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{9010800E-7017-4cdc-96AE-DF03C2622EF0}-r-2,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgF’ƒ)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šèŒ¶)</group>
 			&Causeway_Def;
 			<sprite origin="64,32" offset="16">
 				<picture ref="{80EA599B-DBE3-4017-8BDC-2391CFCE7128}-r" />
 			</sprite>
 		</contribution>
 
-<!-- ·“y‚‰Ëiƒoƒ‰ƒXƒgFŠDj -->
+<!-- ç››åœŸé«˜æ¶ï¼ˆãƒãƒ©ã‚¹ãƒˆï¼šç°ï¼‰ -->
 
 	<contribution type="picture" id="{4751E53B-847B-418a-A2FC-6E885EFED3D0}">
 		<picture src="causeway/causeway.g.png"/>
 	</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
@@ -647,114 +647,114 @@
 	
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 
-	<!-- …•½/‚’¼•ûŒü‚ÌƒoƒŠƒG[ƒVƒ‡ƒ“ -->
+	<!-- æ°´å¹³/å‚ç›´æ–¹å‘ã®ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ -->
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,7">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,224" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
@@ -762,108 +762,108 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,8">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,256" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 
-	<!-- •ªŠò -->
+	<!-- åˆ†å² -->
 
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,3">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,96" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
@@ -871,115 +871,115 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,4">
-			<group>·“y‚‰Ë(•ªŠòAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(åˆ†å²ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,128" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 
-	<!-- ƒJ[ƒu -->
+	<!-- ã‚«ãƒ¼ãƒ– -->
 
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,2">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,64" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
@@ -987,56 +987,56 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,5">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,160" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
@@ -1044,63 +1044,63 @@
 		</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-0,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-1,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-2,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-3,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="96,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-4,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="128,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-5,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="160,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-6,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="192,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-7,6">
-			<group>·“y‚‰Ë(ƒJ[ƒuAƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ã‚«ãƒ¼ãƒ–ã€ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="224,192" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}" />
 			</sprite>
 		</contribution>
 
-	<!-- ‹Gß•Ï‰» -->
+	<!-- å­£ç¯€å¤‰åŒ– -->
 	<contribution type="picture" id="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r">
 		<picture src="causeway/causeway.g.spr.png">
 			<override when="summer" src="causeway/causeway.g.sum.png"/>
@@ -1110,21 +1110,21 @@
 	</contribution>
 	
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-0,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-1,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-2,0">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,0" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />
@@ -1132,21 +1132,21 @@
 		</contribution>
 
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-0,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="0,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-1,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="32,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />
 			</sprite>
 		</contribution>
 		<contribution type="railStationary" id="{CCFC916F-2E99-4ece-8163-E3AD6B3A7881}-r-2,1">
-			<group>·“y‚‰Ë(ƒoƒ‰ƒXƒgFŠD)</group>
+			<group>ç››åœŸé«˜æ¶(ãƒãƒ©ã‚¹ãƒˆï¼šç°)</group>
 			&Causeway_Def;
 			<sprite origin="64,32" offset="16">
 				<picture ref="{4751E53B-847B-418a-A2FC-6E885EFED3D0}-r" />

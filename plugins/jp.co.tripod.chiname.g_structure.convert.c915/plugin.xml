@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY smallHouse '
-	<group>民家(小)</group>
+	<group>豌大ｮｶ(蟆�)</group>
 	<price>1500000</price>
 	<size>1,1</size>
 	<height>1</height>
 	<structure>
-		<category byname="一戸建て"/>
+		<category byname="荳謌ｸ蟒ｺ縺ｦ"/>
 	</structure>
 '>
 <!ENTITY smallBuildingParam '
-	<group>貸しビル(1x1)</group>
+	<group>雋ｸ縺励ン繝ｫ(1x1)</group>
 	<structure>
-		<category byname="貸事務所"/>
+		<category byname="雋ｸ莠句漁謇"/>
 	</structure>
 	<price>3500000</price>
 	<size>1,1</size>
@@ -24,9 +24,9 @@
 	</population>
 '>
 <!ENTITY building2x2Param '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<structure>
-		<category byname="貸事務所"/>
+		<category byname="雋ｸ莠句漁謇"/>
 	</structure>
 	<price>30000000</price>
 	<size>2,2</size>
@@ -39,15 +39,15 @@
 '>
 ]>
 <plug-in>	
-	<title>お寺/民家/貸しビル</title>
-	<author>915さん</author>
+	<title>縺雁ｯｺ/豌大ｮｶ/雋ｸ縺励ン繝ｫ</title>
+	<author>915縺輔ｓ</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.c915"/>
 	
 	<contribution type="GenericStructure" id="{628C6F59-9B1A-48a8-8815-48AC0D15765E}-gs">
-		<name>お寺</name>
+		<name>縺雁ｯｺ</name>
 		<structure>
-			<category byname="宗教施設"/>
+			<category byname="螳玲蕗譁ｽ險ｭ"/>
 		</structure>
 		<price>16000000</price>
 		<size>2,2</size>

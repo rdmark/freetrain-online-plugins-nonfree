@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
- <title>架線柱</title>
+ <title>譫ｶ邱壽浤</title>
  <author>Kei</author>
  <homepage>kei@viola.club.ne.jp</homepage>
   <depend on="org.kohsuke.freetrain.rail.electricPole"/>
 	<contribution type="electricPole" id="{357BF062-3812-44D7-B46C-6CEE9FF2CFA6}">
-		<name>非電化電信柱</name>
+		<name>髱樣崕蛹夜崕菫｡譟ｱ</name>
 		<sprite>
 			<picture src="signal.bmp"/>
 		</sprite>

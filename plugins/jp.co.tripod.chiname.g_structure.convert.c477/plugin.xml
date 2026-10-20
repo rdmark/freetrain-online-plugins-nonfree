@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY colorMapTest '
 	<spriteType name="colorMapped">
@@ -71,17 +71,17 @@
 <plug-in>
 	<depend on="org.kohsuke.freetrain.structure.c477"/>
 	
-	<title>Œš•¨ƒZƒbƒg</title>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
-	<author>477@‚Q—¼–Ú</author>
+	<author>477@ï¼’ä¸¡ç›®</author>
 	<depend on="org.kohsuke.freetrain.structure.osakaCastle"/>	
 	
 	<contribution type="GenericStructure" id="{BC43CE38-601A-42c7-992A-6049CCD29B94}-gs">
-		<group>Z‹Œ“ƒRƒ“ƒrƒj</group>
-		<design>ƒZƒuƒ“ƒCƒŒƒuƒ“</design>
+		<group>ä½å±…å…¼ã‚³ãƒ³ãƒ“ãƒ‹</group>
+		<design>ã‚»ãƒ–ãƒ³ã‚¤ãƒ¬ãƒ–ãƒ³</design>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj"/>
-			<category byname="ˆêŒËŒš‚Ä" hide="true"/>
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹"/>
+			<category byname="ä¸€æˆ¸å»ºã¦" hide="true"/>
 		</structure>
 		<price>2000000</price>
 		<size>1,1</size>
@@ -96,9 +96,9 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{2C3ED0DA-FBA1-4586-9691-67DC93B851C9}-gs">
-		<name>˜V•Ü•S‰Ý“X</name>
+		<name>è€èˆ—ç™¾è²¨åº—</name>
 		<structure>
-			<category byname="ƒfƒp[ƒg"/>
+			<category byname="ãƒ‡ãƒ‘ãƒ¼ãƒˆ"/>
 		</structure>
 		<price>28000000</price>
 		<size>2,2</size>
@@ -113,10 +113,10 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{9F3E82AD-2A49-4aef-954C-E872F535B3D8}-gs">
-		<name>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(2x2)</name>
-		<design>‘gž</design>
+		<name>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(2x2)</name>
+		<design>çµ„è¾¼</design>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>24000000</price>
 		<size>2,2</size>
@@ -130,9 +130,9 @@
 		</population>
 	</contribution>
 	<contribution type="GenericStructure" id="{27D6D0C0-2B1A-4494-9257-14C208168075}-gs">
-		<name>•ª÷Z‘î</name>
+		<name>åˆ†è­²ä½å®…</name>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>1100000</price>
 		<size>1,1</size>
@@ -147,9 +147,9 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{B99FA2F7-F138-46a1-99F7-34AE23A157F6}-gs">
-		<name>’†‘wŽG‹ƒIƒtƒBƒXƒrƒ‹</name>
+		<name>ä¸­å±¤é›‘å±…ã‚ªãƒ•ã‚£ã‚¹ãƒ“ãƒ«</name>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>16000000</price>
 		<size>2,2</size>
@@ -171,9 +171,9 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{442C7E12-A3BA-4c25-9129-C3803EA760BC}-gs">
-		<group>‘Ý‚µƒrƒ‹(A)</group>
+		<group>è²¸ã—ãƒ“ãƒ«(A)</group>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>39000000</price>
 		<size>3,2</size>
@@ -230,11 +230,11 @@
 	</contribution>
 		
 	<contribution type="GenericStructure" id="{9BF4DD25-050A-4633-BC8B-0B8B226FC5E8}-gs">
-		<group>‘Ý‚µƒrƒ‹(ƒwƒŠƒ|[ƒg•t)</group>
+		<group>è²¸ã—ãƒ“ãƒ«(ãƒ˜ãƒªãƒãƒ¼ãƒˆä»˜)</group>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="ŒÂlê–å“X" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="å€‹äººå°‚é–€åº—" hide="true"/>
 		</structure>
 		<price>48000000</price>
 		<size>3,2</size>
@@ -266,11 +266,11 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{D57200E0-8E73-4899-8EEC-0E9AC95C3D40}-gs">
-		<group>VhŽOˆäƒrƒ‹</group>
+		<group>æ–°å®¿ä¸‰äº•ãƒ“ãƒ«</group>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="“X•Ü" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="åº—èˆ—" hide="true"/>
 		</structure>
 		<price>390000000</price>
 		<minHeight>3</minHeight>
@@ -334,11 +334,11 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{C35B9F7A-7D69-4D1B-9B92-D05CBF4C20D7}-gs">
-		<group>VhZ—Fƒrƒ‹</group>
+		<group>æ–°å®¿ä½å‹ãƒ“ãƒ«</group>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="“X•Ü" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="åº—èˆ—" hide="true"/>
 		</structure>
 		<price>300000000</price>
 		<size>5,5</size>

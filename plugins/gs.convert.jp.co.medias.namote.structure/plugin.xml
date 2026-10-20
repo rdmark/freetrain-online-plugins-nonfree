@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‚È‚à[</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ãªã‚‚ãƒ¼</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.co.medias.namote.structure" />
 
 	<contribution type="GenericStructure" id="{A5BD857C-F2A1-4218-936C-C61EA4D28084-1}-gs">
-		<group>ƒT[ƒNƒ‹K</group>
+		<group>ã‚µãƒ¼ã‚¯ãƒ«K</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{A5BD857C-F2A1-4218-936C-C61EA4D28084}"/>
@@ -24,12 +24,12 @@
 
 
 	<contribution type="GenericStructure" id="{A5BD857C-F2A1-4218-936C-C61EA4D28085-1}-gs">
-		<group>”ü•xŽmH“°</group>
+		<group>ç¾Žå¯Œå£«é£Ÿå ‚</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="ˆê”ÊˆùH“X" />
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" />
 		</structure>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{A5BD857C-F2A1-4218-936C-C61EA4D28085}"/>
@@ -42,12 +42,12 @@
 
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8875-1}-gs">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="0,0" offset="22">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8875}"/>
@@ -59,12 +59,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8875-3}-gs">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="96,0" offset="22">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8875}"/>
@@ -76,12 +76,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8875-5}-gs">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="192,0" offset="22">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8875}"/>
@@ -94,12 +94,12 @@
 
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8877-1}-gs">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="0,0" offset="31">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8877}"/>
@@ -111,12 +111,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8877-3}-gs">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="96,0" offset="31">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8877}"/>
@@ -128,12 +128,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FD978351-73CE-442E-8816-76DBA52E8877-5}-gs">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
 		</structure>
 		<sprite origin="192,0" offset="31">
 			<picture ref="{FD978351-73CE-442E-8816-76DBA52E8877}"/>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜H</title>
-	<author>‘å•s‹µ(Œ´ìFPC-9801FAŽ)</author>
+	<title>é“è·¯</title>
+	<author>å¤§ä¸æ³(åŽŸä½œï¼šPC-9801FAæ°)</author>
 	<homepage>http://www3.to/FreeTrain/</homepage>
 	
 	<contribution type="road" id="{daihukyou-road-4BC1-8160-9706FDF6FB6B}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>ŠX“••t‚«žòü“ñŽÔü“¹˜H</name>
-		<description>’Ç‚¢‰z‚µ‹ÖŽ~AŠX“••t‚«‚Ì“ñŽÔü‚Ì“¹˜H</description>
+		<name>è¡—ç‡ˆä»˜ãæ©™ç·šäºŒè»Šç·šé“è·¯</name>
+		<description>è¿½ã„è¶Šã—ç¦æ­¢ã€è¡—ç‡ˆä»˜ãã®äºŒè»Šç·šã®é“è·¯</description>
 		<picture src="a3road_d.bmp">
 			<override when="night" src="a3road_n.bmp"/>
 		</picture>

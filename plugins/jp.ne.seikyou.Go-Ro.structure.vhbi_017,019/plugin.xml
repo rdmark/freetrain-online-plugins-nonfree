@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 
@@ -65,14 +65,14 @@
 
 
 <plug-in>
-	<title>Œš•¨"picture"(FreeTrain-‘zìŠÙ)</title>
+	<title>å»ºç‰©"picture"(FreeTrain-æƒ³ä½œé¤¨)</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
 
 
 
-<!-- ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹[C] -->
+<!-- ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«[C] -->
 	<contribution type="picture" id="{vhbi_017-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_017.bmp">
 		 <override when="spring">
@@ -90,12 +90,12 @@
 		</picture>
 	</contribution>
 
-<!-- ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹[C] -->
+<!-- ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«[C] -->
 	<contribution type="GenericStructure" id="{vhbi_017-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹</name>
-		<design>(ƒ^ƒCƒvC)</design>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>(ã‚¿ã‚¤ãƒ—C)</design>
 		<structure>
-			<category byname="‘İ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>1250000000000</price>
 		<size>2,2</size>
@@ -161,20 +161,20 @@
 
 
 
-<!-- G‹ƒrƒ‹(2x2)[B] -->
+<!-- é›‘å±…ãƒ“ãƒ«(2x2)[B] -->
 	<contribution type="picture" id="{vhbi_019-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_019.bmp">
 		 <override when="night" src="vhbi_019n.bmp"/>
 		</picture>
 	</contribution>
 
-<!-- G‹ƒrƒ‹(2x2)[B] -->
+<!-- é›‘å±…ãƒ“ãƒ«(2x2)[B] -->
 	<contribution type="GenericStructure" id="{vhbi_019-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>G‹ƒrƒ‹(2x2)</name>
-		<design>(ƒ^ƒCƒvB)</design>
+		<name>é›‘å±…ãƒ“ãƒ«(2x2)</name>
+		<design>(ã‚¿ã‚¤ãƒ—B)</design>
 		<structure>
-			<category byname="‘İ––±Š"/>
-			<category byname="¤‹ÆŒü‚¯ƒT[ƒrƒX" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="å•†æ¥­å‘ã‘ã‚µãƒ¼ãƒ“ã‚¹" hide="true"/>
 		</structure>
 		<price>130000000</price>
 		<size>2,2</size>

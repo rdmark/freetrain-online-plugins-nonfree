@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œ</title>
-	<author>‰Ô•H—ó‰Î</author>
+	<title>æž¶ç·šæŸ±</title>
+	<author>èŠ±è±çƒˆç«</author>
 	<homepage></homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -45,31 +45,31 @@
 
 	
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6000-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(A)</name>
+		<name>æ©‹æ¡(A)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-7008-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6001-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(B)</name>
+		<name>æ©‹æ¡(B)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-7009-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6002-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(C)</name>
+		<name>æ©‹æ¡(C)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-7007-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6003-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(D)</name>
+		<name>æ©‹æ¡(D)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-7006-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6004-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(E)</name>
+		<name>æ©‹æ¡(E)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-7005-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -77,37 +77,37 @@
 
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6005-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔA)</name>
+		<name>æ©‹æ¡(èµ¤A)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1000-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6006-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔB)</name>
+		<name>æ©‹æ¡(èµ¤B)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1001-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6007-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔC)</name>
+		<name>æ©‹æ¡(èµ¤C)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1002-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6008-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔD)</name>
+		<name>æ©‹æ¡(èµ¤D)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1003-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6009-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔE)</name>
+		<name>æ©‹æ¡(èµ¤E)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1004-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{874B8BFD-1EF4-6010-9C5A-D0EA1049D28D}">
-		<name>‹´Œ…(ÔF)</name>
+		<name>æ©‹æ¡(èµ¤F)</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-1005-9C5A-D0EA1049D28D}"/>
 		</sprite>

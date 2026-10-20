@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 	<!ENTITY tutiiro '
 	<spriteType name="hueTransform">
@@ -27,8 +27,8 @@
 
 
 
-	<title>Œš•¨ƒZƒbƒg1†ŠÙ</title>
-	<author>‚½‚¢‚Ó`‚ñ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ1å·é¤¨</title>
+	<author>ãŸã„ãµï½žã‚“</author>
 	<homepage>http://typhoon.s19.xrea.com/ft/index.html</homepage>
 	
 	<contribution type="picture" id="{TYPHOON-GAZOU-MILITARY-RADER-7567171D3CEF}">
@@ -82,84 +82,84 @@
 	</contribution>
 
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY1-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇE“yF1</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»åœŸè‰²1</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-1HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY2-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇE“yF2</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»åœŸè‰²2</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-2HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY3-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇEŠDÂ1</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»ç°é’1</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-1HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY4-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇEŠDÂ2</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»ç°é’2</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-2HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY5-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇEÔ’ƒ1</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»èµ¤èŒ¶1</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-1HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HMY6-8FE0-7567171D3CEF}">
-		<name>ƒz[ƒ€•ÇEÔ’ƒ2</name>
+		<name>ãƒ›ãƒ¼ãƒ å£ãƒ»èµ¤èŒ¶2</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-2HMY-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HUE1-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wi“yFj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆåœŸè‰²ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-1HUE-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MST1-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wi“yFEŠK’i‰Ej</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆåœŸè‰²ãƒ»éšŽæ®µå³ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-1MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MST2-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wi“yFEŠK’i¶j</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆåœŸè‰²ãƒ»éšŽæ®µå·¦ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-2MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MST3-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wi“yFEŠK’i‰E‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆåœŸè‰²ãƒ»éšŽæ®µå³å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-3MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MST4-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wi“yFEŠK’i¶‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆåœŸè‰²ãƒ»éšŽæ®µå·¦å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tutiiro;
 			<picture ref="{57644AE6-7FFA-4MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS9-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(“yFE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(åœŸè‰²ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 64, 0" offset="16">
 			&tutiiro;
@@ -167,7 +167,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS10-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(“yFE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(åœŸè‰²ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 96, 0" offset="16">
 			&tutiiro;
@@ -175,42 +175,42 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HUE2-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiŠDÂj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆç°é’ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-1HUE-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSH1-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiŠDÂEŠK’i‰Ej</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆç°é’ãƒ»éšŽæ®µå³ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-1MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSH2-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiŠDÂEŠK’i¶j</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆç°é’ãƒ»éšŽæ®µå·¦ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-2MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSH3-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiŠDÂEŠK’i‰E‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆç°é’ãƒ»éšŽæ®µå³å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-3MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSH4-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiŠDÂEŠK’i¶‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆç°é’ãƒ»éšŽæ®µå·¦å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&haiao;
 			<picture ref="{57644AE6-7FFA-4MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS19-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(ŠDÂE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(ç°é’ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 64, 0" offset="16">
 			&haiao;
@@ -218,7 +218,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS20-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(ŠDÂE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(ç°é’ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 96, 0" offset="16">
 			&haiao;
@@ -226,42 +226,42 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-HUE3-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiÔ’ƒj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆèµ¤èŒ¶ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-1HUE-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSC1-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiÔ’ƒEŠK’i‰Ej</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆèµ¤èŒ¶ãƒ»éšŽæ®µå³ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-1MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSC2-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiÔ’ƒEŠK’i¶j</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆèµ¤èŒ¶ãƒ»éšŽæ®µå·¦ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-2MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSC3-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiÔ’ƒEŠK’i‰E‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆèµ¤èŒ¶ãƒ»éšŽæ®µå³å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-3MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{57644AE6-7FFA-MSC4-8FE0-7567171D3CEF}">
-		<name>‹´ã‰wiÔ’ƒEŠK’i¶‰œj</name>
+		<name>æ©‹ä¸Šé§…ï¼ˆèµ¤èŒ¶ãƒ»éšŽæ®µå·¦å¥¥ï¼‰</name>
 		<sprite origin=" 0, 0" offset="16">
 			&tyairo;
 			<picture ref="{57644AE6-7FFA-4MDS-8FE0-7567171D3CEF}" />
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS29-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(Ô’ƒE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(èµ¤èŒ¶ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 64, 0" offset="16">
 			&tyairo;
@@ -269,7 +269,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{57644AE6-7FFA-MDS30-8FE0-7567171D3CEF}">
-		<group>‹´ã‰w(Ô’ƒE–{‘Ì)</group>
+		<group>æ©‹ä¸Šé§…(èµ¤èŒ¶ãƒ»æœ¬ä½“)</group>
 		&ModernStation;
 		<sprite origin=" 96, 0" offset="16">
 			&tyairo;
@@ -279,7 +279,7 @@
 
 
 	<contribution type="commercial" id="{TYPHOON-SUPERL-YOKADO-7567171D3CEF}">
-		<group>’´‘åŒ^ƒX[ƒp[</group>
+		<group>è¶…å¤§åž‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</group>
 		<price>30000000</price>
 		<height>3</height>
 		<size>8,8</size>
@@ -307,8 +307,8 @@
 
 
 	<contribution type="commercial" id="{TYPHOON-Military-Rader1-7567171D3CEF}">
-		<group>ƒŒ[ƒ_[</group>
-		<name>‘ŠúŒx‰úƒŒ[ƒ_[</name>
+		<group>ãƒ¬ãƒ¼ãƒ€ãƒ¼</group>
+		<name>æ—©æœŸè­¦æˆ’ãƒ¬ãƒ¼ãƒ€ãƒ¼</name>
 		<price>30000000</price>
 		<height>4</height>
 		<size>1,1</size>
@@ -325,8 +325,8 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{TYPHOON-Military-Rader2-7567171D3CEF}">
-		<group>ƒŒ[ƒ_[</group>
-		<name>‹ó`ŠÄŽ‹ƒŒ[ƒ_[A</name>
+		<group>ãƒ¬ãƒ¼ãƒ€ãƒ¼</group>
+		<name>ç©ºæ¸¯ç›£è¦–ãƒ¬ãƒ¼ãƒ€ãƒ¼A</name>
 		<price>12000000</price>
 		<height>4</height>
 		<size>1,1</size>
@@ -343,8 +343,8 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{TYPHOON-Military-Rader3-7567171D3CEF}">
-		<group>ƒŒ[ƒ_[</group>
-		<name>‹ó`ŠÄŽ‹ƒŒ[ƒ_[B</name>
+		<group>ãƒ¬ãƒ¼ãƒ€ãƒ¼</group>
+		<name>ç©ºæ¸¯ç›£è¦–ãƒ¬ãƒ¼ãƒ€ãƒ¼B</name>
 		<price>12000000</price>
 		<height>4</height>
 		<size>1,1</size>
@@ -361,8 +361,8 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{TYPHOON-Military-F-15DJ2-7567171D3CEF}">
-		<group>í“¬‹@</group>
-		<name>F-15DJ•</name>
+		<group>æˆ¦é—˜æ©Ÿ</group>
+		<name>F-15DJé»’</name>
 		<price>12000000</price>
 		<height>1</height>
 		<size>2,2</size>

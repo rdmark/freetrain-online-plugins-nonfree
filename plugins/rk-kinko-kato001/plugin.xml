@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 
 <plug-in>
-	<title>�w�Ƀv���O�C��</title> 
-	<author>�ԕH����</author> 
+	<title>駅舎プラグイン</title> 
+	<author>花菱さん</author> 
 	<homepage></homepage> 
 
 	<contribution type="picture" id="{tako-rk002-kinko-cg0001-001}">
@@ -18,7 +18,7 @@
 
 
 	<contribution type="station" id="{tako-rk002-kinko-1010-003}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -28,7 +28,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-004}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -38,7 +38,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-005}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -48,7 +48,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-006}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -58,7 +58,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-007}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -68,7 +68,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-008}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -78,7 +78,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-009}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>200000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -88,7 +88,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-010}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>200000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -100,7 +100,7 @@
 
 
 	<contribution type="station" id="{tako-rk002-kinko-1010-103}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -110,7 +110,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-104}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -120,7 +120,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-105}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>200000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -130,7 +130,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-106}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -140,7 +140,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-107}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -150,7 +150,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-108}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -160,7 +160,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-109}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -170,7 +170,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{tako-rk002-kinko-1010-110}">
-	<group>�ߍx�`����w��(�K�i)</group> 
+	<group>近郊形橋上駅舎(階段)</group> 
 	<price>2000000</price> 
 	<height>2</height> 
 	<operationCost>10</operationCost> 
@@ -183,26 +183,26 @@
 
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-013}">
-		<name>�ߍx�`����w��(�ԐF�P��)</name>
+		<name>近郊形橋上駅舎(赤色単体)</name>
 		<sprite>
 			<picture src="kinko-004a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-113}">
-		<name>�ߍx�`����w��(�D�F�P��)</name>
+		<name>近郊形橋上駅舎(灰色単体)</name>
 		<sprite>
 			<picture src="kinko-104a.bmp"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-014}">
-		<name>�ߍx�`����w��(�ԐF�ʘH)</name>
+		<name>近郊形橋上駅舎(赤色通路)</name>
 		<sprite>
 			<picture src="kinko-005a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-114}">
-		<name>�ߍx�`����w��(�D�F�ʘH)</name>
+		<name>近郊形橋上駅舎(灰色通路)</name>
 		<sprite>
 			<picture src="kinko-105a.bmp"/>
 		</sprite>
@@ -214,7 +214,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-015}">
-		<name>�ߍx�`����w��(�ԐF�K�i)</name>
+		<name>近郊形橋上駅舎(赤色階段)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-001}" />
 		</sprite>
@@ -225,7 +225,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-115}">
-		<name>�ߍx�`����w��(�D�F�K�i)</name>
+		<name>近郊形橋上駅舎(灰色階段)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-101}" />
 		</sprite>
@@ -237,7 +237,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-016}">
-		<name>�ߍx�`����w��(�ԐF�G���x�[�^)</name>
+		<name>近郊形橋上駅舎(赤色エレベータ)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-002}" />
 		</sprite>
@@ -248,7 +248,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-116}">
-		<name>�ߍx�`����w��(�D�F�G���x�[�^)</name>
+		<name>近郊形橋上駅舎(灰色エレベータ)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-102}" />
 		</sprite>
@@ -256,25 +256,25 @@
 
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-017}">
-		<name>�ߍx�`����w��(�ԐF�{��)</name>
+		<name>近郊形橋上駅舎(赤色本体)</name>
 		<sprite>
 			<picture src="kinko-008a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-018}">
-		<name>�ߍx�`����w��(�ԐF�{��)</name>
+		<name>近郊形橋上駅舎(赤色本体)</name>
 		<sprite>
 			<picture src="kinko-009a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-019}">
-		<name>�ߍx�`����w��(�ԐF�{��)</name>
+		<name>近郊形橋上駅舎(赤色本体)</name>
 		<sprite>
 			<picture src="kinko-010a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-020}">
-		<name>�ߍx�`����w��(�ԐF�{��)</name>
+		<name>近郊形橋上駅舎(赤色本体)</name>
 		<sprite>
 			<picture src="kinko-011a.bmp"/>
 		</sprite>
@@ -282,25 +282,25 @@
 
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-117}">
-		<name>�ߍx�`����w��(�D�F�{��)</name>
+		<name>近郊形橋上駅舎(灰色本体)</name>
 		<sprite>
 			<picture src="kinko-108a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-118}">
-		<name>�ߍx�`����w��(�D�F�{��)</name>
+		<name>近郊形橋上駅舎(灰色本体)</name>
 		<sprite>
 			<picture src="kinko-109a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-119}">
-		<name>�ߍx�`����w��(�D�F�{��)</name>
+		<name>近郊形橋上駅舎(灰色本体)</name>
 		<sprite>
 			<picture src="kinko-110a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-120}">
-		<name>�ߍx�`����w��(�D�F�{��)</name>
+		<name>近郊形橋上駅舎(灰色本体)</name>
 		<sprite>
 			<picture src="kinko-111a.bmp"/>
 		</sprite>
@@ -308,13 +308,13 @@
 
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-021}">
-		<name>�ߍx�`����w��(�ԐF�ʘH)</name>
+		<name>近郊形橋上駅舎(赤色通路)</name>
 		<sprite>
 			<picture src="kinko-012a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-121}">
-		<name>�ߍx�`����w��(�D�F�ʘH)</name>
+		<name>近郊形橋上駅舎(灰色通路)</name>
 		<sprite>
 			<picture src="kinko-112a.bmp"/>
 		</sprite>
@@ -326,7 +326,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-022}">
-		<name>�ߍx�`����w��(�ԐF�K�i)</name>
+		<name>近郊形橋上駅舎(赤色階段)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-003}" />
 		</sprite>
@@ -337,46 +337,46 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-122}">
-		<name>�ߍx�`����w��(�D�F�K�i)</name>
+		<name>近郊形橋上駅舎(灰色階段)</name>
 		<sprite>
 			<picture ref="{tako-rk002-kinko-cg0002-103}" />
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-023}">
-		<name>�ߍx�`����w��(�ԐF�K�i)</name>
+		<name>近郊形橋上駅舎(赤色階段)</name>
 		<sprite>
 			<picture src="kinko-014a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-123}">
-		<name>�ߍx�`����w��(�D�F�K�i)</name>
+		<name>近郊形橋上駅舎(灰色階段)</name>
 		<sprite>
 			<picture src="kinko-114a.bmp"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-024}">
-		<name>�ߍx�`����w��(�ԐF�K�i)</name>
+		<name>近郊形橋上駅舎(赤色階段)</name>
 		<sprite>
 			<picture src="kinko-015a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-124}">
-		<name>�ߍx�`����w��(�D�F�K�i)</name>
+		<name>近郊形橋上駅舎(灰色階段)</name>
 		<sprite>
 			<picture src="kinko-115a.bmp"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-025}">
-		<name>�ߍx�`����w��(�ԐF�G���x�[�^)</name>
+		<name>近郊形橋上駅舎(赤色エレベータ)</name>
 		<sprite>
 			<picture src="kinko-016a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{tako-rk002-kinko-1010-125}">
-		<name>�ߍx�`����w��(�D�F�G���x�[�^)</name>
+		<name>近郊形橋上駅舎(灰色エレベータ)</name>
 		<sprite>
 			<picture src="kinko-116a.bmp"/>
 		</sprite>

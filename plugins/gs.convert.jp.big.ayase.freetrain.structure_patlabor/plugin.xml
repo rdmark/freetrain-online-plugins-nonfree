@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>建物総合コンバート　綾瀬ヒロ</title>
-	<author>りおりお</author>
+	<title>蟒ｺ迚ｩ邱丞粋繧ｳ繝ｳ繝舌�ｼ繝医邯ｾ轢ｬ繝偵Ο</title>
+	<author>繧翫♀繧翫♀</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.big.ayase.freetrain.structure_patlabor" />
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-Patlabor01a}-gs">
-		<group>特車２課棟</group>
+		<group>迚ｹ霆奇ｼ定ｪｲ譽�</group>
 		<price>3000000</price>
 		<size>3,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="警察署" />
+			<category byname="隴ｦ蟇溽ｽｲ" />
 		</structure>
 		<sprite origin="0,0" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImg-Patlabor01}"/>

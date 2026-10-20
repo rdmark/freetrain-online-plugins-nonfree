@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY oldshopM '
-	<group>‰º’¬¤“X(’†)</group>
+	<group>ä¸‹ç”ºå•†åº—(ä¸­)</group>
 	<price>5000000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ŒÂl“ú—p•i“X"/>
+		<category byname="å€‹äººæ—¥ç”¨å“åº—"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -14,11 +14,11 @@
 	</population>
 '>
 <!ENTITY oldshopS '
-	<group>‰º’¬¤“X(¬)</group>
+	<group>ä¸‹ç”ºå•†åº—(å°)</group>
 	<price>6000000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ŒÂl“ú—p•i“X"/>
+		<category byname="å€‹äººæ—¥ç”¨å“åº—"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -29,8 +29,8 @@
 ]>
 <plug-in>
 
-	<title>‰º’¬¤“XŠX</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ä¸‹ç”ºå•†åº—è¡—</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{77B6A74F-49BB-4B41-C477-0C93DFA1D890}">

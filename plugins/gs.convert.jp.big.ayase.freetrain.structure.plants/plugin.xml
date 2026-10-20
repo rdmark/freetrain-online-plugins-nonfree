@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>建物総合コンバート　綾瀬ヒロ</title>
-	<author>りおりお</author>
+	<title>蟒ｺ迚ｩ邱丞粋繧ｳ繝ｳ繝舌�ｼ繝医邯ｾ轢ｬ繝偵Ο</title>
+	<author>繧翫♀繧翫♀</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.big.ayase.freetrain.structure.plants" />
 	
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-Plants-01a}-gs">
-		<group>工場(小)</group>
+		<group>蟾･蝣ｴ(蟆�)</group>
 		<price>20000000</price>
 		<height>5</height>
 		<size>2,2</size>
 		<structure>
-			<category byname="軽工業工場" />
+			<category byname="霆ｽ蟾･讌ｭ蟾･蝣ｴ" />
 		</structure>
 		<sprite origin="0,0" offset="72">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-Plants-01}"/>
@@ -25,12 +25,12 @@
 	
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-Plants-02a}-gs">
-		<group>倉庫</group>
+		<group>蛟牙ｺｫ</group>
 		<price>10000000</price>
 		<height>2</height>
 		<size>5,2</size>
 		<structure>
-			<category byname="倉庫" />
+			<category byname="蛟牙ｺｫ" />
 		</structure>
 		<sprite origin="0,0" offset="56">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-Plants-02}"/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title></title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
@@ -6,7 +6,7 @@
 	
 	
 	
-	<!-- “V—³•l–¼ŒÎ“S“¹ TH2000 -->
+	<!-- å¤©ç«œæµœåæ¹–é‰„é“ TH2000 -->
 	<contribution type="trainCar" id="{EE4E3BCB-AF44-4C84-90D7-89C81E1D04C2}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -17,12 +17,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{3FD0FEB7-C73F-409F-844C-526687B5C937}">
-		<company>“V—³•l–¼ŒÎ“S“¹</company>
+		<company>å¤©ç«œæµœåæ¹–é‰„é“</company>
 		<type>TH2000</type>
 		<name>TH2000</name>
-		<author>’|“à ’q‹I</author>
+		<author>ç«¹å†… æ™ºç´€</author>
 		<description>
-“V—³•l–¼ŒÎ“S“¹‚ÌŽå—Í
+å¤©ç«œæµœåæ¹–é‰„é“ã®ä¸»åŠ›
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>

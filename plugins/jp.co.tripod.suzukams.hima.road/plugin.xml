@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“ñŽÔü“¹˜H</title>
-	<author>‰É</author>
+	<title>äºŒè»Šç·šé“è·¯</title>
+	<author>æš‡</author>
 	<homepage>http://suzukams.tripod.co.jp/freetrain/</homepage>
 	
 	<contribution type="road" id="{9B8BE657-6A04-4969-9FF8-0C9A04F12D9F}-A">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>”’ü“ñŽÔü“¹˜H</name>
-		<description>”’”jü‚Ì“¹˜H</description>
+		<name>ç™½ç·šäºŒè»Šç·šé“è·¯</name>
+		<description>ç™½ç ´ç·šã®é“è·¯</description>
 		<picture src="road2w.bmp" size="32,32" offset="16" />
 	</contribution>
 
@@ -16,39 +16,39 @@
 	<contribution type="road" id="{9B8BE657-6A04-4969-9FF8-0C9A04F12D9F}-B">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>žòü“ñŽÔü“¹˜H</name>
-		<description>žòü‚Ì“¹˜H</description>
+		<name>æ©™ç·šäºŒè»Šç·šé“è·¯</name>
+		<description>æ©™ç·šã®é“è·¯</description>
 		<picture src="road2o.bmp" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{9B8BE657-6A04-4969-9FF8-0C9A04F12D9F}-C">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒAƒXƒtƒ@ƒ‹ƒg</name>
-		<description>ƒAƒXƒtƒ@ƒ‹ƒg</description>
+		<name>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</name>
+		<description>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</description>
 		<picture src="heiyou.bmp" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{0405292136}B4573646">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="footpath"/>
-		<name>‰w‘O•à“¹(Œð·Â)</name>
-		<description>‰w‘O‚È‚Ç‚ÌL‚¢•à“¹B\Žš‚ÌŒð·“_‚ÉÂœƒ}[ƒN‚ª‚Â‚¢‚Ä‚Ü‚·B</description>
+		<name>é§…å‰æ­©é“(äº¤å·®é’)</name>
+		<description>é§…å‰ãªã©ã®åºƒã„æ­©é“ã€‚åå­—ã®äº¤å·®ç‚¹ã«é’â—ãƒžãƒ¼ã‚¯ãŒã¤ã„ã¦ã¾ã™ã€‚</description>
 		<picture src="walk01B.bmp" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{0405292136}g24734354">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="footpath"/>
-		<name>‰w‘O•à“¹(Œð·Ô)</name>
-		<description>‰w‘O‚È‚Ç‚ÌL‚¢•à“¹B\Žš‚ÌŒð·“_‚ÉÔœƒ}[ƒN‚ª‚Â‚¢‚Ä‚Ü‚·B</description>
+		<name>é§…å‰æ­©é“(äº¤å·®èµ¤)</name>
+		<description>é§…å‰ãªã©ã®åºƒã„æ­©é“ã€‚åå­—ã®äº¤å·®ç‚¹ã«èµ¤â—ãƒžãƒ¼ã‚¯ãŒã¤ã„ã¦ã¾ã™ã€‚</description>
 		<picture src="walk01R.bmp" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{0405292136}n1673126">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="footpath"/>
-		<name>‰w‘O•à“¹(Œð·‰©)</name>
-		<description>‰w‘O‚È‚Ç‚ÌL‚¢•à“¹B\Žš‚ÌŒð·“_‚É‰©œƒ}[ƒN‚ª‚Â‚¢‚Ä‚Ü‚·B</description>
+		<name>é§…å‰æ­©é“(äº¤å·®é»„)</name>
+		<description>é§…å‰ãªã©ã®åºƒã„æ­©é“ã€‚åå­—ã®äº¤å·®ç‚¹ã«é»„â—ãƒžãƒ¼ã‚¯ãŒã¤ã„ã¦ã¾ã™ã€‚</description>
 		<picture src="walk01Y.bmp" size="32,32" offset="16" />
 	</contribution>
 </plug-in>

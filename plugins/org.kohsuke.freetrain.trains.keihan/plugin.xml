@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title></title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 
-	<!-- 2600�n -->
+	<!-- 2600系 -->
 	<contribution type="trainCar" id="{7DDEA712-274E-4f11-89AC-906F01EAC923}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -14,12 +14,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{C1F95779-DC2F-4580-B905-836BC1D073ED}">
-		<company>����d�S</company>
-		<type>2600�n</type>
+		<company>京阪電鉄</company>
+		<type>2600系</type>
 		<name></name>
-		<author>��</author>
+		<author>暇</author>
 		<description>
-2000�n�̎ԑ̂Ȃǂ����p�����ԗ��ŁA���a53�N���������n�܂����B2,3,4�̊e�Œ胆�j�b�g������A���ʂ���}�s�܂ŕ��L���^�p�����B2���Ґ���3���Ґ��ł̉^�p�͑��݂����A�ŒZ��4���A�Œ���8���B
+2000系の車体などを活用した車両で、昭和53年より改造が始まった。2,3,4の各固定ユニットがあり、普通から急行まで幅広く運用される。2両編成や3両編成での運用は存在せず、最短は4両、最長は8両。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -30,7 +30,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 7000�n�擪�ԗ� -->
+	<!-- 7000系先頭車両 -->
 	<contribution type="trainCar" id="{0B6321F5-C21F-4490-8486-28CBDC8C15D9}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -40,7 +40,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 	
-	<!-- 7000�n���Ԏԗ� -->
+	<!-- 7000系中間車両 -->
 	<contribution type="trainCar" id="{0B6321F5-C21F-4490-8486-28CBDC8C15D9}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -50,18 +50,18 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 	
-	<!-- 7000�n����ԗ� -->
+	<!-- 7000系後尾車両 -->
 	<contribution type="trainCar" id="{0B6321F5-C21F-4490-8486-28CBDC8C15D9}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{0B6321F5-C21F-4490-8486-28CBDC8C15D9}-h"/>
 	</contribution>
 	
 	<contribution type="train" id="{0B6321F5-C21F-4490-8486-28CBDC8C15D9}">
-		<company>����d�S</company>
-		<type>7000�n</type>
+		<company>京阪電鉄</company>
+		<type>7000系</type>
 		<name></name>
-		<author>��</author>
-		<description>�������N�A�������J�Ǝ���8000�n���}�ԂƂƂ��ɓo��B���7200�n���o�ꂵ�����ߑS4�Ґ��Ə����h�����A���̎ԗ����狞��̐V�����X�^�C�����m�����ꂽ���Ƃ͓��M���ׂ����낤�B7���Œ�Ґ��ŋ}�s���畁�ʂ܂Ŏg�p����Ă���B
+		<author>暇</author>
+		<description>平成元年、鴨東線開業時に8000系特急車とともに登場。後に7200系が登場したため全4編成と少数派だが、この車両から京阪の新しいスタイルが確立されたことは特筆すべきだろう。7両固定編成で急行から普通まで使用されている。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -76,7 +76,7 @@
 
 
 
-	<!-- 8000�n�擪�ԗ� -->
+	<!-- 8000系先頭車両 -->
 	<contribution type="trainCar" id="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -86,7 +86,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 	
-	<!-- 8000�n���Ԏԗ� -->
+	<!-- 8000系中間車両 -->
 	<contribution type="trainCar" id="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -95,7 +95,7 @@
 		<capacity>113</capacity>
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
-	<!-- 8000�n���Ԏԗ� -->
+	<!-- 8000系中間車両 -->
 	<contribution type="trainCar" id="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-dd">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -104,18 +104,18 @@
 		<capacity>110</capacity>
 		<seatedcapacity>90</seatedcapacity>
 	</contribution>
-	<!-- 8000�n����ԗ� -->
+	<!-- 8000系後尾車両 -->
 	<contribution type="trainCar" id="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-h"/>
 	</contribution>
 	
 	<contribution type="train" id="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}">
-		<company>����d�S</company>
-		<type>8000�n</type>
+		<company>京阪電鉄</company>
+		<type>8000系</type>
 		<name></name>
-		<author>��</author>
-		<description>�������N�A�������J�Ǝ���3000�n�̒u�����������˓o��B�e���r�J�[�Ȃǂ̓`�����󂯌p�����΂���łȂ��A�A�����ʑ��⃏���n���h���}�X�R���ȂǐV�@���������ꂽ�B�܂��A����9�N���畽��10�N�ɂ����ă_�u���f�b�J�[�ԗ�����������8���Ґ��Ŏ�ɓ��}�Ɏg�p����Ă���B
+		<author>暇</author>
+		<description>平成元年、鴨東線開業時に3000系の置き換えも兼ね登場。テレビカーなどの伝統を受け継いだばかりでなく、連続側面窓やワンハンドルマスコンなど新機軸も取り入れた。また、平成9年から平成10年にかけてダブルデッカー車両が増結され8両編成で主に特急に使用されている。
 		</description>
 		<fare>550</fare>
 		<price>38500000</price>
@@ -124,23 +124,23 @@
 		<triprange>middle</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-		<car char="��" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-h"/>
+		<car char="＜" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-h"/>
 		<car char="-" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-m"/>
-		<car char="��" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-dd"/>
-		<car char="��" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-t"/>
-		<composition>��</composition>
-		<composition>����</composition>
-		<composition>��-��</composition>
-		<composition>��--��</composition>
-		<composition>��---��</composition>
-		<composition>��----��</composition>
-		<composition>��-----��</composition>
-		<composition>��---��--��</composition>
+		<car char="＝" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-dd"/>
+		<car char="＞" ref="{01D6FB67-F28D-4da5-A3B0-630DB1F4D10D}-t"/>
+		<composition>＜</composition>
+		<composition>＜＞</composition>
+		<composition>＜-＞</composition>
+		<composition>＜--＞</composition>
+		<composition>＜---＞</composition>
+		<composition>＜----＞</composition>
+		<composition>＜-----＞</composition>
+		<composition>＜---＝--＞</composition>
 		</config>
 	</contribution>
 
 
-	<!-- 1900�n�擪�ԗ� -->
+	<!-- 1900系先頭車両 -->
 	<contribution type="trainCar" id="{0406051143}aeositgypkb">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -150,7 +150,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 	
-	<!-- 1900�n���Ԏԗ� -->
+	<!-- 1900系中間車両 -->
 	<contribution type="trainCar" id="{0406051143}shpkpjn">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -160,18 +160,18 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 	
-	<!-- 1900�n����ԗ� -->
+	<!-- 1900系後尾車両 -->
 	<contribution type="trainCar" id="{0406051144}3897yhsfo">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{0406051143}aeositgypkb"/>
 	</contribution>
 	
 	<contribution type="train" id="{0406051144}kh1900local">
-		<company>����d�S</company>
-		<type>1900�n���ʎ�</type>
+		<company>京阪電鉄</company>
+		<type>1900系普通車</type>
 		<name></name>
-		<author>��</author>
-		<description>���}��3000�n�œ��ꂳ���܂ŋ�����}�̑㖼���Ƃ��đ����Ă����B���}���ތ��3���E�����O�V�[�g���A�h���ύX�̂����A���ʎԂɓ]�p���ꂽ�B�O�ʂ̃o���p�[��A���ʎԂł���Ȃ�������ЊJ���ł���ȂǁA����d�Ԃœ����I�ȑ��݂ł���B���ɂ͈�ԗ����ɗ��J���ƕЊJ�������݂���ԗ������݂���B
+		<author>暇</author>
+		<description>特急が3000系で統一されるまで京阪特急の代名詞として走っていた。特急引退後は3扉・ロングシート化、塗装変更のうえ、普通車に転用された。前面のバンパーや、普通車でありながら扉が片開きであるなど、京阪電車で特徴的な存在である。中には一車両中に両開きと片開きが混在する車両も存在する。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -184,7 +184,7 @@
 		</composition>
 	</contribution>
 
-	<!-- 1900�n���}�擪�ԗ� -->
+	<!-- 1900系特急先頭車両 -->
 	<contribution type="trainCar" id="{0406051249}aeositgypkb">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -194,7 +194,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 	
-	<!-- 1900�n���}���Ԏԗ� -->
+	<!-- 1900系特急中間車両 -->
 	<contribution type="trainCar" id="{0406051249}shpkpjn">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
                 <sprite origin="0,0">
@@ -204,18 +204,18 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 	
-	<!-- 1900�n���}����ԗ� -->
+	<!-- 1900系特急後尾車両 -->
 	<contribution type="trainCar" id="{0406051249}3897yhsfo">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{0406051249}aeositgypkb"/>
 	</contribution>
 	
 	<contribution type="train" id="{0406051249}kh1900local">
-		<company>����d�S</company>
-		<type>1900�n���}��</type>
+		<company>京阪電鉄</company>
+		<type>1900系特急車</type>
 		<name></name>
-		<author>��</author>
-		<description>3000�n�̑O�̐���̓��}�ԁB�����������̍ۂɐV�����ꂽ�ԗ��ƁA1810�n����ғ����ꂽ�ԗ�������B�O�ʂ̃o���p�[�͓����A�V���O���[�v�ɂ̂ݎ��t�����Ă����B
+		<author>暇</author>
+		<description>3000系の前の世代の特急車。淀屋橋延長の際に新造された車両と、1810系から編入された車両がある。前面のバンパーは当初、新造グループにのみ取り付けられていた。
 		</description>
 		<fare>500</fare>
 		<price>28000000</price>

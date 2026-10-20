@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>GenericStructure convert underpath ては</title>
-	<author>りおりお</author>
+	<title>GenericStructure convert underpath 縺ｦ縺ｯ</title>
+	<author>繧翫♀繧翫♀</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="com.wakwak.bast.freetrain.underpath" />
 
@@ -10,13 +10,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{nekoneko-nyanyanya-underpath-1}-gs">
-		<group>アンダーパス</group>
-		<design>2車線道路</design>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
+		<design>2霆顔ｷ夐％霍ｯ</design>
 		<price>1000000</price>
 		<size>4,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="道路関連物" />
+			<category byname="驕楢ｷｯ髢｢騾｣迚ｩ" />
 		</structure>
 		<sprite origin="0,0" offset="29">
 		<picture ref="{riorio-gs-convert-picture-underpath-1}" />
@@ -34,13 +34,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{nekoneko-nyanyanya-underpath-5}-gs">
-		<group>アンダーパス</group>
-		<design>4車線道路</design>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
+		<design>4霆顔ｷ夐％霍ｯ</design>
 		<price>2000000</price>
 		<size>4,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="道路関連物" />
+			<category byname="驕楢ｷｯ髢｢騾｣迚ｩ" />
 		</structure>
 		<sprite origin="0,45" offset="29">
 		<picture ref="{riorio-gs-convert-picture-underpath-1}" />

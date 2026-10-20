@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒLƒn40“ú“ìFiŽÔ—¼Šƒvƒ‰ƒOƒCƒ“ˆË‘¶j</title>
+	<title>ã‚­ãƒ40æ—¥å—è‰²ï¼ˆè»Šä¸¡æ‰€ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ä¾å­˜ï¼‰</title>
 	<author>haru(qra_ra)</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
 	<depend on="org.kohsuke.freetrain.trains.qra"/>
-		<!--  ª—˜—p‚·‚éƒRƒ“ƒgƒŠƒrƒ…[ƒVƒ‡ƒ“iŠG‚âŽÔ—¼‚È‚Çj‚Ì‚ ‚éƒvƒ‰ƒOƒCƒ“–¼‚ð‘‚­ -->
+		<!--  â†‘åˆ©ç”¨ã™ã‚‹ã‚³ãƒ³ãƒˆãƒªãƒ“ãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ï¼ˆçµµã‚„è»Šä¸¡ãªã©ï¼‰ã®ã‚ã‚‹ãƒ—ãƒ©ã‚°ã‚¤ãƒ³åã‚’æ›¸ã -->
 
 
 
-	<!-- kiha40 “ú“ìF-->
+	<!-- kiha40 æ—¥å—è‰²-->
 
 	<contribution type="trainCar" id="{kiha40-trainCar-nichinan-000a-4C8B212Dharu}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -72,7 +72,7 @@
 			</spriteType>
 
 			<picture ref="{57AF9516-5742-4081-A08D-1572882A3159}" />
-				<!--    ªuorg.kohsuke.freetrain.trains.qrav‚É‚ ‚éukiha40.bmpv‚ÌŠG‚ð’è‹`‚µ‚½"picture"ƒRƒ“ƒgƒŠƒrƒ…[ƒVƒ‡ƒ“‚ÌID -->
+				<!--    â†‘ã€Œorg.kohsuke.freetrain.trains.qraã€ã«ã‚ã‚‹ã€Œkiha40.bmpã€ã®çµµã‚’å®šç¾©ã—ãŸ"picture"ã‚³ãƒ³ãƒˆãƒªãƒ“ãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã®ID -->
 
 		</sprite>
 		<capacity>96</capacity>
@@ -80,15 +80,15 @@
 	</contribution>
 
 	<contribution type="train" id="{kiha40-train-nichinan-0001-4C8B212Dharu}">
-		<name>“ú“ìF</name>
+		<name>æ—¥å—è‰²</name>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>110</amenity>
 		<speed>slow</speed>
 		<author>haru</author>
-		<type>ƒLƒn40Œ`</type>
+		<type>ã‚­ãƒ40å½¢</type>
 		<triprange>middle</triprange>
-		<company>JR‹ãB</company>
+		<company>JRä¹å·ž</company>
 		<description></description>
 		<composition>
 			<body carRef="{kiha40-trainCar-nichinan-000a-4C8B212Dharu}"/>
@@ -100,30 +100,30 @@
 
 
 
-	<!-- kiha40 ‹ãBF+“ú“ìF-->
+	<!-- kiha40 ä¹å·žè‰²+æ—¥å—è‰²-->
 
 	<contribution type="train" id="{kiha40-train-nichinan-0002-4C8B212Dharu}">
-		<name>‹ãBF+“ú“ìF</name>
+		<name>ä¹å·žè‰²+æ—¥å—è‰²</name>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>110</amenity>
 		<speed>slow</speed>
 		<author>haru</author>
 		<triprange>middle</triprange>
-		<type>ƒLƒn40Œ`</type>
-		<company>JR‹ãB</company>
-		<description>‚Q`‚T—¼w“ü‰Â</description>
+		<type>ã‚­ãƒ40å½¢</type>
+		<company>JRä¹å·ž</company>
+		<description>ï¼’ï½žï¼•ä¸¡è³¼å…¥å¯</description>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 
 		<config>
-			<car char="“ú" ref="{kiha40-trainCar-nichinan-000a-4C8B212Dharu}"/>
-			<car char="‹ã" ref="{ADF65878-9F9C-456A-9B79-72F846A0479D}"/>
-				<!--         ªuorg.kohsuke.freetrain.trains.qrav‚É‚ ‚éA‹ãBF‚ÌƒLƒn40Œ`ŽÔ—¼‚ð’è‹`‚µ‚½"trainCar"ƒRƒ“ƒgƒŠƒrƒ…[ƒVƒ‡ƒ“‚ÌID -->
+			<car char="æ—¥" ref="{kiha40-trainCar-nichinan-000a-4C8B212Dharu}"/>
+			<car char="ä¹" ref="{ADF65878-9F9C-456A-9B79-72F846A0479D}"/>
+				<!--         â†‘ã€Œorg.kohsuke.freetrain.trains.qraã€ã«ã‚ã‚‹ã€ä¹å·žè‰²ã®ã‚­ãƒ40å½¢è»Šä¸¡ã‚’å®šç¾©ã—ãŸ"trainCar"ã‚³ãƒ³ãƒˆãƒªãƒ“ãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã®ID -->
 		
-			<composition>“ú‹ã</composition>
-			<composition>“ú“ú‹ã</composition>
-			<composition>“ú“ú‹ã‹ã</composition>
-			<composition>“ú“ú‹ã“ú‹ã</composition>
+			<composition>æ—¥ä¹</composition>
+			<composition>æ—¥æ—¥ä¹</composition>
+			<composition>æ—¥æ—¥ä¹ä¹</composition>
+			<composition>æ—¥æ—¥ä¹æ—¥ä¹</composition>
 		</config>
 	</contribution>
 

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 
-<!-- E233Œn‹ž—tü•ªŠ„•Ò¬ -->
+<!-- E233ç³»äº¬è‘‰ç·šåˆ†å‰²ç·¨æˆ -->
   <contribution type="train" id="{CyberExpress1703d-E233-Keiyo}-2">
-    <company>JR“Œ“ú–{</company>
-    <type>E233Œn</type>
-    <name>‹ž—tü(•ªŠ„•Ò¬)</name>
-    <author>‚¢‚Á‚¿[</author>
-    <description>¦8E10E12—¼•Ò¬‚Ì‚ÝB“Œ‹àü‰^—p‚ÉA‚­‚½‚ßA201Œn‚Æ“¯—l4+6—¼‚Ì•ªŠ„•Ò¬‚ª‚ ‚è‚Ü‚·B</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>E233ç³»</type>
+    <name>äº¬è‘‰ç·š(åˆ†å‰²ç·¨æˆ)</name>
+    <author>ã„ã£ã¡ãƒ¼</author>
+    <description>â€»8ãƒ»10ãƒ»12ä¸¡ç·¨æˆã®ã¿ã€‚æ±é‡‘ç·šé‹ç”¨ã«å°±ããŸã‚ã€201ç³»ã¨åŒæ§˜4+6ä¸¡ã®åˆ†å‰²ç·¨æˆãŒã‚ã‚Šã¾ã™ã€‚</description>
     <fare>400</fare>
     <price>28000000</price>
 	<amenity>100</amenity>

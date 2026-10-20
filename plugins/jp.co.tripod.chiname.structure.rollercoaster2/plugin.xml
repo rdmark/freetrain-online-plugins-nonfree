@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY built '
-	<group>ƒR[ƒXƒ^[(Š®¬•i)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼(å®Œæˆå“)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>30000000</price>
 	<size>3,21</size>
@@ -11,9 +11,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY built2 '
-	<group>ƒR[ƒXƒ^[(Š®¬•i)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼(å®Œæˆå“)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>30000000</price>
 	<size>4,18</size>
@@ -21,9 +21,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY straight '
-	<group>ƒR[ƒXƒ^[B(’¼üEâ)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼B(ç›´ç·šãƒ»å‚)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>100000</price>
 	<size>1,1</size>
@@ -32,9 +32,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY smallCurve '
-	<group>ƒR[ƒXƒ^[B(ƒJ[ƒu)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼B(ã‚«ãƒ¼ãƒ–)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>100000</price>
 	<size>1,1</size>
@@ -43,9 +43,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY largeCurve '
-	<group>ƒR[ƒXƒ^[B(ƒJ[ƒu)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼B(ã‚«ãƒ¼ãƒ–)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>400000</price>
 	<size>2,2</size>
@@ -54,9 +54,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY S_Curve '
-	<group>ƒR[ƒXƒ^[B(ƒJ[ƒu)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼B(ã‚«ãƒ¼ãƒ–)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>400000</price>
 	<size>2,3</size>
@@ -65,9 +65,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY virticalLoop '
-	<group>ƒR[ƒXƒ^[B(“ÁŽê)</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼B(ç‰¹æ®Š)</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>800000</price>
 	<size>1,2</size>
@@ -80,9 +80,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY station '
-	<group>ƒR[ƒXƒ^[æ‚èê</group>
+	<group>ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼ä¹—ã‚Šå ´</group>
 	<structure>
-		<category byname="—V‰€’n"/>
+		<category byname="éŠåœ’åœ°"/>
 	</structure>
 	<price>1200000</price>
 	<size>1,2</size>
@@ -161,8 +161,8 @@
 '>
 ]>
 <plug-in>
-	<title>ƒWƒFƒbƒgƒR[ƒXƒ^[</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ã‚¸ã‚§ãƒƒãƒˆã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/%7Enao/</homepage>
 	<contribution type="picture" id="{33F626A5-0E8D-4D7D-C477-3B6456A8371E}-a2">
 		<picture src="ampark_coaster_A2.bmp">
@@ -190,7 +190,7 @@
 		</picture>
 	</contribution>
 
-	<!--Š®¬”Å-->
+	<!--å®Œæˆç‰ˆ-->
 	<contribution type="GenericStructure" id="{83211A18-7B5B-420A-C477-631608F3D05E}">
 		&built;
 		<design>DESPERADO</design>
@@ -225,10 +225,10 @@
 			<picture ref="{33F626A5-0E8D-4D7D-C477-3B6456A8371E}-b2"/>
 		</sprite>
 	</contribution>
-	<!--’¼üEâ-->	
+	<!--ç›´ç·šãƒ»å‚-->	
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-str">
 		&straight;
-		<design>…•½’¼i</design>
+		<design>æ°´å¹³ç›´é€²</design>
 		&colorSet;
 		<pictures>
 			<top origin="320,344" offset="16">
@@ -255,7 +255,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-slp">
 		&straight;
-		<design>ƒXƒ[ƒv</design>
+		<design>ã‚¹ãƒ­ãƒ¼ãƒ—</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,8" offset="32">
@@ -304,7 +304,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-top">
 		&straight;
-		<design>ƒXƒ[ƒv[“»]</design>
+		<design>ã‚¹ãƒ­ãƒ¼ãƒ—[å³ ]</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,56" offset="32">
@@ -353,7 +353,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-btm">
 		&straight;
-		<design>ƒXƒ[ƒv[’J]</design>
+		<design>ã‚¹ãƒ­ãƒ¼ãƒ—[è°·]</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,104" offset="16">
@@ -400,10 +400,10 @@
 			</bottom>
 		</pictures>
 	</contribution>
-	<!--“ÁŽê-->	
+	<!--ç‰¹æ®Š-->	
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-vlp">
 		&virticalLoop;
-		<design>‚’¼ƒ‹[ƒv</design>
+		<design>åž‚ç›´ãƒ«ãƒ¼ãƒ—</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,248" offset="48">
@@ -430,7 +430,7 @@
 	</contribution>	
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-csw">
 		&virticalLoop;
-		<design>ƒR[ƒNƒXƒNƒŠƒ…[</design>
+		<design>ã‚³ãƒ¼ã‚¯ã‚¹ã‚¯ãƒªãƒ¥ãƒ¼</design>
 		&colorSet;
 		<pictures opposite="true">
 			<top origin="112,264" offset="40">
@@ -477,10 +477,10 @@
 			</bottom>
 		</pictures>
 	</contribution>	
-	<!--ƒJ[ƒu-->
+	<!--ã‚«ãƒ¼ãƒ–-->
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-scv">
 		&smallCurve;
-		<design>¬ƒJ[ƒu</design>
+		<design>å°ã‚«ãƒ¼ãƒ–</design>
 		&colorSet;
 		<pictures>
 			<top origin="320,280" offset="16">
@@ -529,7 +529,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-lcv">
 		&largeCurve;
-		<design>‘åƒJ[ƒu</design>
+		<design>å¤§ã‚«ãƒ¼ãƒ–</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,144" offset="24">
@@ -578,7 +578,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-S">
 		&S_Curve;
-		<design>‚rŽšƒJ[ƒu</design>
+		<design>ï¼³å­—ã‚«ãƒ¼ãƒ–</design>
 		&colorSet;
 		<pictures>
 			<top origin="0,320" offset="24">
@@ -627,7 +627,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-1tL">
 		&largeCurve;
-		<design>ˆê‰ñ“][¶]</design>
+		<design>ä¸€å›žè»¢[å·¦]</design>
 		&colorSet;
 		<pictures>
 			<top origin="128,0" offset="40">
@@ -676,7 +676,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-1tR">
 		&largeCurve;
-		<design>ˆê‰ñ“][‰E]</design>
+		<design>ä¸€å›žè»¢[å³]</design>
 		&colorSet;
 		<pictures>
 			<top origin="128,128" offset="40">
@@ -725,7 +725,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-1.5tL">
 		&largeCurve;
-		<design>ˆê‰ñ“]”¼[¶]</design>
+		<design>ä¸€å›žè»¢åŠ[å·¦]</design>
 		&colorSet;
 		<pictures>
 			<top origin="256,0" offset="40">
@@ -774,7 +774,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E583A63F-044F-4384-C477-0A280C67FAC4}-1.5tR">
 		&largeCurve;
-		<design>ˆê‰ñ“]”¼[‰E]</design>
+		<design>ä¸€å›žè»¢åŠ[å³]</design>
 		&colorSet;
 		<pictures>
 			<top origin="256,128" offset="40">

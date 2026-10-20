@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 
 <plug-in>
-	<title>�w�Ƀv���O�C��</title> 
-	<author>�ԕH</author> 
+	<title>駅舎プラグイン</title> 
+	<author>花菱</author> 
 	<homepage></homepage>
 
 	<contribution type="picture" id="{474B8BFD-rk001-1010-t-eki001-cg}">
@@ -12,7 +12,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki001}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -22,7 +22,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki002}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -33,7 +33,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki003}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -43,7 +43,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki004}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -54,7 +54,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki005}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -64,7 +64,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki006}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -75,7 +75,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki007}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -85,7 +85,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1010-t-eki008}">
-	<group>�n��w01</group> 
+	<group>地上駅01</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -104,7 +104,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki001}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -114,7 +114,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki002}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -125,7 +125,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki003}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -135,7 +135,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki004}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -146,7 +146,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki005}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -156,7 +156,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki006}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -167,7 +167,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki007}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -177,7 +177,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1012-t-eki008}">
-	<group>�n��w02</group> 
+	<group>地上駅02</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>1000</operationCost> 
@@ -194,7 +194,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1013-t-eki008}">
-	<group>�n��w03</group> 
+	<group>地上駅03</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -204,7 +204,7 @@
 	</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-1014-t-eki008}">
-	<group>�n��w03</group> 
+	<group>地上駅03</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 

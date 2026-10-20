@@ -1,102 +1,102 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‹Œ“ú–{‘—L“S“¹Œ^@‹ŒŽ®ŽÔ—¼</title>
+	<title>æ—§æ—¥æœ¬å›½æœ‰é‰„é“åž‹ã€€æ—§å¼è»Šä¸¡</title>
  	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
  	
- 	<!-- ƒCƒ[ƒW‰æ‘œ’è‹` -->
- 	<!-- ‹q@ŽÔ@ƒXƒn 42(Â) -->
+ 	<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© -->
+ 	<!-- å®¢ã€€è»Šã€€ã‚¹ãƒ 42(é’) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-SUHA42}">
 		<picture src="suha42.bmp" />
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒIƒ† 10(Â) -->
+	<!-- å®¢ã€€è»Šã€€ã‚ªãƒ¦ 10(é’) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-OYU10}">
 		<picture src="oyu10.bmp" />
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒ}ƒj 60(Â) -->
+	<!-- å®¢ã€€è»Šã€€ãƒžãƒ‹ 60(é’) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-MANI60}">
 		<picture src="mani60.bmp" />
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 21 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 21 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-BT20-1}">
 		<picture src="bluetrain20a.bmp" />
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒiƒnƒl 20 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒ 20 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-BT20-2}">
 		<picture src="bluetrain20b.bmp" />
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒJƒj 21 -->
+	<!-- å®¢ã€€è»Šã€€ã‚«ãƒ‹ 21 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-BT20-3}">
 		<picture src="bluetrain20c.bmp" />
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 23 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 23 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-BT20-4}">
 		<picture src="bluetrain20d.bmp" />
 	</contribution>
 
-	<!-- ‰Ý@ŽÔ@ƒƒL 5000(’ƒ) -->
+	<!-- è²¨ã€€è»Šã€€ãƒ¯ã‚­ 5000(èŒ¶) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-WAKI-1}">
 		<picture src="waki_a.bmp" />
 	</contribution>
-	<!-- ‰Ý@ŽÔ@ƒƒL 10000(—Î) -->
+	<!-- è²¨ã€€è»Šã€€ãƒ¯ã‚­ 10000(ç·‘) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-WAKI-2}">
 		<picture src="waki_b.bmp" />
 	</contribution>
-	<!-- ‰Ý@ŽÔ@ƒƒL 10000(Â) -->
+	<!-- è²¨ã€€è»Šã€€ãƒ¯ã‚­ 10000(é’) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-WAKI-3}">
 		<picture src="waki_c.bmp" />
 	</contribution>
 	
-	<!-- ‰Ý@ŽÔ@ƒ^ƒL 3000(•) -->
+	<!-- è²¨ã€€è»Šã€€ã‚¿ã‚­ 3000(é»’) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-TAKI-1}">
 		<picture src="taki_a.bmp" />
 	</contribution>
 	
-	<!-- ‰Ý@ŽÔ@ƒRƒLƒt 5500(‘“SƒRƒ“ƒeƒi) -->
+	<!-- è²¨ã€€è»Šã€€ã‚³ã‚­ãƒ• 5500(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-KOKI-1}">
 		<picture src="koki_a1.bmp" />
 	</contribution>
 	
-	<!-- ‰Ý@ŽÔ@ƒRƒL 5000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- è²¨ã€€è»Šã€€ã‚³ã‚­ 5000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-KOKI-2}">
 		<picture src="koki_a2.bmp" />
 	</contribution>
 
-	<!-- ‰Ý@ŽÔ@ƒRƒL 5000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- è²¨ã€€è»Šã€€ã‚³ã‚­ 5000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-KOKI-3}">
 		<picture src="koki_a3.bmp" />
 	</contribution>
 
 
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS‚l‚ƒŽÔ -->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ï¼­ï½ƒè»Š -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-SRC-1}">
 		<picture src="src_a.bmp" />
 	</contribution>
 	
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS‚lŽÔ -->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ï¼­è»Š -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-SRC-2}">
 		<picture src="src_b.bmp" />
 	</contribution>
 
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS‚sŽÔ -->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ï¼´è»Š -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-SRC-3}">
 		<picture src="src_c.bmp" />
 	</contribution>
 	
-	<!-- ƒfƒB[ƒ[ƒ‹‹@ŠÖŽÔ DD16 -->
+	<!-- ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«æ©Ÿé–¢è»Š DD16 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-DD16-1}">
 		<picture src="DD16.bmp" />
 	</contribution>
 	
-	<!-- ö‹C‹@ŠÖŽÔ C11 -->
+	<!-- è’¸æ°—æ©Ÿé–¢è»Š C11 -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-C11-1}">
 		<picture src="C11.bmp" />
 	</contribution>
 	
 	
- 	<!-- ŽÔ—¼’è‹` -->
+ 	<!-- è»Šä¸¡å®šç¾© -->
 
-	<!-- —LŠWŽÔ@ƒƒL 5000(’ƒ) -->
+	<!-- æœ‰è“‹è»Šã€€ãƒ¯ã‚­ 5000(èŒ¶) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -106,7 +106,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- —LŠWŽÔ@ƒƒL 10000(—Î) -->
+	<!-- æœ‰è“‹è»Šã€€ãƒ¯ã‚­ 10000(ç·‘) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -116,7 +116,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- —LŠWŽÔ@ƒƒL 10000(Â) -->
+	<!-- æœ‰è“‹è»Šã€€ãƒ¯ã‚­ 10000(é’) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -126,7 +126,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒ^ƒ“ƒNŽÔ@ƒ^ƒL 3000(•) -->
+	<!-- ã‚¿ãƒ³ã‚¯è»Šã€€ã‚¿ã‚­ 3000(é»’) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -136,7 +136,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒLƒt 5500(‘“SƒRƒ“ƒeƒi) Œü‚«F³-->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ãƒ• 5500(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) å‘ãï¼šæ­£-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -146,13 +146,13 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒLƒt 5500(‘“SƒRƒ“ƒeƒi) Œü‚«F‹t-->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ãƒ• 5500(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1b}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}"/>
 	</contribution>
 
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒL 5000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ 5000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -162,7 +162,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒL 5000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ 5000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -172,7 +172,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒLƒt 10000(‘“SƒRƒ“ƒeƒi) Œü‚«F³-->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ãƒ• 10000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) å‘ãï¼šæ­£-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -191,13 +191,13 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒLƒt 10000(‘“SƒRƒ“ƒeƒi) Œü‚«F‹t-->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ãƒ• 10000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1b}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}"/>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒL 10000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ 10000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-2}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -216,7 +216,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒiŽÔ@ƒRƒL 10000(‘“SƒRƒ“ƒeƒi) -->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè»Šã€€ã‚³ã‚­ 10000(å›½é‰„ã‚³ãƒ³ãƒ†ãƒŠ) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-3}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -236,7 +236,7 @@
 	</contribution>
 	
 
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS@‚l‚ƒŽÔ@Œü‚«F³-->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ã€€ï¼­ï½ƒè»Šã€€å‘ãï¼šæ­£-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -246,13 +246,13 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS@‚l‚ƒŽÔ@Œü‚«F‹t-->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ã€€ï¼­ï½ƒè»Šã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc2}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc1}"/>
 	</contribution>
 
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS@‚lŽÔ@-->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ã€€ï¼­è»Šã€€-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SRC-M1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -262,7 +262,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‰Ý•¨“dŽÔ@ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS@‚sŽÔ-->
+	<!-- è²¨ç‰©é›»è»Šã€€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´ã€€ï¼´è»Š-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SRC-T1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -273,7 +273,7 @@
 	</contribution>
 
 	
-	<!-- ‹q@ŽÔ@ƒXƒn 42(Â) -->
+	<!-- å®¢ã€€è»Šã€€ã‚¹ãƒ 42(é’) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -283,7 +283,7 @@
 		<seatedcapacity>88</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒIƒ† 10(Â) -->
+	<!-- å®¢ã€€è»Šã€€ã‚ªãƒ¦ 10(é’) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -293,7 +293,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒ}ƒj 60(Â) -->
+	<!-- å®¢ã€€è»Šã€€ãƒžãƒ‹ 60(é’) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -303,7 +303,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒXƒn 42(’ƒ) -->
+	<!-- å®¢ã€€è»Šã€€ã‚¹ãƒ 42(èŒ¶) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -318,7 +318,7 @@
 		<seatedcapacity>88</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒIƒ† 10(’ƒ) -->
+	<!-- å®¢ã€€è»Šã€€ã‚ªãƒ¦ 10(èŒ¶) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -333,7 +333,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒ}ƒj 60(’ƒ) -->
+	<!-- å®¢ã€€è»Šã€€ãƒžãƒ‹ 60(èŒ¶) -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -349,7 +349,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 21 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 21 -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -358,13 +358,13 @@
 		<capacity>60</capacity>
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 21@Œü‚«F‹t-->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 21ã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒiƒnƒl 20 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒ 20 -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -374,7 +374,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒJƒj 21 -->
+	<!-- å®¢ã€€è»Šã€€ã‚«ãƒ‹ 21 -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -383,13 +383,13 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒJƒj 21@Œü‚«F‹t-->
+	<!-- å®¢ã€€è»Šã€€ã‚«ãƒ‹ 21ã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>
 	</contribution>
 	
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 23 -->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 23 -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -398,14 +398,14 @@
 		<capacity>60</capacity>
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
-	<!-- ‹q@ŽÔ@ƒiƒnƒlƒt 23@Œü‚«F‹t-->
+	<!-- å®¢ã€€è»Šã€€ãƒŠãƒãƒãƒ• 23ã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>
 	</contribution>
 	
 
-	<!-- “d‹C‹@ŠÖŽÔ -->
+	<!-- é›»æ°—æ©Ÿé–¢è»Š -->
 	<!-- EF62-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-EF62-0000}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -426,7 +426,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- EF65 “Á‹}F-->
+	<!-- EF65 ç‰¹æ€¥è‰²-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -466,7 +466,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- ƒfƒB[ƒ[ƒ‹‹@ŠÖŽÔ -->
+	<!-- ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«æ©Ÿé–¢è»Š -->
 	<!-- DD51-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -477,7 +477,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- DD16@Œü‚«F³-->
+	<!-- DD16ã€€å‘ãï¼šæ­£-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-DD16-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -487,13 +487,13 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- DD16@Œü‚«F‹t-->
+	<!-- DD16ã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-DD16-B}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-DD16-A}"/>
 	</contribution>
 	
-	<!-- C11@Œü‚«F³-->
+	<!-- C11ã€€å‘ãï¼šæ­£-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -503,19 +503,19 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- C11@Œü‚«F‹t-->
+	<!-- C11ã€€å‘ãï¼šé€†-->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
 	</contribution>
 
-	<!-- ƒpƒŒƒbƒg‰Ý•¨—ñŽÔ‚Ì’è‹` -->
+	<!-- ãƒ‘ãƒ¬ãƒƒãƒˆè²¨ç‰©åˆ—è»Šã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K01-01}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 64</type>
-		<name>ƒpƒŒƒbƒg‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒpƒŒƒbƒg‚ð“‹Ú‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF64’P‹@‚Ü‚½‚Íd˜AB
+		<name>ãƒ‘ãƒ¬ãƒƒãƒˆè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ãƒ‘ãƒ¬ãƒƒãƒˆã‚’æ­è¼‰ã™ã‚‹ã“ã¨ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF64å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -524,37 +524,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚v" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
-			<car char="‚f" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼·" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
+			<car char="ï¼§" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚v</composition>
-			<composition>ƒ‚r‚f</composition>
-			<composition>ƒ‚v‚r‚f</composition>
-			<composition>ƒ‚f‚v‚r‚f</composition>
-			<composition>ƒ‚v‚f‚v‚r‚f</composition>
-			<composition>ƒ‚r‚v‚v‚v‚r‚f</composition>
-			<composition>ƒ‚f‚r‚v‚v‚f‚r‚f</composition>
-			<composition>ƒ‚v‚v‚f‚r‚r‚v‚f‚f</composition>
-			<composition>ƒƒ‚v‚f‚r‚r‚v‚v‚v‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼·</composition>
+			<composition>ï¼œï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼³ï¼·ï¼·ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼³ï¼·ï¼·ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼·ï¼§ï¼³ï¼³ï¼·ï¼§ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼§ï¼³ï¼³ï¼·ï¼·ï¼·ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K01-02}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 71</type>
-		<name>ƒpƒŒƒbƒg‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒpƒŒƒbƒg‚ð“‹Ú‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF71’P‹@‚Ü‚½‚Íd˜AB
+		<name>ãƒ‘ãƒ¬ãƒƒãƒˆè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ãƒ‘ãƒ¬ãƒƒãƒˆã‚’æ­è¼‰ã™ã‚‹ã“ã¨ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF71å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -563,37 +563,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
-			<car char="‚v" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
-			<car char="‚f" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
+			<car char="ï¼·" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
+			<car char="ï¼§" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚v</composition>
-			<composition>ƒ‚r‚f</composition>
-			<composition>ƒ‚v‚r‚f</composition>
-			<composition>ƒ‚f‚v‚r‚f</composition>
-			<composition>ƒ‚v‚f‚v‚r‚f</composition>
-			<composition>ƒ‚r‚v‚v‚v‚r‚f</composition>
-			<composition>ƒ‚f‚r‚v‚v‚f‚r‚f</composition>
-			<composition>ƒ‚v‚v‚f‚r‚r‚v‚f‚f</composition>
-			<composition>ƒƒ‚v‚f‚r‚r‚v‚v‚v‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼·</composition>
+			<composition>ï¼œï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼³ï¼·ï¼·ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼³ï¼·ï¼·ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼·ï¼§ï¼³ï¼³ï¼·ï¼§ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼§ï¼³ï¼³ï¼·ï¼·ï¼·ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K01-03}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>DD 51</type>
-		<name>ƒpƒŒƒbƒg‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒpƒŒƒbƒg‚ð“‹Ú‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍDD51’P‹@‚Ü‚½‚Íd˜AB
+		<name>ãƒ‘ãƒ¬ãƒƒãƒˆè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ãƒ‘ãƒ¬ãƒƒãƒˆã‚’æ­è¼‰ã™ã‚‹ã“ã¨ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯DD51å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -602,37 +602,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚v" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
-			<car char="‚f" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼·" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
+			<car char="ï¼§" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚v</composition>
-			<composition>ƒ‚r‚f</composition>
-			<composition>ƒ‚v‚r‚f</composition>
-			<composition>ƒ‚f‚v‚r‚f</composition>
-			<composition>ƒ‚v‚f‚v‚r‚f</composition>
-			<composition>ƒ‚r‚v‚v‚v‚r‚f</composition>
-			<composition>ƒ‚f‚r‚v‚v‚f‚r‚f</composition>
-			<composition>ƒ‚v‚v‚f‚r‚r‚v‚f‚f</composition>
-			<composition>ƒƒ‚v‚f‚r‚r‚v‚v‚v‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼·</composition>
+			<composition>ï¼œï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼³ï¼·ï¼·ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼³ï¼·ï¼·ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼·ï¼§ï¼³ï¼³ï¼·ï¼§ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼§ï¼³ï¼³ï¼·ï¼·ï¼·ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K01-04}">
-		<company>JR‰Ý•¨</company>
-		<type>EF 65 “Á‹}F</type>
-		<name>ƒpƒŒƒbƒg‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒpƒŒƒbƒg‚ð“‹Ú‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF65’P‹@‚Ü‚½‚Íd˜AB
+		<company>JRè²¨ç‰©</company>
+		<type>EF 65 ç‰¹æ€¥è‰²</type>
+		<name>ãƒ‘ãƒ¬ãƒƒãƒˆè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ãƒ‘ãƒ¬ãƒƒãƒˆã‚’æ­è¼‰ã™ã‚‹ã“ã¨ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF65å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -641,38 +641,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
-			<car char="‚v" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
-			<car char="‚f" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
+			<car char="ï¼·" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
+			<car char="ï¼§" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000GRN}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚v</composition>
-			<composition>ƒ‚r‚f</composition>
-			<composition>ƒ‚v‚r‚f</composition>
-			<composition>ƒ‚f‚v‚r‚f</composition>
-			<composition>ƒ‚v‚f‚v‚r‚f</composition>
-			<composition>ƒ‚r‚v‚v‚v‚r‚f</composition>
-			<composition>ƒ‚f‚r‚v‚v‚f‚r‚f</composition>
-			<composition>ƒ‚v‚v‚f‚r‚r‚v‚f‚f</composition>
-			<composition>ƒƒ‚v‚f‚r‚r‚v‚v‚v‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚v‚v‚v‚v‚f‚f‚f‚r‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
-			<composition>ƒƒ‚r‚r‚r‚r‚r‚v‚v‚v‚v‚f‚f‚f‚f‚r‚f</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼·</composition>
+			<composition>ï¼œï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼§ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼³ï¼·ï¼·ï¼·ï¼³ï¼§</composition>
+			<composition>ï¼œï¼§ï¼³ï¼·ï¼·ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼·ï¼·ï¼§ï¼³ï¼³ï¼·ï¼§ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼§ï¼³ï¼³ï¼·ï¼·ï¼·ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼³ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
+			<composition>ï¼œï¼œï¼³ï¼³ï¼³ï¼³ï¼³ï¼·ï¼·ï¼·ï¼·ï¼§ï¼§ï¼§ï¼§ï¼³ï¼§</composition>
 		</config>
 	</contribution>
 
-	<!-- ƒ^ƒ“ƒNŽÔ‰Ý•¨—ñŽÔ‚Ì’è‹` -->
+	<!-- ã‚¿ãƒ³ã‚¯è»Šè²¨ç‰©åˆ—è»Šã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K02-01}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>DD 51</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍDD51’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯DD51å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -681,35 +681,35 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚s</composition>
-			<composition>ƒ‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼´</composition>
+			<composition>ï¼œï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K02-02}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 64</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF64’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF64å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -718,35 +718,35 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚s</composition>
-			<composition>ƒ‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼´</composition>
+			<composition>ï¼œï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K02-03}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 71</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF71’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF71å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -755,35 +755,35 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚s</composition>
-			<composition>ƒ‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼´</composition>
+			<composition>ï¼œï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K02-04}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 15</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF15’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF15å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -792,35 +792,35 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚s</composition>
-			<composition>ƒ‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼´</composition>
+			<composition>ï¼œï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K02-05}">
-		<company>JR‰Ý•¨</company>
-		<type>EF 65 “Á‹}F</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF65’P‹@‚Ü‚½‚Íd˜AB
+		<company>JRè²¨ç‰©</company>
+		<type>EF 65 ç‰¹æ€¥è‰²</type>
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF65å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -829,36 +829,36 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚s</composition>
-			<composition>ƒ‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
-			<composition>ƒƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼´</composition>
+			<composition>ï¼œï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´</composition>
 		</config>
 	</contribution>
 	
-	<!-- ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Ì’è‹` -->
+	<!-- ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K03-01}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 64</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒRƒ“ƒeƒi—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF64’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚³ãƒ³ãƒ†ãƒŠè¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF64å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -867,38 +867,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚e" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}"/>
-			<car char="‚d" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1b}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-2}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-3}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼¦" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}"/>
+			<car char="ï¼¥" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1b}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-2}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-3}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚e</composition>
-			<composition>ƒ‚s‚e</composition>
-			<composition>ƒ‚s‚s‚d</composition>
-			<composition>ƒ‚s‚r‚s‚e</composition>
-			<composition>ƒ‚s‚s‚s‚s‚d</composition>
-			<composition>ƒ‚s‚s‚r‚s‚s‚e</composition>
-			<composition>ƒ‚s‚s‚r‚s‚r‚s‚d</composition>
-			<composition>ƒ‚s‚s‚s‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚e‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚r‚s‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚s‚s‚r‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚r‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚s‚r‚s‚s‚r‚s‚s‚s‚d</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¦</composition>
+			<composition>ï¼œï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼¥</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K03-02}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>DD 51</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒRƒ“ƒeƒi—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍDD51’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚³ãƒ³ãƒ†ãƒŠè¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯DD51å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -907,38 +907,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚e" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}"/>
-			<car char="‚d" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1b}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼¦" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}"/>
+			<car char="ï¼¥" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1b}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚e</composition>
-			<composition>ƒ‚s‚e</composition>
-			<composition>ƒ‚s‚s‚d</composition>
-			<composition>ƒ‚s‚r‚s‚e</composition>
-			<composition>ƒ‚s‚s‚s‚s‚d</composition>
-			<composition>ƒ‚s‚s‚r‚s‚s‚e</composition>
-			<composition>ƒ‚s‚s‚r‚s‚r‚s‚d</composition>
-			<composition>ƒ‚s‚s‚s‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚e‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚r‚s‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚s‚s‚r‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚r‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚s‚r‚s‚s‚r‚s‚s‚s‚d</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¦</composition>
+			<composition>ï¼œï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼¥</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K03-03}">
-		<company>JR‰Ý•¨</company>
-		<type>EF 65 “Á‹}F</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒRƒ“ƒeƒi—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF65’P‹@‚Ü‚½‚Íd˜AB
+		<company>JRè²¨ç‰©</company>
+		<type>EF 65 ç‰¹æ€¥è‰²</type>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚³ãƒ³ãƒ†ãƒŠè¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF65å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -947,38 +947,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
-			<car char="‚e" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}"/>
-			<car char="‚d" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1b}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-2}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-3}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
+			<car char="ï¼¦" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1a}"/>
+			<car char="ï¼¥" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-1b}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-2}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI10000JNR-3}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚e</composition>
-			<composition>ƒ‚s‚e</composition>
-			<composition>ƒ‚s‚s‚d</composition>
-			<composition>ƒ‚s‚r‚s‚e</composition>
-			<composition>ƒ‚s‚s‚s‚s‚d</composition>
-			<composition>ƒ‚s‚s‚r‚s‚s‚e</composition>
-			<composition>ƒ‚s‚s‚r‚s‚r‚s‚d</composition>
-			<composition>ƒ‚s‚s‚s‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚e‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚r‚s‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚s‚s‚r‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚r‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚s‚r‚s‚s‚r‚s‚s‚s‚d</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¦</composition>
+			<composition>ï¼œï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼¥</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K03-04}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 15</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒRƒ“ƒeƒi—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF15’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ã‚³ãƒ³ãƒ†ãƒŠè¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF15å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -987,38 +987,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
-			<car char="‚e" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}"/>
-			<car char="‚d" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1b}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
+			<car char="ï¼¦" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1a}"/>
+			<car char="ï¼¥" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-1b}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚e</composition>
-			<composition>ƒ‚s‚e</composition>
-			<composition>ƒ‚s‚s‚d</composition>
-			<composition>ƒ‚s‚r‚s‚e</composition>
-			<composition>ƒ‚s‚s‚s‚s‚d</composition>
-			<composition>ƒ‚s‚s‚r‚s‚s‚e</composition>
-			<composition>ƒ‚s‚s‚r‚s‚r‚s‚d</composition>
-			<composition>ƒ‚s‚s‚s‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚e‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚r‚s‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚s‚s‚r‚s‚r‚s‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚r‚s‚s‚r‚r‚s‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚d</composition>
-			<composition>ƒƒ‚e‚s‚r‚s‚s‚r‚s‚s‚r‚r‚s‚r‚s‚e</composition>
-			<composition>ƒƒ‚d‚s‚s‚r‚s‚s‚s‚r‚s‚s‚r‚s‚s‚s‚d</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¦</composition>
+			<composition>ï¼œï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼´ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼¥</composition>
+			<composition>ï¼œï¼œï¼¦ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼³ï¼´ï¼³ï¼´ï¼¦</composition>
+			<composition>ï¼œï¼œï¼¥ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼³ï¼´ï¼´ï¼³ï¼´ï¼´ï¼´ï¼¥</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K04-01}">
-		<company>JR‰Ý•¨</company>
-		<type>‰Ý•¨“dŽÔ</type>
-		<name>ƒX[ƒp[ƒŒ[ƒ‹ƒJ[ƒS</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‚‘¬ƒRƒ“ƒeƒi—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨“dŽÔB¢ŠE‰‚Ì“®—Í•ªŽUŒ^—ñŽÔ‚É‚æ‚é‰Ý•¨—A‘—‚Å‚ ‚éB
+		<company>JRè²¨ç‰©</company>
+		<type>è²¨ç‰©é›»è»Š</type>
+		<name>ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ¬ãƒ¼ãƒ«ã‚«ãƒ¼ã‚´</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é«˜é€Ÿã‚³ãƒ³ãƒ†ãƒŠè¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©é›»è»Šã€‚ä¸–ç•Œåˆã®å‹•åŠ›åˆ†æ•£åž‹åˆ—è»Šã«ã‚ˆã‚‹è²¨ç‰©è¼¸é€ã§ã‚ã‚‹ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -1027,36 +1027,36 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc1}"/>
-			<car char="‚l" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-M1}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-T1}"/>
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc2}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc1}"/>
+			<car char="ï¼­" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-M1}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-T1}"/>
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-SRC-Mc2}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ„</composition>
-			<composition>ƒ‚s„</composition>
-			<composition>ƒ‚s‚s„</composition>
-			<composition>ƒ‚l‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
-			<composition>ƒ‚l‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚l„</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼ž</composition>
+			<composition>ï¼œï¼´ï¼ž</composition>
+			<composition>ï¼œï¼´ï¼´ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
+			<composition>ï¼œï¼­ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼­ï¼ž</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-K05-01}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>C 11</type>
-		<name>¬Œ‹‰Ý•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ƒpƒŒƒbƒg‚ð“‹Ú‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF65’P‹@‚Ü‚½‚Íd˜AB
+		<name>æ··çµè²¨ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ãƒ‘ãƒ¬ãƒƒãƒˆã‚’æ­è¼‰ã™ã‚‹ã“ã¨ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF65å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -1065,40 +1065,40 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
-			<car char="‚v" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
-			<car char="‚q" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
+			<car char="ï¼·" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI5000TYA}"/>
+			<car char="ï¼²" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-2}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-KOKI5000JNR-3}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
 			
-			<composition>ƒ</composition>
-			<composition>ƒ‚v</composition>
-			<composition>ƒ‚v‚r</composition>
-			<composition>ƒ‚s‚r‚v</composition>
-			<composition>ƒ‚s‚q‚r‚v</composition>
-			<composition>ƒ‚s‚q‚v‚r‚v</composition>
-			<composition>ƒ‚r‚v‚v‚v‚s‚q</composition>
-			<composition>ƒ‚q‚r‚v‚v‚q‚r‚s</composition>
-			<composition>ƒ‚v‚v‚s‚r‚r‚v‚s‚s</composition>
-			<composition>ƒƒ‚v‚q‚r‚r‚s‚v‚v‚v</composition>
-			<composition>ƒƒ‚v‚s‚v‚q‚s‚r‚r‚r‚s</composition>
-			<composition>ƒƒ‚v‚q‚s‚v‚s‚s‚v‚s‚v‚v</composition>
-			<composition>ƒƒ‚r‚q‚v‚v‚s‚q‚r‚s‚q‚r‚r</composition>
-			<composition>ƒƒ‚s‚q‚v‚v‚v‚s‚s‚r‚q‚v‚r‚s</composition>
-			<composition>ƒƒ‚r‚v‚r‚q‚v‚v‚v‚q‚q‚r‚r‚v‚s</composition>
-			<composition>ƒƒ‚r‚q‚r‚s‚q‚s‚v‚q‚s‚q‚q‚s‚r‚s</composition>
-			<composition>ƒƒ‚s‚v‚r‚r‚r‚v‚v‚s‚v‚q‚v‚s‚s‚r‚q</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼·</composition>
+			<composition>ï¼œï¼·ï¼³</composition>
+			<composition>ï¼œï¼´ï¼³ï¼·</composition>
+			<composition>ï¼œï¼´ï¼²ï¼³ï¼·</composition>
+			<composition>ï¼œï¼´ï¼²ï¼·ï¼³ï¼·</composition>
+			<composition>ï¼œï¼³ï¼·ï¼·ï¼·ï¼´ï¼²</composition>
+			<composition>ï¼œï¼²ï¼³ï¼·ï¼·ï¼²ï¼³ï¼´</composition>
+			<composition>ï¼œï¼·ï¼·ï¼´ï¼³ï¼³ï¼·ï¼´ï¼´</composition>
+			<composition>ï¼œï¼œï¼·ï¼²ï¼³ï¼³ï¼´ï¼·ï¼·ï¼·</composition>
+			<composition>ï¼œï¼œï¼·ï¼´ï¼·ï¼²ï¼´ï¼³ï¼³ï¼³ï¼´</composition>
+			<composition>ï¼œï¼œï¼·ï¼²ï¼´ï¼·ï¼´ï¼´ï¼·ï¼´ï¼·ï¼·</composition>
+			<composition>ï¼œï¼œï¼³ï¼²ï¼·ï¼·ï¼´ï¼²ï¼³ï¼´ï¼²ï¼³ï¼³</composition>
+			<composition>ï¼œï¼œï¼´ï¼²ï¼·ï¼·ï¼·ï¼´ï¼´ï¼³ï¼²ï¼·ï¼³ï¼´</composition>
+			<composition>ï¼œï¼œï¼³ï¼·ï¼³ï¼²ï¼·ï¼·ï¼·ï¼²ï¼²ï¼³ï¼³ï¼·ï¼´</composition>
+			<composition>ï¼œï¼œï¼³ï¼²ï¼³ï¼´ï¼²ï¼´ï¼·ï¼²ï¼´ï¼²ï¼²ï¼´ï¼³ï¼´</composition>
+			<composition>ï¼œï¼œï¼´ï¼·ï¼³ï¼³ï¼³ï¼·ï¼·ï¼´ï¼·ï¼²ï¼·ï¼´ï¼´ï¼³ï¼²</composition>
 		</config>
 	</contribution>
 
-	<!-- •’Ê—·‹q—ñŽÔ‚Ì’è‹` -->
+	<!-- æ™®é€šæ—…å®¢åˆ—è»Šã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R01-01">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 64</type>
-		<name>‹Œ‹q•’Ê—ñŽÔiÂj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆé’ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<amenity>90</amenity>
@@ -1108,37 +1108,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R01-02">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>DD 51</type>
-		<name>‹Œ‹q•’Ê—ñŽÔiÂj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆé’ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<amenity>90</amenity>
@@ -1148,37 +1148,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R01-03">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 71</type>
-		<name>‹Œ‹q•’Ê—ñŽÔiÂj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆé’ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<triprange>long</triprange>
@@ -1188,37 +1188,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R01-04">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>C 11</type>
-		<name>‹Œ‹q•’Ê—ñŽÔiÂj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆé’ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<triprange>long</triprange>
 		<fare>500</fare>
@@ -1228,38 +1228,38 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42BLU}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
 						
-			<composition>ƒ</composition>
-			<composition>„‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>„‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>„‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>„‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼žï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R02-01">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 64</type>
-		<name>‹Œ‹q•’Ê—ñŽÔi’ƒj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆèŒ¶ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<triprange>long</triprange>
@@ -1269,37 +1269,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R02-02">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>DD 51</type>
-		<name>‹Œ‹q•’Ê—ñŽÔi’ƒj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆèŒ¶ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<triprange>long</triprange>
@@ -1309,37 +1309,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R02-03">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 71</type>
-		<name>‹Œ‹q•’Ê—ñŽÔi’ƒj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆèŒ¶ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<triprange>long</triprange>
@@ -1349,37 +1349,37 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>ƒ‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R02-04">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>C 11</type>
-		<name>‹Œ‹q•’Ê—ñŽÔi’ƒj</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½•’Ê—ñŽÔB‰×•¨ŽÔ‚à•¹Œ‹‚·‚éB
+		<name>æ—§å®¢æ™®é€šåˆ—è»Šï¼ˆèŒ¶ï¼‰</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸæ™®é€šåˆ—è»Šã€‚è·ç‰©è»Šã‚‚ä½µçµã™ã‚‹ã€‚
 		</description>
 		<fare>500</fare>
 		<triprange>long</triprange>
@@ -1389,39 +1389,39 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-SUHA42TYA}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>„‚g</composition>
-			<composition>ƒ‚g‚g</composition>
-			<composition>„‚x‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g</composition>
-			<composition>„‚x‚g‚g‚g‚g</composition>
-			<composition>ƒ‚m‚g‚g‚g‚g‚g</composition>
-			<composition>„‚x‚m‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„‚x‚m‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒ‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>„„‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
-			<composition>ƒƒ‚x‚x‚m‚m‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g‚g</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼žï¼¨</composition>
+			<composition>ï¼œï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼žï¼žï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
+			<composition>ï¼œï¼œï¼¹ï¼¹ï¼®ï¼®ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨</composition>
 		</config>
 	</contribution>
 	
-	<!-- ‹}s‰×•¨—ñŽÔ‚Ì’è‹` -->
+	<!-- æ€¥è¡Œè·ç‰©åˆ—è»Šã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R03-01">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 64</type>
-		<name>‹Œ‹q‹}s‰×•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½—X•ÖE‰×•¨—ñŽÔB
+		<name>æ—§å®¢æ€¥è¡Œè·ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸéƒµä¾¿ãƒ»è·ç‰©åˆ—è»Šã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>90</amenity>
@@ -1429,39 +1429,39 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
-			<car char="‚Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF64-0000}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï½Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï½™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚m</composition>
-			<composition>ƒ‚m‚™</composition>
-			<composition>ƒ‚Ž‚™‚m</composition>
-			<composition>ƒ‚r‚m‚™‚Ž</composition>
-			<composition>ƒ‚x‚r‚m‚m‚™</composition>
-			<composition>ƒ‚m‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž‚Ž</composition>
-			<composition>ƒ‚Ž‚x‚r‚Ž‚m‚r‚x‚™‚m‚m‚Ž‚r‚Ž‚m‚x‚™</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼®</composition>
+			<composition>ï¼œï¼®ï½™</composition>
+			<composition>ï¼œï½Žï½™ï¼®</composition>
+			<composition>ï¼œï¼³ï¼®ï½™ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼³ï¼®ï¼®ï½™</composition>
+			<composition>ï¼œï¼®ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Žï½Ž</composition>
+			<composition>ï¼œï½Žï¼¹ï¼³ï½Žï¼®ï¼³ï¼¹ï½™ï¼®ï¼®ï½Žï¼³ï½Žï¼®ï¼¹ï½™</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R03-02">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>DD 51</type>
-		<name>‹Œ‹q‹}s‰×•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½—X•ÖE‰×•¨—ñŽÔB
+		<name>æ—§å®¢æ€¥è¡Œè·ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸéƒµä¾¿ãƒ»è·ç‰©åˆ—è»Šã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>90</amenity>
@@ -1469,39 +1469,39 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
-			<car char="‚Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï½Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï½™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚m</composition>
-			<composition>ƒ‚m‚™</composition>
-			<composition>ƒ‚Ž‚™‚m</composition>
-			<composition>ƒ‚r‚m‚™‚Ž</composition>
-			<composition>ƒ‚x‚r‚m‚m‚™</composition>
-			<composition>ƒ‚m‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž‚Ž</composition>
-			<composition>ƒ‚Ž‚x‚r‚Ž‚m‚r‚x‚™‚m‚m‚Ž‚r‚Ž‚m‚x‚™</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼®</composition>
+			<composition>ï¼œï¼®ï½™</composition>
+			<composition>ï¼œï½Žï½™ï¼®</composition>
+			<composition>ï¼œï¼³ï¼®ï½™ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼³ï¼®ï¼®ï½™</composition>
+			<composition>ï¼œï¼®ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Žï½Ž</composition>
+			<composition>ï¼œï½Žï¼¹ï¼³ï½Žï¼®ï¼³ï¼¹ï½™ï¼®ï¼®ï½Žï¼³ï½Žï¼®ï¼¹ï½™</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R03-03">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 71</type>
-		<name>‹Œ‹q‹}s‰×•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½—X•ÖE‰×•¨—ñŽÔB
+		<name>æ—§å®¢æ€¥è¡Œè·ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸéƒµä¾¿ãƒ»è·ç‰©åˆ—è»Šã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>90</amenity>
@@ -1509,39 +1509,39 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
-			<car char="‚Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF71-0000}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï½Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï½™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚m</composition>
-			<composition>ƒ‚m‚™</composition>
-			<composition>ƒ‚Ž‚™‚m</composition>
-			<composition>ƒ‚r‚m‚™‚Ž</composition>
-			<composition>ƒ‚x‚r‚m‚m‚™</composition>
-			<composition>ƒ‚m‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž‚Ž</composition>
-			<composition>ƒ‚Ž‚x‚r‚Ž‚m‚r‚x‚™‚m‚m‚Ž‚r‚Ž‚m‚x‚™</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼®</composition>
+			<composition>ï¼œï¼®ï½™</composition>
+			<composition>ï¼œï½Žï½™ï¼®</composition>
+			<composition>ï¼œï¼³ï¼®ï½™ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼³ï¼®ï¼®ï½™</composition>
+			<composition>ï¼œï¼®ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Žï½Ž</composition>
+			<composition>ï¼œï½Žï¼¹ï¼³ï½Žï¼®ï¼³ï¼¹ï½™ï¼®ï¼®ï½Žï¼³ï½Žï¼®ï¼¹ï½™</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R03-04">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 15</type>
-		<name>‹Œ‹q‹}s‰×•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½—X•ÖE‰×•¨—ñŽÔB
+		<name>æ—§å®¢æ€¥è¡Œè·ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸéƒµä¾¿ãƒ»è·ç‰©åˆ—è»Šã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>90</amenity>
@@ -1549,39 +1549,39 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
-			<car char="‚Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF15-0000}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï½Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï½™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ‚m</composition>
-			<composition>ƒ‚m‚™</composition>
-			<composition>ƒ‚Ž‚™‚m</composition>
-			<composition>ƒ‚r‚m‚™‚Ž</composition>
-			<composition>ƒ‚x‚r‚m‚m‚™</composition>
-			<composition>ƒ‚m‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚r</composition>
-			<composition>ƒ‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>ƒ‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚x‚x‚m‚m‚r‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>ƒ‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>ƒ‚r‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž‚Ž</composition>
-			<composition>ƒ‚Ž‚x‚r‚Ž‚m‚r‚x‚™‚m‚m‚Ž‚r‚Ž‚m‚x‚™</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼®</composition>
+			<composition>ï¼œï¼®ï½™</composition>
+			<composition>ï¼œï½Žï½™ï¼®</composition>
+			<composition>ï¼œï¼³ï¼®ï½™ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼³ï¼®ï¼®ï½™</composition>
+			<composition>ï¼œï¼®ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼œï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼œï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼¹ï¼¹ï¼®ï¼®ï¼³ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼œï¼³ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Žï½Ž</composition>
+			<composition>ï¼œï½Žï¼¹ï¼³ï½Žï¼®ï¼³ï¼¹ï½™ï¼®ï¼®ï½Žï¼³ï½Žï¼®ï¼¹ï½™</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R03-05">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>C 11</type>
-		<name>‹Œ‹q‹}s‰×•¨—ñŽÔ</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‹ŒŽ®‹qŽÔ‚Å•Ò¬‚³‚ê‚½—X•ÖE‰×•¨—ñŽÔB
+		<name>æ—§å®¢æ€¥è¡Œè·ç‰©åˆ—è»Š</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ—§å¼å®¢è»Šã§ç·¨æˆã•ã‚ŒãŸéƒµä¾¿ãƒ»è·ç‰©åˆ—è»Šã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>90</amenity>
@@ -1589,40 +1589,40 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚k" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
-			<car char="‚i" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
-			<car char="‚r" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
-			<car char="‚m" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
-			<car char="‚x" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
-			<car char="‚Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
-			<car char="‚™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
+			<car char="ï¼¬" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
+			<car char="ï¼ª" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
+			<car char="ï¼³" ref="{FreeTrain-AYASE-Hiro-TrainImg-WAKI10000SLV}"/>
+			<car char="ï¼®" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60BLU}"/>
+			<car char="ï¼¹" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10BLU}"/>
+			<car char="ï½Ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-MANI60TYA}"/>
+			<car char="ï½™" ref="{FreeTrain-AYASE-Hiro-TrainImg-OYU10TYA}"/>
 						
-			<composition>‚k</composition>
-			<composition>‚i‚m</composition>
-			<composition>‚k‚m‚™</composition>
-			<composition>‚i‚Ž‚™‚m</composition>
-			<composition>‚k‚r‚m‚™‚Ž</composition>
-			<composition>‚i‚x‚r‚m‚m‚™</composition>
-			<composition>‚k‚m‚r‚Ž‚™‚m‚r</composition>
-			<composition>‚i‚m‚r‚r‚Ž‚™‚m‚r</composition>
-			<composition>‚k‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>‚i‚x‚m‚r‚r‚Ž‚™‚m‚Ž‚r</composition>
-			<composition>‚k‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>‚i‚i‚x‚m‚m‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>‚k‚k‚x‚m‚m‚r‚r‚™‚Ž‚m‚r‚r‚Ž</composition>
-			<composition>‚i‚i‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>‚k‚k‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž</composition>
-			<composition>‚i‚i‚r‚x‚Ž‚r‚Ž‚m‚Ž‚x‚™‚m‚m‚r‚Ž‚Ž</composition>
-			<composition>‚k‚k‚x‚r‚Ž‚m‚r‚x‚™‚m‚m‚Ž‚r‚Ž‚m‚x‚™</composition>
+			<composition>ï¼¬</composition>
+			<composition>ï¼ªï¼®</composition>
+			<composition>ï¼¬ï¼®ï½™</composition>
+			<composition>ï¼ªï½Žï½™ï¼®</composition>
+			<composition>ï¼¬ï¼³ï¼®ï½™ï½Ž</composition>
+			<composition>ï¼ªï¼¹ï¼³ï¼®ï¼®ï½™</composition>
+			<composition>ï¼¬ï¼®ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼ªï¼®ï¼³ï¼³ï½Žï½™ï¼®ï¼³</composition>
+			<composition>ï¼¬ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼ªï¼¹ï¼®ï¼³ï¼³ï½Žï½™ï¼®ï½Žï¼³</composition>
+			<composition>ï¼¬ï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼ªï¼ªï¼¹ï¼®ï¼®ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼¬ï¼¬ï¼¹ï¼®ï¼®ï¼³ï¼³ï½™ï½Žï¼®ï¼³ï¼³ï½Ž</composition>
+			<composition>ï¼ªï¼ªï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼¬ï¼¬ï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Ž</composition>
+			<composition>ï¼ªï¼ªï¼³ï¼¹ï½Žï¼³ï½Žï¼®ï½Žï¼¹ï½™ï¼®ï¼®ï¼³ï½Žï½Ž</composition>
+			<composition>ï¼¬ï¼¬ï¼¹ï¼³ï½Žï¼®ï¼³ï¼¹ï½™ï¼®ï¼®ï½Žï¼³ï½Žï¼®ï¼¹ï½™</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R04-01">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 65</type>
-		<name>20Œnƒuƒ‹[ƒgƒŒƒCƒ“</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‘–‚éƒzƒeƒ‹‚ÆâŽ^‚³‚ê‚½‰‘ãƒuƒ‹[ƒgƒŒƒCƒ“ŽÔ—¼‚É‚æ‚é‰”N‚Ì–és“Á‹}—ñŽÔB
+		<name>20ç³»ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>èµ°ã‚‹ãƒ›ãƒ†ãƒ«ã¨çµ¶è³›ã•ã‚ŒãŸåˆä»£ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³è»Šä¸¡ã«ã‚ˆã‚‹å¾€å¹´ã®å¤œè¡Œç‰¹æ€¥åˆ—è»Šã€‚
 		</description>
 		<fare>1100</fare>
 		<amenity>150</amenity>
@@ -1631,38 +1631,38 @@
 		<speed>fast</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚k" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
-			<car char="á" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ƒJƒj ³ -->
-			<car char="â" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ƒJƒj ‹t -->
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ƒiƒnƒl -->
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ƒiƒnƒlƒt21 ³ -->
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ƒiƒnƒlƒt21 ‹t -->
-			<car char="y" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ƒiƒnƒlƒt23 ³ -->
-			<car char="z" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ƒiƒnƒlƒt23 ‹t -->
+			<car char="ï¼¬" ref="{FreeTrain-AYASE-Hiro-TrainImg-EF65-0001}"/>
+			<car char="â‰ª" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ã‚«ãƒ‹ æ­£ -->
+			<car char="â‰«" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ã‚«ãƒ‹ é€† -->
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ãƒŠãƒãƒ -->
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ãƒŠãƒãƒãƒ•21 æ­£ -->
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ãƒŠãƒãƒãƒ•21 é€† -->
+			<car char="ã€" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ãƒŠãƒãƒãƒ•23 æ­£ -->
+			<car char="ã€‘" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ãƒŠãƒãƒãƒ•23 é€† -->
 						
-			<composition>‚k</composition>
-			<composition>‚k„</composition>
-			<composition>‚kƒ„</composition>
-			<composition>‚ky‚gâ</composition>
-			<composition>‚ká‚g‚gz</composition>
-			<composition>‚ky‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚gy‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚gz‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚gy‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚gz‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚g‚gy‚g‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚g‚gz‚g‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚g‚g‚gy‚g‚g‚g‚g‚gâ</composition>
+			<composition>ï¼¬</composition>
+			<composition>ï¼¬ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼ž</composition>
+			<composition>ï¼¬ã€ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ã€‘</composition>
+			<composition>ï¼¬ã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ã€ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
 		</config>
 	</contribution>
 	
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R04-02">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>DD 51</type>
-		<name>20Œnƒuƒ‹[ƒgƒŒƒCƒ“</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‘–‚éƒzƒeƒ‹‚ÆâŽ^‚³‚ê‚½‰‘ãƒuƒ‹[ƒgƒŒƒCƒ“ŽÔ—¼‚É‚æ‚é‰”N‚Ì–és“Á‹}—ñŽÔB
+		<name>20ç³»ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>èµ°ã‚‹ãƒ›ãƒ†ãƒ«ã¨çµ¶è³›ã•ã‚ŒãŸåˆä»£ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³è»Šä¸¡ã«ã‚ˆã‚‹å¾€å¹´ã®å¤œè¡Œç‰¹æ€¥åˆ—è»Šã€‚
 		</description>
 		<fare>1100</fare>
 		<amenity>150</amenity>
@@ -1671,38 +1671,38 @@
 		<speed>fast</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚k" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="á" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ƒJƒj ³ -->
-			<car char="â" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ƒJƒj ‹t -->
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ƒiƒnƒl -->
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ƒiƒnƒlƒt21 ³ -->
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ƒiƒnƒlƒt21 ‹t -->
-			<car char="y" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ƒiƒnƒlƒt23 ³ -->
-			<car char="z" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ƒiƒnƒlƒt23 ‹t -->
+			<car char="ï¼¬" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="â‰ª" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ã‚«ãƒ‹ æ­£ -->
+			<car char="â‰«" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ã‚«ãƒ‹ é€† -->
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ãƒŠãƒãƒ -->
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ãƒŠãƒãƒãƒ•21 æ­£ -->
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ãƒŠãƒãƒãƒ•21 é€† -->
+			<car char="ã€" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ãƒŠãƒãƒãƒ•23 æ­£ -->
+			<car char="ã€‘" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ãƒŠãƒãƒãƒ•23 é€† -->
 						
-			<composition>‚k</composition>
-			<composition>‚k„</composition>
-			<composition>‚kƒ„</composition>
-			<composition>‚ky‚gâ</composition>
-			<composition>‚ká‚g‚gz</composition>
-			<composition>‚ky‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚gy‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚gz‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚gy‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚gz‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚g‚gy‚g‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚g‚gz‚g‚g‚g‚g„</composition>
-			<composition>‚kƒ‚g‚g‚g‚g‚gy‚g‚g‚g‚g‚gâ</composition>
+			<composition>ï¼¬</composition>
+			<composition>ï¼¬ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼ž</composition>
+			<composition>ï¼¬ã€ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ã€‘</composition>
+			<composition>ï¼¬ã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ã€ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-R04-03">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>C 11</type>
-		<name>20Œnƒuƒ‹[ƒgƒŒƒCƒ“</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>‘–‚éƒzƒeƒ‹‚ÆâŽ^‚³‚ê‚½‰‘ãƒuƒ‹[ƒgƒŒƒCƒ“ŽÔ—¼‚É‚æ‚é‰”N‚Ì–és“Á‹}—ñŽÔB
+		<name>20ç³»ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>èµ°ã‚‹ãƒ›ãƒ†ãƒ«ã¨çµ¶è³›ã•ã‚ŒãŸåˆä»£ãƒ–ãƒ«ãƒ¼ãƒˆãƒ¬ã‚¤ãƒ³è»Šä¸¡ã«ã‚ˆã‚‹å¾€å¹´ã®å¤œè¡Œç‰¹æ€¥åˆ—è»Šã€‚
 		</description>
 		<fare>1100</fare>
 		<amenity>150</amenity>
@@ -1711,40 +1711,40 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚k" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
-			<car char="‚i" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
-			<car char="á" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ƒJƒj ³ -->
-			<car char="â" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ƒJƒj ‹t -->
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ƒiƒnƒl -->
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ƒiƒnƒlƒt21 ³ -->
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ƒiƒnƒlƒt21 ‹t -->
-			<car char="y" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ƒiƒnƒlƒt23 ³ -->
-			<car char="z" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ƒiƒnƒlƒt23 ‹t -->
+			<car char="ï¼¬" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-A}"/>
+			<car char="ï¼ª" ref="{FreeTrain-AYASE-Hiro-TrainImg-C11-B}"/>
+			<car char="â‰ª" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3a}"/>	<!-- ã‚«ãƒ‹ æ­£ -->
+			<car char="â‰«" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-3b}"/>	<!-- ã‚«ãƒ‹ é€† -->
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-2}"/>	<!-- ãƒŠãƒãƒ -->
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1a}"/>	<!-- ãƒŠãƒãƒãƒ•21 æ­£ -->
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-1b}"/>	<!-- ãƒŠãƒãƒãƒ•21 é€† -->
+			<car char="ã€" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4a}"/>	<!-- ãƒŠãƒãƒãƒ•23 æ­£ -->
+			<car char="ã€‘" ref="{FreeTrain-AYASE-Hiro-TrainImg-BlueTrain20-4b}"/>	<!-- ãƒŠãƒãƒãƒ•23 é€† -->
 						
-			<composition>‚k</composition>
-			<composition>‚i„</composition>
-			<composition>‚kƒ„</composition>
-			<composition>‚iy‚gâ</composition>
-			<composition>‚ká‚g‚gz</composition>
-			<composition>‚iy‚g‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚g‚g„</composition>
-			<composition>‚iƒ‚g‚gy‚g‚gâ</composition>
-			<composition>‚ká‚g‚g‚gz‚g‚g„</composition>
-			<composition>‚k‚ká‚g‚g‚gz‚g‚g„</composition>
-			<composition>‚i‚iƒ‚g‚g‚gy‚g‚g‚gâ</composition>
-			<composition>‚k‚ká‚g‚g‚g‚gz‚g‚g‚g„</composition>
-			<composition>‚i‚iƒ‚g‚g‚g‚gy‚g‚g‚g‚gâ</composition>
-			<composition>‚k‚ká‚g‚g‚g‚g‚gz‚g‚g‚g‚g„</composition>
-			<composition>‚i‚iƒ‚g‚g‚g‚g‚gy‚g‚g‚g‚g‚gâ</composition>
+			<composition>ï¼¬</composition>
+			<composition>ï¼ªï¼ž</composition>
+			<composition>ï¼¬ï¼œï¼ž</composition>
+			<composition>ï¼ªã€ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ã€‘</composition>
+			<composition>ï¼ªã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼ªï¼œï¼¨ï¼¨ã€ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬â‰ªï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼¬ï¼¬â‰ªï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼ªï¼ªï¼œï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼ªï¼ªï¼œï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
+			<composition>ï¼¬ï¼¬â‰ªï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€‘ï¼¨ï¼¨ï¼¨ï¼¨ï¼ž</composition>
+			<composition>ï¼ªï¼ªï¼œï¼¨ï¼¨ï¼¨ï¼¨ï¼¨ã€ï¼¨ï¼¨ï¼¨ï¼¨ï¼¨â‰«</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-Z01-01">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>DD16</type>
-		<name>“Áá</name>
-		<author>ˆ»£ƒqƒ</author>
-		<description>ŠÈˆÕü‹æ—p‚É“±“ü‚³‚ê‚½ƒ‰ƒbƒZƒ‹ŽÔB–{‹@‚Ì‘OŒã‚Éƒ‰ƒbƒZƒ‹ƒwƒbƒh‚ðŽ‚Á‚Ä‚¢‚éB
+		<name>ç‰¹é›ª</name>
+		<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ç°¡æ˜“ç·šåŒºç”¨ã«å°Žå…¥ã•ã‚ŒãŸãƒ©ãƒƒã‚»ãƒ«è»Šã€‚æœ¬æ©Ÿã®å‰å¾Œã«ãƒ©ãƒƒã‚»ãƒ«ãƒ˜ãƒƒãƒ‰ã‚’æŒã£ã¦ã„ã‚‹ã€‚
 		</description>
 		<fare>0</fare>
 		<amenity>100</amenity>
@@ -1752,13 +1752,13 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD16-A}"/>
-			<car char="‚g" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
-			<car char="„" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD16-B}"/>
+			<car char="ï¼œ" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD16-A}"/>
+			<car char="ï¼¨" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD51-0000}"/>
+			<car char="ï¼ž" ref="{FreeTrain-AYASE-Hiro-TrainImg-DD16-B}"/>
 						
-			<composition>ƒ</composition>
-			<composition>ƒ„</composition>
-			<composition>ƒ‚g„</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼ž</composition>
+			<composition>ï¼œï¼¨ï¼ž</composition>
 		</config>
 	</contribution>
 

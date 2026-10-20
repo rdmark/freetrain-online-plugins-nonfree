@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>‚è‚¨‚è‚¨‘gŠ·©ˆ»£ƒqƒE‚µ‚©‚µ‚©</author>
+<author>ã‚ŠãŠã‚ŠãŠçµ„æ›â†ç¶¾ç€¬ãƒ’ãƒ­ãƒ»ã—ã‹ã—ã‹</author>
 <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 <depend on="jp.big.ayase.freetrain.trains"/>
 <depend on="shikashika.freetrain.traincar.freight"/>
 <depend on="shikashika.freetrain.traincar.locomotive"/>
 
-<title>—ñŽÔ(‹Œ“ú–{‘—L“S“¹)</title>
+<title>åˆ—è»Š(æ—§æ—¥æœ¬å›½æœ‰é‰„é“)</title>
 
-	<!-- ŽÔ—¼‰æ‘œ‚Ì’è‹` -->
+	<!-- è»Šä¸¡ç”»åƒã®å®šç¾© -->
 
 	<contribution type="picture" id="{FreeTrain-riorio-AYASE-Hiro-TrainCarImg-EF60-1}">
 		<picture src="EF60-1.bmp" />
@@ -44,9 +44,9 @@
 	</contribution>
 
 
-	<!-- ŽÔ—¼‚Ì’è‹` -->
+	<!-- è»Šä¸¡ã®å®šç¾© -->
 
-	<!-- EF60ˆêŽŸŽÔ Â -->
+	<!-- EF60ä¸€æ¬¡è»Š é’ -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -56,7 +56,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF60ˆêŽŸŽÔ ’ƒ -->
+	<!-- EF60ä¸€æ¬¡è»Š èŒ¶ -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -78,7 +78,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF60ŽOŽŸŽÔ Â -->
+	<!-- EF60ä¸‰æ¬¡è»Š é’ -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -88,7 +88,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF60ŽOŽŸŽÔ ’ƒ -->
+	<!-- EF60ä¸‰æ¬¡è»Š èŒ¶ -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -110,7 +110,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- ƒƒ€60000 -->
+	<!-- ãƒ¯ãƒ 60000 -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -120,7 +120,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- ƒƒ€80000 -->
+	<!-- ãƒ¯ãƒ 80000 -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -130,7 +130,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF65-500“Á‹}F -->
+	<!-- EF65-500ç‰¹æ€¥è‰² -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-501}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -187,7 +187,7 @@
 	</contribution>
 
 
-	<!-- EF200 ’P‹@-->
+	<!-- EF200 å˜æ©Ÿ-->
 	<contribution type="trainCar" id="{riorio-shikashika-TrainImg-EF200-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -197,7 +197,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF210-0 ’P‹@-->
+	<!-- EF210-0 å˜æ©Ÿ-->
 	<contribution type="trainCar" id="{riorio-shikashika-TrainImg-EF210-000-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -207,7 +207,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- EF210-100ƒVƒ“ƒOƒ‹ƒA[ƒ€ ’P‹@-->
+	<!-- EF210-100ã‚·ãƒ³ã‚°ãƒ«ã‚¢ãƒ¼ãƒ  å˜æ©Ÿ-->
 	<contribution type="trainCar" id="{riorio-shikashika-TrainImg-EF210-100-SA1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -217,7 +217,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- DD51 ’P‹@-->
+	<!-- DD51 å˜æ©Ÿ-->
 	<contribution type="trainCar" id="{riorio-shikashika-TrainImg-DD51-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -227,16 +227,16 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- —·‹q—ñŽÔ‚Ì’è‹` -->
+	<!-- æ—…å®¢åˆ—è»Šã®å®šç¾© -->
 
-	<!-- ‰Ý•¨—ñŽÔ‚Ì’è‹` -->
+	<!-- è²¨ç‰©åˆ—è»Šã®å®šç¾© -->
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-EF60-1blue-tank-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸÂ ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒE‚µ‚©‚µ‚©</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF60ˆêŽŸŽÔ‚ÌÂB
+		<name>ä¸€æ¬¡é’ ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ãƒ»ã—ã‹ã—ã‹</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF60ä¸€æ¬¡è»Šã®é’ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -245,34 +245,34 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>ƒ‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>ï¼œï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-EF60-1brown-tank-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸ’ƒ ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒE‚µ‚©‚µ‚©</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF60ˆêŽŸŽÔ‚Ì’ƒB
+		<name>ä¸€æ¬¡èŒ¶ ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ãƒ»ã—ã‹ã—ã‹</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF60ä¸€æ¬¡è»Šã®èŒ¶ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -281,34 +281,34 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>ƒ‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>ï¼œï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-EF60-3blue-tank-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸÂ ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒE‚µ‚©‚µ‚©</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF60ŽOŽŸŽÔ‚ÌÂB
+		<name>ä¸‰æ¬¡é’ ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ãƒ»ã—ã‹ã—ã‹</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF60ä¸‰æ¬¡è»Šã®é’ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -317,34 +317,34 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>ƒ‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>ï¼œï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-EF60-3brown-tank-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸ’ƒ ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒE‚µ‚©‚µ‚©</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF60ŽOŽŸŽÔ‚Ì’ƒB
+		<name>ä¸‰æ¬¡èŒ¶ ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ãƒ»ã—ã‹ã—ã‹</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF60ä¸‰æ¬¡è»Šã®èŒ¶ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -353,34 +353,34 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>ƒ‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>ï¼œï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-1brown-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸ’ƒ ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ˆêŽŸŽÔ’ƒ‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸€æ¬¡èŒ¶ é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸€æ¬¡è»ŠèŒ¶ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -388,39 +388,39 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" 			
 ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" 			
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‚í‚æ</composition>
-			<composition>“d‚í‚¹‚æ</composition>
-			<composition>“d‚íŠí‚»‚æ</composition>
-			<composition>“d‚íŠí‚¹ƒ‚æ</composition>
-			<composition>“d‚í‚»‚íŠíƒ‚æ</composition>
-			<composition>“d‚íƒŠí‚¹ƒg‚í‚æ</composition>
-			<composition>“dƒ‚»‚í‚íŠíƒgƒg‚æ</composition>
-			<composition>“d‚íƒƒƒgŠíŠí‚¹‚í‚æ</composition>
-			<composition>“d‚íƒƒ‚¹Šíƒg‚í‚í‚¹‚æ</composition>
-			<composition>“d‚íƒgƒƒŠí‚»‚í‚íŠíƒg‚æ</composition>
-			<composition>“d‚í‚»ƒƒgƒg‚í‚íŠíŠí‚íƒ‚æ</composition>
-			<composition>“d‚íƒ‚¹‚»Šíƒƒƒgƒg‚í‚íŠí‚æ</composition>
-			<composition>“d‚íƒƒ‚»Šíƒgƒ‚¹‚í‚íƒ‚í‚í‚æ</composition>
+			<composition>é›»ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ã›ã‚ˆ</composition>
+			<composition>é›»ã‚å™¨ãã‚ˆ</composition>
+			<composition>é›»ã‚å™¨ã›ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãã‚å™¨ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯å™¨ã›ãƒˆã‚ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãã‚ã‚å™¨ãƒˆãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãƒ¯ãƒˆå™¨å™¨ã›ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãƒ¯ã›å™¨ãƒˆã‚ã‚ã›ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒˆãƒ¯ãƒ¯å™¨ãã‚ã‚å™¨ãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ããƒ¯ãƒˆãƒˆã‚ã‚å™¨å™¨ã‚ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ã›ãå™¨ãƒ¯ãƒ¯ãƒˆãƒˆã‚ã‚å™¨ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãƒ¯ãå™¨ãƒˆãƒ¯ã›ã‚ã‚ãƒ¯ã‚ã‚ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-3brown-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸ’ƒ ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ŽOŽŸŽÔ’ƒ‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸‰æ¬¡èŒ¶ é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸‰æ¬¡è»ŠèŒ¶ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -428,39 +428,39 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" 			
 ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" 			
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‚í‚æ</composition>
-			<composition>“d‚»‚í‚æ</composition>
-			<composition>“d‚í‚¹Ší‚æ</composition>
-			<composition>“d‚íƒ‚»Ší‚æ</composition>
-			<composition>“dŠíƒ‚í‚í‚»‚æ</composition>
-			<composition>“d‚í‚íŠíƒgƒ‚¹‚æ</composition>
-			<composition>“dƒƒ‚¹‚»‚íŠíŠí‚æ</composition>
-			<composition>“dƒgŠíŠí‚¹‚í‚íƒ‚»‚æ</composition>
-			<composition>“d‚¹‚¹‚íƒgŠí‚í‚¹‚íƒ‚æ</composition>
-			<composition>“d‚íƒgƒŠíŠí‚»‚íƒƒg‚í‚æ</composition>
-			<composition>“dŠíŠí‚í‚íƒƒgƒgŠí‚í‚¹‚»‚æ</composition>
-			<composition>“dƒ‚í‚»‚¹‚í‚íŠíŠíƒg‚í‚íƒg‚æ</composition>
-			<composition>“d‚í‚í‚íŠíƒgƒ‚»ƒƒgƒg‚¹‚í‚í‚æ</composition>
+			<composition>é›»ã‚ã‚ˆ</composition>
+			<composition>é›»ãã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ã›å™¨ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãå™¨ã‚ˆ</composition>
+			<composition>é›»å™¨ãƒ¯ã‚ã‚ãã‚ˆ</composition>
+			<composition>é›»ã‚ã‚å™¨ãƒˆãƒ¯ã›ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ã›ãã‚å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»ãƒˆå™¨å™¨ã›ã‚ã‚ãƒ¯ãã‚ˆ</composition>
+			<composition>é›»ã›ã›ã‚ãƒˆå™¨ã‚ã›ã‚ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒˆãƒ¯å™¨å™¨ãã‚ãƒ¯ãƒˆã‚ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨ã‚ã‚ãƒ¯ãƒˆãƒˆå™¨ã‚ã›ãã‚ˆ</composition>
+			<composition>é›»ãƒ¯ã‚ãã›ã‚ã‚å™¨å™¨ãƒˆã‚ã‚ãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ã‚ã‚å™¨ãƒˆãƒ¯ããƒ¯ãƒˆãƒˆã›ã‚ã‚ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-1blue-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸÂ ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ˆêŽŸŽÔÂ‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸€æ¬¡é’ é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸€æ¬¡è»Šé’ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -468,39 +468,39 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" 			
 ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" 			
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‚í‚æ</composition>
-			<composition>“d‚í‚¹‚æ</composition>
-			<composition>“d‚íŠí‚»‚æ</composition>
-			<composition>“d‚íŠí‚¹ƒ‚æ</composition>
-			<composition>“d‚í‚»‚íŠíƒ‚æ</composition>
-			<composition>“d‚íƒŠí‚¹ƒg‚í‚æ</composition>
-			<composition>“dƒ‚»‚í‚íŠíƒgƒg‚æ</composition>
-			<composition>“d‚íƒƒƒgŠíŠí‚¹‚í‚æ</composition>
-			<composition>“d‚íƒ‚»‚¹Šíƒg‚í‚í‚¹‚æ</composition>
-			<composition>“d‚íƒgƒƒŠí‚»‚í‚íŠíƒg‚æ</composition>
-			<composition>“d‚í‚»ƒƒgƒg‚í‚íŠíŠí‚íƒ‚æ</composition>
-			<composition>“d‚íƒ‚¹‚»Šíƒƒƒgƒg‚í‚íŠí‚æ</composition>
-			<composition>“d‚íƒƒ‚»Šíƒgƒ‚¹‚í‚íƒƒg‚í‚æ</composition>
+			<composition>é›»ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ã›ã‚ˆ</composition>
+			<composition>é›»ã‚å™¨ãã‚ˆ</composition>
+			<composition>é›»ã‚å™¨ã›ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãã‚å™¨ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯å™¨ã›ãƒˆã‚ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãã‚ã‚å™¨ãƒˆãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãƒ¯ãƒˆå™¨å™¨ã›ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãã›å™¨ãƒˆã‚ã‚ã›ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒˆãƒ¯ãƒ¯å™¨ãã‚ã‚å™¨ãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ããƒ¯ãƒˆãƒˆã‚ã‚å™¨å™¨ã‚ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ã›ãå™¨ãƒ¯ãƒ¯ãƒˆãƒˆã‚ã‚å™¨ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãƒ¯ãå™¨ãƒˆãƒ¯ã›ã‚ã‚ãƒ¯ãƒˆã‚ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-3blue-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸÂ ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ŽOŽŸŽÔÂ‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸‰æ¬¡é’ é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸‰æ¬¡è»Šé’ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -508,37 +508,37 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‚í‚æ</composition>
-			<composition>“d‚»‚í‚æ</composition>
-			<composition>“d‚í‚¹Ší‚æ</composition>
-			<composition>“d‚íƒ‚»Ší‚æ</composition>
-			<composition>“dŠíƒ‚í‚í‚»‚æ</composition>
-			<composition>“d‚í‚íŠíƒgƒg‚¹‚æ</composition>
-			<composition>“dƒƒ‚¹‚»‚íŠíŠí‚æ</composition>
-			<composition>“dƒgŠíŠí‚¹‚í‚íƒ‚»‚æ</composition>
-			<composition>“d‚¹‚¹‚íƒgŠí‚í‚¹‚íƒ‚æ</composition>
-			<composition>“d‚íƒgƒ‚íŠí‚»‚íŠíƒg‚í‚æ</composition>
-			<composition>“dŠíŠí‚í‚íƒƒgƒgŠí‚íƒ‚»‚æ</composition>
-			<composition>“dƒ‚í‚»‚¹‚í‚íŠíŠíƒg‚í‚íƒg‚æ</composition>
-			<composition>“d‚í‚í‚íŠíƒgƒ‚»ƒƒƒg‚¹‚¹‚í‚æ</composition>
+			<composition>é›»ã‚ã‚ˆ</composition>
+			<composition>é›»ãã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ã›å™¨ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒ¯ãå™¨ã‚ˆ</composition>
+			<composition>é›»å™¨ãƒ¯ã‚ã‚ãã‚ˆ</composition>
+			<composition>é›»ã‚ã‚å™¨ãƒˆãƒˆã›ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ã›ãã‚å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»ãƒˆå™¨å™¨ã›ã‚ã‚ãƒ¯ãã‚ˆ</composition>
+			<composition>é›»ã›ã›ã‚ãƒˆå™¨ã‚ã›ã‚ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ã‚ãƒˆãƒ¯ã‚å™¨ãã‚å™¨ãƒˆã‚ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨ã‚ã‚ãƒ¯ãƒˆãƒˆå™¨ã‚ãƒ¯ãã‚ˆ</composition>
+			<composition>é›»ãƒ¯ã‚ãã›ã‚ã‚å™¨å™¨ãƒˆã‚ã‚ãƒˆã‚ˆ</composition>
+			<composition>é›»ã‚ã‚ã‚å™¨ãƒˆãƒ¯ããƒ¯ãƒ¯ãƒˆã›ã›ã‚ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-1brown-container}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸ’ƒ ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ˆêŽŸŽÔ’ƒ‚ªŒ¡ˆø‚·‚éAƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸€æ¬¡èŒ¶ ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸€æ¬¡è»ŠèŒ¶ãŒç‰½å¼•ã™ã‚‹ã€ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -546,35 +546,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d</composition>
-			<composition>“d‚»‚æ</composition>
-			<composition>“d‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚»‚¹‚¹‚»‚¹‚¹‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚»‚¹‚»‚»‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚¹‚¹‚»‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚¹‚»‚¹‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚»‚¹‚»‚¹‚¹‚»‚¹‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚»‚¹‚¹‚»‚¹‚»‚»‚¹‚¹‚æ</composition>
+			<composition>é›»</composition>
+			<composition>é›»ãã‚ˆ</composition>
+			<composition>é›»ããã‚ˆ</composition>
+			<composition>é›»ãã›ãã‚ˆ</composition>
+			<composition>é›»ã›ããã›ã‚ˆ</composition>
+			<composition>é›»ã›ã›ãã›ãã‚ˆ</composition>
+			<composition>é›»ããã›ãã›ã›ã‚ˆ</composition>
+			<composition>é›»ãã›ã›ãã›ã›ã›ã‚ˆ</composition>
+			<composition>é›»ã›ããã›ããã›ã›ã‚ˆ</composition>
+			<composition>é›»ã›ã›ããã›ããã›ãã‚ˆ</composition>
+			<composition>é›»ã›ããã›ãã›ã›ãããã‚ˆ</composition>
+			<composition>é›»ãã›ããã›ãã›ã›ãã›ãã‚ˆ</composition>
+			<composition>é›»ãããã›ãã›ã›ãã›ãã›ã›ã‚ˆ</composition>
+			<composition>é›»ããã›ããã›ã›ãã›ããã›ã›ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-3brown-container}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸ’ƒ ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ŽOŽŸŽÔ’ƒ‚ªŒ¡ˆø‚·‚éAƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸‰æ¬¡èŒ¶ ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸‰æ¬¡è»ŠèŒ¶ãŒç‰½å¼•ã™ã‚‹ã€ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -582,35 +582,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3brown}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d</composition>
-			<composition>“d‚»‚æ</composition>
-			<composition>“d‚¹‚»‚æ</composition>
-			<composition>“d‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚¹‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚»‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚»‚»‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚¹‚¹‚»‚»‚»‚¹‚æ</composition>
-			<composition>“d‚»‚»‚»‚¹‚¹‚¹‚»‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚¹‚»‚»‚¹‚»‚»‚¹‚»‚¹‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚¹‚»‚¹‚»‚»‚»‚¹‚»‚¹‚æ</composition>
+			<composition>é›»</composition>
+			<composition>é›»ãã‚ˆ</composition>
+			<composition>é›»ã›ãã‚ˆ</composition>
+			<composition>é›»ãã›ã›ã‚ˆ</composition>
+			<composition>é›»ããã›ãã‚ˆ</composition>
+			<composition>é›»ã›ãã›ããã‚ˆ</composition>
+			<composition>é›»ã›ãã›ã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ãã›ã›ããã‚ˆ</composition>
+			<composition>é›»ããã›ãããã›ã›ã‚ˆ</composition>
+			<composition>é›»ã›ããã›ãããã›ãã‚ˆ</composition>
+			<composition>é›»ã›ãã›ãã›ã›ãããã›ã‚ˆ</composition>
+			<composition>é›»ãããã›ã›ã›ããã›ããã‚ˆ</composition>
+			<composition>é›»ã›ã›ãã›ããã›ããã›ãã›ã‚ˆ</composition>
+			<composition>é›»ãã›ããã›ãã›ãããã›ãã›ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-1blue-container}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸÂ ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ˆêŽŸŽÔÂ‚ªŒ¡ˆø‚·‚éAƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸€æ¬¡é’ ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸€æ¬¡è»Šé’ãŒç‰½å¼•ã™ã‚‹ã€ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -618,35 +618,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1blue}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d</composition>
-			<composition>“d‚»‚æ</composition>
-			<composition>“d‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚¹‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚»‚»‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚¹‚¹‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚¹‚¹‚»‚¹‚»‚¹‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚¹‚»‚¹‚»‚»‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚»‚»‚¹‚»‚¹‚»‚¹‚»‚¹‚¹‚»‚æ</composition>
+			<composition>é›»</composition>
+			<composition>é›»ãã‚ˆ</composition>
+			<composition>é›»ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ãã›ã‚ˆ</composition>
+			<composition>é›»ããã›ã›ã‚ˆ</composition>
+			<composition>é›»ã›ãã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ãã›ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ã›ãã›ã›ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ããããã›ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ããã›ãã›ããã›ã‚ˆ</composition>
+			<composition>é›»ã›ãã›ãã›ã›ã›ããã›ã‚ˆ</composition>
+			<composition>é›»ãã›ããã›ã›ãã›ãã›ã›ã‚ˆ</composition>
+			<composition>é›»ããã›ãã›ãã›ããã›ã›ãã‚ˆ</composition>
+			<composition>é›»ããããã›ãã›ãã›ãã›ã›ãã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-3blue-container}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸÂ ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ŽOŽŸŽÔÂ‚ªŒ¡ˆø‚·‚éAƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ä¸‰æ¬¡é’ ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸‰æ¬¡è»Šé’ãŒç‰½å¼•ã™ã‚‹ã€ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -654,35 +654,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d</composition>
-			<composition>“d‚¹‚æ</composition>
-			<composition>“d‚¹‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚¹‚»‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚¹‚¹‚»‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚»‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚¹‚¹‚»‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚»‚¹‚»‚»‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚»‚¹‚¹‚¹‚»‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚»‚»‚¹‚»‚¹‚»‚»‚»‚¹‚¹‚»‚æ</composition>
+			<composition>é›»</composition>
+			<composition>é›»ã›ã‚ˆ</composition>
+			<composition>é›»ã›ã›ã‚ˆ</composition>
+			<composition>é›»ããã›ã‚ˆ</composition>
+			<composition>é›»ãã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ãã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ã›ããã›ãã‚ˆ</composition>
+			<composition>é›»ãã›ããã›ã›ãã›ã‚ˆ</composition>
+			<composition>é›»ã›ãã›ããã›ããã›ã‚ˆ</composition>
+			<composition>é›»ã›ã›ãã›ã›ãã›ãã›ãã‚ˆ</composition>
+			<composition>é›»ããã›ããã›ããã›ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ãããã›ã›ã›ãã›ãã›ãã‚ˆ</composition>
+			<composition>é›»ããããã›ãã›ãããã›ã›ãã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-1brown-Freight-wamu}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ˆêŽŸ’ƒ —LŠW‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ˆêŽŸŽÔ’ƒ‚ªƒƒ€80000‚ðŒ¡ˆø‚·‚é‰Ý•¨—ñŽÔ‚Å‚·Bƒƒ€80000‚ÍŽ†‚âƒr[ƒ‹‚Ì—A‘—‚ÉŽg‚í‚ê‚Ä‚¢‚Ü‚µ‚½B
+		<name>ä¸€æ¬¡èŒ¶ æœ‰è“‹è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸€æ¬¡è»ŠèŒ¶ãŒãƒ¯ãƒ 80000ã‚’ç‰½å¼•ã™ã‚‹è²¨ç‰©åˆ—è»Šã§ã™ã€‚ãƒ¯ãƒ 80000ã¯ç´™ã‚„ãƒ“ãƒ¼ãƒ«ã®è¼¸é€ã«ä½¿ã‚ã‚Œã¦ã„ã¾ã—ãŸã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -690,34 +690,34 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-1brown}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“dƒ‚æ</composition>
-			<composition>“dƒƒ‚æ</composition>
-			<composition>“dƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
+			<composition>é›»ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF60-3blue-Freight-wamu}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 60</type>
-		<name>ŽOŽŸÂ —LŠW‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©Eˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF60ŽOŽŸŽÔÂ‚ªƒƒ€80000‚ðŒ¡ˆø‚·‚é‰Ý•¨—ñŽÔ‚Å‚·Bƒƒ€80000‚ÍŽ†‚âƒr[ƒ‹‚Ì—A‘—‚ÉŽg‚í‚ê‚Ä‚¢‚Ü‚µ‚½B
+		<name>ä¸‰æ¬¡é’ æœ‰è“‹è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF60ä¸‰æ¬¡è»Šé’ãŒãƒ¯ãƒ 80000ã‚’ç‰½å¼•ã™ã‚‹è²¨ç‰©åˆ—è»Šã§ã™ã€‚ãƒ¯ãƒ 80000ã¯ç´™ã‚„ãƒ“ãƒ¼ãƒ«ã®è¼¸é€ã«ä½¿ã‚ã‚Œã¦ã„ã¾ã—ãŸã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -725,34 +725,34 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF60-3blue}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“dƒ‚æ</composition>
-			<composition>“dƒƒ‚æ</composition>
-			<composition>“dƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
+			<composition>é›»ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-K02-05-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>EF 65 “Á‹}F</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔiƒˆ‚Â‚«j</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒiƒˆ‚µ‚©‚µ‚©j</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF65’P‹@‚Ü‚½‚Íd˜AB
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>EF 65 ç‰¹æ€¥è‰²</type>
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Šï¼ˆãƒ¨ã¤ãï¼‰</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ï¼ˆãƒ¨ï¼ã—ã‹ã—ã‹ï¼‰</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF65å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -761,35 +761,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-501}"/>
-			<car char="á" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-500}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-501}"/>
+			<car char="â‰ª" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-500}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>ƒ‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>ƒá‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>ï¼œï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>ï¼œâ‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-Hiro-TrainHensei-K02-02-YO}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 64</type>
-		<name>ƒKƒ\ƒŠƒ“—A‘—‰Ý•¨—ñŽÔiƒˆ‚Â‚«j</name>
-		<author>‚è‚¨‚è‚¨©ˆ»£ƒqƒiƒˆ‚µ‚©‚µ‚©j</author>
-		<description>ƒKƒ\ƒŠƒ““™Šö”­–û—A‘—‚ð–Ú“I‚Æ‚µ‚½‰Ý•¨—ñŽÔBŒ¡ˆø‚ÍEF64’P‹@‚Ü‚½‚Íd˜AB
+		<name>ã‚¬ã‚½ãƒªãƒ³è¼¸é€è²¨ç‰©åˆ—è»Šï¼ˆãƒ¨ã¤ãï¼‰</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ç¶¾ç€¬ãƒ’ãƒ­ï¼ˆãƒ¨ï¼ã—ã‹ã—ã‹ï¼‰</author>
+		<description>ã‚¬ã‚½ãƒªãƒ³ç­‰æ®ç™ºæ²¹è¼¸é€ã‚’ç›®çš„ã¨ã—ãŸè²¨ç‰©åˆ—è»Šã€‚ç‰½å¼•ã¯EF64å˜æ©Ÿã¾ãŸã¯é‡é€£ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -798,35 +798,35 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0002}"/>
-			<car char="á" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0001}"/>
-			<car char="‚s" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ï¼œ" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0002}"/>
+			<car char="â‰ª" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0001}"/>
+			<car char="ï¼´" ref="{FreeTrain-AYASE-Hiro-TrainImg-TAKI8000BLK}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 			
-			<composition>á‚s‚æ</composition>
-			<composition>á‚s‚s‚æ</composition>
-			<composition>á‚s‚s‚s‚æ</composition>
-			<composition>á‚s‚s‚s‚s‚æ</composition>
-			<composition>á‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>á‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>á‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
-			<composition>áƒ‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚s‚æ</composition>
+			<composition>â‰ªï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
+			<composition>â‰ªï¼œï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ï¼´ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-AYASE-HIRO-Shika-RailroadTrain-EF64-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 64</type>
-		<name>ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©E‹@ŠÖŽÔˆ»£ƒqƒ</author>
-		<description>“d‹C‹@ŠÖŽÔEF64‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹ãƒ»æ©Ÿé–¢è»Šç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF64ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -834,40 +834,40 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0002}"/>
-			<car char="á" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0001}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" 			
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0002}"/>
+			<car char="â‰ª" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0001}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" 			
 ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" 			
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>áƒ‚æ</composition>
-			<composition>áƒ‚¹‚æ</composition>
-			<composition>á‚íŠí‚»‚æ</composition>
-			<composition>áƒŠí‚¹‚í‚æ</composition>
-			<composition>áƒ‚¹‚í‚íŠí‚æ</composition>
-			<composition>á‚í‚í‚¹ƒgŠíƒ‚æ</composition>
-			<composition>á‚í‚»Ší‚íƒƒgƒg‚æ</composition>
-			<composition>á“dƒƒƒgŠíŠí‚í‚¹‚æ</composition>
-			<composition>á“dƒ‚»‚¹Šíƒg‚í‚í‚¹‚æ</composition>
-			<composition>á“dƒg‚í‚íŠí‚»ƒŠíƒgƒg‚æ</composition>
-			<composition>á“d‚»‚íƒgƒg‚íƒƒƒŠíŠí‚æ</composition>
-			<composition>á“dƒ‚¹‚¹Ší‚í‚íƒgƒg‚»ƒŠí‚æ</composition>
-			<composition>á“dƒƒ‚»Šíƒgƒ‚¹‚í‚í‚íƒg‚¹‚æ</composition>
+			<composition>â‰ªãƒ¯ã‚ˆ</composition>
+			<composition>â‰ªãƒ¯ã›ã‚ˆ</composition>
+			<composition>â‰ªã‚å™¨ãã‚ˆ</composition>
+			<composition>â‰ªãƒ¯å™¨ã›ã‚ã‚ˆ</composition>
+			<composition>â‰ªãƒ¯ã›ã‚ã‚å™¨ã‚ˆ</composition>
+			<composition>â‰ªã‚ã‚ã›ãƒˆå™¨ãƒ¯ã‚ˆ</composition>
+			<composition>â‰ªã‚ãå™¨ã‚ãƒ¯ãƒˆãƒˆã‚ˆ</composition>
+			<composition>â‰ªé›»ãƒ¯ãƒ¯ãƒˆå™¨å™¨ã‚ã›ã‚ˆ</composition>
+			<composition>â‰ªé›»ãƒ¯ãã›å™¨ãƒˆã‚ã‚ã›ã‚ˆ</composition>
+			<composition>â‰ªé›»ãƒˆã‚ã‚å™¨ããƒ¯å™¨ãƒˆãƒˆã‚ˆ</composition>
+			<composition>â‰ªé›»ãã‚ãƒˆãƒˆã‚ãƒ¯ãƒ¯ãƒ¯å™¨å™¨ã‚ˆ</composition>
+			<composition>â‰ªé›»ãƒ¯ã›ã›å™¨ã‚ã‚ãƒˆãƒˆããƒ¯å™¨ã‚ˆ</composition>
+			<composition>â‰ªé›»ãƒ¯ãƒ¯ãå™¨ãƒˆãƒ¯ã›ã‚ã‚ã‚ãƒˆã›ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-Shika-RailroadTrain-EF58-Freight-Tank}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 58</type>
-		<name>ƒ^ƒ“ƒJ[—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©</author>
-		<description>“d‹C‹@ŠÖŽÔEF58(ƒfƒbƒL•t)‚ªŒ¡ˆø‚·‚éAƒ^ƒ“ƒN‰Ý•¨‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B‰Ý•¨‚¾‚ÆEF18‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªB
+		<name>ã‚¿ãƒ³ã‚«ãƒ¼åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF58(ãƒ‡ãƒƒã‚­ä»˜)ãŒç‰½å¼•ã™ã‚‹ã€ã‚¿ãƒ³ã‚¯è²¨ç‰©ã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚è²¨ç‰©ã ã¨EF18ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ãŒã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -875,33 +875,33 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“dŠí‚æ</composition>
-			<composition>“dŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
-			<composition>“dŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠíŠí‚æ</composition>
+			<composition>é›»å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨å™¨ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-Shika-RailroadTrain-EF58-Freight-Waki}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 58</type>
-		<name>—LŠW‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©</author>
-		<description>“d‹C‹@ŠÖŽÔEF58(ƒfƒbƒL•t)‚ªŒ¡ˆø‚·‚éAƒƒ€80000—LŠW‰Ý•¨‚Å‚·Bƒƒ€80000‚ÍŽ†‚âƒr[ƒ‹‚Ì—A‘—‚ÉŽg—p‚³‚ê‚Ü‚µ‚½B‰Ý•¨‚¾‚ÆEF18‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªB
+		<name>æœ‰è“‹è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF58(ãƒ‡ãƒƒã‚­ä»˜)ãŒç‰½å¼•ã™ã‚‹ã€ãƒ¯ãƒ 80000æœ‰è“‹è²¨ç‰©ã§ã™ã€‚ãƒ¯ãƒ 80000ã¯ç´™ã‚„ãƒ“ãƒ¼ãƒ«ã®è¼¸é€ã«ä½¿ç”¨ã•ã‚Œã¾ã—ãŸã€‚è²¨ç‰©ã ã¨EF18ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ãŒã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -909,31 +909,31 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“dƒ‚æ</composition>
-			<composition>“dƒƒ‚æ</composition>
-			<composition>“dƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
-			<composition>“dƒƒƒƒƒƒƒƒƒƒƒƒ‚æ</composition>
+			<composition>é›»ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ãƒ¯ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-Shika-RailroadTrain-EF58-Freight-mix}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 58</type>
-		<name>ŽG‰Ý•¨—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©</author>
-		<description>“d‹C‹@ŠÖŽÔEF58(ƒfƒbƒL•t)‚ªŒ¡ˆø‚·‚éAŽG‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B‰Ý•¨‚¾‚ÆEF18‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªB
+		<name>é›‘è²¨ç‰©åˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF58(ãƒ‡ãƒƒã‚­ä»˜)ãŒç‰½å¼•ã™ã‚‹ã€é›‘è²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚è²¨ç‰©ã ã¨EF18ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ãŒã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -941,36 +941,36 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
-			<car char="ƒ" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
-			<car char="ƒg" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
-			<car char="Ší" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚í" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
+			<car char="ãƒ¯" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu80000}"/>
+			<car char="ãƒˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-toki15000}"/>
+			<car char="å™¨" ref="{FreeTrain-Shika-FreightCar-TrainCar-taki43000k}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚" ref="{FreeTrain-riorio-shikashika-TrainImg-wamu60000}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‚í‚æ</composition>
-			<composition>“dƒ‚¹‚æ</composition>
-			<composition>“d‚íŠí‚¹‚æ</composition>
-			<composition>“dƒ‚íŠí‚¹‚æ</composition>
-			<composition>“dƒ‚¹Ší‚í‚í‚æ</composition>
-			<composition>“d‚í‚¹ƒƒgŠí‚í‚æ</composition>
-			<composition>“d‚í‚»Šíƒƒƒg‚í‚æ</composition>
-			<composition>“d‚¹ƒƒƒgƒgŠí‚í‚¹‚æ</composition>
-			<composition>“d‚í‚í‚»‚íŠíƒƒgƒgƒ‚æ</composition>
-			<composition>“dƒƒg‚í‚í‚í‚»ƒŠíƒgƒg‚æ</composition>
-			<composition>“d‚¹‚»ƒƒgƒg‚í‚í‚íƒŠíŠí‚æ</composition>
-			<composition>“d‚í‚íŠí‚¹‚¹ƒƒgƒƒ‚íƒgŠí‚æ</composition>
+			<composition>é›»ã‚ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ã›ã‚ˆ</composition>
+			<composition>é›»ã‚å™¨ã›ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ã‚å™¨ã›ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ã›å™¨ã‚ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ã›ãƒ¯ãƒˆå™¨ã‚ã‚ˆ</composition>
+			<composition>é›»ã‚ãå™¨ãƒ¯ãƒ¯ãƒˆã‚ã‚ˆ</composition>
+			<composition>é›»ã›ãƒ¯ãƒ¯ãƒˆãƒˆå™¨ã‚ã›ã‚ˆ</composition>
+			<composition>é›»ã‚ã‚ãã‚å™¨ãƒ¯ãƒˆãƒˆãƒ¯ã‚ˆ</composition>
+			<composition>é›»ãƒ¯ãƒˆã‚ã‚ã‚ããƒ¯å™¨ãƒˆãƒˆã‚ˆ</composition>
+			<composition>é›»ã›ããƒ¯ãƒˆãƒˆã‚ã‚ã‚ãƒ¯å™¨å™¨ã‚ˆ</composition>
+			<composition>é›»ã‚ã‚å™¨ã›ã›ãƒ¯ãƒˆãƒ¯ãƒ¯ã‚ãƒˆå™¨ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-shikashika-RailroadTrain-EF58-brown-container}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EF 58</type>
-		<name>ƒfƒbƒL ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©</author>
-		<description>“d‹C‹@ŠÖŽÔEF58ƒfƒbƒLŒ`‚ªŒ¡ˆø‚·‚éAƒRƒ“ƒeƒi‰Ý•¨—ñŽÔ‚Å‚·BÅŒã”ö‚Éº˜a37”N‚©‚ç»‘¢‚³‚ê‚½ŽÔ¶ŽÔ‚ð˜AŒ‹‚µ‚Ä‚¢‚Ü‚·B
+		<name>ãƒ‡ãƒƒã‚­ ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹</author>
+		<description>é›»æ°—æ©Ÿé–¢è»ŠEF58ãƒ‡ãƒƒã‚­å½¢ãŒç‰½å¼•ã™ã‚‹ã€ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»Šã§ã™ã€‚æœ€å¾Œå°¾ã«æ˜­å’Œ37å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸè»ŠæŽŒè»Šã‚’é€£çµã—ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -978,37 +978,37 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
-			<car char="‚æ" 			
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="ã‚ˆ" 			
 ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d</composition>
-			<composition>“d‚»‚æ</composition>
-			<composition>“d‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚»‚¹‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚»‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚¹‚»‚»‚¹‚»‚»‚»‚¹‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚»‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‚¹‚»‚¹‚¹‚»‚¹‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚»‚»‚¹‚»‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚»‚¹‚»‚¹‚¹‚»‚¹‚¹‚¹‚»‚»‚æ</composition>
-			<composition>“d‚»‚¹‚»‚»‚¹‚»‚¹‚»‚»‚¹‚»‚»‚¹‚æ</composition>
+			<composition>é›»</composition>
+			<composition>é›»ãã‚ˆ</composition>
+			<composition>é›»ã›ãã‚ˆ</composition>
+			<composition>é›»ã›ã›ãã‚ˆ</composition>
+			<composition>é›»ãããã›ã‚ˆ</composition>
+			<composition>é›»ã›ããã›ãã‚ˆ</composition>
+			<composition>é›»ããã›ãããã‚ˆ</composition>
+			<composition>é›»ã›ãã›ãã›ããã‚ˆ</composition>
+			<composition>é›»ã›ããã›ãããã›ã‚ˆ</composition>
+			<composition>é›»ããã›ããã›ãã›ãã‚ˆ</composition>
+			<composition>é›»ã›ãã›ã›ãã›ã›ããã›ã‚ˆ</composition>
+			<composition>é›»ãã›ããããã›ãã›ããã‚ˆ</composition>
+			<composition>é›»ããã›ãã›ã›ãã›ã›ã›ããã‚ˆ</composition>
+			<composition>é›»ãã›ããã›ãã›ããã›ããã›ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-EH10-2-Freight-koki}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
 		<type>EH 10</type>
-		<name>*2ƒRƒ“ƒeƒi—ñŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‚µ‚©‚µ‚©</author>
-		<description>d‰Ý•¨—p“d‹C‹@ŠÖŽÔEH10‚ªŒ¡ˆø‚·‚éAˆê”ÊƒRƒ“ƒeƒi‰×•¨—ñŽÔ‚Å‚·B
+		<name>*2ã‚³ãƒ³ãƒ†ãƒŠåˆ—è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†ã—ã‹ã—ã‹</author>
+		<description>é‡è²¨ç‰©ç”¨é›»æ°—æ©Ÿé–¢è»ŠEH10ãŒç‰½å¼•ã™ã‚‹ã€ä¸€èˆ¬ã‚³ãƒ³ãƒ†ãƒŠè·ç‰©åˆ—è»Šã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>40000000</price>
@@ -1016,34 +1016,34 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2a}"/>
-			<car char="‹C" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2b-R}"/>
-			<car char="‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
-			<car char="‚»" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2a}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2b-R}"/>
+			<car char="ã›" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t5g}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki5500-5t2g}"/>
 
-			<car char="‚æ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
+			<car char="ã‚ˆ" ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 
-			<composition>“d‹C‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚¹‚»‚æ</composition>
-			<composition>“d‹C‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‹C‚¹‚»‚»‚¹‚¹‚æ</composition>
-			<composition>“d‹C‚»‚¹‚»‚¹‚»‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚¹‚¹‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚¹‚»‚»‚¹‚¹‚¹‚»‚æ</composition>
-			<composition>“d‹C‚¹‚»‚»‚¹‚»‚¹‚»‚»‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚»‚¹‚»‚»‚¹‚¹‚¹‚»‚¹‚æ</composition>
-			<composition>“d‹C‚¹‚¹‚¹‚»‚¹‚»‚»‚¹‚»‚¹‚»‚æ</composition>
-			<composition>“d‹C‚¹‚»‚»‚¹‚¹‚»‚»‚¹‚¹‚¹‚»‚¹‚æ</composition>
+			<composition>é›»æ°—ã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ã›ãã‚ˆ</composition>
+			<composition>é›»æ°—ã›ãã›ãã‚ˆ</composition>
+			<composition>é›»æ°—ã›ããã›ã›ã‚ˆ</composition>
+			<composition>é›»æ°—ãã›ãã›ãã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ã›ã›ã›ããã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ã›ããã›ã›ã›ãã‚ˆ</composition>
+			<composition>é›»æ°—ã›ããã›ãã›ããã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ãã›ããã›ã›ã›ãã›ã‚ˆ</composition>
+			<composition>é›»æ°—ã›ã›ã›ãã›ããã›ãã›ãã‚ˆ</composition>
+			<composition>é›»æ°—ã›ããã›ã›ããã›ã›ã›ãã›ã‚ˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-train-Freight-Container-koki100101-JRF-01}">
-		<company>JR‰Ý•¨</company>
-		<type>ƒRƒL101</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔA</name>
-		<author>‚è‚¨‚è‚¨</author>
-		<description>ƒRƒL100‚ÆƒRƒL101‚ª4—¼‚Åƒ†ƒjƒbƒg‚ð‘g‚ñ‚Å‚¢‚Ü‚·Bƒpƒ^[ƒ“AB
+		<company>JRè²¨ç‰©</company>
+		<type>ã‚³ã‚­101</type>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»ŠA</name>
+		<author>ã‚ŠãŠã‚ŠãŠ</author>
+		<description>ã‚³ã‚­100ã¨ã‚³ã‚­101ãŒ4ä¸¡ã§ãƒ¦ãƒ‹ãƒƒãƒˆã‚’çµ„ã‚“ã§ã„ã¾ã™ã€‚ãƒ‘ã‚¿ãƒ¼ãƒ³Aã€‚
 		</description>
 		<fare>0</fare>
 		<price>5000000</price>
@@ -1051,65 +1051,65 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚ " ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
-			<car char="‚©" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
-			<car char="‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
-			<car char="‚³" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
-			<car char="‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
-			<car char="‚½" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
-			<car char="‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
-			<car char="‚Â" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
-			<car char="‚Ä" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
-			<car char="‚È" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
-			<car char="‚É" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
-			<car char="‚Ê" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
-			<car char="‚Ë" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
-			<car char="‚Ì" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
+			<car char="ã‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
+			<car char="ã‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
+			<car char="ã•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
+			<car char="ã—" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
+			<car char="ãŸ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
+			<car char="ã¡" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
+			<car char="ã¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
+			<car char="ã¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
+			<car char="ãª" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
+			<car char="ã«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
+			<car char="ã¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
+			<car char="ã­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
+			<car char="ã®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
 
-			<car char="ƒA" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
-			<car char="ƒC" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
-			<car char="ƒE" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
-			<car char="ƒJ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
-			<car char="ƒL" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
-			<car char="ƒN" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
-			<car char="ƒK" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
-			<car char="ƒM" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
-			<car char="ƒO" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
-			<car char="ƒT" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
-			<car char="ƒV" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
-			<car char="ƒX" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
-			<car char="ƒU" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
-			<car char="ƒW" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
-			<car char="ƒY" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
-			<car char="ƒ^" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
-			<car char="ƒ`" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
-			<car char="ƒc" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
-			<car char="ƒ_" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
-			<car char="ƒa" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
-			<car char="ƒd" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
-			<car char="ƒi" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
-			<car char="ƒj" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
-			<car char="ƒk" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
-			<car char="ƒn" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
-			<car char="ƒq" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
-			<car char="ƒt" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
-			<car char="ƒo" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
-			<car char="ƒr" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
-			<car char="ƒu" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
+			<car char="ã‚¢" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
+			<car char="ã‚¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
+			<car char="ã‚¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
+			<car char="ã‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
+			<car char="ã‚­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
+			<car char="ã‚¯" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
+			<car char="ã‚¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
+			<car char="ã‚®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
+			<car char="ã‚°" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
+			<car char="ã‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
+			<car char="ã‚·" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
+			<car char="ã‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
+			<car char="ã‚¶" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
+			<car char="ã‚¸" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
+			<car char="ã‚º" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
+			<car char="ã‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
+			<car char="ãƒ„" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
+			<car char="ãƒ€" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
+			<car char="ãƒ‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
+			<car char="ãƒ…" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
+			<car char="ãƒŠ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
+			<car char="ãƒ‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
+			<car char="ãƒŒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
+			<car char="ãƒ’" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
+			<car char="ãƒ•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
+			<car char="ãƒ“" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
+			<car char="ãƒ–" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
 
-			<composition>ƒK‚½‚µƒY</composition>
-			<composition>ƒK‚½‚µƒWƒn‚Â‚«ƒk</composition>
-			<composition>ƒK‚½‚µƒWƒn‚Â‚«ƒjƒi‚³‚Ëƒc</composition>
-			<composition>ƒK‚½‚µƒWƒn‚Â‚«ƒjƒi‚³‚Ëƒ`ƒ^‚©‚ÉƒO</composition>
+			<composition>ã‚¬ãŸã—ã‚º</composition>
+			<composition>ã‚¬ãŸã—ã‚¸ãƒã¤ããƒŒ</composition>
+			<composition>ã‚¬ãŸã—ã‚¸ãƒã¤ããƒ‹ãƒŠã•ã­ãƒ„</composition>
+			<composition>ã‚¬ãŸã—ã‚¸ãƒã¤ããƒ‹ãƒŠã•ã­ãƒã‚¿ã‹ã«ã‚°</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-train-Freight-Container-koki100101-JRF-02}">
-		<company>JR‰Ý•¨</company>
-		<type>ƒRƒL101</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔB</name>
-		<author>‚è‚¨‚è‚¨</author>
-		<description>ƒRƒL100‚ÆƒRƒL101‚ª4—¼‚Åƒ†ƒjƒbƒg‚ð‘g‚ñ‚Å‚¢‚Ü‚·Bƒpƒ^[ƒ“BB
+		<company>JRè²¨ç‰©</company>
+		<type>ã‚³ã‚­101</type>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»ŠB</name>
+		<author>ã‚ŠãŠã‚ŠãŠ</author>
+		<description>ã‚³ã‚­100ã¨ã‚³ã‚­101ãŒ4ä¸¡ã§ãƒ¦ãƒ‹ãƒƒãƒˆã‚’çµ„ã‚“ã§ã„ã¾ã™ã€‚ãƒ‘ã‚¿ãƒ¼ãƒ³Bã€‚
 		</description>
 		<fare>0</fare>
 		<price>5000000</price>
@@ -1117,64 +1117,64 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚ " ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
-			<car char="‚©" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
-			<car char="‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
-			<car char="‚³" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
-			<car char="‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
-			<car char="‚½" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
-			<car char="‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
-			<car char="‚Â" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
-			<car char="‚Ä" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
-			<car char="‚È" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
-			<car char="‚É" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
-			<car char="‚Ê" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
-			<car char="‚Ë" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
-			<car char="‚Ì" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
+			<car char="ã‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
+			<car char="ã‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
+			<car char="ã•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
+			<car char="ã—" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
+			<car char="ãŸ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
+			<car char="ã¡" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
+			<car char="ã¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
+			<car char="ã¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
+			<car char="ãª" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
+			<car char="ã«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
+			<car char="ã¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
+			<car char="ã­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
+			<car char="ã®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
 
-			<car char="ƒA" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
-			<car char="ƒC" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
-			<car char="ƒE" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
-			<car char="ƒJ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
-			<car char="ƒL" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
-			<car char="ƒN" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
-			<car char="ƒK" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
-			<car char="ƒM" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
-			<car char="ƒO" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
-			<car char="ƒT" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
-			<car char="ƒV" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
-			<car char="ƒX" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
-			<car char="ƒU" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
-			<car char="ƒW" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
-			<car char="ƒY" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
-			<car char="ƒ^" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
-			<car char="ƒ`" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
-			<car char="ƒc" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
-			<car char="ƒ_" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
-			<car char="ƒa" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
-			<car char="ƒd" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
-			<car char="ƒi" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
-			<car char="ƒj" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
-			<car char="ƒk" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
-			<car char="ƒn" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
-			<car char="ƒq" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
-			<car char="ƒt" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
-			<car char="ƒo" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
-			<car char="ƒr" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
-			<car char="ƒu" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
-			<composition>ƒU‚É‚µƒt</composition>
-			<composition>ƒU‚É‚µƒqƒK‚½‚ÊƒN</composition>
-			<composition>ƒU‚É‚µƒqƒK‚½‚ÊƒLƒ_‚«‚Ìƒd</composition>
-			<composition>ƒU‚É‚µƒqƒK‚½‚ÊƒLƒ_‚«‚Ìƒaƒo‚©‚Èƒk</composition>
+			<car char="ã‚¢" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
+			<car char="ã‚¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
+			<car char="ã‚¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
+			<car char="ã‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
+			<car char="ã‚­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
+			<car char="ã‚¯" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
+			<car char="ã‚¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
+			<car char="ã‚®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
+			<car char="ã‚°" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
+			<car char="ã‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
+			<car char="ã‚·" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
+			<car char="ã‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
+			<car char="ã‚¶" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
+			<car char="ã‚¸" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
+			<car char="ã‚º" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
+			<car char="ã‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
+			<car char="ãƒ„" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
+			<car char="ãƒ€" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
+			<car char="ãƒ‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
+			<car char="ãƒ…" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
+			<car char="ãƒŠ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
+			<car char="ãƒ‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
+			<car char="ãƒŒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
+			<car char="ãƒ’" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
+			<car char="ãƒ•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
+			<car char="ãƒ“" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
+			<car char="ãƒ–" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
+			<composition>ã‚¶ã«ã—ãƒ•</composition>
+			<composition>ã‚¶ã«ã—ãƒ’ã‚¬ãŸã¬ã‚¯</composition>
+			<composition>ã‚¶ã«ã—ãƒ’ã‚¬ãŸã¬ã‚­ãƒ€ãã®ãƒ…</composition>
+			<composition>ã‚¶ã«ã—ãƒ’ã‚¬ãŸã¬ã‚­ãƒ€ãã®ãƒ‚ãƒã‹ãªãƒŒ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-train-Freight-Container-koki100101-JRF-03}">
-		<company>JR‰Ý•¨</company>
-		<type>ƒRƒL101</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔC</name>
-		<author>‚è‚¨‚è‚¨</author>
-		<description>ƒRƒL100‚ÆƒRƒL101‚ª4—¼‚Åƒ†ƒjƒbƒg‚ð‘g‚ñ‚Å‚¢‚Ü‚·Bƒpƒ^[ƒ“CB
+		<company>JRè²¨ç‰©</company>
+		<type>ã‚³ã‚­101</type>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»ŠC</name>
+		<author>ã‚ŠãŠã‚ŠãŠ</author>
+		<description>ã‚³ã‚­100ã¨ã‚³ã‚­101ãŒ4ä¸¡ã§ãƒ¦ãƒ‹ãƒƒãƒˆã‚’çµ„ã‚“ã§ã„ã¾ã™ã€‚ãƒ‘ã‚¿ãƒ¼ãƒ³Cã€‚
 		</description>
 		<fare>0</fare>
 		<price>5000000</price>
@@ -1182,64 +1182,64 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚ " ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
-			<car char="‚©" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
-			<car char="‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
-			<car char="‚³" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
-			<car char="‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
-			<car char="‚½" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
-			<car char="‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
-			<car char="‚Â" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
-			<car char="‚Ä" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
-			<car char="‚È" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
-			<car char="‚É" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
-			<car char="‚Ê" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
-			<car char="‚Ë" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
-			<car char="‚Ì" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
+			<car char="ã‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
+			<car char="ã‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
+			<car char="ã•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
+			<car char="ã—" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
+			<car char="ãŸ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
+			<car char="ã¡" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
+			<car char="ã¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
+			<car char="ã¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
+			<car char="ãª" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
+			<car char="ã«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
+			<car char="ã¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
+			<car char="ã­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
+			<car char="ã®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
 
-			<car char="ƒA" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
-			<car char="ƒC" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
-			<car char="ƒE" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
-			<car char="ƒJ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
-			<car char="ƒL" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
-			<car char="ƒN" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
-			<car char="ƒK" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
-			<car char="ƒM" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
-			<car char="ƒO" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
-			<car char="ƒT" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
-			<car char="ƒV" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
-			<car char="ƒX" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
-			<car char="ƒU" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
-			<car char="ƒW" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
-			<car char="ƒY" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
-			<car char="ƒ^" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
-			<car char="ƒ`" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
-			<car char="ƒc" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
-			<car char="ƒ_" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
-			<car char="ƒa" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
-			<car char="ƒd" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
-			<car char="ƒi" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
-			<car char="ƒj" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
-			<car char="ƒk" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
-			<car char="ƒn" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
-			<car char="ƒq" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
-			<car char="ƒt" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
-			<car char="ƒo" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
-			<car char="ƒr" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
-			<car char="ƒu" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
-			<composition>ƒo‚µ‚Ëƒt</composition>
-			<composition>ƒo‚µ‚ËƒqƒJ‚½‚Ìƒk</composition>
-			<composition>ƒo‚µ‚ËƒqƒJ‚½‚ÌƒjƒT‚È‚«ƒO</composition>
-			<composition>ƒo‚µ‚ËƒqƒJ‚½‚ÌƒjƒT‚È‚«ƒMƒU‚È‚µƒd</composition>
+			<car char="ã‚¢" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
+			<car char="ã‚¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
+			<car char="ã‚¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
+			<car char="ã‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
+			<car char="ã‚­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
+			<car char="ã‚¯" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
+			<car char="ã‚¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
+			<car char="ã‚®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
+			<car char="ã‚°" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
+			<car char="ã‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
+			<car char="ã‚·" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
+			<car char="ã‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
+			<car char="ã‚¶" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
+			<car char="ã‚¸" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
+			<car char="ã‚º" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
+			<car char="ã‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
+			<car char="ãƒ„" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
+			<car char="ãƒ€" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
+			<car char="ãƒ‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
+			<car char="ãƒ…" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
+			<car char="ãƒŠ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
+			<car char="ãƒ‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
+			<car char="ãƒŒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
+			<car char="ãƒ’" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
+			<car char="ãƒ•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
+			<car char="ãƒ“" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
+			<car char="ãƒ–" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
+			<composition>ãƒã—ã­ãƒ•</composition>
+			<composition>ãƒã—ã­ãƒ’ã‚«ãŸã®ãƒŒ</composition>
+			<composition>ãƒã—ã­ãƒ’ã‚«ãŸã®ãƒ‹ã‚µãªãã‚°</composition>
+			<composition>ãƒã—ã­ãƒ’ã‚«ãŸã®ãƒ‹ã‚µãªãã‚®ã‚¶ãªã—ãƒ…</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-train-Freight-Container-koki100101-JRF-04}">
-		<company>JR‰Ý•¨</company>
-		<type>ƒRƒL101</type>
-		<name>ƒRƒ“ƒeƒi‰Ý•¨—ñŽÔD</name>
-		<author>‚è‚¨‚è‚¨</author>
-		<description>ƒRƒL100‚ÆƒRƒL101‚ª4—¼‚Åƒ†ƒjƒbƒg‚ð‘g‚ñ‚Å‚¢‚Ü‚·Bƒpƒ^[ƒ“DB
+		<company>JRè²¨ç‰©</company>
+		<type>ã‚³ã‚­101</type>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠè²¨ç‰©åˆ—è»ŠD</name>
+		<author>ã‚ŠãŠã‚ŠãŠ</author>
+		<description>ã‚³ã‚­100ã¨ã‚³ã‚­101ãŒ4ä¸¡ã§ãƒ¦ãƒ‹ãƒƒãƒˆã‚’çµ„ã‚“ã§ã„ã¾ã™ã€‚ãƒ‘ã‚¿ãƒ¼ãƒ³Dã€‚
 		</description>
 		<fare>0</fare>
 		<price>5000000</price>
@@ -1247,64 +1247,64 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‚ " ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
-			<car char="‚©" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
-			<car char="‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
-			<car char="‚³" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
-			<car char="‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
-			<car char="‚½" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
-			<car char="‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
-			<car char="‚Â" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
-			<car char="‚Ä" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
-			<car char="‚È" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
-			<car char="‚É" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
-			<car char="‚Ê" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
-			<car char="‚Ë" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
-			<car char="‚Ì" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
+			<car char="ã‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-0}"/>
+			<car char="ã‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr1}"/>
+			<car char="ã" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft2-jr2}"/>
+			<car char="ã•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr1}"/>
+			<car char="ã—" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft3-jr2}"/>
+			<car char="ãŸ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr1}"/>
+			<car char="ã¡" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr2}"/>
+			<car char="ã¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr3}"/>
+			<car char="ã¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft4-jr4}"/>
+			<car char="ãª" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr1}"/>
+			<car char="ã«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr2}"/>
+			<car char="ã¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr3}"/>
+			<car char="ã­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr4}"/>
+			<car char="ã®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki100-12ft5-jr5}"/>
 
-			<car char="ƒA" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
-			<car char="ƒC" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
-			<car char="ƒE" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
-			<car char="ƒJ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
-			<car char="ƒL" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
-			<car char="ƒN" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
-			<car char="ƒK" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
-			<car char="ƒM" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
-			<car char="ƒO" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
-			<car char="ƒT" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
-			<car char="ƒV" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
-			<car char="ƒX" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
-			<car char="ƒU" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
-			<car char="ƒW" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
-			<car char="ƒY" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
-			<car char="ƒ^" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
-			<car char="ƒ`" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
-			<car char="ƒc" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
-			<car char="ƒ_" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
-			<car char="ƒa" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
-			<car char="ƒd" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
-			<car char="ƒi" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
-			<car char="ƒj" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
-			<car char="ƒk" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
-			<car char="ƒn" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
-			<car char="ƒq" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
-			<car char="ƒt" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
-			<car char="ƒo" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
-			<car char="ƒr" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
-			<car char="ƒu" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
-			<composition>ƒK‚³‚©ƒt</composition>
-			<composition>ƒK‚³‚©ƒ`ƒT‚È‚«ƒk</composition>
-			<composition>ƒK‚³‚©ƒ`ƒT‚È‚«ƒjƒ^‚¿‚µƒY</composition>
-			<composition>ƒK‚³‚©ƒ`ƒT‚È‚«ƒjƒ^‚¿‚µƒMƒU‚É‚½ƒd</composition>
+			<car char="ã‚¢" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0}"/>
+			<car char="ã‚¤" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0-R}"/>
+			<car char="ã‚¦" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-0t-R}"/>
+			<car char="ã‚«" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1}"/>
+			<car char="ã‚­" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1-R}"/>
+			<car char="ã‚¯" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr1t-R}"/>
+			<car char="ã‚¬" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2}"/>
+			<car char="ã‚®" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2-R}"/>
+			<car char="ã‚°" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft2-jr2t-R}"/>
+			<car char="ã‚µ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1}"/>
+			<car char="ã‚·" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1-R}"/>
+			<car char="ã‚¹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr1t-R}"/>
+			<car char="ã‚¶" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2}"/>
+			<car char="ã‚¸" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2-R}"/>
+			<car char="ã‚º" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr2t-R}"/>
+			<car char="ã‚¿" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3-R}"/>
+			<car char="ãƒ„" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft3-jr3t-R}"/>
+			<car char="ãƒ€" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1}"/>
+			<car char="ãƒ‚" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1-R}"/>
+			<car char="ãƒ…" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr1t-R}"/>
+			<car char="ãƒŠ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2}"/>
+			<car char="ãƒ‹" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2-R}"/>
+			<car char="ãƒŒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft4-jr2t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1}"/>
+			<car char="ãƒ’" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1-R}"/>
+			<car char="ãƒ•" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr1t-R}"/>
+			<car char="ãƒ" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2}"/>
+			<car char="ãƒ“" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2-R}"/>
+			<car char="ãƒ–" ref="{FreeTrain-Shika-FreightCar-TrainCar-koki101-12ft5-jr2t-R}"/>
+			<composition>ã‚¬ã•ã‹ãƒ•</composition>
+			<composition>ã‚¬ã•ã‹ãƒã‚µãªããƒŒ</composition>
+			<composition>ã‚¬ã•ã‹ãƒã‚µãªããƒ‹ã‚¿ã¡ã—ã‚º</composition>
+			<composition>ã‚¬ã•ã‹ãƒã‚µãªããƒ‹ã‚¿ã¡ã—ã‚®ã‚¶ã«ãŸãƒ…</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-RailroadTrain-EF200-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 200</type>
-		<name>’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©‚µ‚©‚µ‚©</author>
-		<description>6000kW‚Æ‚¢‚¤‹·‹O‚Å¢ŠEˆê‚Ìo—Í‚ðŒÖ‚é‰Ý•¨—p’¼—¬“d‹C‹@ŠÖŽÔEF200‚Å‚·B
+		<name>å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ã—ã‹ã—ã‹</author>
+		<description>6000kWã¨ã„ã†ç‹­è»Œã§ä¸–ç•Œä¸€ã®å‡ºåŠ›ã‚’èª‡ã‚‹è²¨ç‰©ç”¨ç›´æµé›»æ°—æ©Ÿé–¢è»ŠEF200ã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>50000000</price>
@@ -1312,17 +1312,17 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{riorio-shikashika-TrainImg-EF200-1}"/>
-			<composition>“d</composition>
+			<car char="é›»" ref="{riorio-shikashika-TrainImg-EF200-1}"/>
+			<composition>é›»</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-RailroadTrain-EF210-000-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 210</type>
-		<name>-0”Ô‘ä ’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©‚µ‚©‚µ‚©</author>
-		<description>uECO-POWER“‘¾˜Yv‚Ìˆ¤Ì‚ð‚à‚Â‰Ý•¨—p’¼—¬“d‹C‹@ŠÖŽÔEF210(0”Ô‘ä)‚Å‚·B
+		<name>-0ç•ªå° å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ã—ã‹ã—ã‹</author>
+		<description>ã€ŒECO-POWERæ¡ƒå¤ªéƒŽã€ã®æ„›ç§°ã‚’ã‚‚ã¤è²¨ç‰©ç”¨ç›´æµé›»æ°—æ©Ÿé–¢è»ŠEF210(0ç•ªå°)ã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>40000000</price>
@@ -1330,17 +1330,17 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{riorio-shikashika-TrainImg-EF210-000-1}"/>
-			<composition>“d</composition>
+			<car char="é›»" ref="{riorio-shikashika-TrainImg-EF210-000-1}"/>
+			<composition>é›»</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-RailroadTrain-EF210-100SA-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 210</type>
-		<name>ƒVƒ“ƒOƒ‹ƒA[ƒ€ƒpƒ“ƒ^ƒOƒ‰ƒt ’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©‚µ‚©‚µ‚©</author>
-		<description>uECO-POWER“‘¾˜Yv‚Ìˆ¤Ì‚ð‚à‚Â‰Ý•¨—p’¼—¬“d‹C‹@ŠÖŽÔEF210(100”Ô‘äƒVƒ“ƒOƒ‹ƒA[ƒ€ƒpƒ“ƒ^ƒOƒ‰ƒt)‚Å‚·B
+		<name>ã‚·ãƒ³ã‚°ãƒ«ã‚¢ãƒ¼ãƒ ãƒ‘ãƒ³ã‚¿ã‚°ãƒ©ãƒ• å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ã—ã‹ã—ã‹</author>
+		<description>ã€ŒECO-POWERæ¡ƒå¤ªéƒŽã€ã®æ„›ç§°ã‚’ã‚‚ã¤è²¨ç‰©ç”¨ç›´æµé›»æ°—æ©Ÿé–¢è»ŠEF210(100ç•ªå°ã‚·ãƒ³ã‚°ãƒ«ã‚¢ãƒ¼ãƒ ãƒ‘ãƒ³ã‚¿ã‚°ãƒ©ãƒ•)ã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>40000000</price>
@@ -1348,17 +1348,17 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{riorio-shikashika-TrainImg-EF210-100-SA1}"/>
-			<composition>“d</composition>
+			<car char="é›»" ref="{riorio-shikashika-TrainImg-EF210-100-SA1}"/>
+			<composition>é›»</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-shikashika-RailroadTrain-DD51-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>DD 51</type>
-		<name>’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©‚µ‚©‚µ‚©</author>
-		<description>‰t‘ÌŽ®ƒfƒB[ƒ[ƒ‹‹@ŠÖŽÔDD51(JR‰Ý•¨XV‹@)‚Å‚·B
+		<name>å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ã—ã‹ã—ã‹</author>
+		<description>æ¶²ä½“å¼ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«æ©Ÿé–¢è»ŠDD51(JRè²¨ç‰©æ›´æ–°æ©Ÿ)ã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -1372,11 +1372,11 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 	</contribution>
 
 	<contribution type="train" id="{riorio-AYASE-Hiroa-RailroadTrain-EF64-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>EF 64</type>
-		<name>’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©ˆ»£ƒqƒ</author>
-		<description>’†‰›ü‚È‚Ç‚ÌŒù”zü‹æ‚Þ‚¯‚É»‘¢‚³‚ê‚½’¼—¬Œ`“d‹C‹@ŠÖŽÔ‚Å‚·B
+		<name>å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>ä¸­å¤®ç·šãªã©ã®å‹¾é…ç·šåŒºã‚€ã‘ã«è£½é€ ã•ã‚ŒãŸç›´æµå½¢é›»æ°—æ©Ÿé–¢è»Šã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>40000000</price>
@@ -1384,17 +1384,17 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0003}"/>
-			<composition>“d</composition>
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF64-0003}"/>
+			<composition>é›»</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{riorio-AYASE-Hiroa-RailroadTrain-EF65-500-Freight-only1-JRF}">
-		<company>JR‰Ý•¨</company>
-		<type>EF 65 “Á‹}F</type>
-		<name>’P‹@</name>
-		<author>‚è‚¨‚è‚¨@©ˆ»£ƒqƒ</author>
-		<description>“ŒŠC“¹ü‚È‚Ç‚Ì•½’Rü‹æ‚Þ‚¯‚É»‘¢‚³‚ê‚½’¼—¬Œ`“d‹C‹@ŠÖŽÔ‚Å‚·B
+		<company>JRè²¨ç‰©</company>
+		<type>EF 65 ç‰¹æ€¥è‰²</type>
+		<name>å˜æ©Ÿ</name>
+		<author>ã‚ŠãŠã‚ŠãŠã€€â†ç¶¾ç€¬ãƒ’ãƒ­</author>
+		<description>æ±æµ·é“ç·šãªã©ã®å¹³å¦ç·šåŒºã‚€ã‘ã«è£½é€ ã•ã‚ŒãŸç›´æµå½¢é›»æ°—æ©Ÿé–¢è»Šã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>40000000</price>
@@ -1402,8 +1402,8 @@ ref="{FreeTrain-Shika-FreightCar-TrainCar-yo6000}"/>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-503}"/>
-			<composition>“d</composition>
+			<car char="é›»" ref="{FreeTrain-riorio-AYASE-Hiro-TrainImg-EF65-503}"/>
+			<composition>é›»</composition>
 		</config>
 	</contribution>
 

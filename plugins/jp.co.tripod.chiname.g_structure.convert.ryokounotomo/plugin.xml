@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>—·s‚Ì—F‚³‚ñ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>æ—…è¡Œã®å‹ã•ã‚“</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.ryokounotomo"/>
 	
 	<contribution type="GenericStructure" id="{8361A9CC-DC1D-4432-8E21-7FB3564FA5CF}-gs">
-		<name>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(2x2)</name>
-		<design>‘gž</design>
+		<name>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(2x2)</name>
+		<design>çµ„è¾¼</design>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>300000000</price><!-- 750*4 -->
 		<size>2,2</size>
@@ -24,9 +24,9 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{9DEDC549-A1A8-4a14-A7A5-D18F388BE975}-gs">
-		<name>Œö‰€</name>
+		<name>å…¬åœ’</name>
 		<structure>
-			<category byname="—Î’n"/>
+			<category byname="ç·‘åœ°"/>
 		</structure>
 		<price>10000000</price>
 		<size>2,2</size>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY ycbus '
 	<colorVariation/>
 '>
 ]>
 <plug-in>
-	<title>Œö‰cƒoƒXƒZƒbƒg</title>
+	<title>å…¬å–¶ãƒã‚¹ã‚»ãƒƒãƒˆ</title>
 	<author>Hermes</author>
 	<homepage>nothing</homepage>	
 	<depend on="jp.co.tripod.chiname.lib" />
@@ -26,7 +26,7 @@
 		<picture src="scbus.bmp"/>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y002}">
-		<name>‰¡•lŽs‰cƒoƒX(‘O)</name>
+		<name>æ¨ªæµœå¸‚å–¶ãƒã‚¹(å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y001}"/>
 			<variations>
@@ -35,7 +35,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y003}">
-		<name>‰¡•lŽs‰cƒoƒX(Œã)</name>
+		<name>æ¨ªæµœå¸‚å–¶ãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y001}"/>
 			<variations>
@@ -44,7 +44,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4Y004}">
-		<name>‰¡•lŽs‰cƒoƒX(‘O)*</name>
+		<name>æ¨ªæµœå¸‚å–¶ãƒã‚¹(å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y001}"/>
 			<variations>
@@ -53,7 +53,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4Y005}">
-		<name>‰¡•lŽs‰cƒoƒX(Œã)*</name>
+		<name>æ¨ªæµœå¸‚å–¶ãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1Y001}"/>
 			<variations>
@@ -62,7 +62,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T002}">
-		<name>“Œ‹ž“s‰cƒoƒX(‘O)</name>
+		<name>æ±äº¬éƒ½å–¶ãƒã‚¹(å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T001}"/>
 			<variations>
@@ -71,7 +71,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T003}">
-		<name>“Œ‹ž“s‰cƒoƒX(Œã)</name>
+		<name>æ±äº¬éƒ½å–¶ãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T001}"/>
 			<variations>
@@ -80,7 +80,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4T004}">
-		<name>“Œ‹ž“s‰cƒoƒX(‘O)*</name>
+		<name>æ±äº¬éƒ½å–¶ãƒã‚¹(å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T001}"/>
 			<variations>
@@ -89,7 +89,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4T005}">
-		<name>“Œ‹ž“s‰cƒoƒX(Œã)*</name>
+		<name>æ±äº¬éƒ½å–¶ãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1T001}"/>
 			<variations>
@@ -98,7 +98,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N002}">
-		<name>–¼ŒÃ‰®Žs‰cƒoƒX(‘O)</name>
+		<name>åå¤å±‹å¸‚å–¶ãƒã‚¹(å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N001}"/>
 			<variations>
@@ -107,7 +107,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N003}">
-		<name>–¼ŒÃ‰®Žs‰cƒoƒX(Œã)</name>
+		<name>åå¤å±‹å¸‚å–¶ãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N001}"/>
 			<variations>
@@ -116,7 +116,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4N004}">
-		<name>–¼ŒÃ‰®Žs‰cƒoƒX(‘O)*</name>
+		<name>åå¤å±‹å¸‚å–¶ãƒã‚¹(å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N001}"/>
 			<variations>
@@ -125,7 +125,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4N005}">
-		<name>–¼ŒÃ‰®Žs‰cƒoƒX(Œã)*</name>
+		<name>åå¤å±‹å¸‚å–¶ãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1N001}"/>
 			<variations>
@@ -134,7 +134,7 @@
 		</sprite>
         </contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K002}">
-		<name>‹ž“sŽs‰cƒoƒX(‘O)</name>
+		<name>äº¬éƒ½å¸‚å–¶ãƒã‚¹(å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K001}"/>
 			<variations>
@@ -143,7 +143,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K003}">
-		<name>‹ž“sŽs‰cƒoƒX(Œã)</name>
+		<name>äº¬éƒ½å¸‚å–¶ãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K001}"/>
 			<variations>
@@ -152,7 +152,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4K004}">
-		<name>‹ž“sŽs‰cƒoƒX(‘O)*</name>
+		<name>äº¬éƒ½å¸‚å–¶ãƒã‚¹(å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K001}"/>
 			<variations>
@@ -161,7 +161,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4K005}">
-		<name>‹ž“sŽs‰cƒoƒX(Œã)*</name>
+		<name>äº¬éƒ½å¸‚å–¶ãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1K001}"/>
 			<variations>
@@ -170,7 +170,7 @@
 		</sprite>
         </contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S002}">
-		<name>å‘äŽs‰cƒoƒX(‘O)</name>
+		<name>ä»™å°å¸‚å–¶ãƒã‚¹(å‰)</name>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S001}"/>
 			<variations>
@@ -179,7 +179,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S003}">
-		<name>å‘äŽs‰cƒoƒX(Œã)</name>
+		<name>ä»™å°å¸‚å–¶ãƒã‚¹(å¾Œ)</name>
 		<sprite origin="64,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S001}"/>
 			<variations>
@@ -188,7 +188,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4S004}">
-		<name>å‘äŽs‰cƒoƒX(‘O)*</name>
+		<name>ä»™å°å¸‚å–¶ãƒã‚¹(å‰)*</name>
 		<sprite origin="128,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S001}"/>
 			<variations>
@@ -197,7 +197,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD4S005}">
-		<name>å‘äŽs‰cƒoƒX(Œã)*</name>
+		<name>ä»™å°å¸‚å–¶ãƒã‚¹(å¾Œ)*</name>
 		<sprite origin="192,0" offset="8">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1S001}"/>
 			<variations>

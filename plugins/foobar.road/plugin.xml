@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 <author>foobar</author>
 <homepage>http://foobar.ifdef.jp/</homepage>
 <title></title>
 
-<!-- “¹˜Hƒpƒ^[ƒ“ -->
+<!-- é“è·¯ãƒ‘ã‚¿ãƒ¼ãƒ³ -->
 	<contribution type="picture" id="{89828F87-76A3-4643-9DE8-B97B9A64A00F-001}"><picture src="road1x1-1.png"/></contribution>
 	<contribution type="picture" id="{89828F87-76A3-4643-9DE8-B97B9A64A00F-002}"><picture src="road1x1-2.png"/></contribution>
 	<contribution type="picture" id="{89828F87-76A3-4643-9DE8-B97B9A64A00F-003}"><picture src="road1x1-3.png"/></contribution>
@@ -12,15 +12,15 @@
 	<contribution type="picture" id="{89828F87-76A3-4643-9DE8-B97B9A64A00F-005}"><picture src="road1x1-5.png"/></contribution>
 
 	<contribution type="GenericStructure" id="{A2A82101-EFEE-4467-8461-4BFAAA6C0A30-001}">
-		<name>“¹˜HŒð·“_ƒpƒ^[ƒ“</name>
+		<name>é“è·¯äº¤å·®ç‚¹ãƒ‘ã‚¿ãƒ¼ãƒ³</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<computerCannotBuild/>
-		<design>[…•½‚’¼]žòü“ñŽÔü{ŽÎ“¹˜H</design>
+		<design>[æ°´å¹³åž‚ç›´]æ©™ç·šäºŒè»Šç·šï¼‹æ–œé“è·¯</design>
 		<sprite origin="0,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-001}"/></sprite>
 		<sprite origin="32,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-001}"/></sprite>
 		<sprite origin="64,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-001}"/></sprite>
@@ -48,15 +48,15 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A2A82101-EFEE-4467-8461-4BFAAA6C0A30-002}">
-		<name>“¹˜HŒð·“_ƒpƒ^[ƒ“</name>
+		<name>é“è·¯äº¤å·®ç‚¹ãƒ‘ã‚¿ãƒ¼ãƒ³</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<computerCannotBuild/>
-		<design>[…•½‚’¼]”’”jü“ñŽÔü{ŽÎ“¹˜H</design>
+		<design>[æ°´å¹³åž‚ç›´]ç™½ç ´ç·šäºŒè»Šç·šï¼‹æ–œé“è·¯</design>
 		<sprite origin="0,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-002}"/></sprite>
 		<sprite origin="32,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-002}"/></sprite>
 		<sprite origin="64,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-002}"/></sprite>
@@ -84,15 +84,15 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A2A82101-EFEE-4467-8461-4BFAAA6C0A30-003}">
-		<name>“¹˜HŒð·“_ƒpƒ^[ƒ“</name>
+		<name>é“è·¯äº¤å·®ç‚¹ãƒ‘ã‚¿ãƒ¼ãƒ³</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<computerCannotBuild/>
-		<design>…•½‚’¼“¹˜H“¯Žm‚Ì\ŽšŒð·“_(1)</design>
+		<design>æ°´å¹³åž‚ç›´é“è·¯åŒå£«ã®åå­—äº¤å·®ç‚¹(1)</design>
 		<sprite origin="0,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-003}"/></sprite>
 		<sprite origin="32,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-003}"/></sprite>
 		<sprite origin="64,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-003}"/></sprite>
@@ -112,15 +112,15 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A2A82101-EFEE-4467-8461-4BFAAA6C0A30-004}">
-		<name>“¹˜HŒð·“_ƒpƒ^[ƒ“</name>
+		<name>é“è·¯äº¤å·®ç‚¹ãƒ‘ã‚¿ãƒ¼ãƒ³</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<computerCannotBuild/>
-		<design>…•½‚’¼“¹˜H“¯Žm‚Ì\ŽšŒð·“_(2)</design>
+		<design>æ°´å¹³åž‚ç›´é“è·¯åŒå£«ã®åå­—äº¤å·®ç‚¹(2)</design>
 		<sprite origin="0,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-004}"/></sprite>
 		<sprite origin="32,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-004}"/></sprite>
 		<sprite origin="64,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-004}"/></sprite>
@@ -136,27 +136,27 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A2A82101-EFEE-4467-8461-4BFAAA6C0A30-005}">
-		<name>“¹˜HŒð·“_ƒpƒ^[ƒ“</name>
+		<name>é“è·¯äº¤å·®ç‚¹ãƒ‘ã‚¿ãƒ¼ãƒ³</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<computerCannotBuild/>
-		<design>…•½‚’¼“¹˜H“¯Žm‚Ì\ŽšŒð·“_(3)</design>
+		<design>æ°´å¹³åž‚ç›´é“è·¯åŒå£«ã®åå­—äº¤å·®ç‚¹(3)</design>
 		<sprite origin="0,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-005}"/></sprite>
 		<sprite origin="32,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-005}"/></sprite>
 		<sprite origin="64,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-005}"/></sprite>
 		<sprite origin="96,0" offset="16"><picture ref="{89828F87-76A3-4643-9DE8-B97B9A64A00F-005}"/></sprite>
 	</contribution>
 
-<!-- “¹˜H -->
+<!-- é“è·¯ -->
 	<contribution type="road" id="{9D373E16-8647-49e5-A560-6305AD7481B0}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>“cˆê”Ê“¹/“ñŽÔü/žòŽÀü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>ç”°ä¸€èˆ¬é“/äºŒè»Šç·š/æ©™å®Ÿç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_greenbase.png" size="32,32" offset="16" >
 			<override when="autumn" src="road_2lane_greenbase.autumn.png"/>
 			<override when="winter" src="road_2lane_greenbase.winter.png"/>
@@ -166,48 +166,48 @@
 	<contribution type="road" id="{7405549B-7BE2-4b69-B725-5BF6230A5C64}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>“sˆê”Ê“¹/“ñŽÔü/žòŽÀü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>éƒ½ä¸€èˆ¬é“/äºŒè»Šç·š/æ©™å®Ÿç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_graybase.png" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{B46015A3-490D-48b1-8070-C02B49CCBB5B}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>“s–³ˆê”Ê“¹/“ñŽÔü/žòŽÀü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>éƒ½ç„¡ä¸€èˆ¬é“/äºŒè»Šç·š/æ©™å®Ÿç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_nobase.png" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{3D628D01-939C-4127-891D-9FF144E604D4}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="1"/>
-		<name>ŠXˆê”Ê“¹/ˆêŽÔü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>è¡—ä¸€èˆ¬é“/ä¸€è»Šç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_1lane_asphalt.png" size="32,16" offset="0" />
 	</contribution>
 
 	<contribution type="road" id="{33F46588-41D0-40b9-B02B-9FF5C7111492}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>ŠXˆê”Ê“¹/“ñŽÔü/”’”jü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>è¡—ä¸€èˆ¬é“/äºŒè»Šç·š/ç™½ç ´ç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_white_asphalt.png" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{B1A057ED-155E-4911-964E-5E9F1527A48A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>ŠXˆê”Ê“¹/“ñŽÔü/žòŽÀü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>è¡—ä¸€èˆ¬é“/äºŒè»Šç·š/æ©™å®Ÿç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_orange_asphalt.png" size="32,32" offset="16" />
 	</contribution>
 
 	<contribution type="road" id="{CA3F96DE-A6A3-47dd-9F70-4AC38983C8F9}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="1"/>
-		<name>ŽRˆê”Ê“¹/ˆêŽÔü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>å±±ä¸€èˆ¬é“/ä¸€è»Šç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_1lane_mv.spr.png" size="32,16" offset="0" >
 			<override when="summer" src="road_1lane_mv.sum.png"/>
 			<override when="autumn" src="road_1lane_mv.aut.png"/>
@@ -218,8 +218,8 @@
 	<contribution type="road" id="{5DB000BD-01E1-4ed5-B840-C7F456023AB1}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>ŽRˆê”Ê“¹/”’ü“ñŽÔü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>å±±ä¸€èˆ¬é“/ç™½ç·šäºŒè»Šç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_white_mv.spr.png" size="32,16" offset="0" >
 			<override when="summer" src="road_2lane_white_mv.sum.png"/>
 			<override when="autumn" src="road_2lane_white_mv.aut.png"/>
@@ -230,8 +230,8 @@
 	<contribution type="road" id="{9C180355-9601-4420-8B16-BC50D1FAEF0A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<name>ŽRˆê”Ê“¹/žòF“ñŽÔü</name>
-		<description>ˆê”Ê“¹</description>
+		<name>å±±ä¸€èˆ¬é“/æ©™è‰²äºŒè»Šç·š</name>
+		<description>ä¸€èˆ¬é“</description>
 		<picture src="road_2lane_orange_mv.spr.png" size="32,16" offset="0" >
 			<override when="summer" src="road_2lane_orange_mv.sum.png"/>
 			<override when="autumn" src="road_2lane_orange_mv.aut.png"/>
@@ -239,20 +239,20 @@
 		</picture>
 	</contribution>
 
-<!-- ƒoƒ‰ƒXƒg -->
+<!-- ãƒãƒ©ã‚¹ãƒˆ -->
 	<contribution type="road" id="{13024108-B745-40de-8E13-A8363D65EDF1}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/’ƒ/ŠX</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/èŒ¶/è¡—</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/b01.png" size="32,16" offset="0" />
 	</contribution>
 
 	<contribution type="road" id="{13024108-B745-40de-8E13-A8363D65EDF3}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/’ƒ/“c</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/èŒ¶/ç”°</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/b02.png" size="32,16" offset="0">
 			<override when="autumn" src="ballast/b02.aut.png" />
 			<override when="winter" src="ballast/b02.win.png" />
@@ -262,24 +262,24 @@
 	<contribution type="road" id="{13024108-B745-40de-8E13-A8363D65EDF4}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/ŠD/ŠX</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç°/è¡—</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/g01.png" size="32,16" offset="0" />
 	</contribution>
 
 	<contribution type="road" id="{13024108-B745-40de-8E13-A8363D65EDF5}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/ŠD/’ƒ</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç°/èŒ¶</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/g04.png" size="32,16" offset="0" />
 	</contribution>
 
 	<contribution type="road" id="{13024108-B745-40de-8E13-A8363D65EDF7}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/ŠD/“c</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç°/ç”°</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/g02.png" size="32,16" offset="0">
 			<override when="autumn" src="ballast/g02.aut.png" />
 			<override when="winter" src="ballast/g02.win.png" />
@@ -289,8 +289,8 @@
 	<contribution type="road" id="{874ED10E-9727-41ee-B6A4-7A7566776F30}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/’ƒ/ŽR</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/èŒ¶/å±±</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/b03.spr.png" size="32,16" offset="0">
 			<override when="summer" src="ballast/b03.sum.png" />
 			<override when="autumn" src="ballast/b03.aut.png" />
@@ -301,8 +301,8 @@
 	<contribution type="road" id="{B5C2040A-6DE0-46f9-A48D-EB7A952D506F}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg/ŠD/ŽR</name>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç°/å±±</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast/g03.spr.png" size="32,16" offset="0">
 			<override when="summer" src="ballast/g03.sum.png" />
 			<override when="autumn" src="ballast/g03.aut.png" />

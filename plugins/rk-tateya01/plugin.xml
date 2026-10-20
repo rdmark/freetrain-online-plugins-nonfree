@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-	<title>�����Z�b�g</title>
-	<author>���</author>
+	<title>建物セット</title>
+	<author>烈火</author>
 	<homepage></homepage>
 
 	<contribution type="picture" id="{rk-tateya-tutaya001-cg-001}">
@@ -19,8 +19,8 @@
 
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya001-001}">
-		<group>����㒬�X</group>
-		<name>����㒬�X</name>
+		<group>つたや上町店</group>
+		<name>つたや上町店</name>
 		<price>1000000</price>
 		<size>1,3</size>
 		<height>1</height>
@@ -29,7 +29,7 @@
 			<base>120</base>
 		</population>
 		<structure>
-			<category  byname="�`�F�[�����X"/>
+			<category  byname="チェーン専門店"/>
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{rk-tateya-tutaya001-cg-001}"/>
@@ -40,8 +40,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya001-002}">
-		<group>����㒬�X</group>
-		<name>����㒬�X</name>
+		<group>つたや上町店</group>
+		<name>つたや上町店</name>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -50,7 +50,7 @@
 			<base>10</base>
 		</population>
 		<structure>
-			<category  byname="�`�F�[�����X"/>
+			<category  byname="チェーン専門店"/>
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{rk-tateya-tutaya001-cg-002}"/>

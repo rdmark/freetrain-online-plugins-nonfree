@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title>TAKUROU</title>
  	<homepage>kei@viola.club.ne.jp</homepage>
 
-             <!-- �C���[�W�摜��` -->
+             <!-- イメージ画像定義 -->
  
         <!-- Tc183 HET -->
 	<contribution type="picture" id="{AD070310-7653-11D7-A4B7-Tc183H}">
@@ -95,7 +95,7 @@
 		<picture src="223_2000a.bmp" />
 	</contribution>
 
-        <!-- DC111�112-AKITA -->
+        <!-- DC111･112-AKITA -->
 	<contribution type="picture" id="{AD070310-7653-11D7-A4B7-DC110_300A}">
 		<picture src="kiha110_akita.bmp" />
 	</contribution>
@@ -105,7 +105,7 @@
 		<picture src="kiha110.bmp" />
 	</contribution>
 
-        <!-- DC111�112 -->
+        <!-- DC111･112 -->
 	<contribution type="picture" id="{AD070310-7653-11D7-A4B7-DC110_200E}">
 		<picture src="kiha111.bmp" />
 	</contribution>
@@ -125,9 +125,9 @@
 		<picture src="373c.bmp" />
 	</contribution>
 
-        <!-- �ԗ���` -->
+        <!-- 車両定義 -->
 
-        <!-- �L�n183 HET -->
+        <!-- キハ183 HET -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc183-H}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -137,7 +137,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-        <!-- �L�n182 HET -->
+        <!-- キハ182 HET -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-M182-H}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -147,7 +147,7 @@
 		<seatedcapacity>68</seatedcapacity>
 	</contribution>
 
-        <!-- �T��182 HET -->
+        <!-- サロ182 HET -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Ts182-H}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -157,13 +157,13 @@
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
 	
-�@�@�@�@<!-- �L�n183_1000 HET -->
+　　　　<!-- キハ183_1000 HET -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc183_1000-H}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Tc183-H}"/>
 	</contribution>
              
-        <!-- �L�n185 JRQ -->
+        <!-- キハ185 JRQ -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc185-Q}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -173,7 +173,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-        <!-- �L�n186 JRQ -->
+        <!-- キハ186 JRQ -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-M186-Q}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -183,13 +183,13 @@
 		<seatedcapacity>70</seatedcapacity>
 	</contribution>
     
-        <!-- �L�n185_1000 JRQ -->
+        <!-- キハ185_1000 JRQ -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc185_1000-Q}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Mc185-Q}"/>
 	</contribution>
 
-        <!-- �L�n1000�n -->
+        <!-- キハ1000系 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Dc1000-S}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -199,7 +199,7 @@
 		<seatedcapacity>70</seatedcapacity>
 	</contribution>
 
-        <!-- �N���n221 -->
+        <!-- クモハ221 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc221-W}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -209,7 +209,7 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-        <!-- �T�n221 -->
+        <!-- サハ221 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-T221-W}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -219,7 +219,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 
-        <!-- ���n220 -->
+        <!-- モハ220 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-M220-W}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -229,7 +229,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n221R -->
+        <!-- クハ221R -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc221R-W}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -239,13 +239,13 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n221 -->
+        <!-- クハ221 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc221-W}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Tc221R-W}"/>
 	</contribution>
 
-        <!-- �N���n313 -->
+        <!-- クモハ313 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc313-C}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -255,7 +255,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-        <!-- �T�n313 -->
+        <!-- サハ313 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-T313-C}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -265,7 +265,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-        <!-- ���n313 -->
+        <!-- モハ313 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-M313-C}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -275,7 +275,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n312R -->
+        <!-- クハ312R -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc312R-C}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -285,13 +285,13 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n312 -->
+        <!-- クハ312 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc312-C}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Tc312R-C}"/>
 	</contribution>
 
-        <!-- �N���n223 -->
+        <!-- クモハ223 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc223_2000-W}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -301,7 +301,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 
-        <!-- �T�n223 -->
+        <!-- サハ223 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-T223_2000-W}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -311,7 +311,7 @@
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
 
-        <!-- ���n223 -->
+        <!-- モハ223 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-M223_2000-W}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -321,7 +321,7 @@
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n222R -->
+        <!-- クハ222R -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc222R_2000-W}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -331,13 +331,13 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n222 -->
+        <!-- クハ222 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc222_2000-W}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Tc222R_2000-W}"/>
 	</contribution>
 
-        <!-- �L�n110 301 -->
+        <!-- キハ110 301 -->
         <contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-DC110_301-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -347,13 +347,13 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-        <!-- �L�n110 302 -->
+        <!-- キハ110 302 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-DC110_302-A}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-DC110_301-A}"/>
 	</contribution>
 
-        <!-- �L�n110 -->
+        <!-- キハ110 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-DC110-E}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -363,7 +363,7 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-        <!-- �L�n110 201 -->
+        <!-- キハ110 201 -->
         <contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-DC110_201-E}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -373,13 +373,13 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-        <!-- �L�n110 202 -->
+        <!-- キハ110 202 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-DC110_202-E}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-DC110_201-E}"/>
 	</contribution>
 
-        <!-- �N���n373 -->
+        <!-- クモハ373 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Mc373-C}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -389,7 +389,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-        <!-- �T�n373 -->
+        <!-- サハ373 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-T373-C}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -399,7 +399,7 @@
 		<seatedcapacity>68</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n373 -->
+        <!-- クハ373 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc373-C}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -409,22 +409,22 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-        <!-- �N�n372 -->
+        <!-- クハ372 -->
 	<contribution type="trainCar" id="{AD070310-7653-11D7-A4B7-Tc372-C}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{AD070310-7653-11D7-A4B7-Tc373-C}"/>
 	</contribution>
              
-        <!-- �Ґ��̒�` -->
+        <!-- 編成の定義 -->
 
         <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCH183-H}">
-		<company>JR�k�C��</company>
-		<type>�L�n183�n</type>
-		<name>HET183 �k�l</name>
+		<company>JR北海道</company>
+		<type>キハ183系</type>
+		<name>HET183 北斗</name>
 		<author>TAKUROU</author>
-		<description>�u�X�[�p�[�k�l�v�̓o��ɕ����āA�]������́u�k�l�v���啝�ȃ��j���[�A�����{����܂����B
-���q���̂��̂�130km/h�̍����^�]���\�Ȃ悤�ɋ@��ނ̉������s���A�����C���e���A���u�X�[�p�[�k�l�v�ɏ��������̂ɂȂ��Ă��܂��B
-�O���[���Ԃ͂Q+�P�z��n�C�f�b�J�[�ԗ��𕹌��B
+		<description>「スーパー北斗」の登場に併せて、従来からの「北斗」も大幅なリニューアルが施されました。
+車輌そのものは130km/hの高速運転が可能なように機器類の改造が行われ、室内インテリアも「スーパー北斗」に準じたものになっています。
+グリーン車は２+１配列ハイデッカー車両を併結。
 		</description>
 		<fare>800</fare>
 		<price>56000000</price>
@@ -445,13 +445,13 @@
 
 
              <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCQ185-Q}">
-		<company>JR��B</company>
-		<type>�L�n185�n</type>
-		<name>���}�u������u��Ӂv</name>
+		<company>JR九州</company>
+		<type>キハ185系</type>
+		<name>特急「あそ｣「ゆふ」</name>
 		<author>TAKUROU</author>
-		<description>���S�����Ɏl�����������̐V���\�C���ԂƂ��ē������ꂽ���A�i�q�l�������Ȍ�Ɍ�p�̓��}�Ԃ�
-�a���������ŗ]��ƂȂ�A����Ŏ��Г��ł̋}�s�i�グ�ɂ����}�ݒ�ׁ̈A�C���Ԃ�K�v�Ƃ����i�q��B���l������w�����ăR�[�|�g���[�g�J���[��
-�h��ւ��ē��������B���������E��ӂƂ��ɓƎ��̓h�������Ă������A�ԗ��̋��ʉ��ɂ�苤�p�̓h���ɕς����B
+		<description>国鉄末期に四国島内向けの新性能気動車として投入されたが、ＪＲ四国発足以後に後継の特急車が
+誕生した事で余剰となり、一方で自社内での急行格上げによる特急設定の為、気動車を必要としたＪＲ九州が四国から購入してコーポトレートカラーに
+塗り替えて投入した。当初あそ・ゆふともに独自の塗装をしていたが、車両の共通化により共用の塗装に変った。
 		</description>
 		<fare>750</fare>
 		<price>52500000</price>
@@ -473,13 +473,13 @@
 
 
              <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCS1000-S}">
-		<company>JR�l��</company>
-		<type>1000�`</type>
-		<name>��ʌ`�C����</name>
+		<company>JR四国</company>
+		<type>1000形</type>
+		<name>一般形気動車</name>
 		<author>TAKUROU</author>
-		<description>�ԓ���7000�`�d�ԂƓ��l�́A�ԗ��̕Б��������O�V�[�g�A���Α����N���X�V�[�g�ƂȂ��Ă���u�璹�z�u�v�B
-�ԗ��̒������ɗ��J���̔������邪�A�����}���^�]�̎��ɂ͒��ߐ؂�A�O��̕ЊJ��������̏��~��ƂȂ�B
-�y���^�C�v�̂R����^�Ԃ�400PS�G���W���𓋍ځB�����E���m���ʂŊ���B
+		<description>車内は7000形電車と同様の、車両の片側がロングシート、反対側がクロスシートとなっている「千鳥配置」。
+車両の中央部に両開きの扉があるが、ワンマン運転の時には締め切り、前後の片開き扉からの乗り降りとなる。
+軽快タイプの３扉大型車で400PSエンジンを搭載。徳島・高知方面で活躍。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -493,14 +493,14 @@
 	</contribution>
 
         <contribution type="train" id="{AD070310-7653-11D7-A4B7-ECW221}">
-		<company>JR�����{</company>
-		<type>221�n</type>
-		<name>�ėp�`�ߍx�d��</name>
+		<company>JR西日本</company>
+		<type>221系</type>
+		<name>汎用形近郊電車</name>
 		<author>TAKUROU</author>
-		<description>�V�����p117�n�̒u�����A�y�јV��������113�n�̒u�����p�Ƃ��Đ������ꂽ�B
-���������211�n�ɏ������Y���㎥����ŁA2���A4���A6���A8���̂ǂ̕Ґ��ł�MT���1:1�Ƃ��邽�߃��j�b�g�����Ԃ�1M�Ԃ�����B
-�ԑ͍̂|���łR���]���N���X�V�[�g�ł���B
-���������͓��C���E�R�z���V�����A�֐����ɓ������ꂽ���A�V������130km/h���ɔ����V��������͓P�ނ��A���C���E�R�z�����A�֐����A�ޗǐ��A���m�R���ȂǋߋE���ōL���g���Ă���B
+		<description>新快速用117系の置換え、及び老朽化した113系の置換え用として製造された。
+制御方式は211系に準じた添加励磁制御で、2両、4両、6両、8両のどの編成でもMT比を1:1とするためユニット方式車と1M車がある。
+車体は鋼製で３扉転換クロスシートである。
+投入当初は東海道・山陽線新快速、関西線に投入されたが、新快速の130km/h化に伴い新快速からは撤退し、東海道・山陽快速、関西線、奈良線、福知山線など近畿圏で広く使われている。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -524,16 +524,16 @@
              </contribution>
 
              <contribution type="train" id="{AD070310-7653-11D7-A4B7-ECC313}">
-		<company>JR���C</company>
-		<type>313�n</type>
-		<name>�ėp�`�ߍx�d��</name>
+		<company>JR東海</company>
+		<type>313系</type>
+		<name>汎用形近郊電車</name>
 		<author>TAKUROU</author>
-		<description>1999�N���獇�v187�����������ꂽ�i�q���C�̎������ʌ^�ԗ��ł��B
-�ʋΌ`���烍�[�J���`�܂ŊO�ςȂǋ��ʉ���}���Ă��܂��B
-VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��H�������j�A�N�������x2.6km/h/s�Ƃ��������\���ւ�܂��B
-�Ԉ֎q�Ή����Ȃ�Ԉ֎q�Ή��g�C���Ȃǂ̃o���A�t���[�݌v�͋��ʂ��Ă��܂��B
-�܂�����ŌÃ^�C�����T�C�N�����ނ�|���E���^�����ȂȂǒ�R�X�g����ᑛ�������}���Ă��܂��B
-�h�A�J�`���C����d���\��������܂��B2���Ґ��A3���Ґ��A4���Ґ��ƃo���G�e�B�[�ɕx�񂾕Ґ��ɂȂ��Ă���B
+		<description>1999年から合計187両が製造されたＪＲ東海の次世代一般型車両です。
+通勤形からローカル形まで外観など共通化を図っています。
+VVVFインバータ制御による185kW大出力モーターで最高運転速度は120km/h（130km/h対応工事準備）、起動加速度2.6km/h/sという高性能を誇ります。
+車椅子対応座席や車椅子対応トイレなどのバリアフリー設計は共通しています。
+また一方で古タイヤリサイクル床材やポリウレタン座席など低コスト化や低騒音化も図っています。
+ドア開閉チャイムや電光表示もあります。2両編成、3両編成、4両編成とバラエティーに富んだ編成になっている。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -558,14 +558,14 @@ VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��
              </contribution>
 
                           <contribution type="train" id="{AD070310-7653-11D7-A4B7-ECW223_2000}">
-		<company>JR�����{</company>
-		<type>223�n</type>
-		<name>2000�ԑ�ߍx�d��</name>
+		<company>JR西日本</company>
+		<type>223系</type>
+		<name>2000番台近郊電車</name>
 		<author>TAKUROU</author>
-		<description>��_��k�Ќ�̂i�q�̑��������ő��S������̗��q�̗����ɂ���q���ɔ����ĐV�����Ȃǂ���������鎖�ƂȂ�A223�n1000�ԑ䂪�V�����ꂽ�B
-�����đ������ꂽ2000�3000�ԑ�ł́A����ɃR�X�g��}���A�K�v�ŏ����̋@��\���ƂȂ��Ă���B 
-�܂��C���Ȃ̊ȑf������ѓ������J�[�e���̔p�~�Ȃǂ����{����Ă���B
-�V�����̍������ɂ��130km/���Ή��\�̐��\�ɂȂ����B
+		<description>阪神大震災後のＪＲの早期復興で他鉄道からの旅客の流入による乗客増に備えて新快速などが増発される事となり、223系1000番台が新製された。
+続いて増備された2000･3000番台では、さらにコストを抑え、必要最小限の機器構成となっている。 
+また，座席の簡素化および日除けカーテンの廃止なども実施されている。
+新快速の高速化により130km/ｈ対応可能の性能になった。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -587,12 +587,12 @@ VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��
              </contribution>
 
              <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCE110_300A}">
-		<company>JR�����{</company>
-		<type>�L�n111�112�n</type>
-		<name>300�ԑ�H�c�ڰ��</name>
+		<company>JR東日本</company>
+		<type>キハ111･112系</type>
+		<name>300番台秋田ﾘﾚｰ号</name>
 		<author>TAKUROU</author>
-		<description>���}�H�c�����[���͐V�s�L�n110�^�C���Ԃ��g�p������ԂŁA���}�����퍆�̃s���`�q�b�^�[�Ƃ��Ėk����o�R�ŏH�c�w���瓌�k�V�����̖k��w�܂ł�����ł����B
-��ڂ��I���������[���̋C���Ԃł��邪�p�Ԃ����悤�Ȃ��Ƃ͂Ȃ��A�ԑ͔̂юR���ɁA�����̓]���N���X�V�[�g�͓��C�����̂Q�K���ăO���[���ԂȂǂւ̓]�p���ꂽ�B
+		<description>特急秋田リレー号は新鋭キハ110型気動車を使用した列車で、特急たざわ号のピンチヒッターとして北上線経由で秋田駅から東北新幹線の北上駅までを結んでいた。
+役目を終えたリレー号の気動車であるが廃車されるようなことはなく、車体は飯山線に、内装の転換クロスシートは東海道線の２階建てグリーン車などへの転用された。
 		</description>
 		<fare>700</fare>
 		<price>49000000</price>
@@ -612,14 +612,14 @@ VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��
 	</contribution>
 
         <contribution type="train" id="{AD070310-7653-11D7-A4B7-ECC373-C}">
-		<company>JR���C</company>
-		<type>373�n</type>
-		<name>���C�h�r���[���}�d��</name>
+		<company>JR東海</company>
+		<type>373系</type>
+		<name>ワイドビュー特急電車</name>
 		<author>TAKUROU</author>
-		<description>�}�s���C�E�x�m��̓��}���ɍۂ��ĐV�����ꂽ�����p���}���q�B
-���ʗ�Ԃɓ]�p�ł���悤�Ƀh�A�͗��J���E��^�ƂȂ��Ă��āA�f�b�L�Ƌq������؂���͂Ȃ��B
-�܂��ԑ̂͌y�ʃX�e�����X���Ƃ��A���͎Ԃ��R�����P���Ƃ��Ă��邱�Ƃ������Ƃ��ċ�������B
-���݂͓��}�u���C�v�u�x�m��v�u�ɓߘH�v�̑��A�����[��_�Ԃ����Ԗ�s�����u���[�����C�g�Ȃ���v�A����ɂ͊ԍ����^�p�Łu�Z���g�������C�i�[�v�ɂ���������Ă���B
+		<description>急行東海・富士川の特急化に際して新造された直流用特急車輌。
+普通列車に転用できるようにドアは両開き・大型となっていて、デッキと客室を区切る扉はない。
+また車体は軽量ステンレス製とし、動力車を３両中１両としていることも特徴として挙げられる。
+現在は特急「東海」「富士川」「伊那路」の他、東京ー大垣間を結ぶ夜行快速「ムーンライトながら」、さらには間合い運用で「セントラルライナー」にも投入されている。
 		</description>
 		<fare>700</fare>
 		<price>49000000</price>
@@ -639,14 +639,14 @@ VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��
         </contribution>
 
         <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCE110-E}">
-		<company>JR�����{</company>
-		<type>�L�n110�n</type>
-		<name>�ėp�^�C����</name>
+		<company>JR東日本</company>
+		<type>キハ110系</type>
+		<name>汎用型気動車</name>
 		<author>TAKUROU</author>
-		<description>���[�J�����̃T�[�r�X���P��}�邽�߁A�i�q�����{���J�������C���ԁB
-�ԑ̂̒����A���^�]��܂��͕Љ^�]��Ȃǂő��ʂȎԗ�������A�H�������ɉ����Ďg���Ă���B
-1���܂��́A2���Ґ��ƂȂ��Ă��āA������g�ݍ��킹�āA3�`6���ŉ^�]�ł���l�ɂȂ��Ă���B
-�L�n100�A110�n�͓d�ԕ��݂̉������\�������Ă��邽�߁A���[�J�����̃X�s�[�h�A�b�v�ɑ傫����^�����ق��A���ΐ��ő��s���Ă���ԗ��̓��N���C�j���O�V�[�g�A�юR���̎ԗ��͓W�]���̍��Ȕz�u�ƂȂ��Ă���ȂǁA�l�X�ȃo���G�[�V����������B
+		<description>ローカル線のサービス改善を図るため、ＪＲ東日本が開発した気動車。
+車体の長さ、両運転台または片運転台などで多彩な車両があり、路線条件に応じて使われている。
+1両または、2両編成となっていて、これらを組み合わせて、3～6両で運転できる様になっている。
+キハ100、110系は電車並みの加速性能を持っているため、ローカル線のスピードアップに大きく寄与したほか、釜石線で走行している車両はリクライニングシート、飯山線の車両は展望式の座席配置となっているなど、様々なバリエーションがある。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -660,14 +660,14 @@ VVVF�C���o�[�^����ɂ��185kW��o�̓��[�^�[�ōō��^�]���x��120km/h�i130km/h�Ή��
 	</contribution>
 
         <contribution type="train" id="{AD070310-7653-11D7-A4B7-DCE110_200E}">
-		<company>JR�����{</company>
-		<type>�L�n111�112�n</type>
-		<name>�ėp�^�C����</name>
+		<company>JR東日本</company>
+		<type>キハ111･112系</type>
+		<name>汎用型気動車</name>
 		<author>TAKUROU</author>
-		<description>���[�J�����̃T�[�r�X���P��}�邽�߁A�i�q�����{���J�������C���ԁB
-�ԑ̂̒����A���^�]��܂��͕Љ^�]��Ȃǂő��ʂȎԗ�������A�H�������ɉ����Ďg���Ă���B
-1���܂��́A2���Ґ��ƂȂ��Ă��āA������g�ݍ��킹�āA3�`6���ŉ^�]�ł���l�ɂȂ��Ă���B
-�L�n100�A110�n�͓d�ԕ��݂̉������\�������Ă��邽�߁A���[�J�����̃X�s�[�h�A�b�v�ɑ傫����^�����ق��A���ΐ��ő��s���Ă���ԗ��̓��N���C�j���O�V�[�g�A�юR���̎ԗ��͓W�]���̍��Ȕz�u�ƂȂ��Ă���ȂǁA�l�X�ȃo���G�[�V����������B
+		<description>ローカル線のサービス改善を図るため、ＪＲ東日本が開発した気動車。
+車体の長さ、両運転台または片運転台などで多彩な車両があり、路線条件に応じて使われている。
+1両または、2両編成となっていて、これらを組み合わせて、3～6両で運転できる様になっている。
+キハ100、110系は電車並みの加速性能を持っているため、ローカル線のスピードアップに大きく寄与したほか、釜石線で走行している車両はリクライニングシート、飯山線の車両は展望式の座席配置となっているなど、様々なバリエーションがある。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>

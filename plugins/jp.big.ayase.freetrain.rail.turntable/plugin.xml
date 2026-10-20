@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>鉄道施設プラグイン</title>
-	<author>綾瀬ヒロ</author>
+	<title>驩�驕捺命險ｭ繝励Λ繧ｰ繧､繝ｳ</title>
+	<author>邯ｾ轢ｬ繝偵Ο</author>
 	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
 
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-RailStructureImg-TurnTable}">
@@ -9,7 +9,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-TurnTable-1}">
-		<group>転車台</group>
+		<group>霆｢霆雁床</group>
 		<price>5000000</price>
 		<size>3,3</size>
 		<height>1</height>

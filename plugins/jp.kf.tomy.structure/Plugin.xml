@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-<title>Œš•¨ƒvƒ‰ƒOƒCƒ“</title>
-<author>ƒgƒ~[</author>
+<title>å»ºç‰©ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+<author>ãƒˆãƒŸãƒ¼</author>
 <homepage>Nothing</homepage>
 
-<!-- ‘D”• -->
-<!-- ¬Œ^‹™‘D -->
+<!-- èˆ¹èˆ¶ -->
+<!-- å°åž‹æ¼èˆ¹ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-gyosen-20050511-s01}">
 	<picture src = "fishing vessel_s.bmp"/>
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-gyosen-20050511-s01}">
-	<group>‹™‘D</group>
-	<design>¬Œ^‹™‘D</design>
+	<group>æ¼èˆ¹</group>
+	<design>å°åž‹æ¼èˆ¹</design>
 	<structure>
-		<category byname="‘D”•ŠÖ˜AŽ{Ý"/>
+		<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­"/>
 	</structure>
 	<price>2500000</price>
 	<size>1,1</size>
@@ -32,15 +32,15 @@
 	</sprite>
 </contribution>
 
-<!-- ’†Œ^‹™‘D -->
+<!-- ä¸­åž‹æ¼èˆ¹ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-gyosen-20050511-m01}">
 	<picture src = "fishing vessel_m.bmp"/>
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-gyosen-20050511-m01}">
-	<group>‹™‘D</group>
-	<design>’†Œ^‹™‘D</design>
+	<group>æ¼èˆ¹</group>
+	<design>ä¸­åž‹æ¼èˆ¹</design>
 	<structure>
-		<category byname="‘D”•ŠÖ˜AŽ{Ý"/>
+		<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,2</size>
@@ -58,15 +58,15 @@
 	</sprite>
 </contribution>
 
-<!-- ‚k‚m‚f‰^”À‘D -->
+<!-- ï¼¬ï¼®ï¼§é‹æ¬èˆ¹ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-LNGcarriers-20050609-01}">
 	<picture src = "LNG_carriers.bmp"/>
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-LNGcarriers-20050609-01}">
-	<group>‰^”À‘D</group>
-	<design>LNG‰^”À‘D</design>
+	<group>é‹æ¬èˆ¹</group>
+	<design>LNGé‹æ¬èˆ¹</design>
 	<structure>
-		<category byname="‘D”•ŠÖ˜AŽ{Ý"/>
+		<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­"/>
 	</structure>
 	<price>200000000</price>
 	<size>1,5</size>
@@ -84,15 +84,15 @@
 	</sprite>
 </contribution>
 
-<!-- ‚n‚h‚k‰^”À‘D -->
+<!-- ï¼¯ï¼©ï¼¬é‹æ¬èˆ¹ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-OILcarriers-20050609-01}">
 	<picture src = "OIL_tankers.bmp"/>
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-OILcarriers-20050609-01}">
-	<group>‰^”À‘D</group>
-	<design>OIL‰^”À‘D</design>
+	<group>é‹æ¬èˆ¹</group>
+	<design>OILé‹æ¬èˆ¹</design>
 	<structure>
-		<category byname="‘D”•ŠÖ˜AŽ{Ý"/>
+		<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­"/>
 	</structure>
 	<price>195000000</price>
 	<size>1,5</size>
@@ -110,17 +110,17 @@
 	</sprite>
 </contribution>
 
-<!-- ŒRŽ–Ž{Ý -->
-<!-- ƒC[ƒWƒXŠÍ -->
+<!-- è»äº‹æ–½è¨­ -->
+<!-- ã‚¤ãƒ¼ã‚¸ã‚¹è‰¦ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-navy-20041123-001}">
 	<picture src = "navy_ddg.bmp"/>
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-navy-20041123-001}">
-	<group>ŒRŽ–Ž{Ý</group>
-	<name>ŠCŒR</name>
-	<design>ƒC[ƒWƒXŠÍ</design>
+	<group>è»äº‹æ–½è¨­</group>
+	<name>æµ·è»</name>
+	<design>ã‚¤ãƒ¼ã‚¸ã‚¹è‰¦</design>
 	<structure>
-		<category byname="ŒRŽ–Ž{Ý"/>
+		<category byname="è»äº‹æ–½è¨­"/>
 	</structure>
 	<price>3200000000</price>
 	<size>1,4</size>
@@ -141,16 +141,16 @@
 	</sprite>
 </contribution>
 
-<!-- ‹ì’€ŠÍ -->
+<!-- é§†é€è‰¦ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-navy-20041123-002}">
 	<picture src = "navy_dd.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-navy-20041123-002}">
-	<group>ŒRŽ–Ž{Ý</group>
-	<name>ŠCŒR</name>
-	<design>‹ì’€ŠÍ</design>
+	<group>è»äº‹æ–½è¨­</group>
+	<name>æµ·è»</name>
+	<design>é§†é€è‰¦</design>
 	<structure>
-		<category byname="ŒRŽ–Ž{Ý"/>
+		<category byname="è»äº‹æ–½è¨­"/>
 	</structure>
 	<price>2800000000</price>
 	<size>1,3</size>
@@ -171,16 +171,16 @@
 	</sprite>
 </contribution>
 
-<!-- ö…ŠÍ -->
+<!-- æ½œæ°´è‰¦ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-navy-20041123-003}">
 	<picture src = "navy_ss.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-navy-20041123-003}">
-	<group>ŒRŽ–Ž{Ý</group>
-	<name>ŠCŒR</name>
-	<design>ö…ŠÍ</design>
+	<group>è»äº‹æ–½è¨­</group>
+	<name>æµ·è»</name>
+	<design>æ½œæ°´è‰¦</design>
 	<structure>
-		<category byname="ŒRŽ–Ž{Ý"/>
+		<category byname="è»äº‹æ–½è¨­"/>
 	</structure>
 	<price>2400000000</price>
 	<size>1,2</size>
@@ -201,16 +201,16 @@
 	</sprite>
 </contribution>
 
-<!-- •â‹‹ŠÍ -->
+<!-- è£œçµ¦è‰¦ -->
 <contribution type="picture" id="{FreeTrain-TOMY-picture-navy-20041123-004}">
 	<picture src = "navy_aoe.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-TOMY-structure-navy-20041123-004}">
-	<group>ŒRŽ–Ž{Ý</group>
-	<name>ŠCŒR</name>
-	<design>•â‹‹ŠÍ</design>
+	<group>è»äº‹æ–½è¨­</group>
+	<name>æµ·è»</name>
+	<design>è£œçµ¦è‰¦</design>
 	<structure>
-		<category byname="ŒRŽ–Ž{Ý"/>
+		<category byname="è»äº‹æ–½è¨­"/>
 	</structure>
 	<price>2500000000</price>
 	<size>1,4</size>
@@ -232,18 +232,18 @@
 </contribution>
 
 
-<!-- •ú‘—Ž–‹Æ—p“d”g“ƒ‚P -->
+<!-- æ”¾é€äº‹æ¥­ç”¨é›»æ³¢å¡”ï¼‘ -->
 <contribution type="picture" id="{freetrain-tomy-tokyotoewr-20050606-p001}">
 	<picture src="tower_tokyo.bmp">
                 <override when="night" src="tower_tokyo_n.bmp"/>
 	</picture>
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-tokyotower-20050606-s001}">
-	<group>ƒ‰ƒ“ƒhƒ}[ƒN</group>
-        <design>•ú‘—“d”gƒ^ƒ[</design>
+	<group>ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯</group>
+        <design>æ”¾é€é›»æ³¢ã‚¿ãƒ¯ãƒ¼</design>
         <structure>
-	        <category byname="ƒ‰ƒ“ƒhƒ}[ƒN"/>
-	        <category byname="•ú‘—ƒƒfƒBƒA"/>
+	        <category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯"/>
+	        <category byname="æ”¾é€ãƒ¡ãƒ‡ã‚£ã‚¢"/>
         </structure>
 	<price>11250000000</price>
 	<size>5,5</size>
@@ -269,18 +269,18 @@
 	</sprite>
 </contribution>
 
-<!-- •ú‘—Ž–‹Æ—p“d”g“ƒ‚Q -->
+<!-- æ”¾é€äº‹æ¥­ç”¨é›»æ³¢å¡”ï¼’ -->
 <contribution type="picture" id="{freetrain-tomy-porttoewr-20050615-p001}">
 	<picture src="tower_port.bmp">
                 <override when="night" src="tower_port_n.bmp"/>
 	</picture>
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-porttower-20050615-s001}">
-	<group>ƒ‰ƒ“ƒhƒ}[ƒN</group>
-        <design>ƒ|[ƒgƒ^ƒ[</design>
+	<group>ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯</group>
+        <design>ãƒãƒ¼ãƒˆã‚¿ãƒ¯ãƒ¼</design>
         <structure>
-	        <category byname="ƒ‰ƒ“ƒhƒ}[ƒN"/>
-	        <category byname="•ú‘—ƒƒfƒBƒA"/>
+	        <category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯"/>
+	        <category byname="æ”¾é€ãƒ¡ãƒ‡ã‚£ã‚¢"/>
         </structure>
 	<price>2430000000</price>
 	<size>3,3</size>
@@ -307,7 +307,7 @@
 </contribution>
 
 
-<!-- ‹cŽ–“° -->
+<!-- è­°äº‹å ‚ -->
 <contribution type="picture" id="{freetrain-tomy-DietTemple-20050613-p001}">
 	<picture src="Diet temple.bmp">
                 <override when="autumn" src="Diet temple_au.bmp"/>
@@ -315,10 +315,10 @@
 	</picture>
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-DietTemple-20050613-s001}">
-	<group>‹cŽ–“°</group>
-        <design>‹cŽ–“°</design>
+	<group>è­°äº‹å ‚</group>
+        <design>è­°äº‹å ‚</design>
         <structure>
-	        <category byname="–ðŠ"/>
+	        <category byname="å½¹æ‰€"/>
         </structure>
 	<price>1150000000</price>
 	<size>4,5</size>
@@ -341,17 +341,17 @@
 </contribution>
 
 
-<!-- Œð”Ô -->
+<!-- äº¤ç•ª -->
 <contribution type="picture" id="{freetrain-tomy-PoliceBox-20050619-p001}">
 	<picture src="police_box.bmp">
                 <override when="night" src="police_box_n.bmp"/>
 	</picture>
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-PoliceBox-20050619-s001}">
-	<group>ŒxŽ@</group>
-        <design>Œð”Ô</design>
+	<group>è­¦å¯Ÿç½²</group>
+        <design>äº¤ç•ª</design>
         <structure>
-	        <category byname="ŒxŽ@"/>
+	        <category byname="è­¦å¯Ÿç½²"/>
         </structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -375,15 +375,15 @@
 	</sprite>
 </contribution>
 
-<!-- ŒxŽ@ -->
+<!-- è­¦å¯Ÿç½² -->
 <contribution type="picture" id="{freetrain-tomy-Police-20050621-p001}">
 	<picture src="police.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-Police-20050621-s001}">
-	<group>ŒxŽ@</group>
-        <design>ŒxŽ@</design>
+	<group>è­¦å¯Ÿç½²</group>
+        <design>è­¦å¯Ÿç½²</design>
         <structure>
-	        <category byname="ŒxŽ@"/>
+	        <category byname="è­¦å¯Ÿç½²"/>
         </structure>
 	<price>10500000</price>
 	<size>2,2</size>
@@ -408,15 +408,15 @@
 </contribution>
 
 
-<!-- Á–h‹Ç -->
+<!-- æ¶ˆé˜²å±€ -->
 <contribution type="picture" id="{freetrain-tomy-firehouse-20050622-p001}">
 	<picture src="firehouse.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-firehouse-20050622-s001}">
-	<group>Á–h</group>
-        <design>Á–h‹Ç</design>
+	<group>æ¶ˆé˜²ç½²</group>
+        <design>æ¶ˆé˜²å±€</design>
         <structure>
-	        <category byname="Á–h"/>
+	        <category byname="æ¶ˆé˜²ç½²"/>
         </structure>
 	<price>12500000</price>
 	<size>2,2</size>
@@ -435,15 +435,15 @@
 </contribution>
 
 
-<!-- Œ´Žq—Í”­“dŠ -->
+<!-- åŽŸå­åŠ›ç™ºé›»æ‰€ -->
 <contribution type="picture" id="{freetrain-tomy-AtomicPowerPlant-20050824-p001}">
 	<picture src="AtomicPowerPlant.bmp" />
 </contribution>
 <contribution type="GenericStructure" id="{freetrain-tomy-AtomicPowerPlant-20050824-s001}">
-	<name>Œ´Žq—Í”­“dŠ</name>
-        <design>Œ´Žq—Í”­“dŠ</design>
+	<name>åŽŸå­åŠ›ç™ºé›»æ‰€</name>
+        <design>åŽŸå­åŠ›ç™ºé›»æ‰€</design>
         <structure>
-	        <category byname="Œ´Žq—Í”­“dŠ"/>
+	        <category byname="åŽŸå­åŠ›ç™ºé›»æ‰€"/>
         </structure>
 	<price>185000000</price>
 	<size>3,5</size>

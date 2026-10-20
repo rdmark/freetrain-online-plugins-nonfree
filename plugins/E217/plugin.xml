@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>E217Œn</title> 
-  <author>‚¢‚Á‚¿[</author> 
+  <title>E217ç³»</title> 
+  <author>ã„ã£ã¡ãƒ¼</author> 
   <homepage>cyber_express_1703d@ybb.ne.jp</homepage> 
-<!-- E217æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E217å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E217a.bmp" /> 
   </sprite>
   <capacity>142</capacity> 
   <seatedcapacity>54</seatedcapacity> 
   </contribution>
-<!-- E217ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E217æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-A" />  
   </contribution> 
-<!--E217’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--E217ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E217b.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
   <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!--E217GŽÔ-->
-@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-G">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--E217Gè»Š-->
+ã€€<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-G">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E217saro-w.bmp" /> 
   </sprite>
   <capacity>90</capacity> 
@@ -37,16 +37,16 @@
   </contribution>
 
   <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217-W}">
-<company>JR“Œ“ú–{</company>
-<type>E217Œn</type>
-<name>‘•‰õ‘¬E‰¡{‰êü</name>
-<author>‚¢‚Á‚¿[</author>
-<description>‘•‰õ‘¬E‰¡{‰êü‚Ì¬ŽGŠÉ˜aAƒXƒs[ƒhƒAƒbƒv‚ð–Ú“I‚Æ‚µ‚Ä“oê‚µ‚½ŽÔ—¼B
-‚i‚q“Œ“ú–{‚Ì’Ê‹Î˜Hü‚Æ‚µ‚Ä‰‚ß‚Ä120‚‹‚/‚ˆ‰^“]‚ðŠJŽn‚µ‚½B
-4ƒhƒAAƒƒ“ƒOƒV[ƒg”z—ñ‚Æ‚¢‚¤209Œn‚ÌƒXƒ^ƒCƒ‹‚ð“¥P‚µ‚Â‚ÂA’·‹——£‹q‚É”z—¶‚µ‚Ä3—¼‚ÌƒZƒ~ƒNƒƒXƒV[ƒgŽÔ‚ð˜AŒ‹B
-‰¡{‰êü‚È‚ç‚Å‚Í‚ÌƒOƒŠ[ƒ“ŽÔ(‚QŠKŒš‚Ä)‚ð2—¼˜AŒ‹‚µ‚Ä‚¢‚éB
-Œ»Ý‚ÍÃ“ìVhƒ‰ƒCƒ“‚Æ‚µ‚ÄVh‰w‚É‚àæ‚è“ü‚ê‚µ‚Ä‚¢‚éB
-•Ò¬‚Í4—¼A11—¼A15—¼‚Ì3Ží—Þ‚ÉA4—¼•Ò¬‚ð2E3•Ò¬˜AŒ‹‚µ‚½‚WE12—¼‚ð—pˆÓ‚µ‚Ü‚µ‚½B
+<company>JRæ±æ—¥æœ¬</company>
+<type>E217ç³»</type>
+<name>ç·æ­¦å¿«é€Ÿãƒ»æ¨ªé ˆè³€ç·š</name>
+<author>ã„ã£ã¡ãƒ¼</author>
+<description>ç·æ­¦å¿«é€Ÿãƒ»æ¨ªé ˆè³€ç·šã®æ··é›‘ç·©å’Œã€ã‚¹ãƒ”ãƒ¼ãƒ‰ã‚¢ãƒƒãƒ—ã‚’ç›®çš„ã¨ã—ã¦ç™»å ´ã—ãŸè»Šä¸¡ã€‚
+ï¼ªï¼²æ±æ—¥æœ¬ã®é€šå‹¤è·¯ç·šã¨ã—ã¦åˆã‚ã¦120ï½‹ï½/ï½ˆé‹è»¢ã‚’é–‹å§‹ã—ãŸã€‚
+4ãƒ‰ã‚¢ã€ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆé…åˆ—ã¨ã„ã†209ç³»ã®ã‚¹ã‚¿ã‚¤ãƒ«ã‚’è¸è¥²ã—ã¤ã¤ã€é•·è·é›¢å®¢ã«é…æ…®ã—ã¦3ä¸¡ã®ã‚»ãƒŸã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šã‚’é€£çµã€‚
+æ¨ªé ˆè³€ç·šãªã‚‰ã§ã¯ã®ã‚°ãƒªãƒ¼ãƒ³è»Š(ï¼’éšŽå»ºã¦)ã‚’2ä¸¡é€£çµã—ã¦ã„ã‚‹ã€‚
+ç¾åœ¨ã¯æ¹˜å—æ–°å®¿ãƒ©ã‚¤ãƒ³ã¨ã—ã¦æ–°å®¿é§…ã«ã‚‚ä¹—ã‚Šå…¥ã‚Œã—ã¦ã„ã‚‹ã€‚
+ç·¨æˆã¯4ä¸¡ã€11ä¸¡ã€15ä¸¡ã®3ç¨®é¡žã«ã€4ä¸¡ç·¨æˆã‚’2ãƒ»3ç·¨æˆé€£çµã—ãŸï¼˜ãƒ»12ä¸¡ã‚’ç”¨æ„ã—ã¾ã—ãŸã€‚
 </description>
 <fare>550</fare>
 <price>38500000</price>
@@ -55,15 +55,15 @@
 <speed>fast</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-A"/>
-<car char="’†" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-C"/>
-<car char="Œã" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-B"/> 
+<car char="å‰" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-A"/>
+<car char="ä¸­" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-C"/>
+<car char="å¾Œ" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-B"/> 
 <car char="G" ref="{669D5BDE-23F1-43BD-AC36-B4B5A4-E217}-G"/> 
-<composition>‘O’†’†Œã</composition>
-<composition>‘O’†’†Œã‘O’†’†Œã</composition>
-<composition>‘O’†’†GG’†’†’†’†’†Œã</composition>
-<composition>‘O’†’†Œã‘O’†’†Œã‘O’†’†Œã</composition>
-<composition>‘O’†’†Œã‘O’†’†GG’†’†’†’†’†Œã</composition>
+<composition>å‰ä¸­ä¸­å¾Œ</composition>
+<composition>å‰ä¸­ä¸­å¾Œå‰ä¸­ä¸­å¾Œ</composition>
+<composition>å‰ä¸­ä¸­GGä¸­ä¸­ä¸­ä¸­ä¸­å¾Œ</composition>
+<composition>å‰ä¸­ä¸­å¾Œå‰ä¸­ä¸­å¾Œå‰ä¸­ä¸­å¾Œ</composition>
+<composition>å‰ä¸­ä¸­å¾Œå‰ä¸­ä¸­GGä¸­ä¸­ä¸­ä¸­ä¸­å¾Œ</composition>
 </config>
 </contribution>
 </plug-in>

@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>�����n���S�ۊǌv�悻��3</title>
-  <author>�k�̋D�ԉ�</author>
+  <title>東京地下鉄保管計画その3</title>
+  <author>北の汽車屋</author>
   <homepage></homepage>
-<!-- 15000�n�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 15000系先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="eidan15000_a.bmp" /> 
   </sprite>
   <capacity>143</capacity>
   <seatedcapacity>38</seatedcapacity> 
   </contribution>
-<!-- 15000�n�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 15000系最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-TM15000-A}" />  
   <capacity>143</capacity>
   <seatedcapacity>38</seatedcapacity> 
   </contribution> 
-<!-- 15000�n���Ԏ� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 15000系中間車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM15000-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="eidan15000_b.bmp" /> 
   </sprite>
   <capacity>154</capacity>
   <seatedcapacity>44</seatedcapacity> 
   </contribution>
-<!-- 16000�n�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 16000系先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="eidan16000_a.bmp" /> 
   </sprite>
   <capacity>143</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution>
-<!-- 16000�n�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 16000系最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-TM16000-A}" />  
   <capacity>143</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution> 
-<!-- 16000�n���Ԏ� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 16000系中間車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-TM16000-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="eidan16000_b.bmp" /> 
   </sprite>
   <capacity>154</capacity>
@@ -55,10 +55,10 @@
   </contribution>
 
  <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-TM15000}">
-<company>�������g��</company>
-<type>15000�n</type>
-<name>������</name>
-<author>�k�̋D�ԉ�</author>
+<company>東京メトロ</company>
+<type>15000系</type>
+<name>東西線</name>
+<author>北の汽車屋</author>
 <description></description>
 <price>5600000</price>
 <fare>500</fare> 
@@ -71,10 +71,10 @@
 </composition>
 </contribution>
  <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-TM16000}">
-<company>�������g��</company>
-<type>16000�n</type>
-<name>���c��</name>
-<author>�k�̋D�ԉ�</author>
+<company>東京メトロ</company>
+<type>16000系</type>
+<name>千代田線</name>
+<author>北の汽車屋</author>
 <description></description>
 <price>5600000</price>
 <fare>520</fare> 

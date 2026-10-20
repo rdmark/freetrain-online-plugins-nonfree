@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY pm-silo '
-	<group>PM-ƒTƒCƒ</group>
+	<group>PM-ã‚µã‚¤ãƒ­</group>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<size>1,1</size>
 	<height>1</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY pm-tank '
-	<group>PM-ƒ^ƒ“ƒN</group>
+	<group>PM-ã‚¿ãƒ³ã‚¯</group>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<size>1,1</size>
 	<height>1</height>
@@ -20,8 +20,8 @@
 '>
 ]>
 <plug-in>
-	<title>ƒvƒ‰ƒ“ƒgƒ^ƒ“ƒN</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ãƒ—ãƒ©ãƒ³ãƒˆã‚¿ãƒ³ã‚¯</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	
 	<contribution type="picture" id="{FF3D7E3E-8BD3-4EBC-C477-4185D693B62B}">

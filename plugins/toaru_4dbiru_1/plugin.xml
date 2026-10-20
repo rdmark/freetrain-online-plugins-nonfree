@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ˆê”Êƒrƒ‹‚Pi‚S•ûŒüj</title>
+	<title>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘ï¼ˆï¼”æ–¹å‘ï¼‰</title>
 	<author>toaru</author>
 	<homepage> / </homepage>
 
@@ -11,11 +11,11 @@
 </contribution>
 	
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-1}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -61,11 +61,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-2}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -111,11 +111,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-3}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -161,11 +161,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-4}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -211,11 +211,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-5}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -261,11 +261,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-6}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -311,11 +311,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-7}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -361,11 +361,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-ippan1-gs01-E7D95B0D8FCE-8}">
-		<name>ˆê”Êƒrƒ‹‚P</name>
+		<name>ä¸€èˆ¬ãƒ“ãƒ«ï¼‘</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<height>3</height>
 		<population>

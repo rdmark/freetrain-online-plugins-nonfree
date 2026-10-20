@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>ˆ¤ŠÂüŽÔ—¼‹l‚ß‡‚í‚¹</title> 
+  <title>æ„›ç’°ç·šè»Šä¸¡è©°ã‚åˆã‚ã›</title> 
   <author>Hermes</author> 
   <homepage>nothing</homepage> 
  
 <!-- 2100 -->
       <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-A">
          <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@       <sprite origin="0,0">
+ã€€       <sprite origin="0,0">
             <picture src="aikan2100.bmp" /> 
          </sprite>
          <capacity>146</capacity>
@@ -15,8 +15,8 @@
       </contribution>
 
 <!-- 2200 -->
-@   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-Q">
-@      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
+ã€€   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-Q">
+ã€€      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
         <sprite origin="0,0">
            <picture src="aikan2200.bmp" /> 
         </sprite>
@@ -25,15 +25,15 @@
      </contribution> 
  
 <!-- 2200back -->
-@   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-B">
-@      <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+ã€€   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-B">
+ã€€      <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
         <base carRef="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-Q" />  
      </contribution>
 
 <!-- 100 -->
       <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-A">
          <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@       <sprite origin="0,0">
+ã€€       <sprite origin="0,0">
             <picture src="aikan100.bmp" /> 
          </sprite>
          <capacity>136</capacity> 
@@ -41,8 +41,8 @@
       </contribution>
 
 <!-- 200 -->
-@   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-Q">
-@      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
+ã€€   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-Q">
+ã€€      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
         <sprite origin="0,0">
            <picture src="aikan200.bmp" /> 
         </sprite>
@@ -51,15 +51,15 @@
      </contribution> 
  
 <!-- 200back -->
-@   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-B">
-@      <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+ã€€   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-B">
+ã€€      <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
         <base carRef="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-Q" />  
      </contribution>
 
 
 <!-- 300 -->
-@   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-C">
-@      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
+ã€€   <contribution type="trainCar" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-C">
+ã€€      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
         <sprite origin="0,0">
            <picture src="aikan300.bmp" /> 
         </sprite>
@@ -68,12 +68,12 @@
      </contribution> 
   
    <contribution type="train" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12200}">
-      <company>ˆ¤’mŠÂó“S“¹</company>
-      <type>2000Œn</type>
-      <name>ˆ¤’mŠÂó“S“¹ü</name>
-      <author>”’ì‹½‚Ìl</author>
-         <description>ˆ¤’mŠÂó“S“¹üA’ÊÌuˆ¤ŠÂv‚É2003”N‚©‚ç“±“ü‚³‚ê‚½VŒ^ŽÔ—¼‚Å‚·B
-JR“ŒŠC313Œn‚ðƒx[ƒX‚É»‘¢‚³‚ê‚Ü‚µ‚½B
+      <company>æ„›çŸ¥ç’°çŠ¶é‰„é“</company>
+      <type>2000ç³»</type>
+      <name>æ„›çŸ¥ç’°çŠ¶é‰„é“ç·š</name>
+      <author>ç™½å·éƒ·ã®äºº</author>
+         <description>æ„›çŸ¥ç’°çŠ¶é‰„é“ç·šã€é€šç§°ã€Œæ„›ç’°ã€ã«2003å¹´ã‹ã‚‰å°Žå…¥ã•ã‚ŒãŸæ–°åž‹è»Šä¸¡ã§ã™ã€‚
+JRæ±æµ·313ç³»ã‚’ãƒ™ãƒ¼ã‚¹ã«è£½é€ ã•ã‚Œã¾ã—ãŸã€‚
          </description>
       <fare>500</fare>
       <price>35000000</price>
@@ -82,20 +82,20 @@ JR“ŒŠC313Œn‚ðƒx[ƒX‚É»‘¢‚³‚ê‚Ü‚µ‚½B
       <speed>medium</speed>
       <class name="freetrain.contributions.train.PatternTrainImpl"/>
          <config>
-            <car char="‘O" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-A"/>
-            <car char="Œã" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-B"/> 
-            <composition>‘OŒã</composition>
-            <composition>‘OŒã‘OŒã</composition>
+            <car char="å‰" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-A"/>
+            <car char="å¾Œ" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD12000}-B"/> 
+            <composition>å‰å¾Œ</composition>
+            <composition>å‰å¾Œå‰å¾Œ</composition>
          </config>
    </contribution>
 
    <contribution type="train" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}">
-      <company>ˆ¤’mŠÂó“S“¹</company>
-      <type>100Œn</type>
-      <name>ˆ¤’mŠÂó“S“¹ü</name>
-      <author>”’ì‹½‚Ìl</author>
-         <description>ˆ¤’mŠÂó“S“¹üA’ÊÌuˆ¤ŠÂv‚É1988”N‚ÌŠJ‹Æ‚©‚ç“±“ü‚³‚ê‚½ŽÔ—¼‚Å‚·B
-2005”N‚Ìˆ¤E’n‹…”ŽŠJÃ‚Æ“¯Žž‚Éˆø‘Þ‚µ‚Ü‚µ‚½B
+      <company>æ„›çŸ¥ç’°çŠ¶é‰„é“</company>
+      <type>100ç³»</type>
+      <name>æ„›çŸ¥ç’°çŠ¶é‰„é“ç·š</name>
+      <author>ç™½å·éƒ·ã®äºº</author>
+         <description>æ„›çŸ¥ç’°çŠ¶é‰„é“ç·šã€é€šç§°ã€Œæ„›ç’°ã€ã«1988å¹´ã®é–‹æ¥­ã‹ã‚‰å°Žå…¥ã•ã‚ŒãŸè»Šä¸¡ã§ã™ã€‚
+2005å¹´ã®æ„›ãƒ»åœ°çƒåšé–‹å‚¬ã¨åŒæ™‚ã«å¼•é€€ã—ã¾ã—ãŸã€‚
          </description>
       <fare>500</fare>
       <price>30000000</price>
@@ -104,13 +104,13 @@ JR“ŒŠC313Œn‚ðƒx[ƒX‚É»‘¢‚³‚ê‚Ü‚µ‚½B
       <speed>medium</speed>
       <class name="freetrain.contributions.train.PatternTrainImpl"/>
          <config>
-            <car char="‘O" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-A"/>
-            <car char="Œã" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-B"/>
-            <car char="’P" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-C"/>  
-            <composition>’P</composition>
-            <composition>‘OŒã</composition>
-            <composition>‘OŒã’P</composition>
-            <composition>‘OŒã‘OŒã</composition>
+            <car char="å‰" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-A"/>
+            <car char="å¾Œ" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-B"/>
+            <car char="å˜" ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD10100}-C"/>  
+            <composition>å˜</composition>
+            <composition>å‰å¾Œ</composition>
+            <composition>å‰å¾Œå˜</composition>
+            <composition>å‰å¾Œå‰å¾Œ</composition>
          </config>
    </contribution>
 </plug-in>

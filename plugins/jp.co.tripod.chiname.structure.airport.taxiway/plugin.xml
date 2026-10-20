@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY taxiway4_4 '
 		<price>800000</price>
 		<size>4,4</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -14,7 +14,7 @@
 		<size>1,4</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -23,7 +23,7 @@
 		<size>4,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -31,8 +31,8 @@
 ]>
 
 <plug-in>
-	<title>—U“±˜H</title>
-	<author>C477@2—¼–Ú</author>
+	<title>èª˜å°Žè·¯</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-01">
@@ -74,10 +74,10 @@
 		</picture>
 	</contribution>
 		
-	<!--—U“±˜Hi‚Pƒ{ƒNƒZƒ‹’·j-->
+	<!--èª˜å°Žè·¯ï¼ˆï¼‘ãƒœã‚¯ã‚»ãƒ«é•·ï¼‰-->
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-D477-CA46233A4D78}-0">
-		<group>—U“±˜H</group>
-		<design>’¼i</design>
+		<group>èª˜å°Žè·¯</group>
+		<design>ç›´é€²</design>
 		&taxiway1_4;
 		<sprite origin="0,0" offset="0">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-01"/>
@@ -87,8 +87,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-D477-CA46233A4D78}-1">
-		<group>—U“±˜H</group>
-		<design>•ªŠòŒû</design>
+		<group>èª˜å°Žè·¯</group>
+		<design>åˆ†å²å£</design>
 		&taxiway1_4;
 		<sprite origin="0,0" offset="0">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-02"/>
@@ -104,8 +104,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-D477-CA46233A4D78}-2">
-		<group>—U“±˜H</group>
-		<design>•ªŠòŒû</design>
+		<group>èª˜å°Žè·¯</group>
+		<design>åˆ†å²å£</design>
 		&taxiway1_4;
 		<sprite origin="0,48" offset="0">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-02"/>
@@ -121,8 +121,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-D477-CA46233A4D78}-3">
-		<group>—U“±˜H</group>
-		<design>•ªŠòŒû</design>
+		<group>èª˜å°Žè·¯</group>
+		<design>åˆ†å²å£</design>
 		&taxiway1_4;
 		<sprite origin="0,96" offset="0">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-02"/>
@@ -139,10 +139,10 @@
 	</contribution>
 	
 
-	<!--—U“±˜Hi4x4j-->
+	<!--èª˜å°Žè·¯ï¼ˆ4x4ï¼‰-->
 	<contribution type="GenericStructure" id="{B7DEA32C-106F-461B-C477-36DDCEF0E37C}-0">
-		<group>—U“±˜H(4x4)</group>
-		<design>‚sŽš˜H</design>
+		<group>èª˜å°Žè·¯(4x4)</group>
+		<design>ï¼´å­—è·¯</design>
 		&taxiway4_4;
 		<sprite origin="0,0" offset="24">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-03"/>
@@ -158,8 +158,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{B7DEA32C-106F-461B-C477-36DDCEF0E37C}-1">
-		<group>—U“±˜H(4x4)</group>
-		<design>ƒJ[ƒu</design>
+		<group>èª˜å°Žè·¯(4x4)</group>
+		<design>ã‚«ãƒ¼ãƒ–</design>
 		&taxiway4_4;
 		<sprite origin="0,80" offset="24">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-03"/>
@@ -175,8 +175,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{B7DEA32C-106F-461B-C477-36DDCEF0E37C}-2">
-		<group>—U“±˜H(4x4)</group>
-		<design>\Žš˜H</design>
+		<group>èª˜å°Žè·¯(4x4)</group>
+		<design>åå­—è·¯</design>
 		&taxiway4_4;
 		<sprite origin="0,0" offset="24">
 			<picture ref="{F8DDAE3B-DF10-4CB9-C477-CE4D0AC5029E}-04"/>

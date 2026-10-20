@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<author>foobarbazer</author>
 	<homepage>http://foobar.ifdef.jp</homepage>
 	<title></title>
 
-<!-- ƒ_ƒ€’[ -->
+<!-- ãƒ€ãƒ ç«¯ -->
 	<contribution type="picture" id="{B0B0B26E-19DC-416c-BBBF-7589AA5C0037}">
 		<picture src="dam/dam.spr.png">
 			<override when="summer" src="dam/dam.sum.png"/>
@@ -14,7 +14,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{5C700856-435D-4724-8E61-6193D9063569}">
-		<group>ƒ_ƒ€’[(1)</group>
+		<group>ãƒ€ãƒ ç«¯(1)</group>
 		<price>10000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -24,7 +24,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A5E73063-8C97-487b-9A00-AFF11975584A}">
-		<group>ƒ_ƒ€’[(2)</group>
+		<group>ãƒ€ãƒ ç«¯(2)</group>
 		<price>10000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -33,7 +33,7 @@
 		<sprite origin="64,0"  offset="32"><picture ref="{B0B0B26E-19DC-416c-BBBF-7589AA5C0037}"/></sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹“c”¨ -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«ç”°ç•‘ -->
 	<contribution type="picture" id="{5CCE8223-041D-4ea7-B282-38D64A92CB29}">
 		<picture src="halfvoxel/ricefield.1.spr.png">
 			<override when="summer" src="halfvoxel/ricefield.1.sum.png" />
@@ -42,9 +42,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{DD96A532-925B-4719-83DD-CAC4C48AF9E2}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -60,9 +60,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{D955C0FE-16D0-485f-BE08-FDD46FB9A5FA}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚P-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼‘-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -78,9 +78,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{C2884FB8-06FB-4c8d-884E-D272D525406A}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -96,9 +96,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{D9D5AC67-99C5-404d-87DB-8CEF5B94D649}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚Q-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼’-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -114,9 +114,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{D25A9AFA-AF22-4c61-9124-2D022CF5B656}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚R</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼“</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -132,9 +132,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{6DF5518B-7EB9-4f30-9087-9452DF773873}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>“c‚R-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç”°ï¼“-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -157,9 +157,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{D7C0FE0A-CC11-41f0-9671-107701B94800}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚P-‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼‘-ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -175,9 +175,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{D7C0FE0A-CC11-41f0-9671-107701B94801}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚P-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼‘-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -200,9 +200,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{29D5227E-2133-4333-AB4E-6922AC459895}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚Q-‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼’-ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -214,9 +214,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{29D5227E-2133-4333-AB4E-6922AC459896}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚Q-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼’-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -239,9 +239,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{CB71B47B-D373-4ba7-8981-770244248B60}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚R</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼“</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -257,9 +257,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{CB71B47B-D373-4ba7-8981-770244248B61}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚S</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼”</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -282,9 +282,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{E3A535C3-5CD9-489d-96AC-79E0F32DB568}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚T-‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼•-ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -300,9 +300,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{B337355B-1804-40de-9442-659046A4A760}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚T-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼•-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -325,9 +325,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{EF529302-4B96-4976-9F6F-5856040AA25B}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚U-‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼–-ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -343,9 +343,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{70F598B3-4B55-454c-A5DB-73B20CF32A49}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚U-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼–-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -368,9 +368,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{A40BB456-A349-4d44-9142-E78AE827FA6C}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚V-‚P</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼—-ï¼‘</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>
@@ -386,9 +386,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{23C75D58-E59A-4b07-95B8-6DF988EBA255}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“c”¨</subgroup>
-		<name>”¨‚V-‚Q</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ç”°ç•‘</subgroup>
+		<name>ç•‘ï¼—-ï¼’</name>
 		<price>500000</price>
 		<height>1</height>
 		<sprite>

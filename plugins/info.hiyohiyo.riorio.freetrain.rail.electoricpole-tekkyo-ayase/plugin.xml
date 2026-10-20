@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œƒ^ƒCƒvƒŒƒ“ƒK‹´‹r</title>
-	<author>‚è‚¨‚è‚¨‰ü‘¢©ˆ»£ƒqƒ</author>
+	<title>æž¶ç·šæŸ±ã‚¿ã‚¤ãƒ—ãƒ¬ãƒ³ã‚¬æ©‹è„š</title>
+	<author>ã‚ŠãŠã‚ŠãŠæ”¹é€ â†ç¶¾ç€¬ãƒ’ãƒ­</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -15,13 +15,13 @@
 	
 	
 	<contribution type="electricPole" id="{riorio-FreeTrain-RailStructureImpl-Base-Left}">
-		<name>“S‹´(‹´‹r, ¶)</name>
+		<name>é‰„æ©‹(æ©‹è„š, å·¦)</name>
 		<sprite>
 			<picture ref="{riorio-FreeTrain-AYASE-Hiro-RailStructureImg-Base-Left}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-FreeTrain-AYASE-Hiro-RailStructureImpl-Base-Right-Red}">
-		<name>“S‹´(‹´‹r, ‰E)</name>
+		<name>é‰„æ©‹(æ©‹è„š, å³)</name>
 		<sprite>
 			<picture ref="{riorio-FreeTrain-AYASE-Hiro-RailStructureImg-Base-Right}"/>
 		</sprite>

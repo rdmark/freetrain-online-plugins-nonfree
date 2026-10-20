@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>ŠGŽtŒ©K‚¢‚³‚ñ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>çµµå¸«è¦‹ç¿’ã„ã•ã‚“</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.eshi"/>
 
 	<contribution type="GenericStructure" id="{DD1224B9-2F1A-4c25-9E65-4E604F3342C7}-gs">
-		<group>‹˜¥‰®</group>
-		<design>‹g–ì‰Æ(ŽG‹ƒrƒ‹)</design>
+		<group>ç‰›ä¸¼å±‹</group>
+		<design>å‰é‡Žå®¶(é›‘å±…ãƒ“ãƒ«)</design>
 		<structure>
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh"/>
-			<category byname="‘ÝŽ––±Š" hide="true"/>
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰"/>
+			<category byname="è²¸äº‹å‹™æ‰€" hide="true"/>
 		</structure>
 		<price>2500000</price>
 		<size>1,1</size>
@@ -25,10 +25,10 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{19F42929-9606-4cfb-A2F0-EFE323487DC6}-gs">
-		<group>‹˜¥‰®</group>
-		<design>‹g–ì‰Æ(xŠOŒ^)</design>
+		<group>ç‰›ä¸¼å±‹</group>
+		<design>å‰é‡Žå®¶(éƒŠå¤–åž‹)</design>
 		<structure>
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh"/>
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰"/>
 		</structure>
 		<price>4000000</price>
 		<size>1,2</size>

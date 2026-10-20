@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>—ó‰Î</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>çƒˆç«</author>
 	<homepage></homepage>
 
 	<contribution type="picture" id="{rk-tateya-tutaya006-cg-001}">
@@ -17,7 +17,7 @@
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya006-001}">
 
-		<name>‰Æ“d‰®‚³‚ñ</name>
+		<name>å®¶é›»å±‹ã•ã‚“</name>
 		<price>950000000</price>
 		<size>6,4</size>
 		<height>2</height>
@@ -25,9 +25,9 @@
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
 			<base>160</base>
 		</population>
-		<design>‰Æ“d‰®‚³‚ñ</design>
+		<design>å®¶é›»å±‹ã•ã‚“</design>
 		<structure>
-			<category  byname="“sŽsŒ^—Ê”Ì“X"/>
+			<category  byname="éƒ½å¸‚åž‹é‡è²©åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="50">
 			<picture ref="{rk-tateya-tutaya006-cg-001}"/>

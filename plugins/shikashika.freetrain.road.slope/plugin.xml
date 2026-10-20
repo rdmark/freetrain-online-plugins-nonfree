@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
 
-<author>��������</author>
+<author>しかしか</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>���H(���z���H)</title>
+<title>道路(勾配道路)</title>
 
-<!-- �ѓ� -->
+<!-- 林道 -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-roadslope-woodlandpath-001}">
 	<picture src = "roadslope_woodlandpath_spring.bmp">
@@ -19,11 +19,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-roadslope-woodlandpath-001}">
-	<group>���H�֘A��</group>
-	<name>���z���H</name>
-	<design>�ѓ�(���ܑ�)</design>
+	<group>道路関連物</group>
+	<name>勾配道路</name>
+	<design>林道(未舗装)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,4</size>
@@ -56,11 +56,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-roadslope-woodlandpath-002}">
-	<group>���H�֘A��</group>
-	<name>���z���H</name>
-	<design>�ѓ�(�ܑ�)</design>
+	<group>道路関連物</group>
+	<name>勾配道路</name>
+	<design>林道(舗装)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>8000000</price>
 	<size>1,4</size>
@@ -92,7 +92,7 @@
 	</sprite>
 </contribution>
 
-<!-- �K�i(�R���N���[�g) -->
+<!-- 階段(コンクリート) -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-staircase-concrete-001}">
 	<picture src = "staircase_concrete.bmp" />
@@ -100,11 +100,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-concrete-001-up}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�R���N���[�g</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>コンクリート</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -139,11 +139,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-concrete-001-up-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�R���N���[�g(�萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>コンクリート(手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -178,11 +178,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-concrete-001-down}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�R���N���[�g</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>コンクリート</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -217,11 +217,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-concrete-001-down-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�R���N���[�g(�萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>コンクリート(手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -254,7 +254,7 @@
 
 </contribution>
 
-<!-- �K�i(�Βi(��)) -->
+<!-- 階段(石段(茶)) -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-staircase-stonesteps-001}">
 	<picture src = "staircase_stonesteps.bmp" />
@@ -262,11 +262,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-001-up}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(��)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(茶)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -301,11 +301,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-001-up-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(����萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(茶･手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -340,11 +340,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-001-down}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(��)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(茶)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -379,11 +379,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-001-down-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(����萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(茶･手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -416,7 +416,7 @@
 
 </contribution>
 
-<!-- �K�i(�Βi(�D)) -->
+<!-- 階段(石段(灰)) -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-staircase-stonesteps-grey-001}">
 	<picture src = "staircase_stonesteps_grey.bmp" />
@@ -424,11 +424,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-grey-001-up}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(�D)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(灰)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -463,11 +463,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-grey-001-up-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(�D��萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(灰･手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -502,11 +502,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-grey-001-down}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(�D)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(灰)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -541,11 +541,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-staircase-stonesteps-grey-001-down-banister}">
 
-	<group>���H�֘A��</group>
-	<name>�K�i</name>
-	<design>�Βi(�D��萠�t)</design>
+	<group>道路関連物</group>
+	<name>階段</name>
+	<design>石段(灰･手摺付)</design>
 	<structure>
-		<category byname="���H�֘A��"/>
+		<category byname="道路関連物"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>

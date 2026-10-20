@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰¡’šˆù‚Ý‰®i‚S•ûŒüj</title>
+	<title>æ¨ªä¸é£²ã¿å±‹ï¼ˆï¼”æ–¹å‘ï¼‰</title>
 	<author>toaru</author>
 	<homepage> / </homepage>
 
@@ -11,11 +11,11 @@
 </contribution>
 	
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-1}">
-		<name>‰¡’šˆù‚Ý‰®</name>
+		<name>æ¨ªä¸é£²ã¿å±‹</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -38,11 +38,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-2}">
-		<name>‰¡’šˆù‚Ý‰®</name>
+		<name>æ¨ªä¸é£²ã¿å±‹</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -65,11 +65,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-3}">
-		<name>‰¡’šˆù‚Ý‰®</name>
+		<name>æ¨ªä¸é£²ã¿å±‹</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -92,11 +92,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-4-1}">
-		<name>“ÁŽêˆùH“X</name>
+		<name>ç‰¹æ®Šé£²é£Ÿåº—</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="«•—‘­"/>
+			<category byname="æ€§é¢¨ä¿—"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -112,11 +112,11 @@
 		
 </contribution>
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-4-2}">
-		<name>“ÁŽêˆùH“X</name>
+		<name>ç‰¹æ®Šé£²é£Ÿåº—</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="«•—‘­"/>
+			<category byname="æ€§é¢¨ä¿—"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -134,11 +134,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-5}">
-		<name>‰¡’šˆù‚Ý‰®Šp’n</name>
+		<name>æ¨ªä¸é£²ã¿å±‹è§’åœ°</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -161,11 +161,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-6}">
-		<name>‰¡’šˆù‚Ý‰®Šp’n</name>
+		<name>æ¨ªä¸é£²ã¿å±‹è§’åœ°</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -188,11 +188,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-7}">
-		<name>‰¡’šˆù‚Ý‰®</name>
+		<name>æ¨ªä¸é£²ã¿å±‹</name>
 		<price>16000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="Žðê"/>
+			<category byname="é…’å ´"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -215,11 +215,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-8-1}">
-		<name>“ÁŽêˆùH“X</name>
+		<name>ç‰¹æ®Šé£²é£Ÿåº—</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="«•—‘­"/>
+			<category byname="æ€§é¢¨ä¿—"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -235,11 +235,11 @@
 		
 </contribution>
 <contribution type="GenericStructure" id="{toaru-building-nomiya-gs01-E7D95B0D8FCE-8-2}">
-		<name>“ÁŽêˆùH“X</name>
+		<name>ç‰¹æ®Šé£²é£Ÿåº—</name>
 		<price>160000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="«•—‘­"/>
+			<category byname="æ€§é¢¨ä¿—"/>
 		</structure>
 		<height>1</height>
 		<population>

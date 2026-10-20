@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>��ԃZ�b�g</title>
-	<author>�肨�肨��TAKUROU</author>
+	<title>列車セット</title>
+	<author>りおりお←TAKUROU</author>
  	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.dion.kei_s.freetrain.train.TAKUROU"/>
  	
@@ -20,17 +20,17 @@
 	</contribution>
 
 
-	<!-- �Ґ��̒�` -->
+	<!-- 編成の定義 -->
           
              <contribution type="train" id="{FreeTrain-riorio-TAKUROURailroadTrain-ECJ157}">
-		<company>�����{���L�S��</company>
-		<type>157�n</type>
-		<name>�c����ԕҐ�</name>
-		<author>TAKUROU���g���肨�肨</author>
-		<description>157�n�͍��ł����Ƃ���̃��]�[�g�d�������������Ƃ��Ď�s���𒆐S�ɉ^�]�����ƂƂ��ɁA
-���×{�Ȃǂœߐ{��ɓ��̌�p�@�։��������ۂ̂�����ԂƂ��Ă�����B
-������Ԃł̓N��157�𒆉��ɋ��񂾂T���Ґ��ŉ^�]���ꂽ�B
-�Ō�܂Ŏc������������ԕҐ���183�n�ɏ����āA���a57�N�ɔp�ԂƂȂ����B
+		<company>旧日本国有鉄道</company>
+		<type>157系</type>
+		<name>皇室列車編成</name>
+		<author>TAKUROU→組換りおりお</author>
+		<description>157系は今でいうところのリゾートＥｘｐｒｅｓｓとして首都圏を中心に運転されるとともに、
+ご静養などで那須や伊豆の御用邸へ往復される際のお召列車としても活躍。
+お召列車ではクロ157を中央に挟んだ５両編成で運転された。
+最後まで残ったお召し列車編成も183系に譲って、昭和57年に廃車となった。
 		</description>
 		<fare>1000</fare>
 		<price>70000000</price>

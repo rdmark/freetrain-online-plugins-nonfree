@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY cv_small_suburb '
-	<group>ƒRƒ“ƒrƒjixŠOŒ^j</group>
+	<group>ã‚³ãƒ³ãƒ“ãƒ‹ï¼ˆéƒŠå¤–åž‹ï¼‰</group>
 	<structure>
-		<category byname="ƒRƒ“ƒrƒj"/>
+		<category byname="ã‚³ãƒ³ãƒ“ãƒ‹"/>
 	</structure>
 	<price>5600000</price>
 	<size>2,1</size>
 	<height>1</height>
 	<population>
-		<!--ƒRƒ“ƒrƒj‚Ì‹q‚Í“dŽÔ‚Å‚Í‚±‚È‚¢‚¾‚ë‚¤‚©‚çA‹Î–±ŽÒ‚Ì‚Ý“o˜^-->
+		<!--ã‚³ãƒ³ãƒ“ãƒ‹ã®å®¢ã¯é›»è»Šã§ã¯ã“ãªã„ã ã‚ã†ã‹ã‚‰ã€å‹¤å‹™è€…ã®ã¿ç™»éŒ²-->
 		<class name="freetrain.contributions.population.OfficePopulation"/>
 		<base>1</base>
 	</population>
@@ -17,8 +17,8 @@
 
 ]>
 <plug-in>
-	<title>ƒRƒ“ƒrƒj</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ã‚³ãƒ³ãƒ“ãƒ‹</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	<contribution type="picture" id="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}">
 		<picture src="conveni_s01.bmp">
@@ -28,7 +28,7 @@
 	
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-0">
 		&cv_small_suburb;
-		<design>‚‚‚‘‚</design>
+		<design>ï½ï½ï½‘ï½</design>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -44,7 +44,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-1">
 		&cv_small_suburb;
-		<design>ƒT[ƒNƒŒ‚j</design>
+		<design>ã‚µãƒ¼ã‚¯ãƒ¬ï¼«</design>
 		<sprite origin="0,40" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -60,7 +60,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-2">
 		&cv_small_suburb;
-		<design>ƒfƒCƒŠ[ƒXƒgƒ„</design>
+		<design>ãƒ‡ã‚¤ãƒªãƒ¼ã‚¹ãƒˆãƒ¤</design>
 		<sprite origin="0,80" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -76,7 +76,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-3">
 		&cv_small_suburb;
-		<design>ƒtƒ@ƒ~ƒŠ[ƒA[ƒg</design>
+		<design>ãƒ•ã‚¡ãƒŸãƒªãƒ¼ã‚¢ãƒ¼ãƒˆ</design>
 		<sprite origin="0,120" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -92,7 +92,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-4">
 		&cv_small_suburb;
-		<design>ƒ[ƒcƒ“</design>
+		<design>ãƒ­ãƒ¼ãƒ„ãƒ³</design>
 		<sprite origin="0,160" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -108,7 +108,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-5">
 		&cv_small_suburb;
-		<design>ŽO“ñƒXƒgƒbƒv</design>
+		<design>ä¸‰äºŒã‚¹ãƒˆãƒƒãƒ—</design>
 		<sprite origin="0,200" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -124,7 +124,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-6">
 		&cv_small_suburb;
-		<design>Žµƒuƒ“ƒCƒŒƒuƒ“</design>
+		<design>ä¸ƒãƒ–ãƒ³ã‚¤ãƒ¬ãƒ–ãƒ³</design>
 		<sprite origin="0,240" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>
@@ -140,7 +140,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{E853F67E-FA07-4365-C477-79EEA8EDA0F5}-7">
 		&cv_small_suburb;
-		<design>ƒTƒ“ƒ^ƒX</design>
+		<design>ã‚µãƒ³ã‚¿ã‚¹</design>
 		<sprite origin="0,280" offset="24">
 			<picture ref="{C1661A11-F8F4-4C9A-C477-A7AD0CEFC0D1}"/>
 		</sprite>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 
@@ -832,7 +832,7 @@
 
 
 <plug-in>
-	<title>Œš•¨ (FreeTrain-‘zìŠÙ)‚ÌŒš•¨‘‡‘Î‰ž</title>
+	<title>å»ºç‰© (FreeTrain-æƒ³ä½œé¤¨)ã®å»ºç‰©ç·åˆå¯¾å¿œ</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 	<depend on="jp.ne.seikyou.Go-Ro.structure"/>
@@ -840,12 +840,12 @@
 
 
 
-<!-- ƒeƒiƒ“ƒgƒrƒ‹ -->
+<!-- ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ« -->
 	<contribution type="GenericStructure" id="{vhbi_001-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹</name>
-		<design>ƒeƒiƒ“ƒgƒrƒ‹‚P</design>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼‘</design>
 			<structure>
-				<category byname="‘ÝŽ––±Š"/>
+				<category byname="è²¸äº‹å‹™æ‰€"/>
 			</structure>
 		<price>27000000</price>
 		<size>1,1</size>
@@ -906,11 +906,11 @@
 
 
 
-<!-- ‹i’ƒ“X -->
+<!-- å–«èŒ¶åº— -->
 	<contribution type="GenericStructure" id="{CfeS_001-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>‹i’ƒ“X</name>
+		<name>å–«èŒ¶åº—</name>
 		<structure>
-			<category byname="ˆê”ÊˆùH“X"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
 		</structure>
 		<price>18000000</price>
 		<size>1,1</size>
@@ -926,12 +926,12 @@
 
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_001) -->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_001) -->
 	<contribution type="GenericStructure" id="{home_001-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒv‚`</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¡</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>9600000</price>
 		<size>1,1</size>
@@ -959,11 +959,11 @@
 
 
 
-<!-- ‘¾—z‚Ì“ƒ -->
+<!-- å¤ªé™½ã®å¡” -->
 	<contribution type="GenericStructure" id="{taiyo-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>‘¾—z‚Ì“ƒ</name>
+		<name>å¤ªé™½ã®å¡”</name>
 		<structure>
-			<category byname="ƒ‰ƒ“ƒhƒ}[ƒN"/>
+			<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯"/>
 		</structure>
 		<price>300000000</price>
 		<size>2,4</size>
@@ -983,11 +983,11 @@
 
 
 
-<!-- “ñŽÔü“¹˜H—pŒù”z -->
+<!-- äºŒè»Šç·šé“è·¯ç”¨å‹¾é… -->
 	<contribution type="GenericStructure" id="{slope_a3road_d-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>Œù”z“¹˜H(ˆê”Ê)“ñŽÔü“¹˜H—p</name>
+		<name>å‹¾é…é“è·¯(ä¸€èˆ¬)äºŒè»Šç·šé“è·¯ç”¨</name>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨"/>
+			<category byname="é“è·¯é–¢é€£ç‰©"/>
 		</structure>
 		<price>100000000</price>
 		<height>2</height>
@@ -1013,12 +1013,12 @@
 
 
 
-<!-- ƒAƒp[ƒg -->
+<!-- ã‚¢ãƒ‘ãƒ¼ãƒˆ -->
 	<contribution type="GenericStructure" id="{Apartment_001-GenericStructure-C000-000a-4C8B212Dharu}">
-		<name>ƒAƒp[ƒg</name>
-		<design>ƒ^ƒCƒv‚`</design>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ</name>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¡</design>
 		<structure>
-			<category byname="’À‘ÝƒAƒp[ƒg"/>
+			<category byname="è³ƒè²¸ã‚¢ãƒ‘ãƒ¼ãƒˆ"/>
 		</structure>
 		<price>14000000</price>
 		<size>1,1</size>
@@ -1049,11 +1049,11 @@
 
 
 
-<!-- ’¬Hê -->
+<!-- ç”ºå·¥å ´ -->
 	<contribution type="GenericStructure" id="{factory_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>’¬Hê</name>
+		<name>ç”ºå·¥å ´</name>
 		<structure>
-			<category byname="’¬Hê"/>
+			<category byname="ç”ºå·¥å ´"/>
 		</structure>
 		<price>10000000</price>
 		<size>1,1</size>
@@ -1078,12 +1078,12 @@
 
 
 
-<!-- ”Ä—p‘qŒÉ(ŠJ) -->
+<!-- æ±Žç”¨å€‰åº«(é–‹) -->
 	<contribution type="GenericStructure" id="{warehouse_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>‘qŒÉ</name>
-		<design>”Ä—p‘qŒÉ(ŠJ)</design>
+		<name>å€‰åº«</name>
+		<design>æ±Žç”¨å€‰åº«(é–‹)</design>
 		<structure>
-			<category byname="‘qŒÉ"/>
+			<category byname="å€‰åº«"/>
 		</structure>
 		<price>12000000</price>
 		<size>1,1</size>
@@ -1101,12 +1101,12 @@
 	</contribution>
 
 
-<!-- ”Ä—p‘qŒÉ(•Â) -->
+<!-- æ±Žç”¨å€‰åº«(é–‰) -->
 	<contribution type="GenericStructure" id="{warehouse_001-GenericStructure-C000-000B-4C8B212DD67q}">
-		<name>‘qŒÉ</name>
-		<design>”Ä—p‘qŒÉ(•Â)</design>
+		<name>å€‰åº«</name>
+		<design>æ±Žç”¨å€‰åº«(é–‰)</design>
 		<structure>
-			<category byname="‘qŒÉ"/>
+			<category byname="å€‰åº«"/>
 		</structure>
 		<price>12000000</price>
 		<size>1,1</size>
@@ -1125,12 +1125,12 @@
 
 
 
-<!-- ‹ŽÉ -->
+<!-- ç‰›èˆŽ -->
 	<contribution type="GenericStructure" id="{FarmStr_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>–qê</name>
-		<design>‹ŽÉ</design>
+		<name>ç‰§å ´</name>
+		<design>ç‰›èˆŽ</design>
 		<structure>
-			<category byname="’{ŽYê"/>
+			<category byname="ç•œç”£å ´"/>
 		</structure>
 		<price>10000000</price>
 		<size>1,1</size>
@@ -1149,12 +1149,12 @@
 	</contribution>
 
 
-<!-- –q‘’n -->
+<!-- ç‰§è‰åœ° -->
 	<contribution type="GenericStructure" id="{FarmStr_002-GenericStructure-C000-000a-4C8B212DD67q}">
-		<name>–qê</name>
-		<design>–q‘’n</design>
+		<name>ç‰§å ´</name>
+		<design>ç‰§è‰åœ°</design>
 		<structure>
-			<category byname="’{ŽYê"/>
+			<category byname="ç•œç”£å ´"/>
 		</structure>
 		<price>16000000</price>
 		<height>1</height>
@@ -1173,12 +1173,12 @@
 	</contribution>
 
 
-<!-- ƒTƒCƒ -->
+<!-- ã‚µã‚¤ãƒ­ -->
 	<contribution type="GenericStructure" id="{FarmStr_003-GenericStructure-C000-000a-4C8B212DD67q}">
-		<name>–qê</name>
-		<design>ƒTƒCƒ</design>
+		<name>ç‰§å ´</name>
+		<design>ã‚µã‚¤ãƒ­</design>
 		<structure>
-			<category byname="’{ŽYê"/>
+			<category byname="ç•œç”£å ´"/>
 		</structure>
 		<price>20000000</price>
 		<size>1,1</size>
@@ -1204,12 +1204,12 @@
 
 
 
-<!-- ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹ -->
+<!-- ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ« -->
 	<contribution type="GenericStructure" id="{vhbi_005-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹</name>
-		<design>(ƒ^ƒCƒvA)</design>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>(ã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>125000000</price>
 		<size>2,2</size>
@@ -1251,12 +1251,12 @@
 
 
 
-<!-- ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“ -->
+<!-- ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³ -->
 	<contribution type="GenericStructure" id="{RentalVideoShop_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“</name>
-		<design>ƒ^ƒcƒ„</design>
+		<name>ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³</name>
+		<design>ã‚¿ãƒ„ãƒ¤</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>20000000</price>
 		<size>1,2</size>
@@ -1281,11 +1281,11 @@
 
 
 
-<!-- M—p‹àŒÉ -->
+<!-- ä¿¡ç”¨é‡‘åº« -->
 	<contribution type="GenericStructure" id="{CreditA_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>M—p‹àŒÉ</name>
+		<name>ä¿¡ç”¨é‡‘åº«</name>
 		<structure>
-			<category byname="‹âs"/>
+			<category byname="éŠ€è¡Œ"/>
 		</structure>
 		<price>22000000</price>
 		<size>1,1</size>
@@ -1314,12 +1314,12 @@
 
 
 
-<!-- aŽm•žƒ`ƒF[ƒ“ -->
+<!-- ç´³å£«æœãƒã‚§ãƒ¼ãƒ³ -->
 	<contribution type="GenericStructure" id="{MensWearShop_001-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>aŽm•žƒ`ƒF[ƒ“</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>ç´³å£«æœãƒã‚§ãƒ¼ãƒ³</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>16000000</price>
 		<size>1,1</size>
@@ -1344,11 +1344,11 @@
 
 
 
-<!-- ‘åŒ^ƒX[ƒp[ -->
+<!-- å¤§åž‹ã‚¹ãƒ¼ãƒ‘ãƒ¼ -->
 	<contribution type="GenericStructure" id="{supermarket_001-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§åž‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 		<structure>
-			<category byname="ƒX[ƒp["/>
+			<category byname="ã‚¹ãƒ¼ãƒ‘ãƒ¼"/>
 		</structure>
 		<price>116000000</price>
 		<size>2,2</size>
@@ -1383,12 +1383,12 @@
 
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_002) -->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_002) -->
 	<contribution type="GenericStructure" id="{home_002-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒv‚a</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¢</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>8800000</price>
 		<size>1,1</size>
@@ -1416,11 +1416,11 @@
 
 
 
-<!-- ˜aHˆ -->
+<!-- å’Œé£Ÿå‡¦ -->
 	<contribution type="GenericStructure" id="{restaurant_001-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>˜aHˆ</name>
+		<name>å’Œé£Ÿå‡¦</name>
 		<structure>
-			<category byname="ˆê”ÊˆùH“X"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
 		</structure>
 		<price>56000000</price>
 		<size>2,2</size>
@@ -1448,12 +1448,12 @@
 
 
 
-<!-- ƒh[ƒiƒcƒ`ƒF[ƒ“ -->
+<!-- ãƒ‰ãƒ¼ãƒŠãƒ„ãƒã‚§ãƒ¼ãƒ³ -->
 	<contribution type="GenericStructure" id="{DoughnutShop-GenericStructure-C000-000A-4C8B212DD67q}">
-		<name>ƒh[ƒiƒcƒ`ƒF[ƒ“</name>
-		<design>ƒeƒXƒ^[ƒh[ƒiƒc</design>
+		<name>ãƒ‰ãƒ¼ãƒŠãƒ„ãƒã‚§ãƒ¼ãƒ³</name>
+		<design>ãƒ†ã‚¹ã‚¿ãƒ¼ãƒ‰ãƒ¼ãƒŠãƒ„</design>
 		<structure>
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh"/>
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰"/>
 		</structure>
 		<price>17500000</price>
 		<size>1,1</size>
@@ -1478,13 +1478,13 @@
 
 
 
-<!-- ƒeƒiƒ“ƒgƒrƒ‹‚Q -->
+<!-- ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼’ -->
 	<contribution type="GenericStructure" id="{vhbi_002-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹</name>
-		<design>ƒeƒiƒ“ƒgƒrƒ‹‚Q</design>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼’</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ƒT[ƒrƒX‘‹Œû" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ã‚µãƒ¼ãƒ“ã‚¹çª“å£" hide="true"/>
 		</structure>
 		<price>25000000</price>
 		<size>1,1</size>
@@ -1544,13 +1544,13 @@
 
 
 
-<!-- ƒeƒiƒ“ƒgƒrƒ‹‚R -->
+<!-- ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼“ -->
 	<contribution type="GenericStructure" id="{vhbi_004-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹</name>
-		<design>ƒeƒiƒ“ƒgƒrƒ‹‚R</design>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼“</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="¤‹ÆŒü‚¯ƒT[ƒrƒX" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="å•†æ¥­å‘ã‘ã‚µãƒ¼ãƒ“ã‚¹" hide="true"/>
 		</structure>
 		<price>27000000</price>
 		<size>1,1</size>
@@ -1610,12 +1610,12 @@
 
 
 
-<!-- ƒeƒiƒ“ƒgƒrƒ‹‚S -->
+<!-- ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼” -->
 	<contribution type="GenericStructure" id="{vhbi_007-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹</name>
-		<design>ƒeƒiƒ“ƒgƒrƒ‹‚S</design>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«ï¼”</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>18000000</price>
 		<size>1,1</size>
@@ -1677,11 +1677,11 @@
 
 
 
-<!-- ’À‘Ýƒ}ƒ“ƒVƒ‡ƒ“ -->
+<!-- è³ƒè²¸ãƒžãƒ³ã‚·ãƒ§ãƒ³ -->
 	<contribution type="GenericStructure" id="{vhbi_003-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>’À‘Ýƒ}ƒ“ƒVƒ‡ƒ“</name>
+		<name>è³ƒè²¸ãƒžãƒ³ã‚·ãƒ§ãƒ³</name>
 		<structure>
-			<category byname="’À‘ÝW‡Z‘î"/>
+			<category byname="è³ƒè²¸é›†åˆä½å®…"/>
 		</structure>
 		<price>29000000</price>
 		<size>1,1</size>
@@ -1743,12 +1743,12 @@
 
 
 
-<!-- •¶‰»Z‘î -->
+<!-- æ–‡åŒ–ä½å®… -->
 	<contribution type="GenericStructure" id="{Apartment_002-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>•¶‰»Z‘î</name>
-		<design>•¶‰»Z‘î</design>
+		<name>æ–‡åŒ–ä½å®…</name>
+		<design>æ–‡åŒ–ä½å®…</design>
 		<structure>
-			<category byname="’À‘ÝƒAƒp[ƒg"/>
+			<category byname="è³ƒè²¸ã‚¢ãƒ‘ãƒ¼ãƒˆ"/>
 		</structure>
 		<price>11000000</price>
 		<size>1,1</size>
@@ -1775,14 +1775,14 @@
 
 
 
-<!-- ƒ‰ƒ“ƒhƒ}[ƒNƒrƒ‹ -->
+<!-- ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯ãƒ“ãƒ« -->
 	<contribution type="GenericStructure" id="{bldgVH02-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒ‰ƒ“ƒhƒ}[ƒNƒrƒ‹</name>
+		<name>ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯ãƒ“ãƒ«</name>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ŒÂlê–å“X" hide="true"/>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" hide="true"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="å€‹äººå°‚é–€åº—" hide="true"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" hide="true"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
 		</structure>
 		<price>500000000</price>
 		<size>3,2</size>
@@ -1832,12 +1832,12 @@
 
 
 
-<!-- ‘Ý‚µƒrƒ‹(ƒwƒŠƒ|[ƒg•t) -->
+<!-- è²¸ã—ãƒ“ãƒ«(ãƒ˜ãƒªãƒãƒ¼ãƒˆä»˜) -->
 	<contribution type="GenericStructure" id="{bldgVH02-GenericStructure-C001-000b-4C8B212Dharu}">
-		<name>‘Ý‚µƒrƒ‹(ƒwƒŠƒ|[ƒg•t)</name>
-		<design>ƒ^ƒCƒv‚a</design>
+		<name>è²¸ã—ãƒ“ãƒ«(ãƒ˜ãƒªãƒãƒ¼ãƒˆä»˜)</name>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¢</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>460000000</price>
 		<size>3,2</size>
@@ -1874,12 +1874,12 @@
 
 
 
-<!-- ƒrƒWƒlƒXƒzƒeƒ‹ -->
+<!-- ãƒ“ã‚¸ãƒã‚¹ãƒ›ãƒ†ãƒ« -->
 	<contribution type="GenericStructure" id="{vhbi_009-GenericStructure-C001-000A-4C8B212DD67q}">
-		<name>ƒrƒWƒlƒXƒzƒeƒ‹</name>
+		<name>ãƒ“ã‚¸ãƒã‚¹ãƒ›ãƒ†ãƒ«</name>
 		<structure>
-			<category byname="ƒrƒWƒlƒXƒzƒeƒ‹"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
+			<category byname="ãƒ“ã‚¸ãƒã‚¹ãƒ›ãƒ†ãƒ«"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
 		</structure>
 		<price>480000000</price>
 		<size>2,1</size>
@@ -1941,12 +1941,12 @@
 
 
 
-<!-- Œ{ŽÉ -->
+<!-- é¶èˆŽ -->
 	<contribution type="GenericStructure" id="{FarmStr_004-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>Œ{ŽÉ</name>
-		<design>ŠJ•úŒ{ŽÉ</design>
+		<name>é¶èˆŽ</name>
+		<design>é–‹æ”¾é¶èˆŽ</design>
 		<structure>
-			<category byname="’{ŽYê"/>
+			<category byname="ç•œç”£å ´"/>
 		</structure>
 		<price>6000000</price>
 		<size>1,1</size>
@@ -1966,10 +1966,10 @@
 
 
 	<contribution type="GenericStructure" id="{FarmStr_004-GenericStructure-C001-000b-4C8B212Dharu}">
-		<name>Œ{ŽÉ</name>
-		<design>ŠJ•úŒ{ŽÉiƒGƒT—pƒ^ƒ“ƒN•tj</design>
+		<name>é¶èˆŽ</name>
+		<design>é–‹æ”¾é¶èˆŽï¼ˆã‚¨ã‚µç”¨ã‚¿ãƒ³ã‚¯ä»˜ï¼‰</design>
 		<structure>
-			<category byname="’{ŽYê"/>
+			<category byname="ç•œç”£å ´"/>
 		</structure>
 		<price>6000000</price>
 		<size>1,1</size>
@@ -1994,12 +1994,12 @@
 	</contribution>
 
 
-<!-- ŠÇ§“ƒ -->
+<!-- ç®¡åˆ¶å¡” -->
 	<contribution type="GenericStructure" id="{airport_ControlTower-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ŠÇ§“ƒ</name>
-		<design>ƒ^ƒCƒv‚`</design>
+		<name>ç®¡åˆ¶å¡”</name>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¡</design>
 		<structure>
-			<category byname="ŠÇ§Žw—ßŽ{Ý"/>
+			<category byname="ç®¡åˆ¶æŒ‡ä»¤æ–½è¨­"/>
 		</structure>
 		<size>1,1</size>
 		<price>30000000</price>
@@ -2015,13 +2015,13 @@
 	</contribution>
 
 
-<!-- ƒfƒp[ƒg -->
+<!-- ãƒ‡ãƒ‘ãƒ¼ãƒˆ -->
 	<contribution type="GenericStructure" id="{DepartmentStore_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<group>ƒfƒp[ƒg</group>
-		<name>ƒfƒp[ƒg</name>
+		<group>ãƒ‡ãƒ‘ãƒ¼ãƒˆ</group>
+		<name>ãƒ‡ãƒ‘ãƒ¼ãƒˆ</name>
 		<structure>
-			<category byname="ƒfƒp[ƒg"/>
-			<category byname="‰f‰æŠÙ" hide="true"/>
+			<category byname="ãƒ‡ãƒ‘ãƒ¼ãƒˆ"/>
+			<category byname="æ˜ ç”»é¤¨" hide="true"/>
 		</structure>
 		<size>2,3</size>
 		<price>500000000</price>
@@ -2050,12 +2050,12 @@
 	</contribution>
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_005)@-->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_005)ã€€-->
 	<contribution type="GenericStructure" id="{home_005-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvC-1</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—C-1</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>10000000</price>
 		<size>1,1</size>
@@ -2085,10 +2085,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{home_005-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvC-2</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—C-2</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>10000000</price>
 		<size>1,1</size>
@@ -2118,12 +2118,12 @@
 	</contribution>
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_003)@-->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_003)ã€€-->
 	<contribution type="GenericStructure" id="{home_003-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvD-1</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—D-1</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>14000000</price>
 		<size>1,1</size>
@@ -2153,10 +2153,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{home_003-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvD-2</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—D-2</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>14000000</price>
 		<size>1,1</size>
@@ -2186,12 +2186,12 @@
 	</contribution>
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_004)@-->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_004)ã€€-->
 	<contribution type="GenericStructure" id="{home_004-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvE-1</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—E-1</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>13000000</price>
 		<size>1,1</size>
@@ -2221,10 +2221,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{home_004-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvE-2</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—E-2</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>13000000</price>
 		<size>1,1</size>
@@ -2254,12 +2254,12 @@
 	</contribution>
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_006)@-->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_006)ã€€-->
 	<contribution type="GenericStructure" id="{home_006-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvF-1</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—F-1</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>14000000</price>
 		<size>1,1</size>
@@ -2289,10 +2289,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{home_006-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvF-2</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—F-2</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>14000000</price>
 		<size>1,1</size>
@@ -2322,12 +2322,12 @@
 	</contribution>
 
 
-<!-- ˆêŒËŒš‚ÄZ‘î(home_007)@-->
+<!-- ä¸€æˆ¸å»ºã¦ä½å®…(home_007)ã€€-->
 	<contribution type="GenericStructure" id="{home_007-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvG-1</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—G-1</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>12000000</price>
 		<size>1,1</size>
@@ -2357,10 +2357,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{home_007-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ˆêŒËŒš‚ÄZ‘î</name>
-		<design>ƒ^ƒCƒvG-2</design>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…</name>
+		<design>ã‚¿ã‚¤ãƒ—G-2</design>
 		<structure>
-			<category byname="ˆêŒËŒš‚Ä"/>
+			<category byname="ä¸€æˆ¸å»ºã¦"/>
 		</structure>
 		<price>12000000</price>
 		<size>1,1</size>
@@ -2390,12 +2390,12 @@
 	</contribution>
 
 
-<!-- ƒtƒ@ƒ~ƒŒƒX@-->
+<!-- ãƒ•ã‚¡ãƒŸãƒ¬ã‚¹ã€€-->
 	<contribution type="GenericStructure" id="{restaurant_002-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒtƒ@ƒ~ƒŒƒX</name>
-		<design>‚·‚©‚¢‚ç‚Á‚­</design>
+		<name>ãƒ•ã‚¡ãƒŸãƒ¬ã‚¹</name>
+		<design>ã™ã‹ã„ã‚‰ã£ã</design>
 		<structure>
-			<category byname="ƒtƒ@ƒ~ƒŒƒX"/>
+			<category byname="ãƒ•ã‚¡ãƒŸãƒ¬ã‚¹"/>
 		</structure>
 		<price>80000000</price>
 		<size>2,2</size>
@@ -2423,12 +2423,12 @@
 	</contribution>
 
 
-<!-- Šp’nƒrƒ‹(1x1)1 -->
+<!-- è§’åœ°ãƒ“ãƒ«(1x1)1 -->
 	<contribution type="GenericStructure" id="{vhbi_010-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>Šp’nƒrƒ‹(1x1)</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>è§’åœ°ãƒ“ãƒ«(1x1)</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>28000000</price>
 		<size>1,1</size>
@@ -2491,12 +2491,12 @@
 	</contribution>
 
 
-<!-- Šp’nƒrƒ‹(1x1)2 -->
+<!-- è§’åœ°ãƒ“ãƒ«(1x1)2 -->
 	<contribution type="GenericStructure" id="{vhbi_011-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>Šp’nƒrƒ‹(1x1)</name>
-		<design>ƒ^ƒCƒvB</design>
+		<name>è§’åœ°ãƒ“ãƒ«(1x1)</name>
+		<design>ã‚¿ã‚¤ãƒ—B</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>26000000</price>
 		<size>1,1</size>
@@ -2559,14 +2559,14 @@
 	</contribution>
 
 
-<!-- ‘Ý‚µƒrƒ‹3x4 -->
+<!-- è²¸ã—ãƒ“ãƒ«3x4 -->
 	<contribution type="GenericStructure" id="{vhbi_012-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>‘Ý‚µƒrƒ‹(3x4)</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>è²¸ã—ãƒ“ãƒ«(3x4)</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="“X•Ü" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="åº—èˆ—" hide="true"/>
 		</structure>
 		<price>780000000</price>
 		<size>3,4</size>
@@ -2635,12 +2635,12 @@
 	</contribution>
 
 
-<!-- ŽD–yŽžŒv‘ä@-->
+<!-- æœ­å¹Œæ™‚è¨ˆå°ã€€-->
 	<contribution type="GenericStructure" id="{tokeidai-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>ŽžŒv‘ä</name>
-		<design>ŽD–y</design>
+		<name>æ™‚è¨ˆå°</name>
+		<design>æœ­å¹Œ</design>
 		<structure>
-			<category byname="ŽjÕ"/>
+			<category byname="å²è·¡"/>
 		</structure>
 		<price>250000000</price>
 		<size>3,2</size>
@@ -2665,12 +2665,12 @@
 	</contribution>
 
 
-<!-- ‘Ý‚µƒrƒ‹3x3[A] -->
+<!-- è²¸ã—ãƒ“ãƒ«3x3[A] -->
 	<contribution type="GenericStructure" id="{vhbi_013-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>‘Ý‚µƒrƒ‹(3x3)</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>è²¸ã—ãƒ“ãƒ«(3x3)</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>1000000000</price>
 		<size>3,3</size>
@@ -2731,12 +2731,12 @@
 	</contribution>
 
 
-<!-- ƒJƒWƒ…ƒAƒ‹ˆß—¿•i“X@-->
+<!-- ã‚«ã‚¸ãƒ¥ã‚¢ãƒ«è¡£æ–™å“åº—ã€€-->
 	<contribution type="GenericStructure" id="{ClothingStore_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒJƒWƒ…ƒAƒ‹ˆß—¿•i“X</name>
-		<design>ƒ†ƒjƒƒNiƒ^ƒCƒvA)</design>
+		<name>ã‚«ã‚¸ãƒ¥ã‚¢ãƒ«è¡£æ–™å“åº—</name>
+		<design>ãƒ¦ãƒ‹ãƒ­ã‚¯ï¼ˆã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>90000000</price>
 		<size>2,2</size>
@@ -2760,10 +2760,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ClothingStore_002-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒJƒWƒ…ƒAƒ‹ˆß—¿•i“X</name>
-		<design>ƒ†ƒjƒƒNiƒ^ƒCƒvB)</design>
+		<name>ã‚«ã‚¸ãƒ¥ã‚¢ãƒ«è¡£æ–™å“åº—</name>
+		<design>ãƒ¦ãƒ‹ãƒ­ã‚¯ï¼ˆã‚¿ã‚¤ãƒ—B)</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>70000000</price>
 		<size>2,2</size>
@@ -2787,10 +2787,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ClothingStore_003-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒJƒWƒ…ƒAƒ‹ˆß—¿•i“X</name>
-		<design>ƒ†ƒjƒƒNiƒ|[ƒ‹ŠÅ”Â)</design>
+		<name>ã‚«ã‚¸ãƒ¥ã‚¢ãƒ«è¡£æ–™å“åº—</name>
+		<design>ãƒ¦ãƒ‹ãƒ­ã‚¯ï¼ˆãƒãƒ¼ãƒ«çœ‹æ¿)</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
@@ -2814,12 +2814,12 @@
 		</sprite>
 	</contribution>
 
-<!-- ŒC“X@-->
+<!-- é´åº—ã€€-->
 	<contribution type="GenericStructure" id="{ShoesShop_001-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>ŒC“X</name>
+		<name>é´åº—</name>
 		<design>FOOTMARK</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>23000000</price>
 		<size>2,1</size>
@@ -2843,10 +2843,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ShoesShop_002-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>ŒC“X</name>
-		<design>“Œ‹žŒC”Ì”„ƒZƒ“ƒ^[</design>
+		<name>é´åº—</name>
+		<design>æ±äº¬é´è²©å£²ã‚»ãƒ³ã‚¿ãƒ¼</design>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<price>16000000</price>
 		<size>1,1</size>
@@ -2870,12 +2870,12 @@
 	</contribution>
 
 
-<!-- ƒoƒ‹[ƒ“ƒ^ƒ[@-->
+<!-- ãƒãƒ«ãƒ¼ãƒ³ã‚¿ãƒ¯ãƒ¼ã€€-->
 	<contribution type="GenericStructure" id="{ampark_BalloonTower_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒoƒ‹[ƒ“ƒ^ƒ[</name>
-		<design>(ƒ^ƒCƒvA)</design>
+		<name>ãƒãƒ«ãƒ¼ãƒ³ã‚¿ãƒ¯ãƒ¼</name>
+		<design>(ã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>80000000</price>
 		<size>2,2</size>
@@ -2906,12 +2906,12 @@
 	</contribution>
 
 
-<!-- ƒXƒy[ƒXƒVƒ‡ƒbƒg@-->
+<!-- ã‚¹ãƒšãƒ¼ã‚¹ã‚·ãƒ§ãƒƒãƒˆã€€-->
 	<contribution type="GenericStructure" id="{ampark_SpaceShot_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒXƒy[ƒXƒVƒ‡ƒbƒg</name>
-		<design>(ƒ^ƒCƒvA)</design>
+		<name>ã‚¹ãƒšãƒ¼ã‚¹ã‚·ãƒ§ãƒƒãƒˆ</name>
+		<design>(ã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>80000000</price>
 		<size>1,1</size>
@@ -2941,12 +2941,12 @@
 	</contribution>
 
 
-<!-- —V‰€’nƒGƒ“ƒgƒ‰ƒ“ƒX@-->
+<!-- éŠåœ’åœ°ã‚¨ãƒ³ãƒˆãƒ©ãƒ³ã‚¹ã€€-->
 	<contribution type="GenericStructure" id="{ampark_entrance_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒGƒ“ƒgƒ‰ƒ“ƒX</name>
-		<design>(ƒ^ƒCƒvA)</design>
+		<name>ã‚¨ãƒ³ãƒˆãƒ©ãƒ³ã‚¹</name>
+		<design>(ã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>40000000</price>
 		<size>1,3</size>
@@ -2975,12 +2975,12 @@
 	</contribution>
 
 
-<!-- —V‰€’nƒAƒXƒgƒƒtƒ@ƒCƒ^[ -->
+<!-- éŠåœ’åœ°ã‚¢ã‚¹ãƒˆãƒ­ãƒ•ã‚¡ã‚¤ã‚¿ãƒ¼ -->
 	<contribution type="GenericStructure" id="{ampark_AstroFighter_001-GenericStructure-C001-000b-4C8B212Dharu}">
-		<name>ƒAƒXƒgƒƒtƒ@ƒCƒ^[</name>
-		<design>’âŽ~ó‘Ô</design>
+		<name>ã‚¢ã‚¹ãƒˆãƒ­ãƒ•ã‚¡ã‚¤ã‚¿ãƒ¼</name>
+		<design>åœæ­¢çŠ¶æ…‹</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>75000000</price>
 		<size>2,2</size>
@@ -3008,10 +3008,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_AstroFighter_001-GenericStructure-C001-000a-4C8B212Dharu}">
-		<name>ƒAƒXƒgƒƒtƒ@ƒCƒ^[</name>
-		<design>‰^“]ó‘Ô</design>
+		<name>ã‚¢ã‚¹ãƒˆãƒ­ãƒ•ã‚¡ã‚¤ã‚¿ãƒ¼</name>
+		<design>é‹è»¢çŠ¶æ…‹</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>75000000</price>
 		<size>2,2</size>
@@ -3039,12 +3039,12 @@
 	</contribution>
 
 
-<!-- —V‰€’nƒQ[ƒ€ƒZƒ“ƒ^[ -->
+<!-- éŠåœ’åœ°ã‚²ãƒ¼ãƒ ã‚»ãƒ³ã‚¿ãƒ¼ -->
 	<contribution type="GenericStructure" id="{ampark_GameCenter_001-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>ƒQ[ƒ€ŠÙ</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>ã‚²ãƒ¼ãƒ é¤¨</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000000</price>
 		<size>3,3</size>
@@ -3076,12 +3076,12 @@
 	</contribution>
 
 
-<!-- —V‰€’nƒpƒ‰ƒ\ƒ‹ -->
+<!-- éŠåœ’åœ°ãƒ‘ãƒ©ã‚½ãƒ« -->
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-001a-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>1-A</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3109,10 +3109,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-001b-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>1-b</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3149,10 +3149,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-001c-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>1-c</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3189,10 +3189,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-002a-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>2-a</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3223,10 +3223,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-002b-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>2-b</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3257,10 +3257,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-002c-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>2-c</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3297,10 +3297,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-002d-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>2-d</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3337,10 +3337,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-003a-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>3-a</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3377,10 +3377,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-003b-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>3-b</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3417,10 +3417,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-003c-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>3-c</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3457,10 +3457,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-004a-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>4-a</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3488,10 +3488,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-004b-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>4-b</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3519,10 +3519,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-004c-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>4-c</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3559,10 +3559,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{ampark_Parasol_001-GenericStructure-C001-005a-4C8B212Dharu}">
-		<name>ƒpƒ‰ƒ\ƒ‹</name>
+		<name>ãƒ‘ãƒ©ã‚½ãƒ«</name>
 		<design>5-a</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>10000</price>
 		<size>1,1</size>
@@ -3590,12 +3590,12 @@
 	</contribution>
 
 
-<!-- •¬…Lê@-->
+<!-- å™´æ°´åºƒå ´ã€€-->
 	<contribution type="GenericStructure" id="{square_001-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>•¬…Lê</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>å™´æ°´åºƒå ´</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="ŒâŠy"/>
+			<category byname="å¨¯æ¥½"/>
 		</structure>
 		<price>9000000</price>
 		<size>3,3</size>
@@ -3610,12 +3610,12 @@
 		<computerCannotBuild/>
 	</contribution>
 
-<!-- —V‰€’n•¬…Lê@-->
+<!-- éŠåœ’åœ°å™´æ°´åºƒå ´ã€€-->
 	<contribution type="GenericStructure" id="{ampark_square_001-GenericStructure-C000-0000-4C8B212Dharu}">
-		<name>•¬…Lê(—V‰€’n•Ü‘•)</name>
-		<design>ƒ^ƒCƒvA</design>
+		<name>å™´æ°´åºƒå ´(éŠåœ’åœ°èˆ—è£…)</name>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>9000000</price>
 		<size>3,3</size>

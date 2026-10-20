@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY smallBuilding '
-	<group>¬‹K–ÍŽG‹ƒrƒ‹C</group>
+	<group>å°è¦æ¨¡é›‘å±…ãƒ“ãƒ«C</group>
 	<price>25000000</price>
 	<size>1,1</size>
 	<minHeight>2</minHeight>
@@ -53,8 +53,8 @@
 '>
 ]>
 <plug-in>
-	<title>¬‹K–ÍƒIƒtƒBƒXƒrƒ‹</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å°è¦æ¨¡ã‚ªãƒ•ã‚£ã‚¹ãƒ“ãƒ«</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	<contribution type="picture" id="{451246D3-EFF2-4869-C477-E3AF0030BD63}">
 		<picture src="bldg_s01cv.bmp">
@@ -88,10 +88,10 @@
 		&crBlack;
 		&crPeru;
 		&crLtBlue;
-		<design>ƒ^ƒCƒv‚`</design>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¡</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 14" offset="2">
@@ -121,10 +121,10 @@
 		&crBrown;
 		&crMetalBlue;
 		&crBlack;
-		<design>ƒ^ƒCƒv‚a</design>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¢</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ƒT[ƒrƒX‘‹Œû" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="ã‚µãƒ¼ãƒ“ã‚¹çª“å£" hide="true"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 14" offset="2">
@@ -155,11 +155,11 @@
 		&crSteelBlue;
 		&crDkBrown;
 		&crBlack;
-		<design>ƒ^ƒCƒv‚b</design>
+		<design>ã‚¿ã‚¤ãƒ—ï¼£</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="“X•Ü" hide="true"/>
-			<category byname="ˆùH" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="åº—èˆ—" hide="true"/>
+			<category byname="é£²é£Ÿ" hide="true"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 14" offset="2">
@@ -191,10 +191,10 @@
 		&crPeru;
 		&crLtBlue;
 		&crBlack;
-		<design>ƒ^ƒCƒv‚c</design>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¤</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
-			<category byname="ŒÂlê–å“X" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
+			<category byname="å€‹äººå°‚é–€åº—" hide="true"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 0" offset="16">
@@ -225,9 +225,9 @@
 		&crWhite;
 		&crBlack;
 		&crBrown;
-		<design>ƒ^ƒCƒv‚d</design>
+		<design>ã‚¿ã‚¤ãƒ—ï¼¥</design>
 		<structure>
-			<category byname="‘ÝŽ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 0" offset="16">

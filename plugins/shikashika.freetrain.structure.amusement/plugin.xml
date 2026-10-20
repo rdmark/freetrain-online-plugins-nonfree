@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE plug-in [
 
@@ -214,10 +214,10 @@
 '>
 
 <!ENTITY component_park_001 '
-	<group>—Î’n</group>
-	<name>Œö‰€(1x1)</name>
+	<group>ç·‘åœ°</group>
+	<name>å…¬åœ’(1x1)</name>
 	<structure>
-		<category byname="—Î’n"/>
+		<category byname="ç·‘åœ°"/>
 	</structure>
 	<price>10000000</price>
 	<size>1,1</size>
@@ -232,10 +232,10 @@
 	</population>
 '>
 <!ENTITY component_park_002 '
-	<group>—Î’n</group>
-	<name>Œö‰€(1x1)</name>
+	<group>ç·‘åœ°</group>
+	<name>å…¬åœ’(1x1)</name>
 	<structure>
-		<category byname="—Î’n"/>
+		<category byname="ç·‘åœ°"/>
 	</structure>
 	<price>15000000</price>
 	<size>1,1</size>
@@ -250,10 +250,10 @@
 	</population>
 '>
 <!ENTITY component_park_003 '
-	<group>—Î’n</group>
-	<name>Œö‰€(1x1)</name>
+	<group>ç·‘åœ°</group>
+	<name>å…¬åœ’(1x1)</name>
 	<structure>
-		<category byname="—Î’n"/>
+		<category byname="ç·‘åœ°"/>
 	</structure>
 	<price>12000000</price>
 	<size>1,1</size>
@@ -273,15 +273,15 @@
 
 <plug-in>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>Œš•¨(ŒâŠy)</title>
+<title>å»ºç‰©(å¨¯æ¥½)</title>
 
 
-<!-- —Î’n -->
+<!-- ç·‘åœ° -->
 
-<!-- Œö‰€(1x1) -->
+<!-- å…¬åœ’(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-amusement-park-001}">
 	<picture src = "campsite_001.bmp">
 		<override when="spring" src="park_001spring.bmp">
@@ -332,10 +332,10 @@
 </contribution>
 
 
-<!-- Œö‰€(1x1) -->
+<!-- å…¬åœ’(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-001straight}">
 &component_park_001;
-	<design>Œö‰€(’¼ü)</design>
+	<design>å…¬åœ’(ç›´ç·š)</design>
 
 	<sprite origin="0,0" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-001}"/>
@@ -357,7 +357,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-001crossroads}">
 &component_park_001;
-	<design>Œö‰€(\š˜H)</design>
+	<design>å…¬åœ’(åå­—è·¯)</design>
 
 	<sprite origin="0,32" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-001}"/>
@@ -379,7 +379,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-001t-shape}">
 &component_park_001;
-	<design>Œö‰€(Tš˜H)</design>
+	<design>å…¬åœ’(Tå­—è·¯)</design>
 
 	<sprite origin="0,64" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-001}"/>
@@ -401,7 +401,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-001corner}">
 &component_park_001;
-	<design>Œö‰€(‹È‚èŠp)</design>
+	<design>å…¬åœ’(æ›²ã‚Šè§’)</design>
 
 	<sprite origin="0,96" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-001}"/>
@@ -423,7 +423,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-002flowerclock}">
 &component_park_002;
-	<design>Œö‰€(‰ÔŒv)</design>
+	<design>å…¬åœ’(èŠ±æ™‚è¨ˆ)</design>
 
 	<sprite origin="0,0" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-002}"/>
@@ -445,7 +445,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-002fountain}">
 &component_park_002;
-	<design>Œö‰€(•¬…)</design>
+	<design>å…¬åœ’(å™´æ°´)</design>
 
 	<sprite origin="0,32" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-002}"/>
@@ -467,7 +467,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-002brat}">
 &component_park_002;
-	<design>Œö‰€(¬‘m)</design>
+	<design>å…¬åœ’(å°åƒ§)</design>
 
 	<sprite origin="0,64" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-002}"/>
@@ -489,7 +489,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-002bench}">
 &component_park_002;
-	<design>Œö‰€(ƒxƒ“ƒ`)</design>
+	<design>å…¬åœ’(ãƒ™ãƒ³ãƒ)</design>
 
 	<sprite origin="0,96" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-amusement-park-002}"/>
@@ -511,7 +511,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-003gate-a}">
 &component_park_003;
-	<design>Œö‰€(–å)A</design>
+	<design>å…¬åœ’(é–€)A</design>
 	&fb-white;
 	&wall-greywarmbrown;
 	&wall-lightredbrick;
@@ -539,7 +539,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-003gate-b}">
 &component_park_003;
-	<design>Œö‰€(–å)B</design>
+	<design>å…¬åœ’(é–€)B</design>
 
 	&fb-white;
 	&wall-greywarmbrown;
@@ -568,7 +568,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-003toilets}">
 &component_park_003;
-	<design>Œö‰€(ŒöO•ÖŠ)</design>
+	<design>å…¬åœ’(å…¬è¡†ä¾¿æ‰€)</design>
 
 	&fb-white;
 	&wall-greywarmbrown;
@@ -597,7 +597,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-amusement-park-003post}">
 &component_park_003;
-	<design>Œö‰€(Ô~‚ß)</design>
+	<design>å…¬åœ’(è»Šæ­¢ã‚)</design>
 
 	&fb-white;
 	&wall-greywarmbrown;

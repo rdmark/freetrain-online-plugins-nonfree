@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‹´‹rƒvƒ‰ƒOƒCƒ“</title>
-	<author>ˆ»£ƒqƒ</author>
+	<title>æ©‹è„šãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
 	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
 	
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-RailStructureImage-Station-03}">
@@ -10,7 +10,7 @@
 
 	
 	<contribution type="railStationary" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-Station-03a}">
-		<group>‰w‰º‹´‹r</group>
+		<group>é§…ä¸‹æ©‹è„š</group>
 		<price>2000000</price>
 		<height>1</height>
 		<size>1,2</size>
@@ -20,7 +20,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-Station-03b}">
-		<group>‰w‰º‹´‹r</group>
+		<group>é§…ä¸‹æ©‹è„š</group>
 		<price>2000000</price>
 		<height>1</height>
 		<size>2,1</size>

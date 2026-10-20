@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY building2x2Param '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<price>33000000</price>
 	<size>2,2</size>
 	<minHeight>3</minHeight>
@@ -12,7 +12,7 @@
 	</population>
 '>
 <!ENTITY building3x3ParamA '
-	<group>貸しビル(3x3)</group>
+	<group>雋ｸ縺励ン繝ｫ(3x3)</group>
 	<price>40000000</price>
 	<size>3,3</size>
 	<minHeight>3</minHeight>
@@ -23,7 +23,7 @@
 	</population>
 '>
 <!ENTITY building3x3ParamB '
-	<group>貸しビル(3x3)</group>
+	<group>雋ｸ縺励ン繝ｫ(3x3)</group>
 	<price>50000000</price>
 	<size>3,3</size>
 	<minHeight>3</minHeight>
@@ -34,7 +34,7 @@
 	</population>
 '>
 <!ENTITY hotelParam ' 
-	<group>中型ホテル</group>
+	<group>荳ｭ蝙九�帙ユ繝ｫ</group>
 	<price>46000000</price>
 	<size>3,3</size>
 	<minHeight>3</minHeight>
@@ -47,8 +47,8 @@
 ]>
 	
 <plug-in>
-	<title>建物プラグイン</title>
-	<author>しの</author>
+	<title>蟒ｺ迚ｩ繝励Λ繧ｰ繧､繝ｳ</title>
+	<author>縺励�ｮ</author>
 	<homepage></homepage>
 
         <contribution type="picture" id="{7A5FEBD6-3778-4DA6-821E-A7551BCB439F}">
@@ -90,7 +90,7 @@
 
 
         <contribution type="picture" id="{D3E96A43-5F05-48B7-B773-E9B93953BD87}">
-		<picture src="3x3buil　001.bmp"/>
+		<picture src="3x3buil縲001.bmp"/>
 	</contribution>
 	
 	<contribution type="varHeightBuilding" id="{683D1CB6-5726-4B5D-9087-3858B7DEC20C}">
@@ -162,7 +162,7 @@
 
 
         <contribution type="picture" id="{9C5886B0-E753-4F54-BF39-06181F52F6D4}">
-		<picture src="3x3buil　002.bmp"/>
+		<picture src="3x3buil縲002.bmp"/>
 	</contribution>
 	
 	<contribution type="varHeightBuilding" id="{2DECFAE6-7B81-4B07-9C1C-1E419DF7FAB8}">

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 
 <plug-in>
-	<title>wษvOC“</title> 
-	<author>ิ•H</author> 
+	<title>้ง…่ใ—ใฉใฐใคใณ</title> 
+	<author>่ฑ่ฑ</author> 
 	<homepage></homepage>
 
 	<contribution type="picture" id="{474B8BFD-rk001-eki002-cg-001}">
@@ -12,7 +12,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-eki002-001}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -23,7 +23,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-eki002-002}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -34,7 +34,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-eki002-003}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -45,7 +45,7 @@
 	</contribution>
 
 	<contribution type="station" id="{474B8BFD-rk001-eki002-004}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -62,7 +62,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-eki002-005}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -72,7 +72,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-eki002-006}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -82,7 +82,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-eki002-007}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -92,7 +92,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{474B8BFD-rk001-eki002-008}">
-	<group>หwษ01(–{‘ฬ)</group> 
+	<group>้ซๆถ้ง…่01(ๆฌไฝ“)</group> 
 	<price>2000000</price> 
 	<height>1</height> 
 	<operationCost>10</operationCost> 
@@ -109,7 +109,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-001}">
-		<name>หwษฎช1</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น1</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-001}" />
 		</sprite>
@@ -121,7 +121,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-002}">
-		<name>หwษฎช2</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น2</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-002}" />
 		</sprite>
@@ -133,7 +133,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-003}">
-		<name>หwษฎช3</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น3</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-003}" />
 		</sprite>
@@ -145,7 +145,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-004}">
-		<name>หwษฎช4</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น4</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-004}" />
 		</sprite>
@@ -158,7 +158,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-005}">
-		<name>หwษฎช5</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น5</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-005}" />
 		</sprite>
@@ -170,7 +170,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-006}">
-		<name>หwษฎช6</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น6</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-006}" />
 		</sprite>
@@ -182,7 +182,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-007}">
-		<name>หwษฎช7</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น7</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-007}" />
 		</sprite>
@@ -194,7 +194,7 @@
   		</picture> 
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-008}">
-		<name>หwษฎช8</name>
+		<name>้ซๆถ้ง…่ๅฑๆ น8</name>
 		<sprite>
 			<picture ref="{474B8BFD-rk001-eki002-cg-ya-008}" />
 		</sprite>
@@ -203,13 +203,13 @@
 
 
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-009}">
-		<name>หwษฎชA</name>
+		<name>้ซๆถ้ง…่ๅฑๆ นA</name>
 		<sprite>
 			<picture src="kouka-e-ya-009a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{474B8BFD-rk001-eki002-yane-010}">
-		<name>หwษฎชB</name>
+		<name>้ซๆถ้ง…่ๅฑๆ นB</name>
 		<sprite>
 			<picture src="kouka-e-ya-010a.bmp"/>
 		</sprite>

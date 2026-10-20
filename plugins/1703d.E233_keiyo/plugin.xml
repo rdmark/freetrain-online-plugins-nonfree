@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plugin [
 
 <!ELEMENT contribution (class,sprite,capacity,seatedcapacity,company,type,name,author,description,fare,price,amenity,speed,composition,head,body,tail)>
-<!-- ƒvƒ‰ƒOƒCƒ““à‚É“oê‚·‚é‚·‚×‚Ä‚Ìcontribution”z‰º‚Ì—v‘f‚ğ˜R‚ê‚È‚­‹Lq‚·‚é•K—v‚ ‚è -->
+<!-- ãƒ—ãƒ©ã‚°ã‚¤ãƒ³å†…ã«ç™»å ´ã™ã‚‹ã™ã¹ã¦ã®contributioné…ä¸‹ã®è¦ç´ ã‚’æ¼ã‚Œãªãè¨˜è¿°ã™ã‚‹å¿…è¦ã‚ã‚Š -->
 
-<!-- Ô—¼ -->
+<!-- è»Šä¸¡ -->
 <!ELEMENT class (#PCDATA)>
 <!ELEMENT sprite (#PCDATA)>
 <!ELEMENT capacity (#PCDATA)>
@@ -14,7 +14,7 @@
 <!ATTLIST  class name CDATA #REQUIRED>
 <!ATTLIST  sprite origin CDATA #REQUIRED>
 
-<!-- —ñÔ -->
+<!-- åˆ—è»Š -->
 <!ELEMENT company (#PCDATA)>
 <!ELEMENT type (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
@@ -25,7 +25,7 @@
 <!ELEMENT speed (#PCDATA)>
 <!ELEMENT amenity (#PCDATA)>
 
-<!-- •Ò¬ -->
+<!-- ç·¨æˆ -->
 <!ELEMENT composition (#PCDATA)>
 <!ELEMENT head (#PCDATA)>
 <!ELEMENT body (#PCDATA)>
@@ -43,15 +43,15 @@
 ]>
 
 <plugin>
-     <title>‹—tü233Œn{209Œn500”Ô‘ã</title>
-     <author>‚¢‚Á‚¿[</author>
+     <title>äº¬è‘‰ç·š233ç³»ï¼‹209ç³»500ç•ªä»£</title>
+     <author>ã„ã£ã¡ãƒ¼</author>
      <homepage></homepage>
 
-<!-- E233Œn5000”Ô‘ã -->
+<!-- E233ç³»5000ç•ªä»£ -->
 	&E233keiyo;
 	&E233keiyo2;
 
-<!-- 209Œn500”Ô‘ã -->
+<!-- 209ç³»500ç•ªä»£ -->
 	&e209keiyo;
 	&e209sobu;
 	&e209kt;

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY SchoolBldg '
 	<price>120000000</price>
 	<structure>
-		<category byname="Œö—§‹³ˆç{İ"/>
+		<category byname="å…¬ç«‹æ•™è‚²æ–½è¨­"/>
 	</structure>
 	<population>
 		<class name="freetrain.contributions.population.SchoolPopulation"/>
@@ -31,8 +31,8 @@
 ]>
 <plug-in>
 
-	<title>Šw‰€</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å­¦åœ’</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{EDF3F851-F504-4D5D-C477-47E2B7598499}">
@@ -54,7 +54,7 @@
 		
 <!-- white -->
 	<contribution type="GenericStructure" id="{6DB9A7A9-EC5C-4501-C477-F7D99D54D45C}-00">
-		<group>ZÉ•—Œš’z</group>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
 		&SchoolBldg;
 		&crWhite;
 		&crBrown;
@@ -73,7 +73,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{6DB9A7A9-EC5C-4501-C477-F7D99D54D45C}-04">
-		<group>ZÉ•—Œš’z</group>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
 		&SchoolBldg;
 		&crWhite;
 		&crBrown;
@@ -92,7 +92,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{6DB9A7A9-EC5C-4501-C477-F7D99D54D45C}-08">
-		<group>ZÉ•—Œš’z</group>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
 		&SchoolBldg;
 		&crWhite;
 		&crBrown;
@@ -111,7 +111,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{6DB9A7A9-EC5C-4501-C477-F7D99D54D45C}-12">
-		<group>ZÉ•—Œš’z</group>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
 		&SchoolBldg;
 		&crWhite;
 		&crBrown;
@@ -130,8 +130,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{E69A12C2-1599-420D-C477-4E2DE896A251}-20">
-		<group>ZÉ•—Œš’z</group>
-		<design>‰˜‚ê‚ ‚è</design>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
+		<design>æ±šã‚Œã‚ã‚Š</design>
 		&SchoolBldg;
 		&crWhite;
 		&crGray;
@@ -149,8 +149,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{E69A12C2-1599-420D-C477-4E2DE896A251}-21">
-		<group>ZÉ•—Œš’z</group>
-		<design>‰˜‚ê‚ ‚è</design>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
+		<design>æ±šã‚Œã‚ã‚Š</design>
 		&SchoolBldg;
 		&crWhite;
 		&crGray;
@@ -169,8 +169,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{E69A12C2-1599-420D-C477-4E2DE896A251}-28">
-		<group>ZÉ•—Œš’z</group>
-		<design>‰˜‚ê‚ ‚è</design>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
+		<design>æ±šã‚Œã‚ã‚Š</design>
 		&SchoolBldg;
 		&crWhite;
 		&crGray;
@@ -188,8 +188,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{E69A12C2-1599-420D-C477-4E2DE896A251}-29">
-		<group>ZÉ•—Œš’z</group>
-		<design>‰˜‚ê‚ ‚è</design>
+		<group>æ ¡èˆé¢¨å»ºç¯‰</group>
+		<design>æ±šã‚Œã‚ã‚Š</design>
 		&SchoolBldg;
 		&crWhite;
 		&crGray;

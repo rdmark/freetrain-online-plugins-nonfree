@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜Hƒvƒ‰ƒOƒCƒ“</title>
-	<author>ˆ»£ƒqƒ</author>
+	<title>é“è·¯ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
 	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
 	
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-RoadImg-Slope}">
@@ -15,7 +15,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-SlopeN}">
-		<group>Œù”z“¹˜H(ˆê”Ê)</group>
+		<group>å‹¾é…é“è·¯(ä¸€èˆ¬)</group>
 		<price>10000000</price>
 		<size>1,4</size>
 		<height>1</height>
@@ -26,7 +26,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-SlopeS}">
-		<group>Œù”z“¹˜H(ˆê”Ê)</group>
+		<group>å‹¾é…é“è·¯(ä¸€èˆ¬)</group>
 		<price>10000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -37,7 +37,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-SlopeW}">
-		<group>Œù”z“¹˜H(ˆê”Ê)</group>
+		<group>å‹¾é…é“è·¯(ä¸€èˆ¬)</group>
 		<price>10000000</price>
 		<size>1,4</size>
 		<height>1</height>
@@ -48,7 +48,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-SlopeE}">
-		<group>Œù”z“¹˜H(ˆê”Ê)</group>
+		<group>å‹¾é…é“è·¯(ä¸€èˆ¬)</group>
 		<price>10000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -59,7 +59,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-Slope2N}">
-		<group>Œù”z“¹˜H(‚‘¬)</group>
+		<group>å‹¾é…é“è·¯(é«˜é€Ÿ)</group>
 		<price>10000000</price>
 		<size>1,4</size>
 		<height>2</height>
@@ -70,7 +70,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-Slope2S}">
-		<group>Œù”z“¹˜H(‚‘¬)</group>
+		<group>å‹¾é…é“è·¯(é«˜é€Ÿ)</group>
 		<price>10000000</price>
 		<size>4,1</size>
 		<height>2</height>
@@ -81,7 +81,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-Slope2W}">
-		<group>Œù”z“¹˜H(‚‘¬)</group>
+		<group>å‹¾é…é“è·¯(é«˜é€Ÿ)</group>
 		<price>10000000</price>
 		<size>1,4</size>
 		<height>2</height>
@@ -92,7 +92,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-RoadImg-Slope2E}">
-		<group>Œù”z“¹˜H(‚‘¬)</group>
+		<group>å‹¾é…é“è·¯(é«˜é€Ÿ)</group>
 		<price>10000000</price>
 		<size>4,1</size>
 		<height>2</height>

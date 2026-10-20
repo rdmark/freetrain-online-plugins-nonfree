@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>���^���d�v���O�C��</title>
-		<author>�ȂȂ�</author>
+	<title>旧型国電プラグイン</title>
+		<author>ななし</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	
 
 
-	<!-- 63�n�d�ԃW�����d -->
+	<!-- 63系電車ジュラ電 -->
 
-	<!-- ���n(�N���n)63 900 -->
+	<!-- モハ(クモハ)63 900 -->
 
 	<contribution type="picture" id="{Freetrain-T63-JNR-duralumin-Kumoha63900}">
 		<picture src="62d01.bmp" />
@@ -24,7 +24,7 @@
 	</contribution>
 
 
-	<!--���n63 901-->
+	<!--モハ63 901-->
 	<contribution type="picture" id="{Freetrain-T63-JNR-duralumin-moha63901}">
 		<picture src="62d02.bmp" />
 	</contribution>
@@ -40,7 +40,7 @@
 	</contribution>
 
 
-	<!--���n63 902-->
+	<!--モハ63 902-->
 
 
 	<contribution type="picture" id="{Freetrain-T63-JNR-duralumin-saha78200}">
@@ -65,15 +65,15 @@
 
 	
 	<contribution type="train" id="{Freetrain-T63-JNR-duralumin}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>63�n900�ԑ�W�����d</name>
-		<author>�ȂȂ�</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>63系900番台ジュラ電</name>
+		<author>ななし</author>
 		<description>
-			�|�̎ԑ̂̎���ԂƂ��ăW�������~���Ŏԑ̂�����
-			�ԓ��͌u�����̗p����ʏ̃W�����d�Ƃ����܂�����
-			���h�����ߕ��H����������ʎԗ��̂悤�ɓh������A
-			�ŏI�I�ɂ͈�ʂ̍|�̎ԑ̂ɉ�������܂����B
+			鋼体車体の試作車としてジュラルミンで車体を作られ
+			車内は蛍光灯採用され通称ジュラ電といわれましたが
+			無塗装ため腐食が激しく一般車両のように塗装され、
+			最終的には一般の鋼体車体に改造されました。
 			
 		</description>
 		<fare>400</fare>
@@ -94,7 +94,7 @@
 
 
 
-	<!-- ���^���d�Ԃǂ��F(2���E�N���X�V�[�g�^�C�v) -->
+	<!-- 旧型国電ぶどう色(2扉・クロスシートタイプ) -->
 
 
 	<contribution type="trainCar" id="{Freetrain-Oldtype-JNR-2doors-Kuha77}">
@@ -125,12 +125,12 @@
 
 
 	<contribution type="train" id="{Freetrain-Oldtype-JNR-2doors-budou}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>���n62�E�N�n77</name>
-		<author>�ȂȂ�</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>モハ62・クハ77</name>
+		<author>ななし</author>
 		<description>
-			��O�^�̋��^�d�ԁB���[�J�����p�ɃN���X�V�[�g���������ꂽ�^�C�v�ł�
+			戦前型の旧型電車。ローカル線用にクロスシート化改造されたタイプです
 		</description>
 		<fare>500</fare>
 		<price>25000000</price>
@@ -150,7 +150,7 @@
 	</contribution>
 
 
-	<!-- ���^���d�厅�� -->
+	<!-- 旧型国電大糸線 -->
 
 
 	<contribution type="trainCar" id="{Freetrain-Oldtype-JNR-ooito-kumoha43}">
@@ -195,7 +195,7 @@
 		<base carRef="{Freetrain-Oldtype-JNR-ooito-kuha55}"/>
 	</contribution>
 
-	<!--�N�����j81-->
+	<!--クモユニ81-->
 	<contribution type="trainCar" id="{FreeTrain-Type80e-JRN-ooito-kumoyuni}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -206,14 +206,14 @@
 	</contribution>	
 
 	<contribution type="train" id="{Freetrain-Oldtype-JNR-ooito}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>�厅��</name>
-		<author>�\�\</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>大糸線</name>
+		<author>――</author>
 		<description>
-			�厅���Ŋ��􂵂Ă����N���n43�E�N���n60�E�N�n55�ł��B
-			�����Ƃ��Ă͒������X�J�C�u���[��F�ɓh���Ă���
-			�N�����j81003�Ƌ���1981�N�܂Ŋ��􂵂܂����B
+			大糸線で活躍していたクモハ43・クモハ60・クハ55です。
+			当時としては珍しくスカイブルー一色に塗られており
+			クモユニ81003と共に1981年まで活躍しました。
 
 		</description>
 		<fare>500</fare>
@@ -246,9 +246,9 @@
 
 
 
-	<!-- 72/73�n�d�ԂԂǂ��F -->
+	<!-- 72/73系電車ぶどう色 -->
 
-	<!--�N���n�ߑ㉻�E�|�̎�-->
+	<!--クモハ近代化・鋼体車-->
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-budou-Kumoha73-modernization}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -259,7 +259,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!--���n�E�T�n-->
+	<!--モハ・サハ-->
 
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-budou-Moha73}">
@@ -271,7 +271,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!--���n-->
+	<!--モハ-->
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-budou-Moha72}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -284,7 +284,7 @@
 
 
 
-	<!--�N�n-->
+	<!--クハ-->
 
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-budou-Kuha79-modernization}">
@@ -303,14 +303,14 @@
 
 
 	<contribution type="train" id="{{Freetrain-Type72-JNR-budou}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>73�n�d�ԋߑ㉻������</name>
-		<author>�ȂȂ�</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>73系電車近代化改造車</name>
+		<author>ななし</author>
 		<description>
-			���ؒ����̂����P�Ƃ��A63�n�d�Ԃ������������`���B
-			63�n�d�Ԃ�20���[�g���̎ԑ̂�4���ƌ�̒ʋΌ^�d�Ԃ̌��^�ƂȂ����ԗ��ł��B
-			���ɑ����̉��ǂ̂ق��ԑ̂̍|�̉��E101�n�ɏ������O�ʂɂȂ����ߑ㉻�������ꂽ�^�C�v�ł��B
+			桜木町事故を教訓とし、63系電車を諸改造した形式。
+			63系電車は20メートルの車体に4扉と後の通勤型電車の原型となった車両です。
+			戦後に足回りの改良のほか車体の鋼体化・101系に準じた前面になった近代化改造されたタイプです。
 
 		</description>
 		<fare>400</fare>
@@ -327,7 +327,7 @@
 		<car char="A" ref="{Freetrain-Type72-JNR-budou-Kuha79-modernization}"/>
 		<car char="2" ref="{Freetrain-Type72-JNR-budou-Kuha79B-modernization}"/>
 		
-		<!--�����l-->
+		<!--←横浜-->
 		<composition>12</composition>
 		<composition>1M2</composition>
 		<composition>APM2</composition>
@@ -341,7 +341,7 @@
 		</config>
 	</contribution>
 
-        <!--�ߑ㉻�O-->
+        <!--近代化前-->
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-budou-Kumoha73}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -369,12 +369,12 @@
 
 
 	<contribution type="train" id="{{Freetrain-Type72-JNR-oldtype}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>73�n�Ԃǂ��F</name>
-		<author>�ȂȂ�</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>73系ぶどう色</name>
+		<author>ななし</author>
 		<description>
-			����蓙�̋ߑ㉻�����O�̋��^�C�v�ł��B�B
+			足回り等の近代化改造前の旧タイプです。。
 		</description>
 		<fare>400</fare>
 		<price>20000000</price>
@@ -393,7 +393,7 @@
 		
 
 
-			<!--�����l-->
+			<!--←横浜-->
 			<composition>12</composition>
 			<composition>AP2</composition>
 			<composition>1M212</composition>
@@ -408,12 +408,12 @@
 
 
 	<contribution type="train" id="{{Freetrain-Type72-JNR-Mix}">
-		<company>�����{���L�S��</company>
-		<type>���^���d</type>
-		<name>73�n�Ԃǂ��F+�W�����d</name>
-		<author>�ȂȂ�</author>
+		<company>旧日本国有鉄道</company>
+		<type>旧型国電</type>
+		<name>73系ぶどう色+ジュラ電</name>
+		<author>ななし</author>
 		<description>
-			��ʃ^�C�v�ƃW�����d�̍����Ґ��ł��B
+			一般タイプとジュラ電の混合編成です。
 		</description>
 		<fare>400</fare>
 		<price>20000000</price>
@@ -435,7 +435,7 @@
 			<car char="C" ref="{Freetrain-Type63-JNR-duralumin-moha63901}"/>
 			<car char="T" ref="{Freetrain-Type63-JNR-duralumin-moha63902B}"/>
 
-			<!--�����l-->
+			<!--←横浜-->
 			<composition>12HCT</composition>
 			<composition>1M2HCT</composition>
 			<composition>APM2HCT</composition>
@@ -447,7 +447,7 @@
 
 
 	
-	<!--���{��F-->
+	<!--横須賀色-->
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-sukasyoku-Kumoha73}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -458,7 +458,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!--���n�E�T�n-->
+	<!--モハ・サハ-->
 
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-sukasyoku-Moha73}">
@@ -470,7 +470,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!--���n-->
+	<!--モハ-->
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-sukasyoku-Moha72}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -482,7 +482,7 @@
 	</contribution>
 
 
-	<!--�N�n-->
+	<!--クハ-->
 
 
 	<contribution type="trainCar" id="{Freetrain-Type72-JNR-sukasyoku-Kuha79}">
@@ -502,15 +502,15 @@
 
 	<contribution type="train" id="{Freetrain-Type72-JNR-sukasyoku}">
 
-		<company>�����{���L�S��</company>
+		<company>旧日本国有鉄道</company>
 
-		<type>���^���d</type>
-		<name>73�n�X�J�F</name>
+		<type>旧型国電</type>
+		<name>73系スカ色</name>
 
-		<author>�\�\</author>
+		<author>――</author>
 
 		<description>
-			��a����d���̍ۂɓ]�����Ă����ߑ㉻73�n�d�Ԃ̉��{��F�ł��B
+			御殿場線電化の際に転属してきた近代化73系電車の横須賀色です。
 		</description>
 		<fare>400</fare>
 		<price>25000000</price>
@@ -525,7 +525,7 @@
 			<car char="P" ref="{Freetrain-Type72-JNR-sukasyoku-Moha72}"/>
 			<car char="2" ref="{Freetrain-Type72-JNR-sukasyoku-Kuha79B}"/>
 		
-			<!--�����{��-->
+			<!--←国府津-->
 			<composition>12</composition>
 			<composition>1M2</composition>
 			<composition>1MP2</composition>

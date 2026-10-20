@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�����s��ʋ�</title>
+	<title>東京都交通局</title>
  	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
  	
- 	<!-- �C���[�W�摜��` -->
- 	<!-- �s�d�ԗ��i�����s�d�j -->
+ 	<!-- イメージ画像定義 -->
+ 	<!-- 都電車両（東京市電） -->
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-TrainCarImg-TODEN7500}">
 		<picture src="toden.bmp" />
 	</contribution>
 
-	<!-- �ԗ���` -->
-	<!-- �s�d�ԗ��i7500�n�j -->
+	<!-- 車両定義 -->
+	<!-- 都電車両（7500系） -->
 	<contribution type="trainCar" id="{FreeTrain-AYASE-Hiro-TrainImg-TODEN7500}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -21,11 +21,11 @@
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-AYASE-Hiro-TrainHensei-T01}">
-		<company>�����s��ʋ�</company>
-		<type>�s�d</type>
-		<name>7500�n</name>
-		<author>�����q��</author>
-		<description>�����s��ʋǂ̘H�ʓd�ԗp�ԗ��B�ʏ�A�P�s�ŉ^�]�����B
+		<company>東京都交通局</company>
+		<type>都電</type>
+		<name>7500系</name>
+		<author>綾瀬ヒロ</author>
+		<description>東京都交通局の路面電車用車両。通常、単行で運転される。
 		</description>
 		<fare>300</fare>
 		<price>21000000</price>

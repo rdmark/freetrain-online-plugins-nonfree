@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‚Ä‚Í</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ã¦ã¯</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.teha" />
 
@@ -127,12 +127,12 @@
 
 	
 	<contribution type="GenericStructure" id="{B7330314-2AB8-48CB-842A-083088D1E239}-gs">
-		<group>ƒJ[ƒtƒFƒŠ[(‹ßŠC—p)</group>
+		<group>ã‚«ãƒ¼ãƒ•ã‚§ãƒªãƒ¼(è¿‘æµ·ç”¨)</group>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="22">
 		<picture ref="{riorio-gs-convert-teha-picture-ferry1}" />
@@ -145,12 +145,12 @@
 
 
 	<contribution type="GenericStructure" id="{E1346B3F-4B69-4831-9433-5B82F3C83324}-gs">
-		<name>‰Ý•¨‘D</name>
+		<name>è²¨ç‰©èˆ¹</name>
 		<price>50000000</price>
 		<size>4,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="38">
 		<picture ref="{riorio-gs-convert-teha-picture-kamotsu1}" />
@@ -160,12 +160,12 @@
 
 
 	<contribution type="GenericStructure" id="{B14C68C1-22CC-4BD1-B5B9-0429106E1B01}-gs">
-		<group>‰F‚˜A—‘D</group>
+		<group>å®‡é«˜é€£çµ¡èˆ¹</group>
 		<price>50000000</price>
 		<size>4,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="38">
 		<picture ref="{riorio-gs-convert-teha-picture-renraku}" />
@@ -177,7 +177,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{13C1C973-27E8-40B3-AE37-139F39D68B89}-gs">
-		<name>ƒAƒp[ƒg</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -185,7 +185,7 @@
 		<picture ref="{riorio-gs-convert-teha-picture-apart}" />
 		</sprite>
 		<structure>
-			<category byname="’À‘ÝƒAƒp[ƒg" />
+			<category byname="è³ƒè²¸ã‚¢ãƒ‘ãƒ¼ãƒˆ" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ResidentialPopulation"/>
@@ -194,12 +194,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{DFE65244-99FE-48B4-A8A7-C3AE17178798}-gs">
-		<group>Hê</group>
+		<group>å·¥å ´</group>
 		<price>50000000</price>
 		<size>2,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŒyH‹ÆHê" />
+			<category byname="è»½å·¥æ¥­å·¥å ´" />
 		</structure>
 		<sprite origin="0,0" offset="26">
 		<picture ref="{riorio-gs-convert-teha-picture-plant1}" />
@@ -207,12 +207,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{2679B42F-D747-488A-B327-6CF0CD2577DC}-gs">
-		<group>Hê</group>
+		<group>å·¥å ´</group>
 		<price>50000000</price>
 		<size>2,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŒyH‹ÆHê" />
+			<category byname="è»½å·¥æ¥­å·¥å ´" />
 		</structure>
 		<sprite origin="0,0" offset="26">
 		<picture ref="{riorio-gs-convert-teha-picture-plant2}" />
@@ -220,14 +220,14 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{E24C700F-40D3-4397-B4B3-6C9C98ECA774}-gs">
-		<name>”~“cƒXƒJƒCƒrƒ‹</name>
+		<name>æ¢…ç”°ã‚¹ã‚«ã‚¤ãƒ“ãƒ«</name>
 		<price>50000000</price>
 		<size>5,5</size>
 		<height>10</height>
 		<structure>
-			<category byname="‘ÝŽ––±Š" />
-			<category byname="“X•Ü" hide="true"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€" />
+			<category byname="åº—èˆ—" hide="true"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
 		</structure>
 		<sprite origin="0,0" offset="184">
 		<picture ref="{riorio-gs-convert-teha-picture-sinumeda}" />
@@ -236,12 +236,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{619F301B-EB53-4FA9-8B69-6A80E9C3DD42}-gs">
-		<name>‘åãƒ^ƒ[</name>
+		<name>å¤§é˜ªã‚¿ãƒ¯ãƒ¼</name>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>5</height>
 		<structure>
-			<category byname="ƒ‰ƒ“ƒhƒ}[ƒN" />
+			<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯" />
 		</structure>
 		<sprite origin="0,0" offset="82">
 		<picture ref="{riorio-gs-convert-teha-picture-osakatower}">
@@ -250,12 +250,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{5FF50C0C-BECF-4AFD-AA82-EEBE3D609BA8}-gs">
-		<name>ŠwZ</name>
+		<name>å­¦æ ¡</name>
 		<price>50000000</price>
 		<size>5,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="Œö—§¬’†ŠwZ" />
+			<category byname="å…¬ç«‹å°ä¸­å­¦æ ¡" />
 		</structure>
 		<sprite origin="0,0" offset="46">
 		<picture ref="{riorio-gs-convert-teha-picture-gakko}" />
@@ -268,12 +268,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{F5B4222A-3EA0-4F98-BECD-1F32B5E64932}-gs">
-		<name>ƒVƒƒƒAê—pƒUƒN</name>
+		<name>ã‚·ãƒ£ã‚¢å°‚ç”¨ã‚¶ã‚¯</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŒRŽ–Ž{Ý" />
+			<category byname="è»äº‹æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="32">
 		<picture ref="{riorio-gs-convert-teha-picture-zaku}" />
@@ -282,13 +282,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{2EAF3250-AA84-4B86-9F79-02D2A3DD931E}-gs">
-		<name>ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</name>
+		<name>ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</name>
 		<price>50000000</price>
 		<size>3,4</size>
 		<height>2</height>
 		<structure>
-			<category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" />
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh" hide="true" />
+			<category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" />
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰" hide="true" />
 		</structure>
 		<sprite origin="0,0" offset="50">
 		<picture ref="{riorio-gs-convert-teha-picture-supermarket}" />
@@ -296,12 +296,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{1A87615B-4B76-443F-8417-728D6BF0361A}-gs">
-		<name>ƒ_ƒ€ŒÎ</name>
+		<name>ãƒ€ãƒ æ¹–</name>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<sprite origin="0,0" offset="30">
 		<picture ref="{riorio-gs-convert-teha-picture-water3}" />
@@ -310,12 +310,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{7D039D58-B250-4A93-AE83-DD81BA77B757}-gs">
-		<name>…(ƒŒƒxƒ‹3)</name>
+		<name>æ°´(ãƒ¬ãƒ™ãƒ«3)</name>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>3</height>
 		<structure>
-			<category byname="‰Íì" />
+			<category byname="æ²³å·" />
 		</structure>
 		<sprite origin="0,0" offset="48">
 		<picture ref="{riorio-gs-convert-teha-picture-water3r}" />
@@ -325,13 +325,13 @@
 
 
 	<contribution type="GenericStructure" id="{CC6A8B66-BE28-4863-B5E5-18F238938B00}-gs">
-		<name>‘ê</name>
+		<name>æ»</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>3</height>
 		<structure>
-			<category byname="‰Íì" />
-			<category byname="ŒiŸ’n" />
+			<category byname="æ²³å·" />
+			<category byname="æ™¯å‹åœ°" />
 		</structure>
 		<sprite origin="0,0" offset="56">
 		<picture ref="{riorio-gs-convert-teha-picture-taki}" />
@@ -340,12 +340,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{7225141D-052F-4642-A084-8583DFE3484F}-gs">
-		<name>ƒ_ƒ€</name>
+		<name>ãƒ€ãƒ </name>
 		<price>50000000</price>
 		<size>2,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<sprite origin="0,0" offset="39">
 		<picture ref="{riorio-gs-convert-teha-picture-dam1}" />
@@ -355,13 +355,13 @@
 
 
 	<contribution type="GenericStructure" id="{FBDDC8DC-8E9D-422B-AD97-B7E9157D3D62}-gs">
-		<name>–‚éƒKƒbƒfƒ€</name>
+		<name>é­”åŸŽã‚¬ãƒƒãƒ‡ãƒ </name>
 		<price>50000000</price>
 		<size>2,2</size>
 		<height>2</height>
 		<structure>
-			<category byname="—V‰€’n" />
-			<category byname="ƒ‰ƒ“ƒhƒ}[ƒN" />
+			<category byname="éŠåœ’åœ°" />
+			<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯" />
 		</structure>
 		<sprite origin="0,0" offset="40">
 		<picture ref="{riorio-gs-convert-teha-picture-gaddem}" />
@@ -370,13 +370,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{6323EA1B-3D1E-4E7D-BEB9-1D6E6ED2E1A1}-gs">
-		<name>‰^–½‚Ì“ƒ</name>
+		<name>é‹å‘½ã®å¡”</name>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŽjÕ" />
-			<category byname="ƒ‰ƒ“ƒhƒ}[ƒN" />
+			<category byname="å²è·¡" />
+			<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯" />
 		</structure>
 		<sprite origin="0,0" offset="6">
 		<picture ref="{riorio-gs-convert-teha-picture-pyramid}" />
@@ -385,12 +385,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{A9823026-15C6-4836-905D-9DFE38E119A1}-gs">
-		<name>Hì‘D</name>
+		<name>å·¥ä½œèˆ¹</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="12">
 		<picture ref="{riorio-gs-convert-teha-picture-kousakusen}" />
@@ -399,12 +399,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{F752307B-C840-4162-9307-316389B29CF8}-gs">
-		<name>„Ž‹‘D</name>
+		<name>å·¡è¦–èˆ¹</name>
 		<price>50000000</price>
 		<size>3,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="18">
 		<picture ref="{riorio-gs-convert-teha-picture-jyunsi1}" />
@@ -413,12 +413,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{189F360B-CC55-4ACA-B406-1DD689F9D2E6}-gs">
-		<name>ƒtƒFƒŠ[ƒ^[ƒ~ƒiƒ‹</name>
+		<name>ãƒ•ã‚§ãƒªãƒ¼ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</name>
 		<price>50000000</price>
 		<size>3,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹q•u“ª" />
+			<category byname="æ—…å®¢åŸ é ­" />
 		</structure>
 		<sprite origin="0,0" offset="15">
 		<picture ref="{riorio-gs-convert-teha-picture-ferryterminal1}" />
@@ -428,12 +428,12 @@
 
 
 	<contribution type="GenericStructure" id="{947753DE-3568-440D-9D66-02D405001C32}-0gs">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‚»‚Ì‘¼`˜pÝ”õ" />
+			<category byname="ãã®ä»–æ¸¯æ¹¾è¨­å‚™" />
 		</structure>
 		<sprite origin="0,0" offset="0">
 		<picture ref="{4C272624-9CE6-4210-BB72-58B2D4046E15}"/>
@@ -451,12 +451,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{947753DE-3568-440D-9D66-02D405001C32}-4gs">
-		<group>ŠÝ•Ç</group>
+		<group>å²¸å£</group>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‚»‚Ì‘¼`˜pÝ”õ" />
+			<category byname="ãã®ä»–æ¸¯æ¹¾è¨­å‚™" />
 		</structure>
 		<sprite origin="128,0" offset="0">
 		<picture ref="{4C272624-9CE6-4210-BB72-58B2D4046E15}"/>
@@ -465,12 +465,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{53134BEE-9DE4-4660-9966-01764EC731D0}-gs">
-		<name>‚³‚ñ‚Ó‚ç‚í‚ </name>
+		<name>ã•ã‚“ãµã‚‰ã‚ã‚</name>
 		<price>50000000</price>
 		<size>1,5</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="-1">
 		<picture ref="{riorio-gs-convert-teha-picture-sunflower1}" />
@@ -479,12 +479,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{61CD8A5D-6A2D-4EC6-A1AA-99319C83EC2E}-gs">
-		<name>ƒJ[ƒtƒFƒŠ[(‰“—m)</name>
+		<name>ã‚«ãƒ¼ãƒ•ã‚§ãƒªãƒ¼(é æ´‹)</name>
 		<price>50000000</price>
 		<size>1,5</size>
 		<height>1</height>
 		<structure>
-			<category byname="‘D”•ŠÖ˜AŽ{Ý" />
+			<category byname="èˆ¹èˆ¶é–¢é€£æ–½è¨­" />
 		</structure>
 		<sprite origin="0,0" offset="1">
 		<picture ref="{riorio-gs-convert-teha-picture-ferry2}" />
@@ -493,12 +493,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{C4A9FCAA-2754-409B-ABE3-573EF5DE92E6}-gs">
-		<name>…(ƒŒƒxƒ‹1)</name>
+		<name>æ°´(ãƒ¬ãƒ™ãƒ«1)</name>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="‰Íì" />
+			<category byname="æ²³å·" />
 		</structure>
 		<sprite origin="0,0" offset="0">
 		<picture ref="{riorio-gs-convert-teha-picture-water1}" />
@@ -507,13 +507,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{DFBD51DE-E6D1-4CE0-BD2F-5C0E1CBC61FE}-gs">
-		<name>Ã‰ª•ú‘—“Œ‹žŽxŽÐ</name>
+		<name>é™å²¡æ”¾é€æ±äº¬æ”¯ç¤¾</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>4</height>
 		<structure>
-			<category byname="ƒ‰ƒ“ƒhƒ}[ƒN" />
-			<category byname="•ú‘—ƒƒfƒBƒA" />
+			<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯" />
+			<category byname="æ”¾é€ãƒ¡ãƒ‡ã‚£ã‚¢" />
 		</structure>
 		<sprite origin="0,0" offset="72">
 		<picture ref="{riorio-gs-convert-teha-picture-sizuoka1}" />
@@ -522,13 +522,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{F34E2C0D-9ECE-4590-A25A-3203BA9184C8}-gs">
-		<name>’†‹âƒJƒvƒZƒ‹ƒ^ƒ[ƒrƒ‹</name>
+		<name>ä¸­éŠ€ã‚«ãƒ—ã‚»ãƒ«ã‚¿ãƒ¯ãƒ¼ãƒ“ãƒ«</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>3</height>
 		<structure>
-			<category byname="‹âs" />
-			<category byname="‘ÝŽ––±Š" hide="true"/>
+			<category byname="éŠ€è¡Œ" />
+			<category byname="è²¸äº‹å‹™æ‰€" hide="true"/>
 		</structure>
 		<sprite origin="0,0" offset="40">
 		<picture ref="{riorio-gs-convert-teha-picture-nakagin1}" />
@@ -537,12 +537,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{5C13B5F3-7CDF-44A4-9C59-3D359E4DB6FE}-gs">
-		<name>ƒ\ƒj[ƒ^ƒ[</name>
+		<name>ã‚½ãƒ‹ãƒ¼ã‚¿ãƒ¯ãƒ¼</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>4</height>
 		<structure>
-			<category byname="Šé‹ÆŽ––±Š" />
+			<category byname="ä¼æ¥­äº‹å‹™æ‰€" />
 		</structure>
 		<sprite origin="0,0" offset="62">
 		<picture ref="{riorio-gs-convert-teha-picture-sonytower}" />
@@ -551,15 +551,15 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{54A932D2-12BE-44BF-8E63-B517E93354F8}-gs">
-		<name>ƒAƒNƒeƒB‘åã</name>
+		<name>ã‚¢ã‚¯ãƒ†ã‚£å¤§é˜ª</name>
 		<price>50000000</price>
 		<size>4,2</size>
 		<height>8</height>
 		<structure>
-			<category byname="“X•Ü" hide="true"/>
-			<category byname="‘ÝŽ––±Š" />
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="ƒrƒWƒlƒXƒzƒeƒ‹" />
+			<category byname="åº—èˆ—" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€" />
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="ãƒ“ã‚¸ãƒã‚¹ãƒ›ãƒ†ãƒ«" />
 		</structure>
 		<sprite origin="0,0" offset="136">
 		<picture ref="{riorio-gs-convert-teha-picture-actyosaka}" />

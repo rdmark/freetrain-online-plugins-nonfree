@@ -1,140 +1,140 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>113�n�p�b�N</title>
-  <author>�k�̋D�ԉ�</author>
+  <title>113系パック</title>
+  <author>北の汽車屋</author>
   <homepage></homepage>
-<!-- 113�n�擪�ԉ��{�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 113系先頭車横須賀 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113suka_a.bmp" /> 
   </sprite>
   <capacity>122</capacity> 
     <seatedcapacity>64</seatedcapacity>
   </contribution>
-<!-- 113�n�Ō���ԉ��{�� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 113系最後尾車横須賀 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-A}" />  
   </contribution> 
-<!--�@113�n���Ԏԉ��{��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系中間車横須賀-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113suka_b.bmp" /> 
   </sprite>
     <capacity>128</capacity>
     <seatedcapacity>76</seatedcapacity>
   </contribution>
-<!--�@113�nG�ԉ��{��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-G}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系G車横須賀-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-G}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saro124suka.bmp" /> 
   </sprite>
   <capacity>90</capacity> 
   <seatedcapacity>90</seatedcapacity> 
   </contribution>
-<!--�@113�nG�ԕ����\�����{��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-H}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系G車平屋構造横須賀-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113YOKOSUKA-H}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saro110suka.bmp" /> 
   </sprite>
   <capacity>60</capacity> 
   <seatedcapacity>60</seatedcapacity> 
   </contribution>
-<!-- 113�n�擪�Խ��F --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 113系先頭車ｽｶ色 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113suka_a.bmp" /> 
   </sprite>
   <capacity>122</capacity> 
     <seatedcapacity>64</seatedcapacity>
   </contribution>
-<!-- 113�n�Ō���Խ��F -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 113系最後尾車ｽｶ色 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-A}" />  
   </contribution> 
-<!--�@113�n���ԎԽ��F-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系中間車ｽｶ色-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC3-113SUKASHOKU-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113suka_b.bmp" /> 
   </sprite>
     <capacity>128</capacity>
     <seatedcapacity>76</seatedcapacity>
   </contribution>
-<!-- 113�n�擪�ԓ��C�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 113系先頭車東海道 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113tokaido_a.bmp" /> 
   </sprite>
   <capacity>122</capacity> 
     <seatedcapacity>64</seatedcapacity>
   </contribution>
-<!-- 113�n�Ō���ԓ��C�� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 113系最後尾車東海道 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-A}" />  
   </contribution> 
-<!--�@113�n���Ԏԓ��C��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系中間車東海道-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113tokaido_b.bmp" /> 
   </sprite>
     <capacity>128</capacity>
     <seatedcapacity>76</seatedcapacity>
   </contribution>
-<!--�@113�nG�ԓ��C��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-G}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系G車東海道-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-G}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saro124tokaido_a.bmp" /> 
   </sprite>
   <capacity>90</capacity> 
   <seatedcapacity>90</seatedcapacity> 
   </contribution>
-<!--�@113�nG�ԓ��C���ڐЌ^-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113TOKAIDO-G2}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系G車東海道移籍型-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-113TOKAIDO-G2}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saro124tokaido_b.bmp" /> 
   </sprite>
   <capacity>90</capacity> 
   <seatedcapacity>90</seatedcapacity> 
   </contribution>
-<!--�@113�nG�ԕ����\�����C��-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-H}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系G車平屋構造東海道-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36E-113TOKAIDO-H}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="saro110tokaido.bmp" /> 
   </sprite>
   <capacity>60</capacity> 
   <seatedcapacity>60</seatedcapacity> 
   </contribution>
-<!-- 113�n�擪�ԏÓ�F --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 113系先頭車湘南色 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113tokaido_a.bmp" /> 
   </sprite>
   <capacity>122</capacity> 
   <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!-- 113�n�Ō���ԏÓ�F -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 113系最後尾車湘南色 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-A}" />  
   </contribution> 
-<!--�@113�n���ԎԏÓ�F-->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--　113系中間車湘南色-->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-A-113SHONANSHOKU-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="113tokaido_b.bmp" /> 
   </sprite>
     <capacity>128</capacity>
@@ -142,11 +142,11 @@
   </contribution>
 
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-113YOKOSUKA}">
-<company>JR�����{</company>
-<type>113�n</type>
-<name>���{��E������</name>
-<author>�k�̋D�ԉ�</author>
-<description>���S���W���^�ߍx�^�ԗ��Ƃ��ĊJ���������́B���݂͓������i��ł���B���{����ɔz������Ă������͓̂��C�����Ɠ��lW�f�b�J�[�̃O���[���Ԃƕ����\���̃O���[���Ԃ̃j�^�C�v��A�����Ă����B
+<company>JR東日本</company>
+<type>113系</type>
+<name>横須賀・総武線</name>
+<author>北の汽車屋</author>
+<description>国鉄が標準型近郊型車両として開発したもの。現在は淘汰が進んでいる。横須賀線に配備されていたものは東海道線と同様Wデッカーのグリーン車と平屋構造のグリーン車のニタイプを連結していた。
 </description>
 <fare>550</fare>
 <price>38500000</price>
@@ -170,11 +170,11 @@
 </config>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC3-B-113SUKASHOKU}">
-<company>JR�����{</company>
-<type>113�n</type>
-<name>�X�J�F</name>
-<author>�k�̋D�ԉ�</author>
-<description>���S���W���^�ߍx�^�ԗ��Ƃ��ĊJ���������́B���݂͓������i��ł���B���{����̃J���[�����O�ɏ��������̂��X�J�F�ƌĂԁB</description>
+<company>JR東日本</company>
+<type>113系</type>
+<name>スカ色</name>
+<author>北の汽車屋</author>
+<description>国鉄が標準型近郊型車両として開発したもの。現在は淘汰が進んでいる。横須賀線のカラーリングに準じたものをスカ色と呼ぶ。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>95</amenity>
@@ -187,11 +187,11 @@
 </composition>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-BE-113TOKAIDO}">
-<company>JR�����{</company>
-<type>113�n</type>
-<name>���C����</name>
-<author>�k�̋D�ԉ�</author>
-<description>���S���W���^�ߍx�^�ԗ��Ƃ��ĊJ���������́B���݂͓������i��ł���B���C�����ɔz������Ă������͉̂��{����Ɠ��lW�f�b�J�[�̃O���[���Ԃƕ����\���̃O���[���Ԃ̃j�^�C�v��A�����Ă���B
+<company>JR東日本</company>
+<type>113系</type>
+<name>東海道線</name>
+<author>北の汽車屋</author>
+<description>国鉄が標準型近郊型車両として開発したもの。現在は淘汰が進んでいる。東海道線に配備されていたものは横須賀線と同様Wデッカーのグリーン車と平屋構造のグリーン車のニタイプを連結している。
 </description>
 <fare>550</fare>
 <price>38500000</price>
@@ -213,11 +213,11 @@
 </config>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-113TOKAIDO2}">
-<company>JR�����{</company>
-<type>113�n</type>
-<name>���C����(���{��T��124�g�ݍ���)</name>
-<author>�k�̋D�ԉ�</author>
-<description>���S���W���^�ߍx�^�ԗ��Ƃ��ĊJ���������́B���݂͓������i��ł���B���{�����113�n���������ꂽ�ہA�ԗ�̎Ⴂ�T��124�݂̂𓌊C������113�n�ɑg�ݍ��񂾂��̂悤�ȕҐ������􂵂Ă���B
+<company>JR東日本</company>
+<type>113系</type>
+<name>東海道線(横須賀サロ124組み込み)</name>
+<author>北の汽車屋</author>
+<description>国鉄が標準型近郊型車両として開発したもの。現在は淘汰が進んでいる。横須賀線の113系が淘汰された際、車齢の若いサロ124のみを東海道線の113系に組み込んだこのような編成も活躍している。
 </description>
 <fare>550</fare>
 <price>38500000</price>
@@ -239,11 +239,11 @@
 </config>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC-B-113SHONANSHOKU}">
-<company>JR�����{</company>
-<type>113�n</type>
-<name>�Ó�F(kitapoppoya)</name>
-<author>�k�̋D�ԉ�</author>
-<description>���S���W���^�ߍx�^�ԗ��Ƃ��ĊJ���������́B���݂͓������i��ł���B���C�����̃J���[�����O�ɏ��������̂��Ó�F�ƌĂԁB</description>
+<company>JR東日本</company>
+<type>113系</type>
+<name>湘南色(kitapoppoya)</name>
+<author>北の汽車屋</author>
+<description>国鉄が標準型近郊型車両として開発したもの。現在は淘汰が進んでいる。東海道線のカラーリングに準じたものを湘南色と呼ぶ。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>95</amenity>

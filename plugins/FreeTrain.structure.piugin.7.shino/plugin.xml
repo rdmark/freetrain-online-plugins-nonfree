@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY building2x2ParamA '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<price>33000000</price>
 	<size>2,2</size>
 	<minHeight>5</minHeight>
@@ -12,7 +12,7 @@
 	</population>
 '>
 <!ENTITY building2x2ParamB '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<price>31000000</price>
 	<size>2,2</size>
 	<minHeight>3</minHeight>
@@ -23,7 +23,7 @@
 	</population>
 '>
 <!ENTITY building2x2ParamC '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<price>27000000</price>
 	<size>2,2</size>
 	<minHeight>3</minHeight>
@@ -36,8 +36,8 @@
 ]>
 	
 <plug-in>
-	<title>ビルプラグイン</title>
-	<author>しの</author>
+	<title>繝薙Ν繝励Λ繧ｰ繧､繝ｳ</title>
+	<author>縺励�ｮ</author>
 	<homepage></homepage>
 
 

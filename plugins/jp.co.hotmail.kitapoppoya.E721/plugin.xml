@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>E721�n�p�b�N</title>
-  <author>�k�̋D�ԉ�</author>
+  <title>E721系パック</title>
+  <author>北の汽車屋</author>
   <homepage></homepage>
-<!-- E721�n�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- E721系先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E721.bmp" /> 
   </sprite>
   <capacity>134</capacity> 
   <seatedcapacity>53</seatedcapacity> 
   </contribution>
-<!-- E721�n�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E721系最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-E721-A}" />  
   </contribution>
-<!-- E721�n500�ԑ�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721500-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- E721系500番台先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721500-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="E721_500.bmp" /> 
   </sprite>
   <capacity>134</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- E721�n500�ԑ�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721500-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E721系500番台最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-E721500-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-E721500-A}" />  
   </contribution> 
-<!-- SAT721�n�擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-SAT721-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- SAT721系先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-SAT721-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="SAT721.bmp" /> 
   </sprite>
   <capacity>134</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- SAT721�n�ԑ�Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-SAT721-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- SAT721系番台最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-SAT721-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-SAT721-A}" />  
   </contribution>
 
 <contribution type="train" id="{669D5BDE-23F1-43BD-AC-B-E721}">
-<company>JR�����{</company>
-<type>E721�n</type>
-<name>���k�{�����֐��Ȃ�</name>
-<author>�k�̋D�ԉ�</author>
-<description>�������������n��̋}�s�^�ԗ��u�������̂��ߐ������ꂽ�ԗ��B</description>
+<company>JR東日本</company>
+<type>E721系</type>
+<name>東北本線･常磐線など</name>
+<author>北の汽車屋</author>
+<description>旧式化した仙台地区の急行型車両置き換えのため製造された車両。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>110</amenity>
@@ -69,11 +69,11 @@
 </contribution>
 
 <contribution type="train" id="{669D5BDE-23F1-43BD-AC-B-E721500}">
-<company>JR�����{</company>
-<type>E721�n500�ԑ�</type>
-<name>����`��</name>
-<author>�k�̋D�ԉ�</author>
-<description>����`���̊J�Ƃɍ��킹�Đ������ꂽ�ԗ��B0�ԑ�ɔ�׋�`�A�N�Z�X�S���Ƃ��Ă̂��܂��܂ȉ��ǂ��{����Ă���B</description>
+<company>JR東日本</company>
+<type>E721系500番台</type>
+<name>仙台空港線</name>
+<author>北の汽車屋</author>
+<description>仙台空港線の開業に合わせて製造された車両。0番台に比べ空港アクセス鉄道としてのさまざまな改良が施されている。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>110</amenity>
@@ -90,11 +90,11 @@
 </config>
 </contribution>
 <contribution type="train" id="{669D5BDE-23F1-43BD-AC-B-SAT721}">
-<company>����`�S��</company>
-<type>SAT721�n</type>
-<name>����`��</name>
-<author>�k�̋D�ԉ�</author>
-<description>����`���̊J�Ƃɍ��킹�Đ������ꂽ�ԗ��B�h���ȊO��JR��E721�n500�ԑ�Ƃقړ��d�l�ł���B</description>
+<company>仙台空港鉄道</company>
+<type>SAT721系</type>
+<name>仙台空港線</name>
+<author>北の汽車屋</author>
+<description>仙台空港線の開業に合わせて製造された車両。塗装以外はJRのE721系500番台とほぼ同仕様である。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>110</amenity>

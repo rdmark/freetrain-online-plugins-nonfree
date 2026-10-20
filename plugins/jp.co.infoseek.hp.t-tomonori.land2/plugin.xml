@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-	<title>‚µ‚©‚µ‚©‚³‚ñ‚Ìƒoƒ‰ƒXƒg’n•\”Å</title>
-	<author>’|“à ’q‹I</author>
+	<title>ã—ã‹ã—ã‹ã•ã‚“ã®ãƒãƒ©ã‚¹ãƒˆåœ°è¡¨ç‰ˆ</title>
+	<author>ç«¹å†… æ™ºç´€</author>
 	<homepage>http://t-tomonori.hp.infoseek.co.jp</homepage>
 
 	<contribution type="land" id="{tomonori-ballast-grey-8D86-7FD3B9B26994}">
-		<group>ƒoƒ‰ƒXƒg</group>
-		<name>ŠDF</name>
+		<group>ãƒãƒ©ã‚¹ãƒˆ</group>
+		<name>ç°è‰²</name>
 		<price>10000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		<sprite origin="0,0" offset="16" size="32,32">
@@ -16,8 +16,8 @@
 	</contribution>
 
 	<contribution type="land" id="{tomonori-ballast-ocher-8D86-7FD3B9B26994}">
-		<group>ƒoƒ‰ƒXƒg</group>
-		<name>“yF</name>
+		<group>ãƒãƒ©ã‚¹ãƒˆ</group>
+		<name>åœŸè‰²</name>
 		<price>10000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		<sprite origin="0,0" offset="16" size="32,32">
@@ -27,8 +27,8 @@
 	</contribution>
 
 	<contribution type="land" id="{tomonori-ballast-brown-8D86-7FD3B9B26994}">
-		<group>ƒoƒ‰ƒXƒg</group>
-		<name>’ƒF</name>
+		<group>ãƒãƒ©ã‚¹ãƒˆ</group>
+		<name>èŒ¶è‰²</name>
 		<price>10000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		<sprite origin="0,0" offset="16" size="32,32">

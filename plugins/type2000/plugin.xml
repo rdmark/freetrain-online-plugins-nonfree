@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
   <title>TYPE2000</title> 
-  <author>‚µ‚Ì</author> 
+  <author>ã—ã®</author> 
   <homepage></homepage>
  
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a.bmp" /> 
   </sprite>
   <capacity>140</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{6F2F2667-05F0-4595-9A44-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{6F2F2667-05F0-4595-9A44-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
@@ -38,11 +38,11 @@
   </contribution>
 
   <contribution type="train" id="{79C7B654-0E5E-402D-87CB-525CA403F917}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢Œã(’á)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>1982”N‚É“oê‚µ‚½2000Œ`2”àƒNƒƒXƒV[ƒgŽÔ‚ð‰ü‘¢‚µ‚½ŽÔ—¼B‰ü‘¢Œã‚ÌŽÔ—¼‚ÍA”à‚ð’†‰›‚É‘Ý‚µ3”à‰»‚³‚êAÀÈ‚ªƒNƒƒXƒV[ƒg‚©‚çƒƒ“ƒOƒV[ƒg‚É•ÏX‚³‚ê‚½B‚¾‚ªA«”\‚Í‚à‚Æ‚à‚Æ‚Ì2”àƒNƒƒXƒV[ƒgŽÔŽž‘ã‚Ì‚Ü‚ÜŽc‚³‚ê‚½‚½‚ßA‰õ“Á‰^—p‚ÌŠî–{••t‘®•Ò¬‚Æ‚à‚ÉŠˆ–ô‚Ìê‚ðL‚°‚½B(‚±‚ÌŽÔ—¼‚Í’á‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å¾Œ(ä½Ž)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>1982å¹´ã«ç™»å ´ã—ãŸ2000å½¢2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šã‚’æ”¹é€ ã—ãŸè»Šä¸¡ã€‚æ”¹é€ å¾Œã®è»Šä¸¡ã¯ã€æ‰‰ã‚’ä¸­å¤®ã«å¢—è¨­ã—3æ‰‰åŒ–ã•ã‚Œã€åº§å¸­ãŒã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆã‹ã‚‰ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆã«å¤‰æ›´ã•ã‚ŒãŸã€‚ã ãŒã€æ€§èƒ½ã¯ã‚‚ã¨ã‚‚ã¨ã®2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šæ™‚ä»£ã®ã¾ã¾æ®‹ã•ã‚ŒãŸãŸã‚ã€å¿«ç‰¹é‹ç”¨ã®åŸºæœ¬ï¼†ä»˜å±žç·¨æˆã¨ã‚‚ã«æ´»èºã®å ´ã‚’åºƒã’ãŸã€‚(ã“ã®è»Šä¸¡ã¯ä½Žé€Ÿåž‹)
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -50,43 +50,43 @@
 <speed>slow</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
-<car char="’†" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
-<car char="Œã" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
+<car char="å‰" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
+<car char="ä¸­" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
 <car char="P" ref="{6F2F2667-05F0-4595-9A44-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a.bmp" /> 
   </sprite>
   <capacity>142</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{4F2F2667-05F0-4595-9A44-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{4F2F2667-05F0-4595-9A44-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
@@ -94,11 +94,11 @@
   </contribution>
 
   <contribution type="train" id="{52C7B654-0E5E-402D-87CB-525CA403F917}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢Œã(’†)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>1982”N‚É“oê‚µ‚½2000Œ`2”àƒNƒƒXƒV[ƒgŽÔ‚ð‰ü‘¢‚µ‚½ŽÔ—¼B‰ü‘¢Œã‚ÌŽÔ—¼‚ÍA”à‚ð’†‰›‚É‘Ý‚µ3”à‰»‚³‚êAÀÈ‚ªƒNƒƒXƒV[ƒg‚©‚çƒƒ“ƒOƒV[ƒg‚É•ÏX‚³‚ê‚½B‚¾‚ªA«”\‚Í‚à‚Æ‚à‚Æ‚Ì2”àƒNƒƒXƒV[ƒgŽÔŽž‘ã‚Ì‚Ü‚ÜŽc‚³‚ê‚½‚½‚ßA‰õ“Á‰^—p‚ÌŠî–{••t‘®•Ò¬‚Æ‚à‚ÉŠˆ–ô‚Ìê‚ðL‚°‚½B(‚±‚ÌŽÔ—¼‚Í’†‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å¾Œ(ä¸­)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>1982å¹´ã«ç™»å ´ã—ãŸ2000å½¢2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šã‚’æ”¹é€ ã—ãŸè»Šä¸¡ã€‚æ”¹é€ å¾Œã®è»Šä¸¡ã¯ã€æ‰‰ã‚’ä¸­å¤®ã«å¢—è¨­ã—3æ‰‰åŒ–ã•ã‚Œã€åº§å¸­ãŒã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆã‹ã‚‰ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆã«å¤‰æ›´ã•ã‚ŒãŸã€‚ã ãŒã€æ€§èƒ½ã¯ã‚‚ã¨ã‚‚ã¨ã®2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šæ™‚ä»£ã®ã¾ã¾æ®‹ã•ã‚ŒãŸãŸã‚ã€å¿«ç‰¹é‹ç”¨ã®åŸºæœ¬ï¼†ä»˜å±žç·¨æˆã¨ã‚‚ã«æ´»èºã®å ´ã‚’åºƒã’ãŸã€‚(ã“ã®è»Šä¸¡ã¯ä¸­é€Ÿåž‹)
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -106,43 +106,43 @@
 <speed>medium</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
-<car char="’†" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
-<car char="Œã" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
+<car char="å‰" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
+<car char="ä¸­" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
 <car char="P" ref="{4F2F2667-05F0-4595-9A44-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a.bmp" /> 
   </sprite>
   <capacity>142</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{2F2F2667-05F0-4595-9A44-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{2F2F2667-05F0-4595-9A44-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p.bmp" /> 
   </sprite>
   <capacity>162</capacity> 
@@ -150,11 +150,11 @@
   </contribution>
 
   <contribution type="train" id="{75G3A011-0E5E-402D-87CB-525CA403F917}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢Œã(‚)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>1982”N‚É“oê‚µ‚½2000Œ`2”àƒNƒƒXƒV[ƒgŽÔ‚ð‰ü‘¢‚µ‚½ŽÔ—¼B‰ü‘¢Œã‚ÌŽÔ—¼‚ÍA”à‚ð’†‰›‚É‘Ý‚µ3”à‰»‚³‚êAÀÈ‚ªƒNƒƒXƒV[ƒg‚©‚çƒƒ“ƒOƒV[ƒg‚É•ÏX‚³‚ê‚½B‚¾‚ªA«”\‚Í‚à‚Æ‚à‚Æ‚Ì2”àƒNƒƒXƒV[ƒgŽÔŽž‘ã‚Ì‚Ü‚ÜŽc‚³‚ê‚½‚½‚ßA‰õ“Á‰^—p‚ÌŠî–{••t‘®•Ò¬‚Æ‚à‚ÉŠˆ–ô‚Ìê‚ðL‚°‚½B(‚±‚ÌŽÔ—¼‚Í‚‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å¾Œ(é«˜)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>1982å¹´ã«ç™»å ´ã—ãŸ2000å½¢2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šã‚’æ”¹é€ ã—ãŸè»Šä¸¡ã€‚æ”¹é€ å¾Œã®è»Šä¸¡ã¯ã€æ‰‰ã‚’ä¸­å¤®ã«å¢—è¨­ã—3æ‰‰åŒ–ã•ã‚Œã€åº§å¸­ãŒã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆã‹ã‚‰ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆã«å¤‰æ›´ã•ã‚ŒãŸã€‚ã ãŒã€æ€§èƒ½ã¯ã‚‚ã¨ã‚‚ã¨ã®2æ‰‰ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆè»Šæ™‚ä»£ã®ã¾ã¾æ®‹ã•ã‚ŒãŸãŸã‚ã€å¿«ç‰¹é‹ç”¨ã®åŸºæœ¬ï¼†ä»˜å±žç·¨æˆã¨ã‚‚ã«æ´»èºã®å ´ã‚’åºƒã’ãŸã€‚(ã“ã®è»Šä¸¡ã¯é«˜é€Ÿåž‹)
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -162,45 +162,45 @@
 <speed>fast</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
-<car char="’†" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
-<car char="Œã" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
+<car char="å‰" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-A"/>
+<car char="ä¸­" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-B"/> 
 <car char="P" ref="{2F2F2667-05F0-4595-9A44-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
 
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a old.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{835CA09F-1ECC-470A-OLD-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-1ECC-470A-OLD-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
@@ -208,11 +208,11 @@
   </contribution>
 
   <contribution type="train" id="{628615F9-AECD-4E43-A179-088290B7B216}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢‘O(’á)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>‰õ‘¬“Á‹}—p‚Æ‚µ‚ÄŠˆ–ô‚µ‚Ä‚«‚½‹Œ600Œ`‚ÌŒãŒpŽÔ—¼‚Æ‚µ‚Ä1982(º˜a57)”N‚É“oê‚µ‚Ü‚µ‚½BŽº“à‚Í‰^“]Žº‚Ì’¼Œã‚ðœ‚¢‚ÄƒNƒƒXƒV[ƒg‚ª”z—ñ‚³‚ê‚Ä‚¢‚Ü‚·B•Ò¬‚Í8çqŒÅ’è•Ò¬‚Ì‘¼‚ÉA12—¼•Ò¬‚É‘Î‰ž‚·‚é‚½‚ß‚Ì4çq•Ò¬‚ª1985(º˜a60)”N‚©‚ç»‘¢‚³‚êA’©•û—[•ûƒ‰ƒbƒVƒ…Žž‚Ì‘Œ‹‚âA4çq{4çq‚Ì8çq•Ò¬‚Å‰^—p‚³‚ê‚Ä‚¢‚Ü‚µ‚½B(‚±‚ÌŽÔ—¼‚Í’á‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å‰(ä½Ž)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>å¿«é€Ÿç‰¹æ€¥ç”¨ã¨ã—ã¦æ´»èºã—ã¦ããŸæ—§600å½¢ã®å¾Œç¶™è»Šä¸¡ã¨ã—ã¦1982(æ˜­å’Œ57)å¹´ã«ç™»å ´ã—ã¾ã—ãŸã€‚å®¤å†…ã¯é‹è»¢å®¤ã®ç›´å¾Œã‚’é™¤ã„ã¦ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆãŒé…åˆ—ã•ã‚Œã¦ã„ã¾ã™ã€‚ç·¨æˆã¯8è¼Œå›ºå®šç·¨æˆã®ä»–ã«ã€12ä¸¡ç·¨æˆã«å¯¾å¿œã™ã‚‹ãŸã‚ã®4è¼Œç·¨æˆãŒ1985(æ˜­å’Œ60)å¹´ã‹ã‚‰è£½é€ ã•ã‚Œã€æœæ–¹å¤•æ–¹ãƒ©ãƒƒã‚·ãƒ¥æ™‚ã®å¢—çµã‚„ã€4è¼Œï¼‹4è¼Œã®8è¼Œç·¨æˆã§é‹ç”¨ã•ã‚Œã¦ã„ã¾ã—ãŸã€‚(ã“ã®è»Šä¸¡ã¯ä½Žé€Ÿåž‹)
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -221,43 +221,43 @@
 		<triprange>middle</triprange>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-A"/>
-<car char="’†" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-C"/>
-<car char="Œã" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-B"/> 
+<car char="å‰" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-A"/>
+<car char="ä¸­" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-B"/> 
 <car char="P" ref="{835CA09F-1ECC-470A-OLD-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a old.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{835CA09F-2ECC-470A-OLD-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-2ECC-470A-OLD-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
@@ -265,11 +265,11 @@
   </contribution>
 
   <contribution type="train" id="{123F092D-91F0-449C-BCB3-9A2A189650B8}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢‘O(’†)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>‰õ‘¬“Á‹}—p‚Æ‚µ‚ÄŠˆ–ô‚µ‚Ä‚«‚½‹Œ600Œ`‚ÌŒãŒpŽÔ—¼‚Æ‚µ‚Ä1982(º˜a57)”N‚É“oê‚µ‚Ü‚µ‚½BŽº“à‚Í‰^“]Žº‚Ì’¼Œã‚ðœ‚¢‚ÄƒNƒƒXƒV[ƒg‚ª”z—ñ‚³‚ê‚Ä‚¢‚Ü‚·B•Ò¬‚Í8çqŒÅ’è•Ò¬‚Ì‘¼‚ÉA12—¼•Ò¬‚É‘Î‰ž‚·‚é‚½‚ß‚Ì4çq•Ò¬‚ª1985(º˜a60)”N‚©‚ç»‘¢‚³‚êA’©•û—[•ûƒ‰ƒbƒVƒ…Žž‚Ì‘Œ‹‚âA4çq{4çq‚Ì8çq•Ò¬‚Å‰^—p‚³‚ê‚Ä‚¢‚Ü‚µ‚½B(‚±‚ÌŽÔ—¼‚Í’†‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å‰(ä¸­)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>å¿«é€Ÿç‰¹æ€¥ç”¨ã¨ã—ã¦æ´»èºã—ã¦ããŸæ—§600å½¢ã®å¾Œç¶™è»Šä¸¡ã¨ã—ã¦1982(æ˜­å’Œ57)å¹´ã«ç™»å ´ã—ã¾ã—ãŸã€‚å®¤å†…ã¯é‹è»¢å®¤ã®ç›´å¾Œã‚’é™¤ã„ã¦ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆãŒé…åˆ—ã•ã‚Œã¦ã„ã¾ã™ã€‚ç·¨æˆã¯8è¼Œå›ºå®šç·¨æˆã®ä»–ã«ã€12ä¸¡ç·¨æˆã«å¯¾å¿œã™ã‚‹ãŸã‚ã®4è¼Œç·¨æˆãŒ1985(æ˜­å’Œ60)å¹´ã‹ã‚‰è£½é€ ã•ã‚Œã€æœæ–¹å¤•æ–¹ãƒ©ãƒƒã‚·ãƒ¥æ™‚ã®å¢—çµã‚„ã€4è¼Œï¼‹4è¼Œã®8è¼Œç·¨æˆã§é‹ç”¨ã•ã‚Œã¦ã„ã¾ã—ãŸã€‚(ã“ã®è»Šä¸¡ã¯ä¸­é€Ÿåž‹)
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -278,43 +278,43 @@
 <speed>medium</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-A"/>
-<car char="’†" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-C"/>
-<car char="Œã" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-B"/> 
+<car char="å‰" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-A"/>
+<car char="ä¸­" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-B"/> 
 <car char="P" ref="{835CA09F-2ECC-470A-OLD-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a old.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{835CA09F-3ECC-470A-OLD-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-3ECC-470A-OLD-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
@@ -322,11 +322,11 @@
   </contribution>
 
   <contribution type="train" id="{6204E5B8-6EB6-4F64-A14D-44694A5C5D02}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢‘O(‚)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>‰õ‘¬“Á‹}—p‚Æ‚µ‚ÄŠˆ–ô‚µ‚Ä‚«‚½‹Œ600Œ`‚ÌŒãŒpŽÔ—¼‚Æ‚µ‚Ä1982(º˜a57)”N‚É“oê‚µ‚Ü‚µ‚½BŽº“à‚Í‰^“]Žº‚Ì’¼Œã‚ðœ‚¢‚ÄƒNƒƒXƒV[ƒg‚ª”z—ñ‚³‚ê‚Ä‚¢‚Ü‚·B•Ò¬‚Í8çqŒÅ’è•Ò¬‚Ì‘¼‚ÉA12—¼•Ò¬‚É‘Î‰ž‚·‚é‚½‚ß‚Ì4çq•Ò¬‚ª1985(º˜a60)”N‚©‚ç»‘¢‚³‚êA’©•û—[•ûƒ‰ƒbƒVƒ…Žž‚Ì‘Œ‹‚âA4çq{4çq‚Ì8çq•Ò¬‚Å‰^—p‚³‚ê‚Ä‚¢‚Ü‚µ‚½B(‚±‚ÌŽÔ—¼‚Í‚‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å‰(é«˜)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>å¿«é€Ÿç‰¹æ€¥ç”¨ã¨ã—ã¦æ´»èºã—ã¦ããŸæ—§600å½¢ã®å¾Œç¶™è»Šä¸¡ã¨ã—ã¦1982(æ˜­å’Œ57)å¹´ã«ç™»å ´ã—ã¾ã—ãŸã€‚å®¤å†…ã¯é‹è»¢å®¤ã®ç›´å¾Œã‚’é™¤ã„ã¦ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆãŒé…åˆ—ã•ã‚Œã¦ã„ã¾ã™ã€‚ç·¨æˆã¯8è¼Œå›ºå®šç·¨æˆã®ä»–ã«ã€12ä¸¡ç·¨æˆã«å¯¾å¿œã™ã‚‹ãŸã‚ã®4è¼Œç·¨æˆãŒ1985(æ˜­å’Œ60)å¹´ã‹ã‚‰è£½é€ ã•ã‚Œã€æœæ–¹å¤•æ–¹ãƒ©ãƒƒã‚·ãƒ¥æ™‚ã®å¢—çµã‚„ã€4è¼Œï¼‹4è¼Œã®8è¼Œç·¨æˆã§é‹ç”¨ã•ã‚Œã¦ã„ã¾ã—ãŸã€‚(ã“ã®è»Šä¸¡ã¯é«˜é€Ÿåž‹)
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -335,43 +335,43 @@
 <speed>fast</speed>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-A"/>
-<car char="’†" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-C"/>
-<car char="Œã" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-B"/> 
+<car char="å‰" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-A"/>
+<car char="ä¸­" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-B"/> 
 <car char="P" ref="{835CA09F-3ECC-470A-OLD-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†’†’†’†PŒã</composition>
-<composition>‘O’†PŒã‘OP’†’†’†’†PŒã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
+<composition>å‰ä¸­På¾Œå‰Pä¸­ä¸­ä¸­ä¸­På¾Œ</composition>
 </config>
 </contribution>
 
-<!-- 2000æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2000å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000a old.bmp" /> 
   </sprite>
   <capacity>128</capacity> 
   <seatedcapacity>52</seatedcapacity> 
   </contribution>
-<!-- 2000ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2000æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{835CA09F-4ECC-470A-OLD-TYPE2000}-A" />  
   </contribution> 
-<!--2000’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000b old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!--2000ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2000ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{835CA09F-4ECC-470A-OLD-TYPE2000}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="kei 2000p old.bmp" /> 
   </sprite>
   <capacity>132</capacity> 
@@ -379,11 +379,11 @@
   </contribution>
 
   <contribution type="train" id="{90G4AE26-7EB6-9D32-H49F-44694A5C5D02}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2000Œ`‰ü‘¢‘O4çq{4çq(‚)</type>
-<name>‹ž‹}ü</name>
-<author>‚µ‚Ì</author>
-<description>‰õ‘¬“Á‹}—p‚Æ‚µ‚ÄŠˆ–ô‚µ‚Ä‚«‚½‹Œ600Œ`‚ÌŒãŒpŽÔ—¼‚Æ‚µ‚Ä1982(º˜a57)”N‚É“oê‚µ‚Ü‚µ‚½BŽº“à‚Í‰^“]Žº‚Ì’¼Œã‚ðœ‚¢‚ÄƒNƒƒXƒV[ƒg‚ª”z—ñ‚³‚ê‚Ä‚¢‚Ü‚·B•Ò¬‚Í8çqŒÅ’è•Ò¬‚Ì‘¼‚ÉA12—¼•Ò¬‚É‘Î‰ž‚·‚é‚½‚ß‚Ì4çq•Ò¬‚ª1985(º˜a60)”N‚©‚ç»‘¢‚³‚êA’©•û—[•ûƒ‰ƒbƒVƒ…Žž‚Ì‘Œ‹‚âA4çq{4çq‚Ì8çq•Ò¬‚Å‰^—p‚³‚ê‚Ä‚¢‚Ü‚µ‚½B(4çq•4çq{4çq•Ò¬‚‘¬Œ^)
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2000å½¢æ”¹é€ å‰4è¼Œï¼‹4è¼Œ(é«˜)</type>
+<name>äº¬æ€¥ç·š</name>
+<author>ã—ã®</author>
+<description>å¿«é€Ÿç‰¹æ€¥ç”¨ã¨ã—ã¦æ´»èºã—ã¦ããŸæ—§600å½¢ã®å¾Œç¶™è»Šä¸¡ã¨ã—ã¦1982(æ˜­å’Œ57)å¹´ã«ç™»å ´ã—ã¾ã—ãŸã€‚å®¤å†…ã¯é‹è»¢å®¤ã®ç›´å¾Œã‚’é™¤ã„ã¦ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆãŒé…åˆ—ã•ã‚Œã¦ã„ã¾ã™ã€‚ç·¨æˆã¯8è¼Œå›ºå®šç·¨æˆã®ä»–ã«ã€12ä¸¡ç·¨æˆã«å¯¾å¿œã™ã‚‹ãŸã‚ã®4è¼Œç·¨æˆãŒ1985(æ˜­å’Œ60)å¹´ã‹ã‚‰è£½é€ ã•ã‚Œã€æœæ–¹å¤•æ–¹ãƒ©ãƒƒã‚·ãƒ¥æ™‚ã®å¢—çµã‚„ã€4è¼Œï¼‹4è¼Œã®8è¼Œç·¨æˆã§é‹ç”¨ã•ã‚Œã¦ã„ã¾ã—ãŸã€‚(4è¼Œï¼†4è¼Œï¼‹4è¼Œç·¨æˆé«˜é€Ÿåž‹)
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -392,12 +392,12 @@
 		<triprange>middle</triprange>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-A"/>
-<car char="’†" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-C"/>
-<car char="Œã" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-B"/> 
+<car char="å‰" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-A"/>
+<car char="ä¸­" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-C"/>
+<car char="å¾Œ" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-B"/> 
 <car char="P" ref="{835CA09F-4ECC-470A-OLD-TYPE2000}-P"/> 
-<composition>‘OP’†Œã</composition>
-<composition>‘OP’†Œã‘OP’†Œã</composition>
+<composition>å‰Pä¸­å¾Œ</composition>
+<composition>å‰Pä¸­å¾Œå‰Pä¸­å¾Œ</composition>
 </config>
 </contribution>
 </plug-in>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
 <depend on="shikashika.freetrain.traincar.locomotive"/>
 <depend on="shikashika.freetrain.traincar.passenger"/>
 <depend on="shikashika.freetrain.traincar.freight"/>
 
-<title>JR–kŠC“¹</title>
+<title>JRåŒ—æµ·é“</title>
 
-<!-- —·‹q—ñŽÔ‚Ì’è‹` -->
+<!-- æ—…å®¢åˆ—è»Šã®å®šç¾© -->
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-DD51-hokuto-Cassiopeia-1}">
-		<company>JR–kŠC“¹</company>
+		<company>JRåŒ—æµ·é“</company>
 		<type>DD 51</type>
-		<name>ƒJƒVƒIƒyƒA</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>ƒfƒB[ƒ[ƒ‹‹@ŠÖŽÔDD51(–k“l¯F)‚ªŒ¡ˆø‚·‚éAƒI[ƒ‹2ŠKŒšQ‘ä—ñŽÔ‚Å‚·B
+		<name>ã‚«ã‚·ã‚ªãƒšã‚¢</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«æ©Ÿé–¢è»ŠDD51(åŒ—æ–—æ˜Ÿè‰²)ãŒç‰½å¼•ã™ã‚‹ã€ã‚ªãƒ¼ãƒ«2éšŽå»ºå¯å°åˆ—è»Šã§ã™ã€‚
 		</description>
 		<fare>2000</fare>
 		<price>140000000</price>
@@ -25,39 +25,39 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-hokuto}"/>
-			<car char="“W" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
-			<car char="•o" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
-			<car char="H" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
-			<car char="—ë" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
-			<car char="•S" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
-			<car char="Žl" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
-			<car char="Œð" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
-			<car char="—\" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-hokuto}"/>
+			<car char="å±•" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
+			<car char="è³“" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
+			<car char="é£Ÿ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
+			<car char="é›¶" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
+			<car char="ç™¾" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
+			<car char="å››" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
+			<car char="äº¤" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
+			<car char="äºˆ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
 
-			<composition>‹C</composition>
-			<composition>‹CŒð</composition>
-			<composition>‹C“WŒð</composition>
-			<composition>‹C“WHŒð</composition>
-			<composition>‹C“WH•SŒð</composition>
-			<composition>‹C“W•oH•SŒð</composition>
-			<composition>‹C“W•oH•SŽlŒð</composition>
-			<composition>‹C“W•oH•SŽl—ëŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ëŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ëŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽlŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽl—ëŒð</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽl—ë—ëŒð</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—äº¤</composition>
+			<composition>æ°—å±•äº¤</composition>
+			<composition>æ°—å±•é£Ÿäº¤</composition>
+			<composition>æ°—å±•é£Ÿç™¾äº¤</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾äº¤</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾å››äº¤</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾å››é›¶äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶äº¤</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶é›¶äº¤</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-DD51-hokuto-Cassiopeia-2}">
-		<company>JR–kŠC“¹</company>
+		<company>JRåŒ—æµ·é“</company>
 		<type>DD 51</type>
-		<name>ƒJƒVƒIƒyƒA(—\”õ)</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>ƒfƒB[ƒ[ƒ‹‹@ŠÖŽÔDD51(–k“l¯F)‚ªŒ¡ˆø‚·‚éAƒI[ƒ‹2ŠKŒšQ‘ä—ñŽÔ‚Å‚·B“dŒ¹ŽÔ‚Í—\”õ‚ÌƒJƒ„‚Q‚V‚Å‚·B
+		<name>ã‚«ã‚·ã‚ªãƒšã‚¢(äºˆå‚™)</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«æ©Ÿé–¢è»ŠDD51(åŒ—æ–—æ˜Ÿè‰²)ãŒç‰½å¼•ã™ã‚‹ã€ã‚ªãƒ¼ãƒ«2éšŽå»ºå¯å°åˆ—è»Šã§ã™ã€‚é›»æºè»Šã¯äºˆå‚™ã®ã‚«ãƒ¤ï¼’ï¼—ã§ã™ã€‚
 		</description>
 		<fare>2000</fare>
 		<price>140000000</price>
@@ -66,39 +66,39 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-hokuto}"/>
-			<car char="“W" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
-			<car char="•o" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
-			<car char="H" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
-			<car char="—ë" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
-			<car char="•S" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
-			<car char="Žl" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
-			<car char="Œð" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
-			<car char="—\" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-hokuto}"/>
+			<car char="å±•" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
+			<car char="è³“" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
+			<car char="é£Ÿ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
+			<car char="é›¶" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
+			<car char="ç™¾" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
+			<car char="å››" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
+			<car char="äº¤" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
+			<car char="äºˆ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
 
-			<composition>‹C</composition>
-			<composition>‹C—\</composition>
-			<composition>‹C“W—\</composition>
-			<composition>‹C“WH—\</composition>
-			<composition>‹C“WH•S—\</composition>
-			<composition>‹C“W•oH•S—\</composition>
-			<composition>‹C“W•oH•SŽl—\</composition>
-			<composition>‹C“W•oH•SŽl—ë—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ë—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽl—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽl—ë—\</composition>
-			<composition>‹C‹C“W•oH•SŽl—ë—ë—ëŽl—ë—ë—\</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—äºˆ</composition>
+			<composition>æ°—å±•äºˆ</composition>
+			<composition>æ°—å±•é£Ÿäºˆ</composition>
+			<composition>æ°—å±•é£Ÿç™¾äºˆ</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾äºˆ</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾å››äºˆ</composition>
+			<composition>æ°—å±•è³“é£Ÿç™¾å››é›¶äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶äºˆ</composition>
+			<composition>æ°—æ°—å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶é›¶äºˆ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-ED79-0-Cassiopeia-1}">
-		<company>JR–kŠC“¹</company>
+		<company>JRåŒ—æµ·é“</company>
 		<type>ED 79</type>
-		<name>ƒJƒVƒIƒyƒA</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>’ÃŒyŠC‹¬ü—p‚ÌŒð—¬—p“d‹C‹@ŠÖŽÔED79‚ªŒ¡ˆø‚·‚éAƒI[ƒ‹2ŠKŒšQ‘ä—ñŽÔ‚Å‚·B
+		<name>ã‚«ã‚·ã‚ªãƒšã‚¢</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>æ´¥è»½æµ·å³¡ç·šç”¨ã®äº¤æµç”¨é›»æ°—æ©Ÿé–¢è»ŠED79ãŒç‰½å¼•ã™ã‚‹ã€ã‚ªãƒ¼ãƒ«2éšŽå»ºå¯å°åˆ—è»Šã§ã™ã€‚
 		</description>
 		<fare>2000</fare>
 		<price>140000000</price>
@@ -107,38 +107,38 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-0}"/>
-			<car char="“W" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
-			<car char="•o" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
-			<car char="H" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
-			<car char="—ë" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
-			<car char="•S" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
-			<car char="Žl" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
-			<car char="Œð" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
-			<car char="—\" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-0}"/>
+			<car char="å±•" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
+			<car char="è³“" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
+			<car char="é£Ÿ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
+			<car char="é›¶" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
+			<car char="ç™¾" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
+			<car char="å››" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
+			<car char="äº¤" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
+			<car char="äºˆ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
 
-			<composition>“d</composition>
-			<composition>“dŒð</composition>
-			<composition>“d“WŒð</composition>
-			<composition>“d“WHŒð</composition>
-			<composition>“d“WH•SŒð</composition>
-			<composition>“d“W•oH•SŒð</composition>
-			<composition>“d“W•oH•SŽlŒð</composition>
-			<composition>“d“W•oH•SŽl—ëŒð</composition>
-			<composition>“d“W•oH•SŽl—ë—ëŒð</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŒð</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽlŒð</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽl—ëŒð</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽl—ë—ëŒð</composition>
+			<composition>é›»</composition>
+			<composition>é›»äº¤</composition>
+			<composition>é›»å±•äº¤</composition>
+			<composition>é›»å±•é£Ÿäº¤</composition>
+			<composition>é›»å±•é£Ÿç™¾äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶äº¤</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶é›¶äº¤</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-ED79-0-Cassiopeia-2}">
-		<company>JR–kŠC“¹</company>
+		<company>JRåŒ—æµ·é“</company>
 		<type>ED 79</type>
-		<name>ƒJƒVƒIƒyƒA(—\”õ)</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>’ÃŒyŠC‹¬ü—p‚ÌŒð—¬—p“d‹C‹@ŠÖŽÔED79‚ªŒ¡ˆø‚·‚éAƒI[ƒ‹2ŠKŒšQ‘ä—ñŽÔ‚Å‚·B“dŒ¹ŽÔ‚Í—\”õ‚ÌƒJƒ„‚Q‚V‚Å‚·B
+		<name>ã‚«ã‚·ã‚ªãƒšã‚¢(äºˆå‚™)</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>æ´¥è»½æµ·å³¡ç·šç”¨ã®äº¤æµç”¨é›»æ°—æ©Ÿé–¢è»ŠED79ãŒç‰½å¼•ã™ã‚‹ã€ã‚ªãƒ¼ãƒ«2éšŽå»ºå¯å°åˆ—è»Šã§ã™ã€‚é›»æºè»Šã¯äºˆå‚™ã®ã‚«ãƒ¤ï¼’ï¼—ã§ã™ã€‚
 		</description>
 		<fare>2000</fare>
 		<price>140000000</price>
@@ -147,32 +147,32 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="“d" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-0}"/>
-			<car char="“W" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
-			<car char="•o" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
-			<car char="H" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
-			<car char="—ë" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
-			<car char="•S" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
-			<car char="Žl" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
-			<car char="Œð" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
-			<car char="—\" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
+			<car char="é›»" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-0}"/>
+			<car char="å±•" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}"/>
+			<car char="è³“" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}"/>
+			<car char="é£Ÿ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}"/>
+			<car char="é›¶" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}"/>
+			<car char="ç™¾" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}"/>
+			<car char="å››" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}"/>
+			<car char="äº¤" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}"/>
+			<car char="äºˆ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}"/>
 
-			<composition>“d</composition>
-			<composition>“d—\</composition>
-			<composition>“d“W—\</composition>
-			<composition>“d“WH—\</composition>
-			<composition>“d“WH•S—\</composition>
-			<composition>“d“W•oH•S—\</composition>
-			<composition>“d“W•oH•SŽl—\</composition>
-			<composition>“d“W•oH•SŽl—ë—\</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—\</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ë—\</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽl—\</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽl—ë—\</composition>
-			<composition>“d“W•oH•SŽl—ë—ë—ëŽl—ë—ë—\</composition>
+			<composition>é›»</composition>
+			<composition>é›»äºˆ</composition>
+			<composition>é›»å±•äºˆ</composition>
+			<composition>é›»å±•é£Ÿäºˆ</composition>
+			<composition>é›»å±•é£Ÿç™¾äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶äºˆ</composition>
+			<composition>é›»å±•è³“é£Ÿç™¾å››é›¶é›¶é›¶å››é›¶é›¶äºˆ</composition>
 		</config>
 	</contribution>
 
-<!-- ‰Ý•¨—ñŽÔ‚Ì’è‹` -->
+<!-- è²¨ç‰©åˆ—è»Šã®å®šç¾© -->
 
 </plug-in>

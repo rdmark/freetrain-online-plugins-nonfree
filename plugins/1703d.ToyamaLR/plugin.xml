@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-     <title>�V���ԗ��Z�b�g</title>
-     <author>�������[</author>
+     <title>新潟車両セット</title>
+     <author>いっちー</author>
      <homepage></homepage>
 
 
-<!-- �x�R���C�g���[�� 0600�`���b�h-->
+<!-- 富山ライトレール 0600形レッド-->
 
-	<!-- �x�R���C�g���[�� 0600�`A-->
+	<!-- 富山ライトレール 0600形A-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600r}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -17,7 +17,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �x�R���C�g���[�� 0600�`B���摜-->
+	<!-- 富山ライトレール 0600形B元画像-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600r}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -27,15 +27,15 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �x�R���C�g���[�� 0600�`B-->
+	<!-- 富山ライトレール 0600形B-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600r}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600r}-tx"/>
 	</contribution>
 
-<!-- �I�����W-->
+<!-- オレンジ-->
 
-	<!-- �I�����WA-->
+	<!-- オレンジA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600o}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -56,7 +56,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �I�����WB��-->
+	<!-- オレンジB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600o}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -77,15 +77,15 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �I�����WB-->
+	<!-- オレンジB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600o}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600o}-tx"/>
 	</contribution>
 
-<!-- �C�G���[-->
+<!-- イエロー-->
 
-	<!-- �C�G���[A-->
+	<!-- イエローA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600y}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -106,7 +106,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �C�G���[B��-->
+	<!-- イエローB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600y}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -127,15 +127,15 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �C�G���[B-->
+	<!-- イエローB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600y}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600y}-tx"/>
 	</contribution>
 
-<!-- �C�G���[�O���[��-->
+<!-- イエローグリーン-->
 
-	<!-- �C�G���[�O���[��A-->
+	<!-- イエローグリーンA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600yg}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -156,7 +156,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �C�G���[�O���[��B��-->
+	<!-- イエローグリーンB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600yg}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -177,7 +177,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �C�G���[�O���[��B-->
+	<!-- イエローグリーンB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600yg}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600yg}-tx"/>
@@ -185,9 +185,9 @@
                	 </sprite>
 	</contribution>
 
-<!-- �O���[��-->
+<!-- グリーン-->
 
-	<!-- �O���[��A-->
+	<!-- グリーンA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600g}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -208,7 +208,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �O���[��B��-->
+	<!-- グリーンB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600g}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -229,15 +229,15 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �O���[��B-->
+	<!-- グリーンB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600g}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600g}-tx"/>
 	</contribution>
 
-<!-- �u���[-->
+<!-- ブルー-->
 
-	<!-- �u���[A-->
+	<!-- ブルーA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600b}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -258,7 +258,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �u���[B��-->
+	<!-- ブルーB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600b}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -279,15 +279,15 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �u���[B-->
+	<!-- ブルーB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600b}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600b}-tx"/>
 	</contribution>
 
-<!-- �p�[�v��-->
+<!-- パープル-->
 
-	<!-- �p�[�v��A-->
+	<!-- パープルA-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600p}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -308,7 +308,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �p�[�v��B��-->
+	<!-- パープルB元-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600p}-tx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -329,7 +329,7 @@
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
 
-	<!-- �p�[�v��B-->
+	<!-- パープルB-->
 	<contribution type="trainCar" id="{CyberExpress1703d-toyama0600p}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{CyberExpress1703d-toyama0600p}-tx"/>
@@ -337,11 +337,11 @@
 
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600r}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>01�@���b�h</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>01　レッド</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -355,11 +355,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600o}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>02�@�I�����W</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>02　オレンジ</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -373,11 +373,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600y}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>03�@�C�G���[</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>03　イエロー</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -391,11 +391,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600yg}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>04�@�C�G���[�O���[��</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>04　イエローグリーン</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -409,11 +409,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600g}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>05�@�O���[��</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>05　グリーン</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -427,11 +427,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600b}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>06�@�u���[</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>06　ブルー</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>
@@ -445,11 +445,11 @@
        </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-toyama0600p}">
-           <company>�x�R���C�g���[��</company>
-           <type>0600�`</type>
-           <name>07�@�p�[�v��</name>
-           <author>�������[</author>
-           <description>2���Ґ��̂݁BJR�x�R�`����LRT�Ƃ��đh�点���H���𑖂�A�Ᏸ�̘H�ʓd�Ԃł��B</description>
+           <company>富山ライトレール</company>
+           <type>0600形</type>
+           <name>07　パープル</name>
+           <author>いっちー</author>
+           <description>2両編成のみ。JR富山港線をLRTとして蘇らせた路線を走る、低床の路面電車です。</description>
            <fare>300</fare>
            <price>21000000</price>
 		   <amenity>110</amenity>

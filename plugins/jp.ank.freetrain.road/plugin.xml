@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒoƒ‰ƒXƒg</title>
-	<author>‚ ‚Þ`‚ñ”@ŒŽ</author>
+	<title>ãƒãƒ©ã‚¹ãƒˆ</title>
+	<author>ã‚ã‚€ï½žã‚“å¦‚æœˆ</author>
 	<homepage>http://www5d.biglobe.ne.jp/~misumaru/</homepage>
-	<!-- ƒXƒyƒVƒƒƒ‹ƒTƒ“ƒNƒX ˆ»£—l (ƒhƒbƒgŠG‚ÌƒIƒŠƒWƒiƒ‹ƒf[ƒ^) -->
+	<!-- ã‚¹ãƒšã‚·ãƒ£ãƒ«ã‚µãƒ³ã‚¯ã‚¹ ç¶¾ç€¬æ§˜ (ãƒ‰ãƒƒãƒˆçµµã®ã‚ªãƒªã‚¸ãƒŠãƒ«ãƒ‡ãƒ¼ã‚¿) -->
 	
 	<contribution type="road" id="{FreeTrain-Amoon-Kisaragi-RoadImg-Siba3}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg(ŠD)</name>
-		<description>ƒoƒ‰ƒXƒg(ŠD)</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ(ç°)</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ(ç°)</description>
 		<picture src="road_siba3.bmp" size="32,32" offset="16" />
 	</contribution>
 	
 	<contribution type="road" id="{FreeTrain-Amoon-Kisaragi-RoadImg-Siba2}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg(’ƒ)</name>
-		<description>ƒoƒ‰ƒXƒg(’ƒ)</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ(èŒ¶)</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ(èŒ¶)</description>
 		<picture src="road_siba2.bmp" size="32,32" offset="16" />
 	</contribution>
 

@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<depend on="jp.co.infoseek.hp.efa-typoon.built"/>
-	<title>Œš•¨ƒZƒbƒg1†ŠÙEŠg’£ƒZƒbƒg—p</title>
-	<author>‚½‚¢‚Ó`‚ñ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ1å·é¤¨ãƒ»æ‹¡å¼µã‚»ãƒƒãƒˆç”¨</title>
+	<author>ãŸã„ãµï½žã‚“</author>
 	<homepage>http://typhoon.s19.xrea.com/ft/index.html</homepage>
 
 
 
 	<contribution type="GenericStructure" id="{TYPHOON-Military-Rader1B-7567171D3CEF}">
-		<name>ƒŒ[ƒ_[</name>
-		<design>Œx‰úƒŒ[ƒ_[</design>
+		<name>ãƒ¬ãƒ¼ãƒ€ãƒ¼</name>
+		<design>è­¦æˆ’ãƒ¬ãƒ¼ãƒ€ãƒ¼</design>
 		<price>30000000</price>
 		<size>1,1</size>
 		<height>4</height>
@@ -18,7 +18,7 @@
 			<base>50</base>
 		</population>
 		<structure>
-			<category byname="ŒRŽ–Ž{Ý"/>
+			<category byname="è»äº‹æ–½è¨­"/>
 		</structure>
 		<sprite origin="0,0" offset="40" >
 			<picture ref="{TYPHOON-GAZOU-MILITARY-RADER-7567171D3CEF}"/>
@@ -26,8 +26,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{TYPHOON-Military-Rader2B-7567171D3CEF}">
-		<name>ƒŒ[ƒ_[</name>
-		<design>‹ó`ŠÄŽ‹ƒŒ[ƒ_[A</design>
+		<name>ãƒ¬ãƒ¼ãƒ€ãƒ¼</name>
+		<design>ç©ºæ¸¯ç›£è¦–ãƒ¬ãƒ¼ãƒ€ãƒ¼A</design>
 		<price>12000000</price>
 		<size>1,1</size>
 		<height>4</height>
@@ -36,16 +36,16 @@
 			<base>20</base>
 		</population>
 		<structure>
-			<category byname="ŒRŽ–Ž{Ý"/>
-			<category byname="‹ó`"/>
+			<category byname="è»äº‹æ–½è¨­"/>
+			<category byname="ç©ºæ¸¯"/>
 		</structure>
 		<sprite origin="32,0" offset="40" >
 			<picture ref="{TYPHOON-GAZOU-MILITARY-RADER-7567171D3CEF}"/>
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{TYPHOON-Military-Rader3C-7567171D3CEF}">
-		<name>ƒŒ[ƒ_[</name>
-		<design>‹ó`ŠÄŽ‹ƒŒ[ƒ_[B</design>
+		<name>ãƒ¬ãƒ¼ãƒ€ãƒ¼</name>
+		<design>ç©ºæ¸¯ç›£è¦–ãƒ¬ãƒ¼ãƒ€ãƒ¼B</design>
 		<price>12000000</price>
 		<size>1,1</size>
 		<height>4</height>
@@ -54,8 +54,8 @@
 			<base>20</base>
 		</population>
 		<structure>
-			<category byname="ŒRŽ–Ž{Ý"/>
-			<category byname="‹ó`"/>
+			<category byname="è»äº‹æ–½è¨­"/>
+			<category byname="ç©ºæ¸¯"/>
 		</structure>
 		<sprite origin="64,0" offset="40" >
 			<picture ref="{TYPHOON-GAZOU-MILITARY-RADER-7567171D3CEF}"/>
@@ -63,8 +63,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{TYPHOON-Military-F-15DJ2B-7567171D3CEF}">
-		<name>í“¬‹@</name>
-		<design>F-15DJ•</design>
+		<name>æˆ¦é—˜æ©Ÿ</name>
+		<design>F-15DJé»’</design>
 		<price>12000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -73,7 +73,7 @@
 			<base>2</base>
 		</population>
 		<structure>
-			<category byname="ŒRŽ–Ž{Ý"/>
+			<category byname="è»äº‹æ–½è¨­"/>
 		</structure>
 		<sprite origin="0,0" offset="8" >
 			<picture ref="{TYPHOON-GAZOU-MILITARY-F-15DJ2-7567171D3CEF}"/>

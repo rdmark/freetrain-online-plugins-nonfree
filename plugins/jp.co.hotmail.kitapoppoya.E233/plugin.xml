@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>E233ŒnƒpƒbƒN</title> 
-  <author>–k‚Ì‹DŽÔ‰®</author> 
+  <title>E233ç³»ãƒ‘ãƒƒã‚¯</title> 
+  <author>åŒ—ã®æ±½è»Šå±‹</author> 
   <homepage>http://www.geocities.jp/kitapoppoya/</homepage> 
-<!-- E233’†‰›üæ“ªŽÔ --> 
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-A}">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233ä¸­å¤®ç·šå…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-A}">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233Chuo_a.bmp" /> 
   </sprite>
   <capacity>142</capacity> 
   <seatedcapacity>39</seatedcapacity> 
   </contribution>
-<!-- E233’†‰›üÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-B}">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E233ä¸­å¤®ç·šæœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-B}">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-A}"/> 
   </contribution> 
-<!-- E233’†‰›ü’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-C}">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233ä¸­å¤®ç·šä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CH-C}">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233Chuo_b.bmp" /> 
   </sprite>
   <capacity>160</capacity> 
   <seatedcapacity>54</seatedcapacity> 
   </contribution>
-<!-- E233‹ž•l“Œ–küæ“ªŽÔ --> 
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-A}">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233äº¬æµœæ±åŒ—ç·šå…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-A}">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233KT_a.bmp" /> 
   </sprite>
   <capacity>142</capacity> 
   <seatedcapacity>39</seatedcapacity> 
   </contribution>
-<!-- E233‹ž•l“Œ–küÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-B}">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E233äº¬æµœæ±åŒ—ç·šæœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-B}">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-A}"/> 
   </contribution> 
-<!-- E233‹ž•l“Œ–kü’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-C}">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233äº¬æµœæ±åŒ—ç·šä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KT-C}">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233KT_b.bmp" /> 
   </sprite>
   <capacity>160</capacity> 
   <seatedcapacity>54</seatedcapacity> 
   </contribution>
-<!-- E233í”ÖŠÉsæ“ªŽÔ --> 
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-A}">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233å¸¸ç£ç·©è¡Œå…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-A}">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233Joban_a.bmp" /> 
   </sprite>
   <capacity>141</capacity> 
   <seatedcapacity>46</seatedcapacity> 
   </contribution>
-<!-- E233í”ÖŠÉsÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-B}">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- E233å¸¸ç£ç·©è¡Œæœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-B}">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-A}"/> 
   </contribution> 
-<!-- E233í”ÖŠÉs’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-C}">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- E233å¸¸ç£ç·©è¡Œä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JO-C}">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="E233Joban_b.bmp" /> 
   </sprite>
   <capacity>156</capacity> 
@@ -74,11 +74,11 @@
   </contribution>
 
   <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-E233CHUO}">
-<company>JR“Œ“ú–{</company>
-<type>E233Œn</type>
-<name>’†‰›¥‘•‰õ‘¬ü</name>
-<author>–k‚Ì‹DŽÔ‰®</author>
-<description>201Œn’u‚«Š·‚¦‚Ì‚½‚ß“oê‚µ‚½VŒ`Ž®BE231Œn‚ÅK“¾‚µ‚½V‹@Ž²‚ª“±“ü‚³‚ê‚Ä‚¢‚éB
+<company>JRæ±æ—¥æœ¬</company>
+<type>E233ç³»</type>
+<name>ä¸­å¤®ï½¥ç·æ­¦å¿«é€Ÿç·š</name>
+<author>åŒ—ã®æ±½è»Šå±‹</author>
+<description>201ç³»ç½®ãæ›ãˆã®ãŸã‚ç™»å ´ã—ãŸæ–°å½¢å¼ã€‚E231ç³»ã§ç¿’å¾—ã—ãŸæ–°æ©Ÿè»¸ãŒå°Žå…¥ã•ã‚Œã¦ã„ã‚‹ã€‚
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -92,11 +92,11 @@
  </composition>
 </contribution>
   <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-E233KEHINTOHOKU}">
-<company>JR“Œ“ú–{</company>
-<type>E233Œn</type>
-<name>‹ž•l“Œ–kü</name>
-<author>–k‚Ì‹DŽÔ‰®</author>
-<description>209Œn’u‚«Š·‚¦‚Ì‚½‚ß“oê‚µ‚½VŒ`Ž®BE231Œn‚ÅK“¾‚µ‚½V‹@Ž²‚ª“±“ü‚³‚ê‚Ä‚¢‚éB
+<company>JRæ±æ—¥æœ¬</company>
+<type>E233ç³»</type>
+<name>äº¬æµœæ±åŒ—ç·š</name>
+<author>åŒ—ã®æ±½è»Šå±‹</author>
+<description>209ç³»ç½®ãæ›ãˆã®ãŸã‚ç™»å ´ã—ãŸæ–°å½¢å¼ã€‚E231ç³»ã§ç¿’å¾—ã—ãŸæ–°æ©Ÿè»¸ãŒå°Žå…¥ã•ã‚Œã¦ã„ã‚‹ã€‚
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -110,11 +110,11 @@
  </composition>
 </contribution>
  <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-E233JOBAN}">
-<company>JR“Œ“ú–{</company>
-<type>E233Œn</type>
-<name>í”ÖŠÉs¥ç‘ã“cü</name>
-<author>–k‚Ì‹DŽÔ‰®</author>
-<description>203Œn’u‚«Š·‚¦‚Ì‚½‚ß“oê‚µ‚½VŒ`Ž®B“·‘Ì‚ÍE231Œn800”Ô‘ä‚â209Œn1000”Ô‘ä‚Æ“¯—lˆê”ÊŒ`‚Å‚ ‚éB
+<company>JRæ±æ—¥æœ¬</company>
+<type>E233ç³»</type>
+<name>å¸¸ç£ç·©è¡Œï½¥åƒä»£ç”°ç·š</name>
+<author>åŒ—ã®æ±½è»Šå±‹</author>
+<description>203ç³»ç½®ãæ›ãˆã®ãŸã‚ç™»å ´ã—ãŸæ–°å½¢å¼ã€‚èƒ´ä½“ã¯E231ç³»800ç•ªå°ã‚„209ç³»1000ç•ªå°ã¨åŒæ§˜ä¸€èˆ¬å½¢ã§ã‚ã‚‹ã€‚
 </description>
 <fare>400</fare>
 <price>30000000</price>

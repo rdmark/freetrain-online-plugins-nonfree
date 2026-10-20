@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>NY•—ƒAƒp[ƒg</title> 
- <author>ƒ‚ƒKƒ~</author> 
+ <title>NYé¢¨ã‚¢ãƒ‘ãƒ¼ãƒˆ</title> 
+ <author>ãƒ¢ã‚¬ãƒŸ</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-building-nyfuu-apart-02-picture-9D51EF1C1E2D}">
  <picture src="apart02.bmp" /> 
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-nyfuu-apart-02-CDE9E6520A01}-1">
-  <group>NY•—ƒAƒp[ƒg</group> 
+  <group>NYé¢¨ã‚¢ãƒ‘ãƒ¼ãƒˆ</group> 
   <price>300000000</price> 
   <size>2,2</size> 
   <structure>
-   <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+   <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <height>2</height> 
   <population>
@@ -27,11 +27,11 @@
   <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-nyfuu-apart-02-CDE9E6520A01}-2">
-  <group>NY•—ƒAƒp[ƒg</group> 
+  <group>NYé¢¨ã‚¢ãƒ‘ãƒ¼ãƒˆ</group> 
   <price>300000000</price> 
   <size>2,2</size> 
   <structure>
-   <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+   <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <height>2</height> 
   <population>

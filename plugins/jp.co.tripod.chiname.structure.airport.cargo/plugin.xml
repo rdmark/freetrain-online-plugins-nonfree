@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY warehause '
 		<structure>
-			<category byname="‰İ•¨ƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -45,8 +45,8 @@
 ]>
 
 <plug-in>
-	<title>‰İ•¨ƒ^[ƒ~ƒiƒ‹</title>
-	<author>C477@2—¼–Ú</author>
+	<title>è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{0F90DC7F-61D7-4D20-C477-68DCEDDD680C}-01">
@@ -63,8 +63,8 @@
 	</contribution>
 		
 	<contribution type="GenericStructure" id="{C3BB57FE-9B46-4E39-C477-1F8129BBDFFA}-1">
-		<group>‰İ•¨ƒ^[ƒ~ƒiƒ‹</group>
-		<design>‚`</design>
+		<group>è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ï¼¡</design>
 		&warehause;
 		<price>160000000</price>
 		<size>6,3</size>
@@ -86,8 +86,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C3BB57FE-9B46-4E39-C477-1F8129BBDFFA}-2">
-		<group>‰İ•¨ƒ^[ƒ~ƒiƒ‹</group>
-		<design>‚a</design>
+		<group>è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ï¼¢</design>
 		&warehause;
 		<price>160000000</price>
 		<size>6,3</size>
@@ -109,8 +109,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C3BB57FE-9B46-4E39-C477-1F8129BBDFFA}-3">
-		<group>‰İ•¨ƒ^[ƒ~ƒiƒ‹</group>
-		<design>‚b</design>
+		<group>è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ï¼£</design>
 		&warehause;
 		<price>240000000</price>
 		<size>6,4</size>
@@ -133,8 +133,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C3BB57FE-9B46-4E39-C477-1F8129BBDFFA}-4">
-		<group>‰İ•¨ƒ^[ƒ~ƒiƒ‹</group>
-		<design>‚c</design>
+		<group>è²¨ç‰©ã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ï¼¤</design>
 		&warehause;
 		<price>80000000</price>
 		<size>3,3</size>

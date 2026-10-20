@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>���}�V1000�`</title> 
+  <title>京急新1000形</title> 
   <author>Noz</author> 
   <homepage></homepage>
  
-<!-- N1000�擪�� --> 
-�@<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-A">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- N1000先頭車 --> 
+　<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-A">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyuN1000-a.bmp" /> 
   </sprite>
   <capacity>122</capacity> 
   <seatedcapacity>41</seatedcapacity>
   </contribution>
-<!-- N1000�Ō���� -->
-�@<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-B">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- N1000最後尾車 -->
+　<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-B">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{D714F947-64DA-4A21-8526-8DFC12430F7B}-A" />  
   </contribution> 
-<!--N1000���Ԏ�-->
-�@<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-C">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--N1000中間車-->
+　<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-C">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyuN1000-c.bmp" /> 
   </sprite>
   <capacity>130</capacity> 
   <seatedcapacity>48</seatedcapacity>
   </contribution>
-<!--N1000�p���^��-->
-�@<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-P">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!--N1000パンタ車-->
+　<contribution type="trainCar" id="{D714F947-64DA-4A21-8526-8DFC12430F7B}-P">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="keikyuN1000-b.bmp" /> 
   </sprite>
   <capacity>130</capacity> 
@@ -38,11 +38,11 @@
   </contribution>
 
   <contribution type="train" id="{7755F2D4-F415-4E68-A51F-52F0C63EA2A1}">
-<company>���l�}�s�d�S</company>
-<type>�V1000�`(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>新1000形(高)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>2002�N�ɘV��������1000�`��700�`�̒u��������ړI�ɓo�ꂵ���ԗ��B���̎ԗ��͍����ł��B4�A6�A8�A12�Ґ���p�ӂ��Ă��܂��B
+<description>2002年に老朽化した1000形と700形の置き換えを目的に登場した車両。この車両は高速です。4、6、8、12編成を用意しています。
 </description>
 <fare>400</fare>
 <price>28000000</price>
@@ -62,11 +62,11 @@
 </contribution>
 
   <contribution type="train" id="{346DFADB-BA65-427A-904F-8A2669871FD8}">
-<company>���l�}�s�d�S</company>
-<type>�V1000�`(��)</type>
-<name>���}��</name>
+<company>京浜急行電鉄</company>
+<type>新1000形(中)</type>
+<name>京急線</name>
 <author>Noz</author>
-<description>2002�N�ɘV��������1000�`��700�`�̒u��������ړI�ɓo�ꂵ���ԗ��B���̎ԗ��͒����ł��B4�A6�A8�A12�Ґ���p�ӂ��Ă��܂��B
+<description>2002年に老朽化した1000形と700形の置き換えを目的に登場した車両。この車両は中速です。4、6、8、12編成を用意しています。
 </description>
 <fare>400</fare>
 <price>28000000</price>

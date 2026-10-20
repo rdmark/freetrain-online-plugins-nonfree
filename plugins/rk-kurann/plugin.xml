@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 <author>RK</author>
 <homepage></homepage>
 
-<title>港クレーン</title>
+<title>貂ｯ繧ｯ繝ｬ繝ｼ繝ｳ</title>
 
 	<contribution type="trainCar" id="{rk-FreeTrain-FreightCar-picture-kuren}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -14,10 +14,10 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	<contribution type="train" id="{rk-FreeTrain-FreightCar-TrainCar-kuren}">
-		<company>その他</company>
-		<type>港クレーン</type>
-		<name>クレーン</name>
-		<author>花菱烈火</author>
+		<company>縺昴�ｮ莉�</company>
+		<type>貂ｯ繧ｯ繝ｬ繝ｼ繝ｳ</type>
+		<name>繧ｯ繝ｬ繝ｼ繝ｳ</name>
+		<author>闃ｱ闖ｱ辜育↓</author>
 		<description>
 		</description>
 		<fare>100</fare>

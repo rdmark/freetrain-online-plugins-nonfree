@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-     <title>‹C“®ŽÔƒZƒbƒg</title>
-     <author>‚¢‚Á‚¿[</author>
+     <title>æ°—å‹•è»Šã‚»ãƒƒãƒˆ</title>
+     <author>ã„ã£ã¡ãƒ¼</author>
      <homepage></homepage>
 
 
-    <!-- ƒLƒn48‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±A -->
+    <!-- ã‚­ãƒ48ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“A -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha48kazekkoA-bmp}">
            <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -15,7 +15,7 @@
            <seatedcapacity>64</seatedcapacity> 
      </contribution>
 
-   <!-- ƒLƒn48‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±BŒ³‰æ‘œ -->
+   <!-- ã‚­ãƒ48ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“Bå…ƒç”»åƒ -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha48kazekkoB-bmp}-x">
            <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -25,14 +25,14 @@
            <seatedcapacity>72</seatedcapacity> 
      </contribution>
 
-        <!-- ƒLƒn48‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±B -->
+        <!-- ã‚­ãƒ48ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“B -->
        <contribution type="trainCar" id="{CyberExpress1703d-kiha48kazekkoB-bmp}">
              <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
              <base carRef="{CyberExpress1703d-kiha48kazekkoB-bmp}-x"/>
        </contribution>
 
 
-     <!-- ƒLƒn40ŽR‰A–{ü -->
+     <!-- ã‚­ãƒ40å±±é™°æœ¬ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha40sanin-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -42,7 +42,7 @@
            <seatedcapacity>76</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn40•XŒ©ü -->
+     <!-- ã‚­ãƒ40æ°·è¦‹ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha40himi-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -52,7 +52,7 @@
            <seatedcapacity>76</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn40‹g”õü -->
+     <!-- ã‚­ãƒ40å‰å‚™ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha40kibi-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -62,7 +62,7 @@
            <seatedcapacity>76</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn52‘åŽ…ü -->
+     <!-- ã‚­ãƒ52å¤§ç³¸ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha52oito-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -72,7 +72,7 @@
            <seatedcapacity>76</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn110—¤‰Hü -->
+     <!-- ã‚­ãƒ110é™¸ç¾½ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha110riku-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -82,7 +82,7 @@
            <seatedcapacity>50</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn101¶‘òü -->
+     <!-- ã‚­ãƒ101å·¦æ²¢ç·š -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha101aterazawa-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -92,7 +92,7 @@
            <seatedcapacity>40</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒn111—¤‰HüA -->
+     <!-- ã‚­ãƒ111é™¸ç¾½ç·šA -->
      <contribution type="trainCar" id="{CyberExpress1703d-kiha111rikuA-bmp}">
            <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -102,13 +102,13 @@
            <seatedcapacity>56</seatedcapacity> 
      </contribution>
 
-        <!-- ƒLƒn111—¤‰HüB -->
+        <!-- ã‚­ãƒ111é™¸ç¾½ç·šB -->
        <contribution type="trainCar" id="{CyberExpress1703d-kiha111rikuB-bmp}">
              <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
              <base carRef="{CyberExpress1703d-kiha111rikuA-bmp}"/>
        </contribution>
 
-     <!-- ƒLƒnE120 -->
+     <!-- ã‚­ãƒE120 -->
      <contribution type="trainCar" id="{CyberExpress1703d-kihaE120-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -118,7 +118,7 @@
            <seatedcapacity>39</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒnE130 -->
+     <!-- ã‚­ãƒE130 -->
      <contribution type="trainCar" id="{CyberExpress1703d-kihaE130-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -128,7 +128,7 @@
            <seatedcapacity>39</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒnE200 -->
+     <!-- ã‚­ãƒE200 -->
      <contribution type="trainCar" id="{CyberExpress1703d-kihaE200-bmp}">
            <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -138,7 +138,7 @@
            <seatedcapacity>46</seatedcapacity> 
      </contribution>
 
-     <!-- ƒLƒnE131¥132A -->
+     <!-- ã‚­ãƒE131ï½¥132A -->
      <contribution type="trainCar" id="{CyberExpress1703d-kihaE131A-bmp}">
            <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
            <sprite origin="0,0">
@@ -148,7 +148,7 @@
            <seatedcapacity>40</seatedcapacity> 
      </contribution>
 
-        <!-- ƒLƒnE131¥132B -->
+        <!-- ã‚­ãƒE131ï½¥132B -->
        <contribution type="trainCar" id="{CyberExpress1703d-kihaE131B-bmp}">
              <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
              <base carRef="{CyberExpress1703d-kihaE131A-bmp}"/>
@@ -156,11 +156,11 @@
 
 
      <contribution type="train" id="{CyberExpress1703d-kiha48kazekko}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn48Œ` ‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±</type>
-           <name>Šî–{•Ò¬</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¦2—¼•Ò¬‚Ì‚Ý¦@ƒLƒn48‚ð‰ü‘¢‚µ‚½ƒgƒƒbƒRŽÔ—¼‚Å‚·B‘«Œ³‚Ü‚ÅŠJ‚¢‚½‘å‚«‚È‘‹‚ÆAƒŒƒgƒ’²‚ÌŽÔ“à‚ª“Á’¥‚Å‚·BŠ‘®‚Íå‘ä‚Å‚·‚ªAJR“Œ“ú–{‚ÌŠeü‚Éo’£‚µ‚Ä‰^s‚µ‚Ä‚¢‚Ü‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ48å½¢ ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“</type>
+           <name>åŸºæœ¬ç·¨æˆ</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>â€»2ä¸¡ç·¨æˆã®ã¿â€»ã€€ã‚­ãƒ48ã‚’æ”¹é€ ã—ãŸãƒˆãƒ­ãƒƒã‚³è»Šä¸¡ã§ã™ã€‚è¶³å…ƒã¾ã§é–‹ã„ãŸå¤§ããªçª“ã¨ã€ãƒ¬ãƒˆãƒ­èª¿ã®è»Šå†…ãŒç‰¹å¾´ã§ã™ã€‚æ‰€å±žã¯ä»™å°ã§ã™ãŒã€JRæ±æ—¥æœ¬ã®å„ç·šã«å‡ºå¼µã—ã¦é‹è¡Œã—ã¦ã„ã¾ã™ã€‚</description>
            <fare>550</fare>
            <price>38500000</price>
 		   <amenity>120</amenity>
@@ -177,11 +177,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha48kazekko-kururi}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn48Œ` ‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±</type>
-           <name>•—‚Á‚±‚­‚é‚è†</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¦4—¼•Ò¬‚Ì‚Ý¦@‹v—¯—¢ü‚Å‰^s‚·‚é•—‚Á‚±‚ÍAæ“ª‚ÉƒLƒn38Œn‚ð˜AŒ‹‚µ‚Ü‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ48å½¢ ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“</type>
+           <name>é¢¨ã£ã“ãã‚‹ã‚Šå·</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>â€»4ä¸¡ç·¨æˆã®ã¿â€»ã€€ä¹…ç•™é‡Œç·šã§é‹è¡Œã™ã‚‹é¢¨ã£ã“ã¯ã€å…ˆé ­ã«ã‚­ãƒ38ç³»ã‚’é€£çµã—ã¾ã™ã€‚</description>
            <fare>550</fare>
            <price>38500000</price>
 		   <amenity>120</amenity>
@@ -198,13 +198,13 @@
 
      </contribution>
 
-     <!-- ˆê”ÊŒ^‚Íqra_ra‚³‚ñ‚Ìƒvƒ‰ƒOƒCƒ“‚©‚ç‚¨ŽØ‚è‚µ‚Ü‚µ‚½B -->
+     <!-- ä¸€èˆ¬åž‹ã¯qra_raã•ã‚“ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‹ã‚‰ãŠå€Ÿã‚Šã—ã¾ã—ãŸã€‚ -->
      <contribution type="train" id="{CyberExpress1703d-kiha48kazekko-tadami}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn48Œ` ‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±</type>
-           <name>•—‚Á‚±‰ï’Ã‘üŒ©†</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¦3—¼•Ò¬‚Ì‚Ý¦@VŠƒŒ§‚Ì’·‰ª‚©‚ç•Ÿ“‡Œ§‚Ì‘üŒ©‚Ü‚Å‰^s‚µ‚½•—‚Á‚±†‚Å‚·B“r’†‚É˜Z\—¢‰zƒgƒ“ƒlƒ‹‚ª‚ ‚é‚½‚ßA•—œ‚¯—p‚Éˆê”ÊŽÔ—¼‚ð˜AŒ‹‚µ‚Ü‚µ‚½B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ48å½¢ ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“</type>
+           <name>é¢¨ã£ã“ä¼šæ´¥åªè¦‹å·</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>â€»3ä¸¡ç·¨æˆã®ã¿â€»ã€€æ–°æ½ŸçœŒã®é•·å²¡ã‹ã‚‰ç¦å³¶çœŒã®åªè¦‹ã¾ã§é‹è¡Œã—ãŸé¢¨ã£ã“å·ã§ã™ã€‚é€”ä¸­ã«å…­åé‡Œè¶Šãƒˆãƒ³ãƒãƒ«ãŒã‚ã‚‹ãŸã‚ã€é¢¨é™¤ã‘ç”¨ã«ä¸€èˆ¬è»Šä¸¡ã‚’é€£çµã—ã¾ã—ãŸã€‚</description>
            <fare>550</fare>
            <price>38500000</price>
 		   <triprange>middle</triprange>
@@ -221,13 +221,13 @@
 
      </contribution>
 
-     <!-- ˆê”ÊŒ^‚Íqra_ra‚³‚ñ‚Ìƒvƒ‰ƒOƒCƒ“‚©‚ç‚¨ŽØ‚è‚µ‚Ü‚µ‚½B -->
+     <!-- ä¸€èˆ¬åž‹ã¯qra_raã•ã‚“ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‹ã‚‰ãŠå€Ÿã‚Šã—ã¾ã—ãŸã€‚ -->
      <contribution type="train" id="{CyberExpress1703d-kiha48kazekko-senzan}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn48Œ` ‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±</type>
-           <name>•—‚Á‚±åŽR‚à‚Ý‚¶†</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¦2—¼•Ò¬‚Ì‚Ý¦@åŽRü‚ð‰^s‚µ‚½•—‚Á‚±†‚Å‚·B“r’†‚É‹}Œù”z‚ª‚ ‚é‚½‚ßAƒGƒ“ƒWƒ“‚ª‹­—Í‚Èˆê”ÊŽÔ—¼‚ð˜AŒ‹‚µ‚Ü‚µ‚½B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ48å½¢ ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“</type>
+           <name>é¢¨ã£ã“ä»™å±±ã‚‚ã¿ã˜å·</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>â€»2ä¸¡ç·¨æˆã®ã¿â€»ã€€ä»™å±±ç·šã‚’é‹è¡Œã—ãŸé¢¨ã£ã“å·ã§ã™ã€‚é€”ä¸­ã«æ€¥å‹¾é…ãŒã‚ã‚‹ãŸã‚ã€ã‚¨ãƒ³ã‚¸ãƒ³ãŒå¼·åŠ›ãªä¸€èˆ¬è»Šä¸¡ã‚’é€£çµã—ã¾ã—ãŸã€‚</description>
            <fare>550</fare>
            <price>38500000</price>
 		   <amenity>120</amenity>
@@ -244,11 +244,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha48kazekko-hanakairo}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn48Œ` ‚Ñ‚ã‚¤ƒR[ƒXƒ^[•—‚Á‚±</type>
-           <name>•—‚Á‚±‰Ô‰ñ˜L†</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¦2—¼•Ò¬‚Ì‚Ý¦@ŽRŒ`“S“¹ƒtƒ‰ƒ[’·ˆäü‚ð‰^s‚µ‚½•—‚Á‚±†‚Å‚·B“r’†‚É‹}Œù”z‚ª‚ ‚é‚½‚ßAƒGƒ“ƒWƒ“‚ª‹­—Í‚Èˆê”ÊŽÔ—¼‚ð˜AŒ‹‚µ‚Ü‚µ‚½B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ48å½¢ ã³ã‚…ã†ã‚³ãƒ¼ã‚¹ã‚¿ãƒ¼é¢¨ã£ã“</type>
+           <name>é¢¨ã£ã“èŠ±å›žå»Šå·</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>â€»2ä¸¡ç·¨æˆã®ã¿â€»ã€€å±±å½¢é‰„é“ãƒ•ãƒ©ãƒ¯ãƒ¼é•·äº•ç·šã‚’é‹è¡Œã—ãŸé¢¨ã£ã“å·ã§ã™ã€‚é€”ä¸­ã«æ€¥å‹¾é…ãŒã‚ã‚‹ãŸã‚ã€ã‚¨ãƒ³ã‚¸ãƒ³ãŒå¼·åŠ›ãªä¸€èˆ¬è»Šä¸¡ã‚’é€£çµã—ã¾ã—ãŸã€‚</description>
            <fare>550</fare>
            <price>38500000</price>
 		   <triprange>middle</triprange>
@@ -265,11 +265,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha40sanin}">
-           <company>JR¼“ú–{</company>
-           <type>ƒLƒn40Œ`</type>
-           <name>ŽR‰A–{ü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>’¹ŽæŒ§A•ºŒÉŒ§“à‚ÌŽR‰A–{ü‚ð‘–‚éƒLƒn40Œn—ñ‚Å‚·B</description>
+           <company>JRè¥¿æ—¥æœ¬</company>
+           <type>ã‚­ãƒ40å½¢</type>
+           <name>å±±é™°æœ¬ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>é³¥å–çœŒã€å…µåº«çœŒå†…ã®å±±é™°æœ¬ç·šã‚’èµ°ã‚‹ã‚­ãƒ40ç³»åˆ—ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>100</amenity>
@@ -281,11 +281,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha40himi}">
-           <company>JR¼“ú–{</company>
-           <type>ƒLƒn40Œ`</type>
-           <name>•XŒ©Eé’[ü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>•XŒ©ü‚Æé’[ü‚ð‘–‚éƒLƒn40Œn—ñ‚Å‚·B</description>
+           <company>JRè¥¿æ—¥æœ¬</company>
+           <type>ã‚­ãƒ40å½¢</type>
+           <name>æ°·è¦‹ãƒ»åŸŽç«¯ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>æ°·è¦‹ç·šã¨åŸŽç«¯ç·šã‚’èµ°ã‚‹ã‚­ãƒ40ç³»åˆ—ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>100</amenity>
@@ -297,11 +297,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha40kibi}">
-           <company>JR¼“ú–{</company>
-           <type>ƒLƒn40Œ`</type>
-           <name>‹g”õü‚Ù‚©</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>‰ªŽR’n‹æ‚ð‘–‚éƒLƒn40Œn—ñ‚Å‚·B</description>
+           <company>JRè¥¿æ—¥æœ¬</company>
+           <type>ã‚­ãƒ40å½¢</type>
+           <name>å‰å‚™ç·šã»ã‹</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>å²¡å±±åœ°åŒºã‚’èµ°ã‚‹ã‚­ãƒ40ç³»åˆ—ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>100</amenity>
@@ -313,11 +313,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha52oito}">
-           <company>JR¼“ú–{</company>
-           <type>ƒLƒn52Œ`</type>
-           <name>‘åŽ…ü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>‘åŽ…ü‚ð‘–‚éƒLƒn52Œ`‚Å‚·B</description>
+           <company>JRè¥¿æ—¥æœ¬</company>
+           <type>ã‚­ãƒ52å½¢</type>
+           <name>å¤§ç³¸ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>å¤§ç³¸ç·šã‚’èµ°ã‚‹ã‚­ãƒ52å½¢ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>95</amenity>
@@ -329,11 +329,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha101aterazawa}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn100Œn</type>
-           <name>¶‘òü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>¶‘òü‚ð‘–‚éƒLƒn100Œn(ƒLƒn101Œ`)‚Å‚·BƒgƒCƒŒ‚È‚µAƒI[ƒ‹ƒƒ“ƒOƒV[ƒg‚Ì•Ò¬‚Å‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ100ç³»</type>
+           <name>å·¦æ²¢ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>å·¦æ²¢ç·šã‚’èµ°ã‚‹ã‚­ãƒ100ç³»(ã‚­ãƒ101å½¢)ã§ã™ã€‚ãƒˆã‚¤ãƒ¬ãªã—ã€ã‚ªãƒ¼ãƒ«ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆã®ç·¨æˆã§ã™ã€‚</description>
            <fare>400</fare>
            <price>35000000</price>
 		   <amenity>100</amenity>
@@ -345,11 +345,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha110riku}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn110Œn</type>
-           <name>—¤‰H“Œü¥—¤‰H¼ü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>—¤‰H“ŒüE—¤‰H¼ü‚ð‘–‚éƒLƒn110Œn‚Å‚·B‘¼‚Ì˜Hü‚Æ‚ÍŽÔ‘Ì‚ÌF‚ªˆÙ‚È‚è‚Ü‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ110ç³»</type>
+           <name>é™¸ç¾½æ±ç·šï½¥é™¸ç¾½è¥¿ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>é™¸ç¾½æ±ç·šãƒ»é™¸ç¾½è¥¿ç·šã‚’èµ°ã‚‹ã‚­ãƒ110ç³»ã§ã™ã€‚ä»–ã®è·¯ç·šã¨ã¯è»Šä½“ã®è‰²ãŒç•°ãªã‚Šã¾ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>110</amenity>
@@ -361,11 +361,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kiha111riku}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒn111¥112Œn</type>
-           <name>—¤‰H“Œü¥—¤‰H¼ü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>—¤‰H“Œü¥—¤‰H¼ü‚ð‘–‚éƒLƒn111¥112Œn‚Å‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒ111ï½¥112ç³»</type>
+           <name>é™¸ç¾½æ±ç·šï½¥é™¸ç¾½è¥¿ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>é™¸ç¾½æ±ç·šï½¥é™¸ç¾½è¥¿ç·šã‚’èµ°ã‚‹ã‚­ãƒ111ï½¥112ç³»ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>110</amenity>
@@ -390,11 +390,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kihaE120}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒnE120Œ`</type>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒE120å½¢</type>
            <name></name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>”Ö‰z¼üE‰H‰züE•Äâü‚ð‘–‚éVŒ^‚Ì‹C“®ŽÔ‚Å‚·B</description>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>ç£è¶Šè¥¿ç·šãƒ»ç¾½è¶Šç·šãƒ»ç±³å‚ç·šã‚’èµ°ã‚‹æ–°åž‹ã®æ°—å‹•è»Šã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>110</amenity>
@@ -406,11 +406,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kihaE130}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒnE130Œ`</type>
-           <name>…ŒSü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>…ŒSü‚ð‘–‚éVŒ^‚Ì‹C“®ŽÔ‚Å‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒE130å½¢</type>
+           <name>æ°´éƒ¡ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>æ°´éƒ¡ç·šã‚’èµ°ã‚‹æ–°åž‹ã®æ°—å‹•è»Šã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>110</amenity>
@@ -422,11 +422,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kihaE131}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒnE131¥132Œn</type>
-           <name>…ŒSü</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>…ŒSü‚ð‘–‚é2—¼•Ò¬‚ÌƒLƒnE131¥132Œn‚Å‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒE131ï½¥132ç³»</type>
+           <name>æ°´éƒ¡ç·š</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>æ°´éƒ¡ç·šã‚’èµ°ã‚‹2ä¸¡ç·¨æˆã®ã‚­ãƒE131ï½¥132ç³»ã§ã™ã€‚</description>
            <fare>500</fare>
            <price>35000000</price>
 		   <amenity>110</amenity>
@@ -451,11 +451,11 @@
      </contribution>
 
      <contribution type="train" id="{CyberExpress1703d-kihaE200}">
-           <company>JR“Œ“ú–{</company>
-           <type>ƒLƒnE200Œ`</type>
-           <name>‚±‚¤‚Ý†</name>
-           <author>‚¢‚Á‚¿[</author>
-           <description>2007”N‚ÉA¢ŠE‰‚ÌƒfƒB[ƒ[ƒ‹ƒnƒCƒuƒŠƒbƒh“dŽÔ‚Æ‚µ‚Ä“oê‚µ‚½ŽÔ—¼‚Å‚·B¬ŠCü‚ð‘–‚è‚Ü‚·B</description>
+           <company>JRæ±æ—¥æœ¬</company>
+           <type>ã‚­ãƒE200å½¢</type>
+           <name>ã“ã†ã¿å·</name>
+           <author>ã„ã£ã¡ãƒ¼</author>
+           <description>2007å¹´ã«ã€ä¸–ç•Œåˆã®ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ãƒã‚¤ãƒ–ãƒªãƒƒãƒ‰é›»è»Šã¨ã—ã¦ç™»å ´ã—ãŸè»Šä¸¡ã§ã™ã€‚å°æµ·ç·šã‚’èµ°ã‚Šã¾ã™ã€‚</description>
            <fare>500</fare>
            <price>40000000</price>
 		   <amenity>110</amenity>

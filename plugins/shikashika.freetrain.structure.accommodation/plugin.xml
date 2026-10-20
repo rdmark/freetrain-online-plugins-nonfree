@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY wall-khaki '
@@ -179,10 +179,10 @@
 '>
 
 <!ENTITY component_campsite_001 '
-	<group>h”‘</group>
-	<name>ƒLƒƒƒ“ƒvê(1x1)</name>
+	<group>å®¿æ³Š</group>
+	<name>ã‚­ãƒ£ãƒ³ãƒ—å ´(1x1)</name>
 	<structure>
-		<category byname="“Áêh”‘{İ"/>
+		<category byname="ç‰¹æ®Šå®¿æ³Šæ–½è¨­"/>
 	</structure>
 	<size>1,1</size>
 	<height>1</height>
@@ -273,10 +273,10 @@
 	</population>
 '>
 <!ENTITY component_ryokan_001 '
-	<group>h”‘</group>
-	<name>—·ŠÙ(1x1)</name>
+	<group>å®¿æ³Š</group>
+	<name>æ—…é¤¨(1x1)</name>
 	<structure>
-		<category byname="—·ŠÙ"/>
+		<category byname="æ—…é¤¨"/>
 	</structure>
 	<size>1,1</size>
 	<height>1</height>
@@ -294,10 +294,10 @@
 	</population>
 '>
 <!ENTITY component_ryokan_002 '
-	<group>h”‘</group>
-	<name>—·ŠÙ(2x2)</name>
+	<group>å®¿æ³Š</group>
+	<name>æ—…é¤¨(2x2)</name>
 	<structure>
-		<category byname="—·ŠÙ"/>
+		<category byname="æ—…é¤¨"/>
 	</structure>
 	<size>2,2</size>
 	<height>1</height>
@@ -320,12 +320,12 @@
 
 <plug-in>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>Œš•¨(h”‘)</title>
+<title>å»ºç‰©(å®¿æ³Š)</title>
 
-<!-- ƒLƒƒƒ“ƒvê -->
+<!-- ã‚­ãƒ£ãƒ³ãƒ—å ´ -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-camp-campsite-001}">
 	<picture src = "campsite_001.bmp">
@@ -347,7 +347,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-tent1-001}">
 &component_campsite_001;
 &population_campsite_001;
-	<design>ƒeƒ“ƒg1</design>
+	<design>ãƒ†ãƒ³ãƒˆ1</design>
 	&tent-yellow;
 	&tent-orange;
 	&tent-green;
@@ -374,7 +374,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-tent2-001}">
 &component_campsite_001;
 &population_campsite_002;
-	<design>ƒeƒ“ƒg2</design>
+	<design>ãƒ†ãƒ³ãƒˆ2</design>
 	&tent-yellow;
 	&tent-orange;
 	&tent-green;
@@ -401,7 +401,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-bungalow-001}">
 &component_campsite_001;
 &population_campsite_003;
-	<design>ƒoƒ“ƒKƒ[</design>
+	<design>ãƒãƒ³ã‚¬ãƒ­ãƒ¼</design>
 	&wall-redbrick;
 	&wall-wood001;
 	&wall-wood002;
@@ -428,7 +428,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-cabin-001}">
 &component_campsite_001;
 &population_campsite_004;
-	<design>ƒPƒrƒ“</design>
+	<design>ã‚±ãƒ“ãƒ³</design>
 	&wall-redbrick;
 	&wall-wood001;
 	&wall-wood002;
@@ -472,7 +472,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-publicbathhouse-002}">
 &component_campsite_001;
 &population_campsite_005;
-	<design>‹¤“¯—ê</design>
+	<design>å…±åŒæµ´å ´</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -501,7 +501,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-cookhouse-002}">
 &component_campsite_001;
 &population_campsite_006;
-	<design>†–“</design>
+	<design>ç‚Šäº‹æ£Ÿ</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -530,7 +530,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-campfire-002}">
 &component_campsite_001;
 &population_campsite_007;
-	<design>ƒtƒ@ƒCƒAê</design>
+	<design>ãƒ•ã‚¡ã‚¤ã‚¢å ´</design>
 
 	<sprite origin="0,64" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-camp-campsite-002}"/>
@@ -553,7 +553,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-informationoffice-002}">
 &component_campsite_001;
 &population_campsite_005;
-	<design>ŠÇ—“</design>
+	<design>ç®¡ç†æ£Ÿ</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -599,7 +599,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-firtree-003}">
 &component_campsite_001;
 &population_campsite_008;
-	<design>à</design>
+	<design>æ¨…</design>
 
 	<sprite origin="0,0" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-camp-campsite-003}"/>
@@ -622,7 +622,7 @@
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-camp-pond-003}">
 &component_campsite_001;
 &population_campsite_008;
-	<design>’r</design>
+	<design>æ± </design>
 
 	<sprite origin="0,32" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-camp-campsite-003}"/>
@@ -642,7 +642,7 @@
 
 </contribution>
 
-<!-- —·ŠÙ -->
+<!-- æ—…é¤¨ -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-hotel-ryokan-001}">
 	<picture  src="ryokan_001.bmp">
@@ -665,10 +665,10 @@
 	</picture>
 </contribution>
 
-<!-- —·ŠÙ(1x1) -->
+<!-- æ—…é¤¨(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-001-a}">
 &component_ryokan_001;
-	<design>—·ŠÙA</design>
+	<design>æ—…é¤¨A</design>
 	&wall-brownbeige;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -696,7 +696,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-001-b}">
 &component_ryokan_001;
-	<design>—·ŠÙB</design>
+	<design>æ—…é¤¨B</design>
 	&wall-brownbeige;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -724,7 +724,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-001-c}">
 &component_ryokan_001;
-	<design>—·ŠÙC</design>
+	<design>æ—…é¤¨C</design>
 	&wall-brownbeige;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -752,7 +752,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-001-d}">
 &component_ryokan_001;
-	<design>—·ŠÙD</design>
+	<design>æ—…é¤¨D</design>
 	&wall-brownbeige;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -780,7 +780,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-002-a}">
 &component_ryokan_001;
-	<design>—·ŠÙA(Š¢‰®ª)</design>
+	<design>æ—…é¤¨A(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -808,7 +808,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-002-b}">
 &component_ryokan_001;
-	<design>—·ŠÙB(Š¢‰®ª)</design>
+	<design>æ—…é¤¨B(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -836,7 +836,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-002-c}">
 &component_ryokan_001;
-	<design>—·ŠÙC(Š¢‰®ª)</design>
+	<design>æ—…é¤¨C(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -864,7 +864,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-002-d}">
 &component_ryokan_001;
-	<design>—·ŠÙD(Š¢‰®ª)</design>
+	<design>æ—…é¤¨D(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-ivory;
 	&wall-urbanstone;
@@ -892,7 +892,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-003-e}">
 &component_ryokan_001;
-	<design>—·ŠÙE(Š¢‰®ª)</design>
+	<design>æ—…é¤¨E(ç“¦å±‹æ ¹)</design>
 	&ta-white;
 	&wall-wood003;
 	&wall-wood004;
@@ -920,7 +920,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-003-f}">
 &component_ryokan_001;
-	<design>—·ŠÙF(Š¢‰®ª)</design>
+	<design>æ—…é¤¨F(ç“¦å±‹æ ¹)</design>
 	&ta-white;
 	&wall-wood003;
 	&wall-wood004;
@@ -948,7 +948,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-003-g}">
 &component_ryokan_001;
-	<design>—·ŠÙG(Š¢‰®ª)</design>
+	<design>æ—…é¤¨G(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -976,7 +976,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-003-h}">
 &component_ryokan_001;
-	<design>—·ŠÙH(Š¢‰®ª)</design>
+	<design>æ—…é¤¨H(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -1002,10 +1002,10 @@
 
 </contribution>
 
-<!-- —·ŠÙ(2x2) -->
+<!-- æ—…é¤¨(2x2) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-004-a}">
 &component_ryokan_002;
-	<design>—·ŠÙA(Š¢‰®ª)</design>
+	<design>æ—…é¤¨A(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -1033,7 +1033,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-structure-hotel-ryokan-004-b}">
 &component_ryokan_002;
-	<design>—·ŠÙB(Š¢‰®ª)</design>
+	<design>æ—…é¤¨B(ç“¦å±‹æ ¹)</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;

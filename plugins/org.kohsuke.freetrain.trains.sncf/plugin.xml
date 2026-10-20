@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�t�����X���S�ԗ��L�b�g</title>
+	<title>フランス国鉄車両キット</title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
-	<!-- TGV-PBA�擪�ԗ� -->
+	<!-- TGV-PBA先頭車両 -->
 	<contribution type="trainCar" id="{E732E738-5151-423A-B214-012F94C029C0}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -12,7 +12,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-PBA���Ԏԗ� -->
+	<!-- TGV-PBA中間車両 -->
 	<contribution type="trainCar" id="{E732E738-5151-423A-B214-012F94C029C0}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -22,20 +22,20 @@
 		<seatedcapacity>47</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-PBA����ԗ� -->
+	<!-- TGV-PBA後尾車両 -->
 	<contribution type="trainCar" id="{E732E738-5151-423A-B214-012F94C029C0}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{E732E738-5151-423A-B214-012F94C029C0}-h"/>
 	</contribution>
 	
 	<contribution type="train" id="{E732E738-5151-423A-B214-012F94C029C0}">
-		<company>�t�����X���S</company>
+		<company>フランス国鉄</company>
 		<type>TGV-PBA</type>
 		<name>Thalys</name>
-		<author>�����݂���</author>
-		<description>1996�N�o��̃��C�����b�h�̔�����TGV�^�ԗ��^���X�B�ō����x300km�B
-�t�����X�A�x���M�[�A�I�����_�A�h�C�c�����͂������ۍ����ԗ��B
-����̓t�����X���S���L��TGV-R�^�̃^���X�B��{�Ґ��F�@�֎�+�q��8��+�@�֎�
+		<author>きがみさん</author>
+		<description>1996年登場のワインレッドの美しいTGV型車両タリス。最高速度300km。
+フランス、ベルギー、オランダ、ドイツが協力した国際高速車両。
+これはフランス国鉄所有のTGV-R型のタリス。基本編成：機関車+客車8両+機関車
 		</description>
 		<fare>1000</fare>
 		<price>70000000</price>
@@ -51,7 +51,7 @@
 
 
 
-	<!-- TGV-Atrantique�擪�ԗ� -->
+	<!-- TGV-Atrantique先頭車両 -->
 	<contribution type="trainCar" id="{EA733861-452A-4FAC-80D3-D8274FB6FE7A}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -61,7 +61,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-Atrantique���Ԏԗ� -->
+	<!-- TGV-Atrantique中間車両 -->
 	<contribution type="trainCar" id="{EA733861-452A-4FAC-80D3-D8274FB6FE7A}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -71,20 +71,20 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-Atrantique����ԗ� -->
+	<!-- TGV-Atrantique後尾車両 -->
 	<contribution type="trainCar" id="{EA733861-452A-4FAC-80D3-D8274FB6FE7A}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{EA733861-452A-4FAC-80D3-D8274FB6FE7A}-h"/>
 	</contribution>
 	
 	<contribution type="train" id="{EA733861-452A-4FAC-80D3-D8274FB6FE7A}">
-		<company>�t�����X���S</company>
+		<company>フランス国鉄</company>
 		<type>TGV-Atrantique</type>
-		<name>�吼�m��</name>
-		<author>�����݂���</author>
-		<description>1989�N�ɍō����x300km�ő吼�m���ɂĉc�Ɖ^�]���J�n�����t�����X�̍����S���B
-�O�����I�����W�����F�ւƕύX����A���݂̎嗬�ƂȂ�B
-1990�N5��18���A�����������ʎԗ��ɂĔS�����S�����E�ō����x515.3km��B���B��{�Ґ��F�@�֎�+�q��10��+�@�֎�
+		<name>大西洋線</name>
+		<author>きがみさん</author>
+		<description>1989年に最高速度300kmで大西洋線にて営業運転を開始したフランスの高速鉄道。
+外装がオレンジから銀色へと変更され、現在の主流となる。
+1990年5月18日、試験線＆特別車両にて粘着式鉄道世界最高速度515.3kmを達成。基本編成：機関車+客車10両+機関車
 		</description>
 		<fare>1000</fare>
 		<price>70000000</price>
@@ -99,7 +99,7 @@
 	</contribution>
 
 
-	<!-- TGV-PSE�擪�ԗ� -->
+	<!-- TGV-PSE先頭車両 -->
 	<contribution type="trainCar" id="{8DAA8764-10A7-4F32-A8E0-6154ECBCFC01}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -109,7 +109,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-PSE���Ԏԗ� -->
+	<!-- TGV-PSE中間車両 -->
 	<contribution type="trainCar" id="{8DAA8764-10A7-4F32-A8E0-6154ECBCFC01}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -119,19 +119,19 @@
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
 	
-	<!-- TGV-PSE����ԗ� -->
+	<!-- TGV-PSE後尾車両 -->
 	<contribution type="trainCar" id="{8DAA8764-10A7-4F32-A8E0-6154ECBCFC01}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{8DAA8764-10A7-4F32-A8E0-6154ECBCFC01}-h"/>
 	</contribution>
 	
 	<contribution type="train" id="{8DAA8764-10A7-4F32-A8E0-6154ECBCFC01}">
-		<company>�t�����X���S</company>
+		<company>フランス国鉄</company>
 		<type>TGV-PSE</type>
-		<name>�쓌��</name>
-		<author>�����݂���</author>
-		<description>1981�N�ɍō����x270km�œ쓌���ɂĉc�Ɖ^�]���J�n�����t�����X�̍����S���B
-�o�N�ɂ��X�V�H���ɂ��ō����x300km���\�ɂȂ����B�Ɠ����ɊO������F�ւƓh��ւ�����B��{�Ґ��F�@�֎�+�q��8��+�@�֎�
+		<name>南東線</name>
+		<author>きがみさん</author>
+		<description>1981年に最高速度270kmで南東線にて営業運転を開始したフランスの高速鉄道。
+経年による更新工事により最高速度300kmが可能になった。と同時に外装も銀色へと塗り替えられる。基本編成：機関車+客車8両+機関車
 		</description>
 		<fare>1000</fare>
 		<price>70000000</price>

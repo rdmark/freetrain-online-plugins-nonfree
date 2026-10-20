@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY colorMap002 '
 	<spriteType name="colorMapped">
@@ -21,7 +21,7 @@
 	</spriteType>
 '>
 <!ENTITY LandmarkBuildingParam '
-		<group>ƒ‰ƒ“ƒhƒ}[ƒNƒrƒ‹</group>
+		<group>ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯ãƒ“ãƒ«</group>
 		<price>5000</price>
 		<minHeight>3</minHeight>
 		<maxHeight>10</maxHeight>
@@ -42,7 +42,7 @@
 		</population>
 '>
 <!ENTITY officeBuildingWithHeliport2Param '
-		<group>‘Ý‚µƒrƒ‹(ƒwƒŠƒ|[ƒg•t)</group>
+		<group>è²¸ã—ãƒ“ãƒ«(ãƒ˜ãƒªãƒãƒ¼ãƒˆä»˜)</group>
 		<price>4600</price>
 		<minHeight>3</minHeight>
 		<maxHeight>10</maxHeight>
@@ -56,7 +56,7 @@
 
 
 <plug-in>
-	<title>Œš•¨(477‚³‚ñ‚ÌŠG‚Ì‰ü‘¢)</title>
+	<title>å»ºç‰©(477ã•ã‚“ã®çµµã®æ”¹é€ )</title>
 	<author>qra_ra</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 

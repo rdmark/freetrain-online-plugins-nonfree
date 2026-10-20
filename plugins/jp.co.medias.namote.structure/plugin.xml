@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨</title>
-	<author>‚È‚à[</author>
+	<title>å»ºç‰©</title>
+	<author>ãªã‚‚ãƒ¼</author>
 	<homepage>http://www.medias.co.jp/~bell8528/freetrain/</homepage>
 	
 	<contribution type="picture" id="{A5BD857C-F2A1-4218-936C-C61EA4D28084}">
@@ -10,7 +10,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{A5BD857C-F2A1-4218-936C-C61EA4D28084-1}">
-		<group>ƒT[ƒNƒ‹K</group>
+		<group>ã‚µãƒ¼ã‚¯ãƒ«K</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -21,7 +21,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{A5BD857C-F2A1-4218-936C-C61EA4D28084-2}">
-		<group>ƒT[ƒNƒ‹K</group>
+		<group>ã‚µãƒ¼ã‚¯ãƒ«K</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -32,8 +32,8 @@
 	</contribution>
 
 
-	<title>”ü•xŽmH“°</title>
-	<author>‚È‚à[</author>
+	<title>ç¾Žå¯Œå£«é£Ÿå ‚</title>
+	<author>ãªã‚‚ãƒ¼</author>
 	<homepage>http://chinsou.s27.xrea.com/freetrain/</homepage>
 	
 	<contribution type="picture" id="{A5BD857C-F2A1-4218-936C-C61EA4D28085}">
@@ -43,7 +43,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{A5BD857C-F2A1-4218-936C-C61EA4D28085-1}">
-		<group>”ü•xŽmH“°</group>
+		<group>ç¾Žå¯Œå£«é£Ÿå ‚</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -54,7 +54,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{A5BD857C-F2A1-4218-936C-C61EA4D28085-2}">
-		<group>”ü•xŽmH“°</group>
+		<group>ç¾Žå¯Œå£«é£Ÿå ‚</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -74,7 +74,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-1}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
@@ -85,7 +85,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-2}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,2</size>
 		<height>2</height>
@@ -96,7 +96,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-3}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
@@ -107,7 +107,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-4}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,2</size>
 		<height>2</height>
@@ -118,7 +118,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-5}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>2,3</size>
 		<height>2</height>
@@ -129,7 +129,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8875-6}">
-		<group>¬Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>å°åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,2</size>
 		<height>2</height>
@@ -149,7 +149,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-1}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -160,7 +160,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-2}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -171,7 +171,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-3}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -182,7 +182,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-4}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -193,7 +193,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-5}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -204,7 +204,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FD978351-73CE-442E-8816-76DBA52E8877-6}">
-		<group>’†Œ^ƒVƒ‡ƒbƒsƒ“ƒOƒZƒ“ƒ^[</group>
+		<group>ä¸­åž‹ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ã‚»ãƒ³ã‚¿ãƒ¼</group>
 		<price>1000000</price>
 		<size>3,3</size>
 		<height>2</height>

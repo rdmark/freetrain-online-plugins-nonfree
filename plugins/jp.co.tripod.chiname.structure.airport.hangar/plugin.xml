@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY hangar_L '
 		<price>160000000</price>
 		<size>6,6</size>
 		<height>2</height>
 		<structure>
-			<category byname="КiФ[М╔"/>
+			<category byname="ца╝ч┤Нх║л"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -13,7 +13,7 @@
 		<price>120000000</price>
 		<height>2</height>
 		<structure>
-			<category byname="КiФ[М╔"/>
+			<category byname="ца╝ч┤Нх║л"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -41,8 +41,8 @@
 ]>
 
 <plug-in>
-	<title>Ч╖ЛqЛ@КiФ[М╔</title>
-	<author>C477@2Ч╝Ц┌</author>
+	<title>цЧЕховцйЯца╝ч┤Нх║л</title>
+	<author>C477@2ф╕бчЫо</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{6B576D34-4544-4FB9-C477-6FA7DA640201}-01">
@@ -59,8 +59,8 @@
 	</contribution>
 		
 	<contribution type="GenericStructure" id="{1C33D56E-01ED-4ECA-C477-5C80C7E52854}-l1">
-		<group>Ч╖ЛqЛ@КiФ[М╔</group>
-		<design>СхВ`</design>
+		<group>цЧЕховцйЯца╝ч┤Нх║л</group>
+		<design>хдзя╝б</design>
 		&hangar_L;
 		&crLtBlue;
 		&crSkyBlue;
@@ -79,8 +79,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{1C33D56E-01ED-4ECA-C477-5C80C7E52854}-l2">
-		<group>Ч╖ЛqЛ@КiФ[М╔</group>
-		<design>СхВa</design>
+		<group>цЧЕховцйЯца╝ч┤Нх║л</group>
+		<design>хдзя╝в</design>
 		&hangar_L;
 		&crLtBlue;
 		&crSkyBlue;
@@ -99,8 +99,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{1C33D56E-01ED-4ECA-C477-5C80C7E52854}-m1">
-		<group>Ч╖ЛqЛ@КiФ[М╔</group>
-		<design>ТЖВ`</design>
+		<group>цЧЕховцйЯца╝ч┤Нх║л</group>
+		<design>ф╕ня╝б</design>
 		&hangar_M;
 		&crLtBlue;
 		&crSkyBlue;
@@ -120,8 +120,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{1C33D56E-01ED-4ECA-C477-5C80C7E52854}-m2">
-		<group>Ч╖ЛqЛ@КiФ[М╔</group>
-		<design>ТЖВa</design>
+		<group>цЧЕховцйЯца╝ч┤Нх║л</group>
+		<design>ф╕ня╝в</design>
 		&hangar_M;
 		<size>5,5</size>
 		&crLtBlue;

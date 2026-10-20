@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY towerparking '
-	<group>ƒ^ƒ[ƒp[ƒLƒ“ƒO</group>
+	<group>ã‚¿ãƒ¯ãƒ¼ãƒ‘ãƒ¼ã‚­ãƒ³ã‚°</group>
 	<price>2500000</price>
 	<size>1,1</size>
 	<minHeight>3</minHeight>
@@ -15,8 +15,8 @@
 
 <plug-in>
 
-	<title>ƒ^ƒ[ƒp[ƒLƒ“ƒO</title>
-	<author>ƒWƒƒƒKƒCƒ‚</author>
+	<title>ã‚¿ãƒ¯ãƒ¼ãƒ‘ãƒ¼ã‚­ãƒ³ã‚°</title>
+	<author>ã‚¸ãƒ£ã‚¬ã‚¤ãƒ¢</author>
 	<homepage>http://homepage1.nifty.com/jagaimo/west_necom/</homepage>
 
 	<contribution type="picture" id="{jagaimo-structure-towerparking-a}">
@@ -39,9 +39,9 @@
 		
 		&towerparking;
 
-		<design>ƒ^ƒCƒvA</design>
+		<design>ã‚¿ã‚¤ãƒ—A</design>
 		<structure>
-			<category byname="’“Ôê"/>
+			<category byname="é§è»Šå ´"/>
 		</structure>
 		<pictures>
 			<top origin=" 0, 14" offset="2">
@@ -83,9 +83,9 @@
 		
 		&towerparking;
 
-		<design>ƒ^ƒCƒvB</design>
+		<design>ã‚¿ã‚¤ãƒ—B</design>
 		<structure>
-			<category byname="’“Ôê"/>
+			<category byname="é§è»Šå ´"/>
 		</structure>
 		<pictures>
 			<top origin=" 32, 14" offset="2">
@@ -127,9 +127,9 @@
 		
 		&towerparking;
 
-		<design>ƒ^ƒCƒvC</design>
+		<design>ã‚¿ã‚¤ãƒ—C</design>
 		<structure>
-			<category byname="’“Ôê"/>
+			<category byname="é§è»Šå ´"/>
 		</structure>
 		<pictures>
 			<top origin=" 64, 14" offset="2">
@@ -170,8 +170,8 @@
 
 	<contribution type="GenericStructure" id="{jagaimo-structure-towerparking-b}-1">
 			
-		<group>ƒ^ƒ[ƒp[ƒLƒ“ƒO</group>
-		<name>ƒ^ƒ[ƒp[ƒLƒ“ƒO</name>
+		<group>ã‚¿ãƒ¯ãƒ¼ãƒ‘ãƒ¼ã‚­ãƒ³ã‚°</group>
+		<name>ã‚¿ãƒ¯ãƒ¼ãƒ‘ãƒ¼ã‚­ãƒ³ã‚°</name>
 		<price>3500000</price>
 		<size>1,2</size>
 		<height>3</height>
@@ -180,9 +180,9 @@
 			<base>1</base>
 		</population>
 
-		<design>˜AŒ‹ƒ^ƒCƒv</design>
+		<design>é€£çµã‚¿ã‚¤ãƒ—</design>
 		<structure>
-			<category byname="’“Ôê"/>
+			<category byname="é§è»Šå ´"/>
 		</structure>
 		<sprite origin="0,89" offset="37">
 			<picture ref="{jagaimo-structure-towerparking-b}" />

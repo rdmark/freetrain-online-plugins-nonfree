@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>BostonMBTA Ô—¼ƒLƒbƒg</title>
+	<title>BostonMBTA è»Šä¸¡ã‚­ãƒƒãƒˆ</title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 
 	<!-- series 0600 -->
@@ -14,7 +14,7 @@
 		<company>Boston MBTA</company>
 		<type>series 0600</type>
 		<name>Blue Line</name>
-		<author>ìŒûk‰î‚³‚ñ</author>
+		<author>å·å£è€•ä»‹ã•ã‚“</author>
 		<description>
 Bowdoin-Wonderland. Builder: Hawker-Siddeley, Electrical: GE, Year: 1978-1980, Length: 48' 6", Width: 111", Seats: 42. Currently 68 cars are active.
 		</description>
@@ -38,7 +38,7 @@ Bowdoin-Wonderland. Builder: Hawker-Siddeley, Electrical: GE, Year: 1978-1980, L
 		<company>Boston MBTA</company>
 		<type>series 01500/01600</type>
 		<name>Red Line</name>
-		<author>ìŒûk‰î‚³‚ñ</author>
+		<author>å·å£è€•ä»‹ã•ã‚“</author>
 		<description>
 Alewife-Braintree. Builder: Pullman Standard, Electrical: WH, Year:1969-1970 (rebuilt 1985-1988), Length: 69' 6", Width: 122".
 		</description>
@@ -61,9 +61,9 @@ Alewife-Braintree. Builder: Pullman Standard, Electrical: WH, Year:1969-1970 (re
 		<company>Boston MBTA</company>
 		<type>series 3400</type>
 		<name>Green Line</name>
-		<author>ìŒûk‰î‚³‚ñ</author>
+		<author>å·å£è€•ä»‹ã•ã‚“</author>
 		<description>
-Lenchmere-KenmoreB–ì‹…ê‚ğ’Ê‚é˜H–Ê“dÔ‚Å‚·B
+Lenchmere-Kenmoreã€‚é‡çƒå ´ã‚’é€šã‚‹è·¯é¢é›»è»Šã§ã™ã€‚
 		</description>
 		<price>1</price>
 		<speed>slow</speed>
@@ -83,9 +83,9 @@ Lenchmere-KenmoreB–ì‹…ê‚ğ’Ê‚é˜H–Ê“dÔ‚Å‚·B
 		<company>Boston MBTA</company>
 		<type>series 01200</type>
 		<name>Orange Line</name>
-		<author>ìŒûk‰î‚³‚ñ</author>
+		<author>å·å£è€•ä»‹ã•ã‚“</author>
 		<description>
-Oak Grove-Forest HillsBAmtrak‚ÆÚ‘±‚µ‚Ü‚·B
+Oak Grove-Forest Hillsã€‚Amtrakã¨æ¥ç¶šã—ã¾ã™ã€‚
 		</description>
 		<price>1</price>
 		<speed>medium</speed>

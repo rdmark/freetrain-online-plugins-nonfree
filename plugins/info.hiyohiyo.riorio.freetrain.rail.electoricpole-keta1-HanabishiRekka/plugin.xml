@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œƒ^ƒCƒvŒ…</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>æž¶ç·šæŸ±ã‚¿ã‚¤ãƒ—æ¡</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -49,7 +49,7 @@
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6001-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…A</name>
+		<name>æ–œæ©‹æ¡A</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5001-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -57,7 +57,7 @@ id="{riorio-ep-slice-1EF4-6001-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6002-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…B</name>
+		<name>æ–œæ©‹æ¡B</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5002-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -65,7 +65,7 @@ id="{riorio-ep-slice-1EF4-6002-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6003-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…C</name>
+		<name>æ–œæ©‹æ¡C</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5003-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -73,7 +73,7 @@ id="{riorio-ep-slice-1EF4-6003-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6004-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…D</name>
+		<name>æ–œæ©‹æ¡D</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5004-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -81,7 +81,7 @@ id="{riorio-ep-slice-1EF4-6004-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6005-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…E</name>
+		<name>æ–œæ©‹æ¡E</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5005-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -89,7 +89,7 @@ id="{riorio-ep-slice-1EF4-6005-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6006-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…F</name>
+		<name>æ–œæ©‹æ¡F</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5006-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -97,7 +97,7 @@ id="{riorio-ep-slice-1EF4-6006-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6007-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…G•¡</name>
+		<name>æ–œæ©‹æ¡Gè¤‡</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5007-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -105,7 +105,7 @@ id="{riorio-ep-slice-1EF4-6007-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6008-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…H•¡</name>
+		<name>æ–œæ©‹æ¡Hè¤‡</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5008-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -113,7 +113,7 @@ id="{riorio-ep-slice-1EF4-6008-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6009-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…I•¡</name>
+		<name>æ–œæ©‹æ¡Iè¤‡</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5009-9C5A-D0EA1049D28D}"/>
 		</sprite>
@@ -121,7 +121,7 @@ id="{riorio-ep-slice-1EF4-6009-9C5A-D0EA1049D28D}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-slice-1EF4-6010-9C5A-D0EA1049D28D}">
-		<name>ŽÎ‹´Œ…J•¡</name>
+		<name>æ–œæ©‹æ¡Jè¤‡</name>
 		<sprite>
 			<picture ref="{riorio-ep-slice-1EF4-5010-9C5A-D0EA1049D28D}"/>
 		</sprite>

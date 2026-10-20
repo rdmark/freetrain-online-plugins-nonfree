@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@ˆ»£ƒqƒ</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ç¶¾ç€¬ãƒ’ãƒ­</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.ayase" />
 	
 
 	<contribution type="GenericStructure" id="{DBE8EACF-C94D-4e02-AA29-43AC34F96AC9}-gs">
-		<group>`˜pŽ{Ý(ƒRƒ“ƒeƒi•u“ª)</group>
+		<group>æ¸¯æ¹¾æ–½è¨­(ã‚³ãƒ³ãƒ†ãƒŠåŸ é ­)</group>
 		<price>100000000</price>
 		<size>2,4</size>
 		<height>2</height>
 		<structure>
-			<category byname="‰Ý•¨•u“ª" />
+			<category byname="è²¨ç‰©åŸ é ­" />
 		</structure>
 		<sprite origin="0,0" offset="8">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img01}"/>
@@ -24,12 +24,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{B32B765C-C74C-4BD9-84C6-E75A3E6DFC27}-gs">
-		<group>`˜pŽ{Ý(“S“¹ŽV‹´)</group>
+		<group>æ¸¯æ¹¾æ–½è¨­(é‰„é“æ¡Ÿæ©‹)</group>
 		<price>50000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹q•u“ª" />
+			<category byname="æ—…å®¢åŸ é ­" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img02}"/>
@@ -41,12 +41,12 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{E0F69A4B-A3EE-4605-8987-7E63737EA481}-gs">
-		<group>`˜pŽ{Ý(‹q‘D•u“ª)</group>
+		<group>æ¸¯æ¹¾æ–½è¨­(å®¢èˆ¹åŸ é ­)</group>
 		<price>200000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹q•u“ª" />
+			<category byname="æ—…å®¢åŸ é ­" />
 		</structure>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img02}"/>
@@ -58,13 +58,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{32D21DEE-99A5-414F-BAF7-6BBD705A7485}-gs">
-		<group>‘qŒÉ</group>
+		<group>å€‰åº«</group>
 		<price>10000000</price>
 		<size>1,1</size>
 		<height>1</height>
-		<design>ÔƒŒƒ“ƒK1</design>
+		<design>èµ¤ãƒ¬ãƒ³ã‚¬1</design>
 		<structure>
-			<category byname="‘qŒÉ" />
+			<category byname="å€‰åº«" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img03}"/>
@@ -75,13 +75,13 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{29D7FEFA-2491-4ED0-8479-596FD805ED03}-gs">
-		<group>‘qŒÉ</group>
+		<group>å€‰åº«</group>
 		<price>10000000</price>
 		<size>1,1</size>
 		<height>1</height>
-		<design>ÔƒŒƒ“ƒK2</design>
+		<design>èµ¤ãƒ¬ãƒ³ã‚¬2</design>
 		<structure>
-			<category byname="‘qŒÉ" />
+			<category byname="å€‰åº«" />
 		</structure>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img03}"/>
@@ -92,13 +92,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{D7A9451D-6EAB-4A50-8B4F-F1F30764C105}-gs">
-		<group>‘qŒÉ</group>
+		<group>å€‰åº«</group>
 		<price>10000000</price>
 		<size>1,1</size>
 		<height>1</height>
-		<design>ÔƒŒƒ“ƒK3</design>
+		<design>èµ¤ãƒ¬ãƒ³ã‚¬3</design>
 		<structure>
-			<category byname="‘qŒÉ" />
+			<category byname="å€‰åº«" />
 		</structure>
 		<sprite origin="128,0" offset="16">
 			<picture ref="{000000-2002-1212-AYASE-Structure-img03}"/>

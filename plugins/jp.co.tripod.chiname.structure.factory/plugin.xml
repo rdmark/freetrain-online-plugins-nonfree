@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY NormalFactory '
-	<design>ŽRŒ^‰®ª(V)</design>
+	<design>å±±åž‹å±‹æ ¹(æ–°)</design>
 	<price>100000000</price>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<population>
 		<class name="freetrain.contributions.population.OfficePopulation"/>
@@ -14,10 +14,10 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY OldFactory '
-	<design>ŽRŒ^‰®ª(ŒÃ)</design>
+	<design>å±±åž‹å±‹æ ¹(å¤)</design>
 	<price>80000000</price>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<population>
 		<class name="freetrain.contributions.population.OfficePopulation"/>
@@ -55,8 +55,8 @@
 ]>
 <plug-in>
 
-	<title>Hê</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å·¥å ´</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{C96F811A-5CB9-48E6-C477-1D7EEA9C5681}">
@@ -69,7 +69,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{2A14C189-6FDF-49AB-C477-05E02E9BA3C7}-00">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -83,7 +83,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{2A14C189-6FDF-49AB-C477-05E02E9BA3C7}-01">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -97,7 +97,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{2A14C189-6FDF-49AB-C477-05E02E9BA3C7}-02">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -112,7 +112,7 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{C33F60C4-A1C6-4813-C477-4AE8D3B442D2}-00">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&OldFactory;
 		&crDirtyBrown;
 		&crDirtyYellow;
@@ -125,7 +125,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{C33F60C4-A1C6-4813-C477-4AE8D3B442D2}-01">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&OldFactory;
 		&crDirtyBrown;
 		&crDirtyYellow;
@@ -138,7 +138,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{C33F60C4-A1C6-4813-C477-4AE8D3B442D2}-02">
-		<group>Hê‰®ŽÉ</group>
+		<group>å·¥å ´å±‹èˆŽ</group>
 		&OldFactory;
 		&crDirtyBrown;
 		&crDirtyYellow;

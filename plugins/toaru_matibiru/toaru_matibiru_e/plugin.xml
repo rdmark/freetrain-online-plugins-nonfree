@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>町ビルE</title>
+	<title>逕ｺ繝薙ΝE</title>
 	<author>toaru</author>
 	<homepage>http://monatomachi-ft.jpn.org/</homepage>
 
@@ -11,11 +11,11 @@
 </contribution>
 	
 <contribution type="GenericStructure" id="{D7EE5449-93CF-4AF8-924F-CAB63726715B}">
-		<name>町ビルE</name>
+		<name>逕ｺ繝薙ΝE</name>
 		<price>160</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="貸事務所"/>
+			<category byname="雋ｸ莠句漁謇"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -49,11 +49,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{4D0D0EAB-AFF0-45D5-B924-5C1A91A6CA4F}">
-		<name>町ビルE</name>
+		<name>逕ｺ繝薙ΝE</name>
 		<price>160</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="貸事務所"/>
+			<category byname="雋ｸ莠句漁謇"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -87,11 +87,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{8F177057-3FC4-4234-B3E9-18D4DAEAC415}">
-		<name>町ビルE</name>
+		<name>逕ｺ繝薙ΝE</name>
 		<price>160</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="貸事務所"/>
+			<category byname="雋ｸ莠句漁謇"/>
 		</structure>
 		<height>3</height>
 		<population>
@@ -125,11 +125,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{A85557D5-D1ED-4CF8-86E8-48C49669ACA0}">
-		<name>町ビルE</name>
+		<name>逕ｺ繝薙ΝE</name>
 		<price>160</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="貸事務所"/>
+			<category byname="雋ｸ莠句漁謇"/>
 		</structure>
 		<height>3</height>
 		<population>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY Price '
 	<price>100000</price>
@@ -7,7 +7,7 @@
 <!ENTITY ClassDef '
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		&Price;
-		<group>小川</group>
+		<group>蟆丞ｷ�</group>
 		<population>
 			<class name="freetrain.contributions.population.ResidentialPopulation"/>
 			<base>1</base>
@@ -17,8 +17,8 @@
 ]>
 
 <plug-in>
-	<title>河川構造物</title>
-	<author>狼月楼夜＆HEUER</author>
+	<title>豐ｳ蟾晄ｧ矩迚ｩ</title>
+	<author>迢ｼ譛域･ｼ螟懶ｼ�HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>
 	
 	<contribution type="picture" id="{LAND1001-8058-11D7-BB78-0090FE1AB959}">

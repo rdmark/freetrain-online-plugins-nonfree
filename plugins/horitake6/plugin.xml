@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
 
-<author>ƒzƒŠƒ^ƒP</author>
+<author>ãƒ›ãƒªã‚¿ã‚±</author>
 <homepage></homepage>
 
-<title>Œù”z“¹˜H</title>
+<title>å‹¾é…é“è·¯</title>
 
-<!-- Œù”z“¹˜H‚P -->
+<!-- å‹¾é…é“è·¯ï¼‘ -->
 
 <contribution type="picture" id="{98536417-A2C7-4189-9EB9-30AA059A2E84}">
 	<picture src = "02.bmp">
@@ -19,11 +19,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{76B1107C-FE91-4608-9C44-408F1E1D0EC7}">
-	<group>“¹˜HŠÖ˜A•¨</group>
-	<name>Œù”z“¹˜H</name>
-	<design>“ñŽÔü“¹˜Hi‰®ª•t‚«j</design>
+	<group>é“è·¯é–¢é€£ç‰©</group>
+	<name>å‹¾é…é“è·¯</name>
+	<design>äºŒè»Šç·šé“è·¯ï¼ˆå±‹æ ¹ä»˜ãï¼‰</design>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,4</size>
@@ -55,7 +55,7 @@
 	</sprite>
 </contribution>
 
-<!-- Œù”z“¹˜H‚Q -->
+<!-- å‹¾é…é“è·¯ï¼’ -->
 
 <contribution type="picture" id="{3482F4F9-EFD2-4ABB-A00F-E2A9541F5543}">
 	<picture src = "01.bmp" />
@@ -63,11 +63,11 @@
 
 <contribution type="GenericStructure" id="{CD6744B4-F172-481B-9658-C91A2E06A38F}">
 
-	<group>“¹˜HŠÖ˜A•¨</group>
-	<name>Œù”z“¹˜H</name>
-	<design>“ñŽÔü“¹˜Hi‰®ª‚È‚µj</design>
+	<group>é“è·¯é–¢é€£ç‰©</group>
+	<name>å‹¾é…é“è·¯</name>
+	<design>äºŒè»Šç·šé“è·¯ï¼ˆå±‹æ ¹ãªã—ï¼‰</design>
 	<structure>
-		<category byname="“¹˜HŠÖ˜A•¨"/>
+		<category byname="é“è·¯é–¢é€£ç‰©"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,4</size>

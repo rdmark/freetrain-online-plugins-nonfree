@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒvƒ‰ƒOƒCƒ“</title>
-	<author>ŽÄŽRe•û</author>
+	<title>å»ºç‰©ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>æŸ´å±±è¦ªæ–¹</author>
 	<homepage>http://www.geocities.co.jp/SiliconValley-Oakland/8444/</homepage>
 	
         <contribution type="picture" id="{9FAB85B3-1232-4DAE-B833-BD2E5ADBDDD2}">
@@ -10,7 +10,7 @@
 	</contribution>
 
         <contribution type="commercial" id="{1EBA4A26-C35D-4209-9C71-AA9B1237C14C}">
-		<group>ƒeƒNƒmƒK[ƒfƒ“ƒrƒ‹</group>
+		<group>ãƒ†ã‚¯ãƒŽã‚¬ãƒ¼ãƒ‡ãƒ³ãƒ“ãƒ«</group>
 		<price>1000000000</price>
 		<size>2,4</size>
 		<height>10</height>
@@ -24,7 +24,7 @@
               </contribution>
  
    <contribution type="commercial" id="{1EBA4A26-C35D-4209-9C71-AA9B1237C14A}">
-     <group>ƒeƒNƒmƒK[ƒfƒ“ƒrƒ‹</group>
+     <group>ãƒ†ã‚¯ãƒŽã‚¬ãƒ¼ãƒ‡ãƒ³ãƒ“ãƒ«</group>
      <price>10000000000</price>
      <size>4,2</size>
      <height>10</height>

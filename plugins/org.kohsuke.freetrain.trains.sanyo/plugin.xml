@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ŽR—z“d‹C“S“¹ ŽÔ—¼ƒLƒbƒg</title>
+	<title>å±±é™½é›»æ°—é‰„é“ è»Šä¸¡ã‚­ãƒƒãƒˆ</title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 
 	<!--  -->
@@ -12,18 +12,18 @@
 	</contribution>
 	
 	<contribution type="train" id="{BEF87D95-5D62-4374-A5D2-8613E3C4F6DC}">
-		<company>ŽR—z“d‹C“S“¹</company>
-		<type>3000Œn</type>
-		<name>•’Ê</name>
-		<author>masashi‚³‚ñ</author>
-		<description>Žå‚É•’Ê‚ÉŽg‚í‚ê‚éŽÔ—¼B
-‚²‚­‚Ü‚ê‚É“Á‹}‚Æ‚µ‚ÄŽg‚í‚ê‚éB
-‹æŠÔ‚Í
+		<company>å±±é™½é›»æ°—é‰„é“</company>
+		<type>3000ç³»</type>
+		<name>æ™®é€š</name>
+		<author>masashiã•ã‚“</author>
+		<description>ä¸»ã«æ™®é€šã«ä½¿ã‚ã‚Œã‚‹è»Šä¸¡ã€‚
+ã”ãã¾ã‚Œã«ç‰¹æ€¥ã¨ã—ã¦ä½¿ã‚ã‚Œã‚‹ã€‚
+åŒºé–“ã¯
 
-•P˜H„ã_ŽO‹{
-@@„ã‹}ŽO‹{
+å§«è·¯ï¼žé˜ªç¥žä¸‰å®®
+ã€€ã€€ï¼žé˜ªæ€¥ä¸‰å®®
 
-ü–„ŽR—z–ÔŠ±‚Å‚ ‚é
+é£¾ç£¨ï¼žå±±é™½ç¶²å¹²ã§ã‚ã‚‹
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -45,17 +45,17 @@
 	</contribution>
 	
 	<contribution type="train" id="{1F80A2E8-1A5D-4a8d-8830-CB89AC3B0AA6}">
-		<company>ŽR—z“d‹C“S“¹</company>
-		<type>5000Œn</type>
-		<name>“Á‹}</name>
-		<author>masashi‚³‚ñ</author>
-		<description>Žå‚É“Á‹}A’¼’Ê“Á‹}‚ÉŽg‚í‚ê‚éŽÔ—¼B
-‹æŠÔ‚Í
-“Á‹}
-ŽR—z•P˜H„ã_ŽO‹{
-’¼’Ê“Á‹}
-ŽR—z•P˜H„ã_”~“c
-‚Å‚ ‚é
+		<company>å±±é™½é›»æ°—é‰„é“</company>
+		<type>5000ç³»</type>
+		<name>ç‰¹æ€¥</name>
+		<author>masashiã•ã‚“</author>
+		<description>ä¸»ã«ç‰¹æ€¥ã€ç›´é€šç‰¹æ€¥ã«ä½¿ã‚ã‚Œã‚‹è»Šä¸¡ã€‚
+åŒºé–“ã¯
+ç‰¹æ€¥
+å±±é™½å§«è·¯ï¼žé˜ªç¥žä¸‰å®®
+ç›´é€šç‰¹æ€¥
+å±±é™½å§«è·¯ï¼žé˜ªç¥žæ¢…ç”°
+ã§ã‚ã‚‹
 </description>
 		<fare>400</fare>
 		<price>28000000</price>

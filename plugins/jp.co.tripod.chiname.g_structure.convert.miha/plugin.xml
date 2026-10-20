@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
-<!-- 1x1 ƒ}ƒ“ƒVƒ‡ƒ“‚Ìƒpƒ‰ƒ[ƒ^ -->
+<!-- 1x1 ãƒžãƒ³ã‚·ãƒ§ãƒ³ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ -->
 <!ENTITY smallMansion '
-		<group>ƒ}ƒ“ƒVƒ‡ƒ“(1x1)</group>
+		<group>ãƒžãƒ³ã‚·ãƒ§ãƒ³(1x1)</group>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>25000000</price>
 		<size>1,1</size>
@@ -15,11 +15,11 @@
 			<base>120</base>
 		</population>
 '>
-<!-- 2x2 ƒ}ƒ“ƒVƒ‡ƒ“‚Ìƒpƒ‰ƒ[ƒ^ -->
+<!-- 2x2 ãƒžãƒ³ã‚·ãƒ§ãƒ³ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ -->
 <!ENTITY middleMansion '
-		<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(2x2)</group>
+		<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(2x2)</group>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>290000000</price>
 		<size>2,2</size>
@@ -30,11 +30,11 @@
 			<base>500</base>
 		</population>
 '>
-<!-- ‘åŒ^‚Ìƒpƒ‰ƒ[ƒ^ -->
+<!-- å¤§åž‹ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ -->
 <!ENTITY largeMansion '
-		<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(3x2)</group>
+		<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(3x2)</group>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<size>3,2</size>
 		<price>620000000</price>
@@ -47,16 +47,16 @@
 '>
 ]>
 <plug-in>
-	<title>ƒ}ƒ“ƒVƒ‡ƒ“ƒZƒbƒg</title>
-	<author>ƒ~ƒn‚³‚ñ</author>
+	<title>ãƒžãƒ³ã‚·ãƒ§ãƒ³ã‚»ãƒƒãƒˆ</title>
+	<author>ãƒŸãƒã•ã‚“</author>
 	<homepage>http://www5.ocn.ne.jp/~mihata/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.miha"/>
 	
 	<!--contribution type="GenericStructure" id="{551BB418-4604-4fca-88AC-5F71068FE04A}-gs">
-		<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(1x3)</group>
-		<design>ƒ}ƒNƒVƒXƒ^ƒ[</design>
+		<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(1x3)</group>
+		<design>ãƒžã‚¯ã‚·ã‚¹ã‚¿ãƒ¯ãƒ¼</design>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>240000000</price>
 		<size>1,3</size>
@@ -71,12 +71,12 @@
 	</contribution-->
 	
 	<!--contribution type="GenericStructure" id="{8BC1629A-BD98-462c-985A-CCD03F1B8C22}-gs">
-		<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(2x2)</group>
-		<design>”ª‰¤ŽqÄŠJ”­ƒrƒ‹</design>
+		<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(2x2)</group>
+		<design>å…«çŽ‹å­å†é–‹ç™ºãƒ“ãƒ«</design>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>			
-			<category byname="“X•Ü" hide="true"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>			
+			<category byname="åº—èˆ—" hide="true"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
 		</structure>
 		<price>272000000</price>
 		<size>2,2</size>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY suisha '
-	<group>水車小屋</group>
+	<group>豌ｴ霆雁ｰ丞ｱ�</group>
 	<price>300000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="一戸建て"/>
+		<category byname="荳謌ｸ蟒ｺ縺ｦ"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -16,7 +16,7 @@
 '>]>
 
 <plug-in>
-	<title>水車小屋</title>
+	<title>豌ｴ霆雁ｰ丞ｱ�</title>
 	<author>Hermes</author>
 	<homepage>nothing</homepage>
 		

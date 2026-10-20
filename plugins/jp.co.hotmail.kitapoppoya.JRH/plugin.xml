@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>JR�k�C���Z�b�g</title>
-  <author>�k�̋D�ԉ�</author>
+  <title>JR北海道セット</title>
+  <author>北の汽車屋</author>
   <homepage></homepage>
-<!-- 711�n�擪�� --> 
+<!-- 711系先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -11,8 +11,8 @@
   </sprite>
   <capacity>84</capacity>
   <seatedcapacity>72</seatedcapacity> 
-�@</contribution>
-<!-- 711�n�擪�O�h�A�� --> 
+　</contribution>
+<!-- 711系先頭三ドア車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-3-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -20,31 +20,31 @@
   </sprite>
   <capacity>84</capacity>
  <seatedcapacity>72</seatedcapacity> 
-�@</contribution>
-<!-- 711�n�Ō���� -->
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+　</contribution>
+<!-- 711系最後尾車 -->
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-711-A}"/> 
   <capacity>84</capacity>
  <seatedcapacity>72</seatedcapacity> 
 </contribution>
-<!-- 711�n�Ō���O�h�A�� -->
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-3-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 711系最後尾三ドア車 -->
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-3-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-711-3-A}"/> 
   <capacity>84</capacity>
  <seatedcapacity>72</seatedcapacity> 
 </contribution>
-<!-- 711�n���Ԏ� -->
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-C}">
+<!-- 711系中間車 -->
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-711-C}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
   <picture src="711b.bmp" />
   </sprite>
   <capacity>96</capacity>
   <seatedcapacity>78</seatedcapacity> 
-�@</contribution>
-<!-- 785�n�擪�� --> 
+　</contribution>
+<!-- 785系先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-785-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -52,40 +52,40 @@
   </sprite>
   <capacity>56</capacity>
  <seatedcapacity>56</seatedcapacity>
-<!-- 785�n�Ō���� --> 
-�@</contribution>
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-785-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 785系最後尾車 --> 
+　</contribution>
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-785-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-785-A}"/> 
   <capacity>60</capacity>
   <seatedcapacity>60</seatedcapacity> 
 </contribution>
-<!-- 785�n���Ԏ�-->
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-785-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+<!-- 785系中間車-->
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-785-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
   <sprite origin="0,0">
   <picture src="785b.bmp" /> 
   </sprite>
   <capacity>68</capacity>
   <seatedcapacity>68</seatedcapacity> 
   </contribution>
-<!-- 7891000�ԑ�擪�� --> 
+<!-- 7891000番台先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-7891000-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="789_1000a.bmp" /> 
   </sprite>
   <capacity>50</capacity>
  <seatedcapacity>50</seatedcapacity> 
   </contribution>
-<!-- 7891000�ԑ�Ō���� -->
+<!-- 7891000番台最後尾車 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-7891000-B}">
   <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-7891000-A}"/> 
   <capacity>52</capacity>
   <seatedcapacity>52</seatedcapacity> 
   </contribution> 
-<!-- 7891000�ԑ䒆�Ԏ�-->
+<!-- 7891000番台中間車-->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-7891000-C}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -94,23 +94,23 @@
   <capacity>64</capacity>
   <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!-- �L�n281�擪�� --> 
+<!-- キハ281先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-KIHA281-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="k281a.bmp" /> 
   </sprite>
   <capacity>48</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution>
-<!-- �L�n281�Ō���� -->
+<!-- キハ281最後尾車 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-KIHA281-B}">
   <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-KIHA281-A}"/> 
   <capacity>48</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution> 
-<!-- �L�n281���Ԏ�-->
+<!-- キハ281中間車-->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-KIHA281-C}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -119,7 +119,7 @@
   <capacity>51</capacity>
   <seatedcapacity>51</seatedcapacity> 
   </contribution>
-<!-- �L�n141�擪�� --> 
+<!-- キハ141先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA141-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -128,69 +128,69 @@
   <capacity>125</capacity>
   <seatedcapacity>74</seatedcapacity> 
   </contribution>
-<!-- �L�n141�Ō���� -->
+<!-- キハ141最後尾車 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA141-B}">
   <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1F3-KIHA141-A}"/> 
   <capacity>122</capacity>
   <seatedcapacity>72</seatedcapacity> 
   </contribution> 
-<!-- �L�T�n144 -->
+<!-- キサハ144 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA141-C}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="kisaha144.bmp" /> 
   </sprite>
   <capacity>138</capacity>
   <seatedcapacity>80</seatedcapacity> 
   </contribution>
-<!-- �L�n150�c��� -->
+<!-- キハ150苗穂車 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA150-NAE}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="kiha150_Nae.bmp" /> 
   </sprite>
   <capacity>117</capacity>
   <seatedcapacity>49</seatedcapacity> 
   </contribution>
-<!-- �L�n150����� -->
+<!-- キハ150旭川車 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA150-ASA}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="kiha150_Asa.bmp" /> 
   </sprite>
   <capacity>117</capacity>
   <seatedcapacity>49</seatedcapacity> 
   </contribution>
-<!-- �L�n150100�ԑ� -->
+<!-- キハ150100番台 -->
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1F3-KIHA150-100}">
   <class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+　<sprite origin="0,0">
   <picture src="kiha150_100.bmp" /> 
   </sprite>
   <capacity>115</capacity>
   <seatedcapacity>49</seatedcapacity> 
   </contribution>
-<!-- 50�n�C���擪�� --> 
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 50系海峡先頭車 --> 
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="ohahu50_5000.bmp" /> 
   </sprite>
   <capacity>63</capacity>
   <seatedcapacity>63</seatedcapacity> 
   </contribution>
-<!-- 50�n�C���Ō���� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 50系海峡最後尾車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{669D5BDE-23F1-43BD-AC36-50KAIKYO-A}" />  
   <capacity>63</capacity>
   <seatedcapacity>63</seatedcapacity> 
   </contribution> 
-<!-- 50�n�C�����Ԏ� -->
-�@<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 50系海峡中間車 -->
+　<contribution type="trainCar" id="{669D5BDE-23F1-43BD-AC36-50KAIKYO-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="oha50_5000.bmp" /> 
   </sprite>
   <capacity>76</capacity>
@@ -198,10 +198,10 @@
   </contribution>
 
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-711}">
-<company>JR�k�C��</company>
-<type>711�n</type>
-<name>���ٖ{��������{��</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>711系</type>
+<name>函館本線･室蘭本線</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>480</fare>
 <price>35000000</price>
@@ -219,10 +219,10 @@
 </config>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-711-3}">
-<company>JR�k�C��</company>
-<type>711�n(3�h�A������)</type>
-<name>���ٖ{��������{��</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>711系(3ドア改造車)</type>
+<name>函館本線･室蘭本線</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>480</fare>
 <price>35000000</price>
@@ -240,10 +240,10 @@
 </config>
 </contribution>
  <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-785}">
-<company>JR�k�C��</company>
-<type>785�n</type>
-<name>�X�[�p�[�J���C��������</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>785系</type>
+<name>スーパーカムイ･すずらん</name>
+<author>北の汽車屋</author>
 <description></description>
 <price>50000000</price>
 <fare>700</fare> 
@@ -261,10 +261,10 @@
 </config>
 </contribution>
  <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-7891000}">
-<company>JR�k�C��</company>
-<type>789�n1000�ԑ�</type>
-<name>�X�[�p�[�J���C</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>789系1000番台</type>
+<name>スーパーカムイ</name>
+<author>北の汽車屋</author>
 <description></description>
 <price>56000000</price>
 <fare>750</fare> 
@@ -278,10 +278,10 @@
 </composition>
 </contribution>  
  <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-KIHA281}">
-<company>JR�k�C��</company>
-<type>�L�n281�n(fixed by kitapoppoya)</type>
-<name>�X�[�p�[�k�l</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>キハ281系(fixed by kitapoppoya)</type>
+<name>スーパー北斗</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>800</fare>
 <price>58000000</price>
@@ -295,10 +295,10 @@
 </composition>
 </contribution> 
 <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-KIHA141}">
-<company>JR�k�C��</company>
-<type>�L�n141�n</type>
-<name>�w���s�s��</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>キハ141系</type>
+<name>学園都市線</name>
+<author>北の汽車屋</author>
 <description></description>
 <price>33000000</price>
 <fare>450</fare> 
@@ -318,10 +318,10 @@
 </config>
 </contribution>
 <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-KIHA150NAE}">
-<company>JR�k�C��</company>
-<type>�L�n150�n</type>
-<name>�c��F</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>キハ150系</type>
+<name>苗穂色</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>500</fare>
 <price>40000000</price>
@@ -333,10 +333,10 @@
 </composition>
 </contribution>
 <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-KIHA150ASA}">
-<company>JR�k�C��</company>
-<type>�L�n150�n</type>
-<name>����F</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>キハ150系</type>
+<name>旭川色</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>500</fare>
 <price>40000000</price>
@@ -348,10 +348,10 @@
 </composition>
 </contribution>
 <contribution type="train" id="{57644AE6-7FFA-A231-8FE0-75-KIHA150100}">
-<company>JR�k�C��</company>
-<type>�L�n150�n</type>
-<name>100�ԑ�</name>
-<author>�k�̋D�ԉ�</author>
+<company>JR北海道</company>
+<type>キハ150系</type>
+<name>100番台</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>500</fare>
 <price>40000000</price>
@@ -363,10 +363,10 @@
 </composition>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC36-B-50KAIKYO}">
-<company>JR�k�C��</company>
+<company>JR北海道</company>
 <type>ED 79</type>
-<name>�����C��</name>
-<author>�k�̋D�ԉ�</author>
+<name>快速海峡</name>
+<author>北の汽車屋</author>
 <description></description>
 <fare>400</fare>
 <price>32000000</price>

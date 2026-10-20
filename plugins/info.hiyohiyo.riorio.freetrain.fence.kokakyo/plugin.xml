@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-	<title>òtype‚‰Ë‹´•Ç</title>
+	<title>æŸµtypeé«˜æž¶æ©‹å£</title>
 	<author>riorio</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain</homepage>	
 		
@@ -16,8 +16,8 @@
 	</contribution>
 		
 	<contribution type="land" id="{landfence-riorio-kokakyo-0001-a3c212b354}">
-		<group>‚‰Ë‹´•Ç</group>
-		<name>ò</name>
+		<group>é«˜æž¶æ©‹å£</group>
+		<name>æŸµ</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -31,8 +31,8 @@
 	</contribution>
 
 	<contribution type="land" id="{landfence-riorio-kokakyo-0002-45c321a321b}">
-		<group>‚‰Ë‹´•Ç</group>
-		<name>ò V</name>
+		<group>é«˜æž¶æ©‹å£</group>
+		<name>æŸµ æ–°</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>

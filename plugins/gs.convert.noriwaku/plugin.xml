@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‰Ô•H—ó‰Î@–@˜g</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€èŠ±è±çƒˆç«ã€€æ³•æž </title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 	<contribution type="picture" id="{riorio-gsconvert-rekka-picture-0001}">
@@ -54,8 +54,8 @@
 
 
 	<contribution type="GenericStructure" id="{rk-0003-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
-		<design>’¼ü</design>
+		<group>æ³•æž (PC)</group>
+		<design>ç›´ç·š</design>
 		<price>5000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -66,14 +66,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0004}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-0001-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
-		<design>ŠpŽÎ</design>
+		<group>æ³•æž (PC)</group>
+		<design>è§’æ–œ</design>
 		<price>5000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -81,15 +81,15 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0001}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-0002-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
+		<group>æ³•æž (PC)</group>
 		<price>5000000</price>
-		<design>‰š ŽÎ</design>
+		<design>å‡¹ æ–œ</design>
 		<size>1,1</size>
 		<height>1</height>
 		<sprite origin="0,0" offset="20">
@@ -102,14 +102,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0012}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-0005-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
-		<design>‰š</design>
+		<group>æ³•æž (PC)</group>
+		<design>å‡¹</design>
 		<price>5000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -117,14 +117,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0005}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-0006-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
-		<design>“Ê Šp</design>
+		<group>æ³•æž (PC)</group>
+		<design>å‡¸ è§’</design>
 		<price>5000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -138,14 +138,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0008}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{rk-0009-A0036A6ECDEB}-gs">
-		<group>–@˜g(PC)</group>
-		<design>“Ê ŽÎ</design>
+		<group>æ³•æž (PC)</group>
+		<design>å‡¸ æ–œ</design>
 		<price>5000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -156,7 +156,7 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-0011}" />
 		</sprite>
 		<structure>
-			<category  byname="Ž¡ŽRÝ”õ" />
+			<category  byname="æ²»å±±è¨­å‚™" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>

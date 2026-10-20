@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>—ó‰Î</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>çƒˆç«</author>
 	<homepage></homepage>
 
 	<contribution type="picture" id="{rk-tateya-tutaya002-cg-001}">
@@ -14,7 +14,7 @@
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya002-001}">
 
-		<name>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh(’†)</name>
+		<name>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰(ä¸­)</name>
 		<price>10000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -22,9 +22,9 @@
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
 			<base>120</base>
 		</population>
-		<design>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</design>
+		<design>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</design>
 		<structure>
-			<category  byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category  byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="21">
 			<picture ref="{rk-tateya-tutaya002-cg-001}"/>
@@ -43,7 +43,7 @@
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya002-002}">
 
-		<name>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh(’†)</name>
+		<name>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰(ä¸­)</name>
 		<price>10000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -51,9 +51,9 @@
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
 			<base>120</base>
 		</population>
-		<design>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</design>
+		<design>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</design>
 		<structure>
-			<category  byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category  byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 
 		<sprite origin="256,0" offset="21">
@@ -74,7 +74,7 @@
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya002-003}">
 
-		<name>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh(’†)</name>
+		<name>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰(ä¸­)</name>
 		<price>10000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -82,9 +82,9 @@
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
 			<base>120</base>
 		</population>
-		<design>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</design>
+		<design>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</design>
 		<structure>
-			<category  byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category  byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 
 		<sprite origin="512,0" offset="21">
@@ -104,7 +104,7 @@
 
 	<contribution type="GenericStructure" id="{rk-tateya-tutaya002-004}">
 
-		<name>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh(’†)</name>
+		<name>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰(ä¸­)</name>
 		<price>10000000</price>
 		<size>2,2</size>
 		<height>1</height>
@@ -112,9 +112,9 @@
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
 			<base>120</base>
 		</population>
-		<design>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</design>
+		<design>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</design>
 		<structure>
-			<category  byname="ƒ`ƒF[ƒ“ê–å“X"/>
+			<category  byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—"/>
 		</structure>
 
 		<sprite origin="768,0" offset="21">

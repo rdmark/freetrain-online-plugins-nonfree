@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 <author>RK</author>
 <homepage></homepage>
 
-<title>ŽÔçqƒŒ[ƒ‹ê—p</title>
-<!-- ƒŒ[ƒ‹˜A—pƒ`ƒL -->
-<!-- ƒCƒ[ƒW‰æ‘œ’è‹` -->
-	<!-- ‰ÝŽÔ ƒ`ƒL7000 -->
+<title>è»Šè¼Œãƒ¬ãƒ¼ãƒ«å°‚ç”¨</title>
+<!-- ãƒ¬ãƒ¼ãƒ«é€£ç”¨ãƒã‚­ -->
+<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© -->
+	<!-- è²¨è»Š ãƒã‚­7000 -->
 	<contribution type="picture" id="{FreeTrain-Shika-FreightCar-picture-chiki7000B}">
 		<picture src="chiki7000B.bmp" />
 	</contribution>
-<!-- ŽÔ—¼’è‹` -->
-	<!-- ‰ÝŽÔ ƒ`ƒL7000 -->
+<!-- è»Šä¸¡å®šç¾© -->
+	<!-- è²¨è»Š ãƒã‚­7000 -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-FreightCar-TrainCar-chiki7000B}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -47,12 +47,12 @@
 	</contribution>
 
 	<contribution type="train" id="{9D2E8E41-7777-43DE3-8C54-99470E371046}">
-		<company>JR‰Ý•¨</company>
+		<company>JRè²¨ç‰©</company>
 		<type>DE10</type>
-		<name>“üŠ·ê—p‹@</name>
-		<author>‰Ô•H—ó‰Î</author>
+		<name>å…¥æ›å°‚ç”¨æ©Ÿ</name>
+		<author>èŠ±è±çƒˆç«</author>
 		<description>
-‚c‚d‚P‚O“üŠ·ê—p‹@c@</description>
+ï¼¤ï¼¥ï¼‘ï¼å…¥æ›å°‚ç”¨æ©Ÿâ€¦ã€€</description>
 		<price>30000000</price>
 		<fare>0</fare>
 		<amenity>100</amenity>

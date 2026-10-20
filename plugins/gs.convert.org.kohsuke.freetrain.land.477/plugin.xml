@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY Population '
 		<population>
@@ -8,19 +8,19 @@
 '>
 ]>
 <plug-in>
-	<title>GenericStructureコンバート c477さん農家</title>
+	<title>GenericStructure繧ｳ繝ｳ繝舌�ｼ繝� c477縺輔ｓ霎ｲ螳ｶ</title>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
-	<author>りおりお</author>
+	<author>繧翫♀繧翫♀</author>
 	<depend on="org.kohsuke.freetrain.land.477" />
 	
 	<contribution type="GenericStructure" id="{7775E0B1-AF3E-46A4-A0E6-06AF87989A7E}-gs">
-		<name>農家</name>
-		<design>(大)A</design>
+		<name>霎ｲ螳ｶ</name>
+		<design>(螟ｧ)A</design>
 		<price>1000000</price>
 		<size>2,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="一戸建て" />
+			<category byname="荳謌ｸ蟒ｺ縺ｦ" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{BBDB4BE4-FAFE-490B-916F-4B11DCFB8182}"  />
@@ -34,10 +34,10 @@
 
 	
 	<contribution type="GenericStructure" id="{01799382-3860-4BF6-BE11-F2E40DA093E7}-gs">
-		<name>農家</name>
-		<design>(大)B</design>
+		<name>霎ｲ螳ｶ</name>
+		<design>(螟ｧ)B</design>
 		<structure>
-			<category byname="一戸建て" />
+			<category byname="荳謌ｸ蟒ｺ縺ｦ" />
 		</structure>
 		<price>1000000</price>
 		<size>2,2</size>
@@ -53,10 +53,10 @@
 
 
 	<contribution type="GenericStructure" id="{95F5EF63-1B4D-4EE3-8BF3-4BD5B7AC5311}-gs">
-		<name>農家</name>
-		<design>(中)A</design>
+		<name>霎ｲ螳ｶ</name>
+		<design>(荳ｭ)A</design>
 		<structure>
-			<category byname="一戸建て" />
+			<category byname="荳謌ｸ蟒ｺ縺ｦ" />
 		</structure>
 		<price>1000000</price>
 		<size>2,1</size>
@@ -78,10 +78,10 @@
 	
 	
 	<contribution type="GenericStructure" id="{D730EC7C-97BD-471D-A4C1-BB2CCD17EAE7}-gs">
-		<name>農家</name>
-		<design>(中)B</design>
+		<name>霎ｲ螳ｶ</name>
+		<design>(荳ｭ)B</design>
 		<structure>
-			<category byname="一戸建て" />
+			<category byname="荳謌ｸ蟒ｺ縺ｦ" />
 		</structure>
 		<price>1000000</price>
 		<size>2,1</size>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�C�^���A���S�ԗ��Z�b�g</title>
-	<author>��</author>
+	<title>イタリア国鉄車両セット</title>
+	<author>暇</author>
 	<homepage></homepage>
 
 	
-	<!--Malpensa Express�擪�ԗ� -->
+	<!--Malpensa Express先頭車両 -->
 	<contribution type="trainCar" id="{Malpensa-Express0306192133}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -15,7 +15,7 @@
 		<seatedcapacity>65</seatedcapacity>
 	</contribution>
 	
-	<!-- Malpensa Express���Ԏԗ� -->
+	<!-- Malpensa Express中間車両 -->
 	<contribution type="trainCar" id="{Malpensa-Express0306192133}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -25,7 +25,7 @@
 		<seatedcapacity>70</seatedcapacity>
 	</contribution>
 	
-	<!-- Malpensa Express����ԗ� -->
+	<!-- Malpensa Express後尾車両 -->
 	<contribution type="trainCar" id="{Malpensa-Express0306192133}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{Malpensa-Express0306192133}-h"/>
@@ -34,10 +34,10 @@
 	<contribution type="train" id="{Malpensa-Express0306192133}">
 		<name>Malpensa Express</name>
 		<speed>fast</speed>
-		<author>��</author>
+		<author>暇</author>
 		<type></type>
-		<company>�C�^���A���S</company>
-		<description>�C�^���A�̃}���y���T��`�ƃ~���m�����ԋ�`���}�B30�����Ƃɔ��Ԃ��Ă���A���̐��i�́u�͂邩�v��u���c�G�N�X�v���X�v�Ƃ悭���Ă���B</description>
+		<company>イタリア国鉄</company>
+		<description>イタリアのマルペンサ空港とミラノを結ぶ空港特急。30分ごとに発車しており、その性格は「はるか」や「成田エクスプレス」とよく似ている。</description>
 		
 		<fare>800</fare>
 		<price>56000000</price>

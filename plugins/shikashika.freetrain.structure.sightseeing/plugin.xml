@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY ta-white '
@@ -49,27 +49,27 @@
 
 <plug-in>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>Œš•¨(ŠÏŒõ)</title>
+<title>å»ºç‰©(è¦³å…‰)</title>
 
-<!-- _ŽÐ -->
+<!-- ç¥žç¤¾ -->
 
-<!-- Œµ“‡_ŽÐ -->
+<!-- åŽ³å³¶ç¥žç¤¾ -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-shrine-shinto-itukushima-01}">
 	<picture  src="shrine_itukushima_01.bmp">
 		<override when="night" src="shrine_itukushima_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- Œµ“‡_ŽÐ -->
+<!-- åŽ³å³¶ç¥žç¤¾ -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-shrine-shinto-itukushima}">
-	<group>—L–¼Ž›ŽÐ</group>
-	<name>Œµ“‡_ŽÐ(3x5)</name>
-	<design>Œµ“‡_ŽÐ</design>
+	<group>æœ‰åå¯ºç¤¾</group>
+	<name>åŽ³å³¶ç¥žç¤¾(3x5)</name>
+	<design>åŽ³å³¶ç¥žç¤¾</design>
 	<structure>
-		<category byname="—L–¼Ž›ŽÐ"/>
+		<category byname="æœ‰åå¯ºç¤¾"/>
 	</structure>
 	<price>100000000</price>
 	<height>1</height>
@@ -106,22 +106,22 @@
 
 </contribution>
 
-<title>“”‘ä</title>
+<title>ç¯å°</title>
 
-<!-- “”‘ä -->
+<!-- ç¯å° -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-lighthouse-01}">
 	<picture  src="lighthouse_01.bmp">
 		<override when="night" src="lighthouse_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- “”‘ä -->
+<!-- ç¯å° -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-lighthouse-01}">
-	<group>ƒ‰ƒ“ƒhƒ}[ƒN</group>
-	<name>“”‘ä(1x1)</name>
-	<design>“”‘ä</design>
+	<group>ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯</group>
+	<name>ç¯å°(1x1)</name>
+	<design>ç¯å°</design>
 	<structure>
-		<category byname="ƒ‰ƒ“ƒhƒ}[ƒN"/>
+		<category byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯"/>
 	</structure>
 	<price>10000000</price>
 	<size>1,1</size>
@@ -191,9 +191,9 @@
 
 </contribution>
 
-<title>‘ê</title>
+<title>æ»</title>
 
-<!-- ‘ê(1x1) -->
+<!-- æ»(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-waterfall-001-left}">
 	<picture  src="waterfall_001_left.bmp">
 		<override when="winter" src="waterfall_001_left_winter.bmp"/>
@@ -212,11 +212,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-left-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(¶‘¤‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(å·¦å´ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -251,11 +251,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-left-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(¶‘¤‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(å·¦å´ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -290,11 +290,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-left-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(¶‘¤ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(å·¦å´ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -329,11 +329,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-left-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(¶‘¤ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(å·¦å´ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -368,11 +368,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-middle-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(’†‰›‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(ä¸­å¤®ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -407,11 +407,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-middle-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(’†‰›‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(ä¸­å¤®ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -446,11 +446,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-middle-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(’†‰›ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(ä¸­å¤®ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -485,11 +485,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-middle-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(’†‰›ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(ä¸­å¤®ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -524,11 +524,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-right-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(‰E‘¤‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(å³å´ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -563,11 +563,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-right-lower}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(‰E‘¤‰º’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(å³å´ä¸‹æ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -602,11 +602,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001A-right-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êA(‰E‘¤ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»A(å³å´ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>
@@ -641,11 +641,11 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-waterfall-001B-right-upper}"> 
 
-	<group>ŒiŸ’n</group>
-	<name>‘ê(1x1)</name>
-	<design>‘êB(‰E‘¤ã’i)</design>
+	<group>æ™¯å‹åœ°</group>
+	<name>æ»(1x1)</name>
+	<design>æ»B(å³å´ä¸Šæ®µ)</design>
 	<structure>
-		<category byname="ŒiŸ’n"/>
+		<category byname="æ™¯å‹åœ°"/>
 	</structure>
 	<price>5000000</price>
 	<size>1,1</size>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>В╡ВйВ╡Вй</author>
+<author>уБЧуБЛуБЧуБЛ</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
 <depend on="shikashika.freetrain.traincar.locomotive"/>
 <depend on="shikashika.freetrain.traincar.passenger"/>
 <depend on="shikashika.freetrain.traincar.freight"/>
 
-<title>ЧёО╘(JRЛуПB)</title>
+<title>хИЧш╗К(JRф╣Эх╖Ю)</title>
 
-<!-- Ч╖ЛqЧёО╘В╠ТшЛ` -->
+<!-- цЧЕховхИЧш╗КуБохоЪч╛й -->
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-DD51-LocalTrein-50}">
-		<company>JRЛуПB</company>
+		<company>JRф╣Эх╖Ю</company>
 		<type>DD 51</type>
-		<name>ХБТ╩ЧёО╘(50Мn)</name>
-		<author>В╡ВйВ╡Вй</author>
-		<description>ЙtС╠ОоГfГBБ[Г[ГЛЛ@К╓О╘DD51ВкМбИ°В╖ВщБA50Мn(ГIГn50БAГIГnГt50)ЛqО╘ХБТ╩ЧёО╘В┼В╖БB
+		<name>цЩощАЪхИЧш╗К(50ч│╗)</name>
+		<author>уБЧуБЛуБЧуБЛ</author>
+		<description>ц╢▓ф╜Ух╝ПуГЗуВгуГ╝уВ╝уГлцйЯщЦвш╗КDD51уБМчЙ╜х╝ХуБЩуВЛуАБ50ч│╗(уВкуГП50уАБуВкуГПуГХ50)ховш╗КцЩощАЪхИЧш╗КуБзуБЩуАВ
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -25,32 +25,32 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ЛC" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JNR}"/>
-			<car char="Лq" ref="{FreeTrain-Shika-PassengerCar-TrainCar-oha50}"/>
-			<car char="К╔" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50}"/>
-			<car char="Л}" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-T}"/>
+			<car char="ц░Ч" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JNR}"/>
+			<car char="хов" ref="{FreeTrain-Shika-PassengerCar-TrainCar-oha50}"/>
+			<car char="ч╖й" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50}"/>
+			<car char="цАе" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-T}"/>
 			
-			<composition>ЛC</composition>
-			<composition>ЛCЛ}</composition>
-			<composition>ЛCК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqЛ}</composition>
-			<composition>ЛCК╔ЛqК╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqК╔ЛqК╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔К╔ЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔К╔ЛqЛqЛ}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔К╔К╔ЛqЛqЛ}</composition>
+			<composition>ц░Ч</composition>
+			<composition>ц░ЧцАе</composition>
+			<composition>ц░Чч╖йцАе</composition>
+			<composition>ц░Чч╖йховцАе</composition>
+			<composition>ц░Чч╖йховховцАе</composition>
+			<composition>ц░Чч╖йховч╖йховцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховцАе</composition>
+			<composition>ц░Чч╖йховч╖йховч╖йховцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йховцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йч╖йховцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йч╖йховховцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йч╖йч╖йховховцАе</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-DD51-LocalTrein-50-12}">
-		<company>JRЛуПB</company>
+		<company>JRф╣Эх╖Ю</company>
 		<type>DD 51</type>
-		<name>ХБТ╩ЧёО╘(50Мn+12Мn)</name>
-		<author>В╡ВйВ╡Вй</author>
-		<description>ЙtС╠ОоГfГBБ[Г[ГЛЛ@К╓О╘DD51ВкМбИ°В╖ВщБAЧтЦ[Й╗В│ВъВ╜50Мn1000Ф╘Сф(ГIГn50БAГIГnГt50)В╞12Мn(ГXГnГt12)В╠ЛqО╘ХБТ╩ЧёО╘В┼В╖БB
+		<name>цЩощАЪхИЧш╗К(50ч│╗+12ч│╗)</name>
+		<author>уБЧуБЛуБЧуБЛ</author>
+		<description>ц╢▓ф╜Ух╝ПуГЗуВгуГ╝уВ╝уГлцйЯщЦвш╗КDD51уБМчЙ╜х╝ХуБЩуВЛуАБхЖ╖цИ┐хМЦуБХуВМуБЯ50ч│╗1000чХкхП░(уВкуГП50уАБуВкуГПуГХ50)уБи12ч│╗(уВ╣уГПуГХ12)уБоховш╗КцЩощАЪхИЧш╗КуБзуБЩуАВ
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -59,26 +59,26 @@
 		<triprange>long</triprange>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ЛC" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JNR}"/>
-			<car char="Лq" ref="{FreeTrain-Shika-PassengerCar-TrainCar-oha50-1000}"/>
-			<car char="К╔" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000}"/>
-			<car char="Л}" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T-R}"/>
+			<car char="ц░Ч" ref="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JNR}"/>
+			<car char="хов" ref="{FreeTrain-Shika-PassengerCar-TrainCar-oha50-1000}"/>
+			<car char="ч╖й" ref="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000}"/>
+			<car char="цАе" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T-R}"/>
 			
-			<composition>ЛC</composition>
-			<composition>ЛCЛ}</composition>
-			<composition>ЛCК╔Л}</composition>
-			<composition>ЛCК╔К╔Л}</composition>
-			<composition>ЛCК╔ЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔К╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔ЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔К╔ЛqК╔Л}</composition>
-			<composition>ЛCК╔ЛqЛqК╔ЛqК╔К╔ЛqЛqК╔Л}</composition>
+			<composition>ц░Ч</composition>
+			<composition>ц░ЧцАе</composition>
+			<composition>ц░Чч╖йцАе</composition>
+			<composition>ц░Чч╖йч╖йцАе</composition>
+			<composition>ц░Чч╖йховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йч╖йховч╖йцАе</composition>
+			<composition>ц░Чч╖йховховч╖йховч╖йч╖йховховч╖йцАе</composition>
 		</config>
 	</contribution>
 
-<!-- Й▌ХиЧёО╘В╠ТшЛ` -->
+<!-- ш▓ичЙйхИЧш╗КуБохоЪч╛й -->
 
 </plug-in>

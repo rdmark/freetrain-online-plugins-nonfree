@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>工場(大)</title>
-	<author>しの</author>
+	<title>蟾･蝣ｴ(螟ｧ)</title>
+	<author>縺励�ｮ</author>
 	<homepage></homepage>
 
 	<contribution type="commercial" id="{AE49208E-BEB2-4319-8477-F20E0BF1F1BB}">
-		<group>工場(大)</group>
+		<group>蟾･蝣ｴ(螟ｧ)</group>
 		<price>58000000</price>
 		<size>5,8</size>
 		<height>2</height>

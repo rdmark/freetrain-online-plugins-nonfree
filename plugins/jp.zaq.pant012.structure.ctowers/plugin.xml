@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>セントラルタワーズ</title>
-	<author>ては</author>
+	<title>繧ｻ繝ｳ繝医Λ繝ｫ繧ｿ繝ｯ繝ｼ繧ｺ</title>
+	<author>縺ｦ縺ｯ</author>
 	<homepage>http://www.cwo.zaq.ne.jp/pant012/freetrain/</homepage>
 	
 	<contribution type="commercial" id="{F5776500-E8E5-4D5E-B30A-A0036A6ECDEB}">
-		<group>セントラルタワーズ</group>
+		<group>繧ｻ繝ｳ繝医Λ繝ｫ繧ｿ繝ｯ繝ｼ繧ｺ</group>
 		<price>500000000</price>
 		<size>5,2</size>
 		<height>10</height>

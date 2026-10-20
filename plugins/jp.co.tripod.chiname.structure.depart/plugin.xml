@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 ]>
 <plug-in>
-	<title>•S‰İ“X</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ç™¾è²¨åº—</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	<contribution type="picture" id="{4383FF24-42A2-4534-C477-61DA0E9B62CB}">
 		<picture src="station_sapporo03.bmp">
@@ -12,9 +12,9 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{73EE8000-5448-443E-C477-47B6AD9E8EB8}">
-		<name>‘å› D–y“X</name>
+		<name>å¤§â—‹ æœ­å¹Œåº—</name>
 		<structure>
-			<category byname="ƒfƒp[ƒg"/>
+			<category byname="ãƒ‡ãƒ‘ãƒ¼ãƒˆ"/>
 		</structure>
 		<price>900000000</price>
 		<size>5,6</size>

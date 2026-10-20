@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œ</title>
-	<author>‰Ô•H—ó‰Î</author>
+	<title>æž¶ç·šæŸ±</title>
+	<author>èŠ±è±çƒˆç«</author>
 	<homepage></homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -26,42 +26,42 @@
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1001-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@1</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ1</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1000-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1002-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@2</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ2</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1001-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1003-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@3</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ3</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1002-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1004-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@4</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ4</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1003-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1005-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@5</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ5</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1004-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{874B8BFD-1EF4-1006-1000-D0EA1049D28D}">
-		<name>ê“àM†‹@6</name>
+		<name>å ´å†…ä¿¡å·æ©Ÿ6</name>
 		<sprite>
 			<picture ref="{874B8BFD-1EF4-2000-1005-D0EA1049D28D}"/>
 		</sprite>

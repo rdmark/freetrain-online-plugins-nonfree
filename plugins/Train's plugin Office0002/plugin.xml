@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>ƒ[ƒ‹ƒhŒšÝ</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>ãƒ¯ãƒ¼ãƒ«ãƒ‰å»ºè¨­</author>
 	<homepage></homepage>
 	
 
 	<contribution type="commercial" id="{D50BA778-25F4-465B-8A73-4\6C15F-building0002}">
-		<name>’†|¬‹K–ÍƒIƒtƒBƒXƒrƒ‹</name>
+		<name>ä¸­ï¼å°è¦æ¨¡ã‚ªãƒ•ã‚£ã‚¹ãƒ“ãƒ«</name>
 		<price>20000000</price>
 		<size>2,1</size>
 		<height>3</height>
 		<sprite origin="0,0" offset="42">
-                        <picture src="‰¢•Ä•—@ƒŒƒgƒƒrƒ‹0002-0.bmp">
-                                 <override when="night" src="‰¢•Ä•—@ƒŒƒgƒƒrƒ‹0002-0_n.bmp" />
+                        <picture src="æ¬§ç±³é¢¨ã€€ãƒ¬ãƒˆãƒ­ãƒ“ãƒ«0002-0.bmp">
+                                 <override when="night" src="æ¬§ç±³é¢¨ã€€ãƒ¬ãƒˆãƒ­ãƒ“ãƒ«0002-0_n.bmp" />
                         </picture>
 		</sprite>
                 <population>

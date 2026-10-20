@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�i�q�����{485�n�����W���C�t���g���C���ԗ��v���O�C���Z�b�g</title>
-	<author>�������[</author> 
+	<title>ＪＲ東日本485系改造ジョイフルトレイン車両プラグインセット</title>
+	<author>いっちー</author> 
 	<homepage>http://www.geocities.jp/cyber_express_1703d/freetrain/FT_plugin.html</homepage>
 
- 	<!-- �x�[�X�ԗ� -->
+ 	<!-- ベース車両 -->
 
 	<contribution type="picture" id="{cyber-express-1703d-040331-485jt}-h">
 	<picture src="485jtA.bmp" /> 
@@ -13,7 +13,7 @@
 	<picture src="485jtB.bmp" /> 
 	</contribution>
 
-	<!-- ���炫�炤���擪�� -->
+	<!-- きらきらうえつ先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485uetsu}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -24,7 +24,7 @@
 		<seatedcapacity>38</seatedcapacity>
 	</contribution>
 
-	<!-- ���炫�炤�����Ԏ� -->
+	<!-- きらきらうえつ中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485uetsu}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -35,14 +35,14 @@
 		<seatedcapacity>20</seatedcapacity>
 	</contribution>
 
-	<!-- ���炫�炤������� -->
+	<!-- きらきらうえつ後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485uetsu}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485uetsu}-h"/>
 	</contribution>
 
-	<!-- �j���[�Ȃ̂͂Ȑ擪�� -->
+	<!-- ニューなのはな先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485nnanohana}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -62,7 +62,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-	<!-- �j���[�Ȃ̂͂Ȓ��Ԏ� -->
+	<!-- ニューなのはな中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485nnanohana}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -76,14 +76,14 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 
-	<!-- �j���[�Ȃ̂͂Ȍ���� -->
+	<!-- ニューなのはな後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485nnanohana}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485nnanohana}-h"/>
 	</contribution>
 
-	<!-- ��܂Ȃݐ擪�� -->
+	<!-- やまなみ先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485yamanami}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -107,7 +107,7 @@
 		<seatedcapacity>24</seatedcapacity>
 	</contribution>
 
-	<!-- ��܂Ȃݒ��Ԏ� -->
+	<!-- やまなみ中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485yamanami}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -124,14 +124,14 @@
 		<seatedcapacity>26</seatedcapacity>
 	</contribution>
 
-	<!-- ��܂Ȃ݌���� -->
+	<!-- やまなみ後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485yamanami}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485yamanami}-h"/>
 	</contribution>
 
-	<!-- �����炬�擪�� -->
+	<!-- せせらぎ先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485seseragi}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -155,7 +155,7 @@
 		<seatedcapacity>28</seatedcapacity>
 	</contribution>
 
-	<!-- �����炬���Ԏ� -->
+	<!-- せせらぎ中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485seseragi}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -172,14 +172,14 @@
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
 
-	<!-- �����炬����� -->
+	<!-- せせらぎ後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485seseragi}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485seseragi}-h"/>
 	</contribution>
 
-	<!-- �ؐ擪�� -->
+	<!-- 華先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485hana}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -203,7 +203,7 @@
 		<seatedcapacity>24</seatedcapacity>
 	</contribution>
 
-	<!-- �ؒ��Ԏ� -->
+	<!-- 華中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485hana}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -220,14 +220,14 @@
 		<seatedcapacity>26</seatedcapacity>
 	</contribution>
 
-	<!-- �،���� -->
+	<!-- 華後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485hana}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485hana}-h"/>
 	</contribution>
 
-	<!-- ���擪�� -->
+	<!-- 宴先頭車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485utage}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -251,7 +251,7 @@
 		<seatedcapacity>24</seatedcapacity>
 	</contribution>
 
-	<!-- �����Ԏ� -->
+	<!-- 宴中間車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485utage}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -268,23 +268,23 @@
 		<seatedcapacity>26</seatedcapacity>
 	</contribution>
 
-	<!-- ������� -->
+	<!-- 宴後尾車 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040331-485utage}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{cyber-express-1703d-040331-485utage}-h"/>
 	</contribution>
 
-	<!-- ���炫�炤���� -->
+	<!-- きらきらうえつ -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485uetsu}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>���炫�炤����</name>
-		<author>�������[</author>
-		<description>�H�z�����ʂ�K���ό��q�p�Ƃ���2001�N11���ɓo�ꂵ���B
-�ԗ���485�n���}�`�d�Ԃ���������4���Ґ��ŁA�擪�Ԃ͓W�]�ԁA2���Ԃ̓��E���W�ԂŁA�����Ƙa�����E���W�X�y�[�X���݂����Ă���B
-�܂��A�����ɍ��킹�ăo���A�t���[�ɑΉ������ݔ��ɕύX�����B��ɐV���`��c�ԂŁA�T���𒆐S�ɉ^�]����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>きらきらうえつ</name>
+		<author>いっちー</author>
+		<description>羽越線方面を訪れる観光客用として2001年11月に登場した。
+車両は485系特急形電車を改造した4両編成で、先頭車は展望車、2号車はラウンジ車で、茶屋と和風ラウンジスペースが設けられている。
+また、改造に合わせてバリアフリーに対応した設備に変更した。主に新潟～酒田間で、週末を中心に運転されている。
 </description>
 		<fare>800</fare>
 		<price>56000000</price>
@@ -298,16 +298,16 @@
 		</composition>
 	</contribution>
 
-	<!-- �j���[�Ȃ̂͂� -->
+	<!-- ニューなのはな -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485nnanohana}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>�j���[�Ȃ̂͂�</name>
-		<author>�������[</author>
-		<description>�[�����ʂ֖K���ό��q�p�Ƃ���1998�N�ɓo�ꂵ���B�ԗ���485�n���}�`�d�Ԃ���������6���Ґ��B
-���Ȃ́A�@�育���t���̂����~�ɂ�4�l�����{�b�N�X�V�[�g�ɂ��ύX�\�ȍ\���ƂȂ��Ă���B
-��t��������̒c�̗�Ԃ�A�Վ��̓��}��ԓ��Ɏg�p����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>ニューなのはな</name>
+		<author>いっちー</author>
+		<description>房総方面へ訪れる観光客用として1998年に登場した。車両は485系特急形電車を改造した6両編成。
+座席は、掘りごたつ付きのお座敷にも4人がけボックスシートにも変更可能な構造となっている。
+千葉県内からの団体列車や、臨時の特急列車等に使用されている。
 </description>
 		<fare>800</fare>
 		<price>56000000</price>
@@ -321,16 +321,16 @@
 		</composition>
 	</contribution>
 
-	<!-- ��܂Ȃ� -->
+	<!-- やまなみ -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485yamanami}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>��܂Ȃ�</name>
-		<author>�������[</author>
-		<description>�Q�n�����ʂ֖K���ό��q�p�Ƃ���1999�N�ɓo�ꂵ���B
-�ԗ���485�n���}�`�d�Ԃ���������4���Ґ��ŁA�@�育���t���̂����~�ԗ��ł���B
-�u�����炬�v�Ƌ��ɁA�Q�n��������̒c�̗�Ԃ⍂����E��z���̗Վ�������ԂƂ��Ďg�p����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>やまなみ</name>
+		<author>いっちー</author>
+		<description>群馬県方面へ訪れる観光客用として1999年に登場した。
+車両は485系特急形電車を改造した4両編成で、掘りごたつ付きのお座敷車両である。
+「せせらぎ」と共に、群馬県内からの団体列車や高崎線・上越線の臨時快速列車として使用されている。
 </description>
 		<fare>1000</fare>
 		<price>60000000</price>
@@ -344,16 +344,16 @@
 		</composition>
 	</contribution>
 
-	<!-- �����炬 -->
+	<!-- せせらぎ -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485seseragi}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>�����炬</name>
-		<author>�������[</author>
-		<description>�Q�n�����ʂ֖K���ό��q�p�Ƃ���2001�N�ɓo�ꂵ���B
-�ԗ���485�n���}�`�d�Ԃ���������4���Ґ��Łu��܂Ȃ݁v�Ƃقړ����\���̌@�育���t�������~�ԗ��ł���B
-�u��܂Ȃ݁v�Ƌ��ɁA�Q�n��������̒c�̗�Ԃ⍂����E��z���̗Վ�������ԂƂ��Ďg�p����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>せせらぎ</name>
+		<author>いっちー</author>
+		<description>群馬県方面へ訪れる観光客用として2001年に登場した。
+車両は485系特急形電車を改造した4両編成で「やまなみ」とほぼ同じ構造の掘りごたつ付きお座敷車両である。
+「やまなみ」と共に、群馬県内からの団体列車や高崎線・上越線の臨時快速列車として使用されている。
 </description>
 		<fare>1000</fare>
 		<price>60000000</price>
@@ -367,15 +367,15 @@
 		</composition>
 	</contribution>
 
-	<!-- ��܂Ȃ݂����炬 -->
+	<!-- やまなみせせらぎ -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485yamasese}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>��܂Ȃ݁{�����炬</name>
-		<author>�������[</author>
-		<description>��8���Ґ��݂̂ł��B
-���ꂼ��4���Ґ��́u��܂Ȃ݁v�u�����炬�v�𕹌����A8���Ґ��́u��܂Ȃ݁E�����炬���v�Ƃ��Ēc�̗�Ԃ�Վ�������ԂƂ��Ďg�p���鎖������B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>やまなみ＋せせらぎ</name>
+		<author>いっちー</author>
+		<description>※8両編成のみです。
+それぞれ4両編成の「やまなみ」「せせらぎ」を併結し、8両編成の「やまなみ・せせらぎ号」として団体列車や臨時快速列車として使用する事もある。
 </description>
 		<fare>1000</fare>
 		<price>60000000</price>
@@ -394,17 +394,17 @@
 		</config>
 	</contribution>
 
-	<!-- �� -->
+	<!-- 宴 -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485utage}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>��</name>
-		<author>�������[</author>
-		<description>1994�N�ɓo�ꂵ���W���C�t���g���C���B
-�ԗ���485�n���}�`�d�Ԃ���������6���Ґ��̌@�育���t�������~�ԗ��ł���B
-�قƂ�ǑS�Ă̓d����Ԃ̑��A�f�B�[�[���@�֎Ԃƕ������Ĕ�d����Ԃ����鎖���ł���B
-�u�؁v�Ƌ��ɓ����A�_�ސ�A�R�����ʂł̒c�̗�Ԃ�A���C�����⒆�����ŗՎ�������ԂƂ��Ďg�p����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>宴</name>
+		<author>いっちー</author>
+		<description>1994年に登場したジョイフルトレイン。
+車両は485系特急形電車を改造した6両編成の掘りごたつ付きお座敷車両である。
+ほとんど全ての電化区間の他、ディーゼル機関車と併結して非電化区間も走る事ができる。
+「華」と共に東京、神奈川、山梨方面での団体列車や、東海道線や中央線で臨時快速列車として使用されている。
 </description>
 		<fare>1000</fare>
 		<price>60000000</price>
@@ -418,17 +418,17 @@
 		</composition>
 	</contribution>
 
-	<!-- �� -->
+	<!-- 華 -->
 
 	<contribution type="train" id="{cyber-express-1703d-040331-485hana}">
-		<company>JR�����{</company>
-		<type>485�n</type>
-		<name>��</name>
-		<author>�������[</author>
-		<description>1996�N�ɓo�ꂵ���W���C�t���g���C���B
-�ԗ���485�n���}�`�d�Ԃ���������6���Ґ��̌@�育���t�������~�ԗ��ł���B
-�قƂ�ǑS�Ă̓d����Ԃ̑��A�f�B�[�[���@�֎Ԃƕ������Ĕ�d����Ԃ����鎖���ł���B
-�u���v�Ƌ��ɁA�����A�_�ސ�A�R�����ʂŒc�̗�Ԃ�A���C�����⒆�����ŗՎ�������ԂƂ��Ďg�p����Ă���B
+		<company>JR東日本</company>
+		<type>485系</type>
+		<name>華</name>
+		<author>いっちー</author>
+		<description>1996年に登場したジョイフルトレイン。
+車両は485系特急形電車を改造した6両編成の掘りごたつ付きお座敷車両である。
+ほとんど全ての電化区間の他、ディーゼル機関車と併結して非電化区間も走る事ができる。
+「宴」と共に、東京、神奈川、山梨方面で団体列車や、東海道線や中央線で臨時快速列車として使用されている。
 </description>
 		<fare>1000</fare>
 		<price>60000000</price>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>—ñŽÔƒvƒ‰ƒOƒCƒ“@‘“S80Œn“dŽÔƒTƒ‚Â‚«</title>
-		<author>‚è‚¨‚è‚¨</author>
+	<title>åˆ—è»Šãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã€€å›½é‰„80ç³»é›»è»Šã‚µãƒ­ã¤ã</title>
+		<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 
-	<!-- 80ŒnÃ“ìŒ^“dŽÔ -->
+	<!-- 80ç³»æ¹˜å—åž‹é›»è»Š -->
 	<contribution type="picture" id="{riorio-hima-train-picture-kuha80-E2A88A8E3580}">
 		<picture src="kuha80.bmp" />
 	</contribution>
@@ -77,7 +77,7 @@
 	</contribution>
 
 
-	<!-- 70Œn‰¡{‰êü“dŽÔ -->
+	<!-- 70ç³»æ¨ªé ˆè³€ç·šé›»è»Š -->
 
 	<contribution type="trainCar" id="{riorio-hima-kuha70a-18CD0CDF80D2}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -158,7 +158,7 @@
 	</contribution>
 
 
-	<!-- 70ŒnVŠƒF“dŽÔ -->
+	<!-- 70ç³»æ–°æ½Ÿè‰²é›»è»Š -->
 
 	<contribution type="trainCar" id="{riorio-hima-niigata-kuha70a-A9156289855B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -218,11 +218,11 @@
 
 
 	<contribution type="train" id="{riorio-hima-jnr80ec-A287-4528788BF74E}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>80Œn</type>
-		<name>Ã“ì“dŽÔ(2–‡‘‹ƒ^ƒCƒv) ƒTƒ“ü‚è</name>
-		<author>‚è‚¨‚è‚¨©‰É</author>
-		<description>‘“S‚ª»ì‚µ‚½Å‰‚Ì’·‹——£“dŽÔB“r’†‚©‚ç»ì‚³‚ê‚½2–‡‘‹‚ÌƒXƒ^ƒCƒ‹‚ÍŽ„“S‚ð’†S‚Éƒu[ƒ€‚É‚È‚Á‚½B7—¼`15—¼‚Å‚ÍƒOƒŠ[ƒ“ŽÔ‚Ì“ü‚Á‚½•Ò¬‚ð‘g‚ß‚Ü‚·B6,11,16—¼‚Ì‚Æ‚«‚É‚Í‰×•¨ŽÔ‚ª‚Â‚«‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>80ç³»</type>
+		<name>æ¹˜å—é›»è»Š(2æžšçª“ã‚¿ã‚¤ãƒ—) ã‚µãƒ­å…¥ã‚Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†æš‡</author>
+		<description>å›½é‰„ãŒè£½ä½œã—ãŸæœ€åˆã®é•·è·é›¢é›»è»Šã€‚é€”ä¸­ã‹ã‚‰è£½ä½œã•ã‚ŒãŸ2æžšçª“ã®ã‚¹ã‚¿ã‚¤ãƒ«ã¯ç§é‰„ã‚’ä¸­å¿ƒã«ãƒ–ãƒ¼ãƒ ã«ãªã£ãŸã€‚7ä¸¡ï½ž15ä¸¡ã§ã¯ã‚°ãƒªãƒ¼ãƒ³è»Šã®å…¥ã£ãŸç·¨æˆã‚’çµ„ã‚ã¾ã™ã€‚6,11,16ä¸¡ã®ã¨ãã«ã¯è·ç‰©è»ŠãŒã¤ãã¾ã™ã€‚
 		</description>
 		<fare>550</fare>
 		<price>38500000</price>
@@ -231,36 +231,36 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{riorio-hima-kuha80a-02B8DF3DE1E9}"/>
-			<car char="„" ref="{riorio-hima-kuha80b-02B8DF3DE1E9}"/>
-			<car char="‚l" ref="{riorio-hima-moha80-61AB3B9FD199}"/>
-			<car char="‚s" ref="{riorio-hima-saha80-2389D0CD7053}"/>
-			<car char="‚r" ref="{riorio-hima-saro85-4604D3250BBA}"/>
-			<car char="‚k" ref="{riorio-hima-kumoyuni81-835EB797124F}"/>
-                           <composition>ƒ‚l„</composition>
-                           <composition>ƒ‚l‚l„</composition>
-                           <composition>ƒ‚s‚l‚l„</composition>
-                           <composition>‚kƒ‚s‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚r‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l‚s‚l„</composition>
-                           <composition>‚kƒ‚l‚s‚l‚r‚r‚l‚s‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l„ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l„ƒ‚s‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l‚l„ƒ‚s‚l‚l„</composition>
-                           <composition>ƒ‚l‚s‚l‚r‚r‚l‚s‚l„ƒ‚s‚l‚l„</composition>
-                           <composition>‚kƒ‚l‚s‚l‚r‚r‚l‚s‚l„ƒ‚s‚l‚l„</composition>
+			<car char="ï¼œ" ref="{riorio-hima-kuha80a-02B8DF3DE1E9}"/>
+			<car char="ï¼ž" ref="{riorio-hima-kuha80b-02B8DF3DE1E9}"/>
+			<car char="ï¼­" ref="{riorio-hima-moha80-61AB3B9FD199}"/>
+			<car char="ï¼´" ref="{riorio-hima-saha80-2389D0CD7053}"/>
+			<car char="ï¼³" ref="{riorio-hima-saro85-4604D3250BBA}"/>
+			<car char="ï¼¬" ref="{riorio-hima-kumoyuni81-835EB797124F}"/>
+                           <composition>ï¼œï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼´ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼¬ï¼œï¼´ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼³ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼´ï¼­ï¼ž</composition>
+                           <composition>ï¼¬ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼´ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼žï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼žï¼œï¼´ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼­ï¼žï¼œï¼´ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼´ï¼­ï¼žï¼œï¼´ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼¬ï¼œï¼­ï¼´ï¼­ï¼³ï¼³ï¼­ï¼´ï¼­ï¼žï¼œï¼´ï¼­ï¼­ï¼ž</composition>
 		</config>
 	</contribution>
 
 
 	<contribution type="train" id="{riorio-hima-jnr80l-BE61-BDC769FD2320}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>80Œn</type>
-		<name>‰×•¨“dŽÔ</name>
-		<author>‚è‚¨‚è‚¨©‰É</author>
-		<description>‘“S‚ª»ì‚µ‚½Å‰‚Ì’·‹——£“dŽÔB‰×•¨ŽÔ‚Ì‚Ý‚Å\¬‚³‚ê‚½‰×•¨“dŽÔ‚Å‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>80ç³»</type>
+		<name>è·ç‰©é›»è»Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†æš‡</author>
+		<description>å›½é‰„ãŒè£½ä½œã—ãŸæœ€åˆã®é•·è·é›¢é›»è»Šã€‚è·ç‰©è»Šã®ã¿ã§æ§‹æˆã•ã‚ŒãŸè·ç‰©é›»è»Šã§ã™ã€‚
 		</description>
 		<fare>0</fare>
 		<price>30000000</price>
@@ -273,11 +273,11 @@
 
 
 	<contribution type="train" id="{riorio-hima-jnr70ec-9F12-057EAC3DBB72}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>70Œn</type>
-		<name>‰¡{‰êü ƒTƒ“ü‚è</name>
-		<author>‚è‚¨‚è‚¨©‰É</author>
-		<description>‘“S‚ª80Œn‚ðƒx[ƒX‚É‰¡{‰êüŒü‚¯‚Æ‚µ‚Ä‚R”à‚Å»ì‚µ‚½“dŽÔB‚¢‚í‚ä‚éƒXƒJF‚É“h‚è•ª‚¯‚ç‚ê‚Ä‚¢‚Ü‚·B6—¼ˆÈã‚Å‚ÍƒOƒŠ[ƒ“ŽÔ‚Ì“ü‚Á‚½•Ò¬‚ð‘g‚ß‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>70ç³»</type>
+		<name>æ¨ªé ˆè³€ç·š ã‚µãƒ­å…¥ã‚Š</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†æš‡</author>
+		<description>å›½é‰„ãŒ80ç³»ã‚’ãƒ™ãƒ¼ã‚¹ã«æ¨ªé ˆè³€ç·šå‘ã‘ã¨ã—ã¦ï¼“æ‰‰ã§è£½ä½œã—ãŸé›»è»Šã€‚ã„ã‚ã‚†ã‚‹ã‚¹ã‚«è‰²ã«å¡—ã‚Šåˆ†ã‘ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚6ä¸¡ä»¥ä¸Šã§ã¯ã‚°ãƒªãƒ¼ãƒ³è»Šã®å…¥ã£ãŸç·¨æˆã‚’çµ„ã‚ã¾ã™ã€‚
 		</description>
 		<fare>550</fare>
 		<price>38500000</price>
@@ -286,31 +286,31 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{riorio-hima-kuha70a-18CD0CDF80D2}"/>
-			<car char="„" ref="{riorio-hima-kuha70b-18CD0CDF80D2}"/>
-			<car char="‚l" ref="{riorio-hima-moha70-18CD0CDF80D2}"/>
-			<car char="‚r" ref="{riorio-hima-saro75-18CD0CDF80D2}"/>
-                           <composition>ƒ‚l„</composition>
-                           <composition>ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚l‚l„</composition>
-                           <composition>ƒ‚l‚l‚r‚l„</composition>
-                           <composition>ƒ‚l‚l‚r‚l‚l„</composition>
-                           <composition>ƒ‚l‚r„ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚r‚l„ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚l‚r‚l„ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚l‚r‚l„ƒ‚l‚r‚l„</composition>
-                           <composition>ƒ‚l‚l‚r‚l„ƒ‚l‚l‚r‚l„</composition>
+			<car char="ï¼œ" ref="{riorio-hima-kuha70a-18CD0CDF80D2}"/>
+			<car char="ï¼ž" ref="{riorio-hima-kuha70b-18CD0CDF80D2}"/>
+			<car char="ï¼­" ref="{riorio-hima-moha70-18CD0CDF80D2}"/>
+			<car char="ï¼³" ref="{riorio-hima-saro75-18CD0CDF80D2}"/>
+                           <composition>ï¼œï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼³ï¼žï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼³ï¼­ï¼žï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼žï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼žï¼œï¼­ï¼³ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼žï¼œï¼­ï¼­ï¼³ï¼­ï¼ž</composition>
 
 		</config>
 	</contribution>
 
 
 	<contribution type="train" id="{riorio-hima-jnr70niigata-8D76-9F18C7E15FC3}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>70Œn</type>
-		<name>VŠƒF</name>
-		<author>‚è‚¨‚è‚¨©‰É</author>
-		<description>‘“S‚ª80Œn‚ðƒx[ƒX‚É‰¡{‰êüŒü‚¯‚Æ‚µ‚Ä‚R”à‚Å»ì‚µ‚½“dŽÔB‰¡{‰êü‚É113Œn‚ª“Š“ü‚³‚ê‚é‚æ‚¤‚É‚È‚é‚ÆVŠƒ’n‹æ‚É“]o‚µA‹à‘¾˜Y“h‚è‚ÆŒÄ‚Î‚ê‚½Ô‚Æ‰©F‚Ìƒc[ƒgƒ“‚É“h‚è‘Ö‚¦‚ç‚ê‚Ü‚µ‚½B4,6,8—¼•Ò¬‚ð‘g‚Ý‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>70ç³»</type>
+		<name>æ–°æ½Ÿè‰²</name>
+		<author>ã‚ŠãŠã‚ŠãŠâ†æš‡</author>
+		<description>å›½é‰„ãŒ80ç³»ã‚’ãƒ™ãƒ¼ã‚¹ã«æ¨ªé ˆè³€ç·šå‘ã‘ã¨ã—ã¦ï¼“æ‰‰ã§è£½ä½œã—ãŸé›»è»Šã€‚æ¨ªé ˆè³€ç·šã«113ç³»ãŒæŠ•å…¥ã•ã‚Œã‚‹ã‚ˆã†ã«ãªã‚‹ã¨æ–°æ½Ÿåœ°åŒºã«è»¢å‡ºã—ã€é‡‘å¤ªéƒŽå¡—ã‚Šã¨å‘¼ã°ã‚ŒãŸèµ¤ã¨é»„è‰²ã®ãƒ„ãƒ¼ãƒˆãƒ³ã«å¡—ã‚Šæ›¿ãˆã‚‰ã‚Œã¾ã—ãŸã€‚4,6,8ä¸¡ç·¨æˆã‚’çµ„ã¿ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -319,12 +319,12 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{riorio-hima-niigata-kuha70a-A9156289855B}"/>
-			<car char="„" ref="{riorio-hima-niigata-kuha70b-A9156289855B}"/>
-			<car char="‚l" ref="{riorio-hima-niigata-moha70-A9156289855B}"/>
-                           <composition>ƒ‚l‚l„</composition>
-                           <composition>ƒ‚l‚l‚l‚l„</composition>
-                           <composition>ƒ‚l‚l„ƒ‚l‚l„</composition>
+			<car char="ï¼œ" ref="{riorio-hima-niigata-kuha70a-A9156289855B}"/>
+			<car char="ï¼ž" ref="{riorio-hima-niigata-kuha70b-A9156289855B}"/>
+			<car char="ï¼­" ref="{riorio-hima-niigata-moha70-A9156289855B}"/>
+                           <composition>ï¼œï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼­ï¼­ï¼ž</composition>
+                           <composition>ï¼œï¼­ï¼­ï¼žï¼œï¼­ï¼­ï¼ž</composition>
 		</config>
 	</contribution>
 

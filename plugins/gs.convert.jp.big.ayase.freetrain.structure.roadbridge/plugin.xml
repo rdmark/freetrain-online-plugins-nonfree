@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@ˆ»£ƒqƒ</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ç¶¾ç€¬ãƒ’ãƒ­</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.big.ayase.freetrain.structure.roadbridge" />
 	
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-01a}-gs">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-hashi-01}"/>
@@ -24,12 +24,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-02a}-gs">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-hashi-02}"/>
@@ -41,12 +41,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-03a}-gs">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-hashi-03}"/>
@@ -58,12 +58,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-04a}-gs">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,0" offset="24">
 			<picture ref="{FreeTrain-AYASE-Hiro-StructureImage-hashi-04}"/>

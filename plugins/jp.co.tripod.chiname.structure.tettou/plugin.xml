@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY cableTower '
-	<group>‚ˆ³ü“S“ƒ</group>
+	<group>é«˜åœ§ç·šé‰„å¡”</group>
 	<structure>
-		<category byname="‘—“dü“S“ƒ"/>
+		<category byname="é€é›»ç·šé‰„å¡”"/>
 	</structure>
 	<size>1,1</size>
 	<computerCannotBuild/>
 '>
 ]>
 <plug-in>
-	<title>‚ˆ³ü“S“ƒ</title>
-	<author>C477@2—¼–Ú</author>
+	<title>é«˜åœ§ç·šé‰„å¡”</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{0525BBF9-BC20-4A08-C477-CA12C7E50B50}">

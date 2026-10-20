@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 ]>
 <plug-in>
-	<title>競輪場</title>
-	<author>こざてつ</author>
+	<title>遶ｶ霈ｪ蝣ｴ</title>
+	<author>縺薙＊縺ｦ縺､</author>
 	<homepage></homepage>
 		<contribution type="picture" id="{kozatetsu-build-keirin-69CB08B91D04}">
 		<picture src="keirin.bmp">
@@ -22,9 +22,9 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{kozatetsu-build-keirin-1AB5F2BC8C08}">
-		<name>競輪場</name>
+		<name>遶ｶ霈ｪ蝣ｴ</name>
 		<structure>
-			<category byname="公営賭博場"/>
+			<category byname="蜈ｬ蝟ｶ雉ｭ蜊壼ｴ"/>
 		</structure>
 		<price>300000000</price>
 		<size>7,8</size>
@@ -40,9 +40,9 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{kozatetsu-build-keirin-red-1AB5F2BC8C08}">
-		<name>競輪場</name>
+		<name>遶ｶ霈ｪ蝣ｴ</name>
 		<structure>
-			<category byname="公営賭博場"/>
+			<category byname="蜈ｬ蝟ｶ雉ｭ蜊壼ｴ"/>
 		</structure>
 		<price>300000000</price>
 		<size>7,8</size>
@@ -58,9 +58,9 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{kozatetsu-build-keirin-pool-1AB5F2BC8C08}">
-		<name>競輪場</name>
+		<name>遶ｶ霈ｪ蝣ｴ</name>
 		<structure>
-			<category byname="公営賭博場"/>
+			<category byname="蜈ｬ蝟ｶ雉ｭ蜊壼ｴ"/>
 		</structure>
 		<price>300000000</price>
 		<size>7,8</size>

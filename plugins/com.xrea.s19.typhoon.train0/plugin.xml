@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�ԗ��Z�b�g�@0����</title>
+	<title>車両セット　0号車</title>
 	<homepage></homepage>
 
-	<!-- �L�n55�n �擪��-->
+	<!-- キハ55系 先頭車-->
 	<contribution type="trainCar" id="{TYPHOON-JNR-k55-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -12,7 +12,7 @@
 		<capacity>84</capacity>
 		<seatedcapacity>84</seatedcapacity>
 	</contribution>
-	<!-- �L�n55�n ���Ԏ�-->
+	<!-- キハ55系 中間車-->
 	<contribution type="trainCar" id="{TYPHOON-JNR-k55-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -21,18 +21,18 @@
 		<capacity>84</capacity>
 		<seatedcapacity>84</seatedcapacity>
 	</contribution>
-	<!-- �L�n55�n �����-->
+	<!-- キハ55系 後尾車-->
 	<contribution type="trainCar" id="{TYPHOON-JNR-k55-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-JNR-k55-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-JNR-k55-HENSEI-7567171D3CEF}">
-		<company>�����{���L�S��</company>
-		<type>�L�n55�n</type>
-		<name>�}�s�F</name>
-		<author>�����Ӂ`��</author>
-		<description>8���܂ŕҐ���</description>
+		<company>旧日本国有鉄道</company>
+		<type>キハ55系</type>
+		<name>急行色</name>
+		<author>たいふ～ん</author>
+		<description>8両まで編成可</description>
 		<fare>600</fare>
 		<price>42000000</price>
 		<amenity>100</amenity>
@@ -53,12 +53,12 @@
 		</config>
 	</contribution>
 	<contribution type="train" id="{TYPHOON-NANKAI-k5501-HENSEI-7567171D3CEF}">
-		<company>��C�d�S</company>
-		<type>�L�n5501�n</type>
+		<company>南海電鉄</company>
+		<type>キハ5501系</type>
 		<name></name>
-		<author>�����Ӂ`��</author>
-		<description>��C�d�C�S�������S�I���{���ւ̏�����ׁ̈A���S�L�n55����ɏ��a34�N�ɐ��������C���ԁB���}���̂��ɂƂ��đ���A��ɋ}�s�Ɋi�グ����܂����B���a60�N�̍��S�_�C�������Ŕp�~�ƂȂ�L�n5501�����ނ��܂����B
-�i8���܂ŕҐ��j</description>
+		<author>たいふ～ん</author>
+		<description>南海電気鉄道が国鉄紀勢本線への乗り入れの為、国鉄キハ55を基に昭和34年に製造した気動車。準急きのくにとして走り、後に急行に格上げされました。昭和60年の国鉄ダイヤ改正で廃止となりキハ5501も引退しました。
+（8両まで編成可）</description>
 		<fare>600</fare>
 		<price>42000000</price>
 		<amenity>100</amenity>
@@ -79,11 +79,11 @@
 		</config>
 	</contribution>
 	<contribution type="train" id="{TYPHOON-NANKAI-KINOKUNI-HENSEI-7567171D3CEF}">
-		<company>��C�d�S</company>
-		<type>�L�n5501�n+�L�n58�n</type>
-		<name>���̂���</name>
-		<author>�����Ӂ`��</author>
-		<description>�i8���̂ݕҐ��j</description>
+		<company>南海電鉄</company>
+		<type>キハ5501系+キハ58系</type>
+		<name>きのくに</name>
+		<author>たいふ～ん</author>
+		<description>（8両のみ編成可）</description>
 		<fare>600</fare>
 		<price>42000000</price>
 		<amenity>100</amenity>

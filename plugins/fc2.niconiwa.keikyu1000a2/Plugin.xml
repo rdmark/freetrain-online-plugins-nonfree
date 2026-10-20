@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
  
   <plug-in>
-   <title>���}1000�n��v���O�C��</title>
+   <title>京急1000系列プラグイン</title>
    <author>201-nishi</author>
    <homepage></homepage>
  
-   <!-- ���}1000�擪�� -->
-   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O">
+   <!-- 京急1000先頭車 -->
+   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前">
      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
      <capacity>140</capacity>
      <seatedcapacity>54</seatedcapacity>
@@ -15,8 +15,8 @@
      </sprite>
    </contribution>
 
-   <!-- ���}1000���Ԏ� -->
-   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��">
+   <!-- 京急1000中間車 -->
+   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-中">
      <class name="freetrain.contributions.train.SymTrainCarImpl" />
      <capacity>140</capacity>
      <seatedcapacity>60</seatedcapacity>
@@ -25,99 +25,99 @@
      </sprite>
    </contribution>
 
-   <!-- ���}1000����� -->   
-   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��">
-   �@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
- �@�@<base carRef="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O"/>
- �@</contribution>
+   <!-- 京急1000後尾車 -->   
+   <contribution type="trainCar" id="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-後">
+   　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+ 　　<base carRef="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前"/>
+ 　</contribution>
 
  
    <contribution type="train" id="{201-nishi-Keikyu-1000-train-Kotei-4ECEE83C543B-Aa}">
-     <company>���l�}�s�d�S</company>
-     <type>1000�`</type>
-     <name>�Œ�Ґ�(����)</name>
+     <company>京浜急行電鉄</company>
+     <type>1000形</type>
+     <name>固定編成(中速)</name>
      <author>201-nishi</author>
-     <description>1959�N�ɓo�ꂵ�A����ȗ����}���̑S���Ŏg�p����Ă����Ԏ�B2�`8���܂ł̋������̂ݍw���\�B2�E8���Œ�Ґ��͌��������B</description>
+     <description>1959年に登場し、それ以来京急線の全線で使用されてきた車種。2～8両までの偶数両のみ購入可能。2・8両固定編成は現存せず。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
      <speed>medium</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>�㒆���O</composition>
-     <composition>�㒆�������O</composition>
-     <composition>�㒆�����������O</composition>
+     <car char="前" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前" /> 
+     <car char="中" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-中" /> 
+     <car char="後" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後中中前</composition>
+     <composition>後中中中中前</composition>
+     <composition>後中中中中中中前</composition>
      </config>
    </contribution>
    
    <contribution type="train" id="{201-nishi-Keikyu-1000-train-Kotei-4ECEE83C543B-Ab}">
-     <company>���l�}�s�d�S</company>
-     <type>1000�`</type>
-     <name>�Œ�Ґ�(����)</name>
+     <company>京浜急行電鉄</company>
+     <type>1000形</type>
+     <name>固定編成(高速)</name>
      <author>201-nishi</author>
-     <description>1959�N�ɓo�ꂵ�A����ȗ����}���̑S���Ŏg�p����Ă����Ԏ�B2�`8���܂ł̋������̂ݍw���\�B2�E8���Œ�Ґ��͌��������B</description>
+     <description>1959年に登場し、それ以来京急線の全線で使用されてきた車種。2～8両までの偶数両のみ購入可能。2・8両固定編成は現存せず。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
      <speed>fast</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>�㒆���O</composition>
-     <composition>�㒆�������O</composition>
-     <composition>�㒆�����������O</composition>
+     <car char="前" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前" /> 
+     <car char="中" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-中" /> 
+     <car char="後" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後中中前</composition>
+     <composition>後中中中中前</composition>
+     <composition>後中中中中中中前</composition>
      </config>
    </contribution>
    
    <contribution type="train" id="{201-nishi-Keikyu-1000-train-Bunkatsu-4ECEE83C543B-Ba}">
-     <company>���l�}�s�d�S</company>
-     <type>1000�`</type>
-     <name>�����Ґ�(����)</name>
+     <company>京浜急行電鉄</company>
+     <type>1000形</type>
+     <name>分割編成(中速)</name>
      <author>201-nishi</author>
-     <description>1959�N�ɓo�ꂵ�A����ȗ����}���̑S���Ŏg�p����Ă����Ԏ�B8�E12���̂ݍw���\�B</description>
+     <description>1959年に登場し、それ以来京急線の全線で使用されてきた車種。8・12両のみ購入可能。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
      <speed>medium</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" />
-     <composition>�㒆���O�㒆���O</composition>
-     <composition>�㒆���O�㒆���O�㒆���O</composition>
+     <car char="前" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前" /> 
+     <car char="中" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-中" /> 
+     <car char="後" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-後" />
+     <composition>後中中前後中中前</composition>
+     <composition>後中中前後中中前後中中前</composition>
      </config>
    </contribution>
    
    <contribution type="train" id="{201-nishi-Keikyu-1000-train-Bunkatsu-4ECEE83C543B-Bb}">
-     <company>���l�}�s�d�S</company>
-     <type>1000�`</type>
-     <name>�����Ґ�(����)</name>
+     <company>京浜急行電鉄</company>
+     <type>1000形</type>
+     <name>分割編成(高速)</name>
      <author>201-nishi</author>
-     <description>1959�N�ɓo�ꂵ�A����ȗ����}���̑S���Ŏg�p����Ă����Ԏ�B8�E12���̂ݍw���\�B</description>
+     <description>1959年に登場し、それ以来京急線の全線で使用されてきた車種。8・12両のみ購入可能。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>95</amenity>
      <speed>fast</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" /> 
-     <car char="��" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-��" />
-     <composition>�㒆���O�㒆���O</composition>
-     <composition>�㒆���O�㒆���O�㒆���O</composition>
+     <car char="前" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-前" /> 
+     <car char="中" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-中" /> 
+     <car char="後" ref="{201-nishi-keikyu-1000-traincar-4ECEE83C543B}-後" />
+     <composition>後中中前後中中前</composition>
+     <composition>後中中前後中中前後中中前</composition>
      </config>
    </contribution>
    
-   <!-- �Փd1080�擪�� -->
-   <contribution type="trainCar" id="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-�O">
+   <!-- 琴電1080先頭車 -->
+   <contribution type="trainCar" id="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-前">
      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
      <capacity>140</capacity>
      <seatedcapacity>54</seatedcapacity>
@@ -126,53 +126,53 @@
      </sprite>
    </contribution>
 
-   <!-- �Փd1080����� -->   
-   <contribution type="trainCar" id="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-��">
-   �@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
- �@�@<base carRef="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-�O"/>
- �@</contribution>
+   <!-- 琴電1080後尾車 -->   
+   <contribution type="trainCar" id="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-後">
+   　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+ 　　<base carRef="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-前"/>
+ 　</contribution>
 
  
    <contribution type="train" id="{201-nishi-kotoden-1080-train-4ECEE83C543B-A}">
-     <company>�����Օ��d�S</company>
-     <type>1080�`</type>
-     <name>�Օ���(����)</name>
+     <company>高松琴平電鉄</company>
+     <type>1080形</type>
+     <name>琴平線(中速)</name>
      <author>201-nishi</author>
-     <description>�������[�Ԃ����������Փd�̗�[�������邽�߁A���}�Ŕp�ԂɂȂ���1000�`���������ċՓd�Ŏg�p���Ă���ԗ��B1080�`�͋Օ����̎ԗ��ŁA���F�̑т��h���Ă���B2�A4���Ґ��̂ݍw���\�B</description>
+     <description>当時非冷房車が多かった琴電の冷房化をするため、京急で廃車になった1000形を改造して琴電で使用している車両。1080形は琴平線の車両で、黄色の帯が塗られている。2、4両編成のみ購入可能。</description>
 		<fare>400</fare>
 		<price>26000000</price>
 		<amenity>95</amenity>
      <speed>medium</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>��O��O</composition>
+     <car char="前" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-前" /> 
+     <car char="後" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後前後前</composition>
      </config>
    </contribution>
    
    <contribution type="train" id="{201-nishi-kotoden-1080-train-4ECEE83C543B-B}">
-     <company>�����Օ��d�S</company>
-     <type>1080�`</type>
-     <name>�Օ���(�ᑬ)</name>
+     <company>高松琴平電鉄</company>
+     <type>1080形</type>
+     <name>琴平線(低速)</name>
      <author>201-nishi</author>
-     <description>�������[�Ԃ����������Փd�̗�[�������邽�߁A���}�Ŕp�ԂɂȂ���1000�`���������ċՓd�Ŏg�p���Ă���ԗ��B1080�`�͋Օ����̎ԗ��ŁA���F�̑т��h���Ă���B2�A4���Ґ��̂ݍw���\�B</description>
+     <description>当時非冷房車が多かった琴電の冷房化をするため、京急で廃車になった1000形を改造して琴電で使用している車両。1080形は琴平線の車両で、黄色の帯が塗られている。2、4両編成のみ購入可能。</description>
 		<fare>400</fare>
 		<price>26000000</price>
 		<amenity>95</amenity>
      <speed>slow</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>��O��O</composition>
+     <car char="前" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-前" /> 
+     <car char="後" ref="{201-nishi-kotoden-1080-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後前後前</composition>
      </config>
    </contribution>
    
-   <!-- �Փd1300�擪�� -->
-   <contribution type="trainCar" id="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-�O">
+   <!-- 琴電1300先頭車 -->
+   <contribution type="trainCar" id="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-前">
      <class name="freetrain.contributions.train.AsymTrainCarImpl" />
      <capacity>140</capacity>
      <seatedcapacity>54</seatedcapacity>
@@ -181,48 +181,48 @@
      </sprite>
    </contribution>
 
-   <!-- �Փd1300����� -->   
-   <contribution type="trainCar" id="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-��">
-   �@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
- �@�@<base carRef="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-�O"/>
- �@</contribution>
+   <!-- 琴電1300後尾車 -->   
+   <contribution type="trainCar" id="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-後">
+   　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+ 　　<base carRef="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-前"/>
+ 　</contribution>
 
  
    <contribution type="train" id="{201-nishi-kotoden-1300-train-4ECEE83C543B-A}">
-     <company>�����Օ��d�S</company>
-     <type>1300�`</type>
-     <name>������(����)</name>
+     <company>高松琴平電鉄</company>
+     <type>1300形</type>
+     <name>長尾線(中速)</name>
      <author>201-nishi</author>
-     <description>�������[�Ԃ����������Փd�̗�[�������邽�߁A���}�Ŕp�ԂɂȂ���1000�`���������ċՓd�Ŏg�p���Ă���ԗ��B1300�`�͒������̎ԗ��ŁA�ΐF�̑т��h���Ă���B2�A4���Ґ��̂ݍw���\�B</description>
+     <description>当時非冷房車が多かった琴電の冷房化をするため、京急で廃車になった1000形を改造して琴電で使用している車両。1300形は長尾線の車両で、緑色の帯が塗られている。2、4両編成のみ購入可能。</description>
 		<fare>400</fare>
 		<price>26000000</price>
 		<amenity>95</amenity>
      <speed>medium</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>��O��O</composition>
+     <car char="前" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-前" /> 
+     <car char="後" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後前後前</composition>
      </config>
    </contribution>
    
    <contribution type="train" id="{201-nishi-kotoden-1300-train-4ECEE83C543B-B}">
-     <company>�����Օ��d�S</company>
-     <type>1300�`</type>
-     <name>������(�ᑬ)</name>
+     <company>高松琴平電鉄</company>
+     <type>1300形</type>
+     <name>長尾線(低速)</name>
      <author>201-nishi</author>
-     <description>�������[�Ԃ����������Փd�̗�[�������邽�߁A���}�Ŕp�ԂɂȂ���1000�`���������ċՓd�Ŏg�p���Ă���ԗ��B1300�`�͒������̎ԗ��ŁA�ΐF�̑т��h���Ă���B2�A4���Ґ��̂ݍw���\�B</description>
+     <description>当時非冷房車が多かった琴電の冷房化をするため、京急で廃車になった1000形を改造して琴電で使用している車両。1300形は長尾線の車両で、緑色の帯が塗られている。2、4両編成のみ購入可能。</description>
 		<fare>400</fare>
 		<price>26000000</price>
 		<amenity>95</amenity>
      <speed>slow</speed>
      <class name="freetrain.contributions.train.PatternTrainImpl"/>
      <config>
-     <car char="�O" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-�O" /> 
-     <car char="��" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-��" />
-     <composition>��O</composition> 
-     <composition>��O��O</composition>
+     <car char="前" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-前" /> 
+     <car char="後" ref="{201-nishi-kotoden-1300-traincar-4ECEE83C543B}-後" />
+     <composition>後前</composition> 
+     <composition>後前後前</composition>
      </config>
    </contribution>
   </plug-in>

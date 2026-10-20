@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>ÇµÇ©ÇµÇ©</author>
+<author>„Åó„Åã„Åó„Åã</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>é‘Áq(ã@ä÷é‘:ãåçëìSãyÇ—JRäeé–)</title>
+<title>ËªäËºå(Ê©üÈñ¢Ëªä:ÊóßÂõΩÈâÑÂèä„Å≥JRÂêÑÁ§æ)</title>
 
-<title>èˆãCã@ä÷é‘</title>
+<title>Ëí∏Ê∞óÊ©üÈñ¢Ëªä</title>
 
-<!-- èˆãCã@ä÷é‘ C57ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C57Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-C571}">
 <picture src="c571.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-C572}">
 <picture src="c572.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- èˆãCã@ä÷é‘ C571ã@ä÷é‘éRå˚çÜÉ^ÉCÉv -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C571Ê©üÈñ¢ËªäÂ±±Âè£Âè∑„Çø„Ç§„Éó -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C571}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -24,12 +24,12 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ C571ã@ä÷é‘éRå˚çÜÉ^ÉCÉv å¸Ç´ÅFãt -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C571Ê©üÈñ¢ËªäÂ±±Âè£Âè∑„Çø„Ç§„Éó Âêë„ÅçÔºöÈÄÜ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C571-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-C571}"/>
 </contribution>
-<!-- èˆãCã@ä÷é‘ C572ã@ä÷é‘ -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C572Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C572}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -37,19 +37,19 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ C572ã@ä÷é‘ å¸Ç´ÅFãt-->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C572Ê©üÈñ¢Ëªä Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-SteamLocomotive-TrainCar-C572-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-C572}"/>
 </contribution>
 
-<!-- èˆãCã@ä÷é‘ C58ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C58Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-C581}">
 <picture src="c581.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- èˆãCã@ä÷é‘ C581ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C581Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C581}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -57,19 +57,19 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ C581ã@ä÷é‘ å¸Ç´ÅFãt-->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C581Ê©üÈñ¢Ëªä Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C581-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-C581}"/>
 </contribution>
 
-<!-- èˆãCã@ä÷é‘ C62ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C62Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-C622}">
 <picture src="c622.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- èˆãCã@ä÷é‘ C622ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C622Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C622}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -77,22 +77,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ C622ã@ä÷é‘ å¸Ç´ÅFãt -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä C622Ê©üÈñ¢Ëªä Âêë„ÅçÔºöÈÄÜ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-C622-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-C622}"/>
 </contribution>
 
-<!-- èˆãCã@ä÷é‘ D51ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä D51Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-D511115}">
 <picture src="d511115.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-SteamLocomotive-picture-D51100}">
 <picture src="d51100.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- èˆãCã@ä÷é‘ D511115ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä D511115Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-D511115}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -100,12 +100,12 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ D511115ã@ä÷é‘ å¸Ç´ÅFãt-->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä D511115Ê©üÈñ¢Ëªä Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-D511115-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-D511115}"/>
 </contribution>
-<!-- èˆãCã@ä÷é‘ D51100ã@ä÷é‘(Ç»ÇﬂÇ≠Ç∂ÉhÅ[ÉÄ) -->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä D51100Ê©üÈñ¢Ëªä(„Å™„ÇÅ„Åè„Åò„Éâ„Éº„É†) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-D51100}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -113,23 +113,23 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- èˆãCã@ä÷é‘ D51100ã@ä÷é‘(Ç»ÇﬂÇ≠Ç∂ÉhÅ[ÉÄ) å¸Ç´ÅFãt-->
+<!-- Ëí∏Ê∞óÊ©üÈñ¢Ëªä D51100Ê©üÈñ¢Ëªä(„Å™„ÇÅ„Åè„Åò„Éâ„Éº„É†) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-SteamLocomotive-TrainCar-D51100-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-SteamLocomotive-TrainCar-D51100}"/>
 </contribution>
 
 
-<title>ìdãCã@ä÷é‘</title>
-<title>ãåå`ìdã@</title>
+<title>ÈõªÊ∞óÊ©üÈñ¢Ëªä</title>
+<title>ÊóßÂΩ¢ÈõªÊ©ü</title>
 
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘(ÉfÉbÉLïtÇ´) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä(„Éá„ÉÉ„Ç≠‰ªò„Åç) -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF58a}">
 <picture src="ef58a.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘ (ÉfÉbÉLïtÇ´)-->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä („Éá„ÉÉ„Ç≠‰ªò„Åç)-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-Deck}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -138,13 +138,13 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘(ó¨ê¸å^) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä(ÊµÅÁ∑öÂûã) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF58b}">
 <picture src="ef58b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘ (ó¨ê¸å^)íÉ-->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä (ÊµÅÁ∑öÂûã)Ëå∂-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -152,7 +152,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘ ê¬àÍî êF -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä Èùí‰∏ÄËà¨Ëâ≤ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-B}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -177,7 +177,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘ ê¬ì¡ã}êF -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä ÈùíÁâπÊÄ•Ëâ≤ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-B-ex}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -202,7 +202,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF58ã@ä÷é‘ ê¬ëÂè´êF -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF58Ê©üÈñ¢Ëªä ÈùíÂ§ßÂ∞ÜËâ≤ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58-A}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -228,13 +228,13 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH10ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH10Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH10}">
 <picture src="eh10.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH10ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH10Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -243,16 +243,16 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH10ã@ä÷é‘(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH10Ê©üÈñ¢Ëªä(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH10-2a}">
 <picture src="eh10_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH10-2b}">
 <picture src="eh10_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH10ã@ä÷é‘(2óº) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH10Ê©üÈñ¢Ëªä(2‰∏°) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -267,21 +267,21 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH10ã@ä÷é‘(2óº) å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH10Ê©üÈñ¢Ëªä(2‰∏°) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH10-2b}"/>
 </contribution>
 
-<title>íºó¨ópìdãCã@ä÷é‘</title>
+<title>Áõ¥ÊµÅÁî®ÈõªÊ∞óÊ©üÈñ¢Ëªä</title>
 
-<!-- ìdãCã@ä÷é‘ EF66ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF66Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF66a}">
 <picture src="ef66a.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EF66ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF66Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF66}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -291,10 +291,10 @@
 </contribution>
 
 
-<title>åó¨ópìdãCã@ä÷é‘</title>
+<title>‰∫§ÊµÅÁî®ÈõªÊ∞óÊ©üÈñ¢Ëªä</title>
 
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-ED75-0000}">
 <picture src="ed75_0000.bmp" />
 </contribution>
@@ -313,8 +313,8 @@
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-ED75-panda}">
 <picture src="ed75_0122.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(0î‘ë‰) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(0Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-0}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -322,7 +322,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(700î‘ë‰) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(700Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-700}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -362,7 +362,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(ÉIÉäÉGÉìÉgÉTÉãÅ[Éì) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(„Ç™„É™„Ç®„É≥„Éà„Çµ„É´„Éº„É≥) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-OrientSaloon}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -370,7 +370,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(1000î‘ë‰) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(1000Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-1000}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -378,7 +378,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(JRâ›ï®çXêVã@) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(JRË≤®Áâ©Êõ¥Êñ∞Ê©ü) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -386,7 +386,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(JRâ›ï®ÉçÉSïtÇ´çXêVã@) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(JRË≤®Áâ©„É≠„Ç¥‰ªò„ÅçÊõ¥Êñ∞Ê©ü) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-1028}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -394,7 +394,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED75ã@ä÷é‘(JRâ›ï®ééå±ìhêF(ÉpÉìÉ_)) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED75Ê©üÈñ¢Ëªä(JRË≤®Áâ©Ë©¶È®ìÂ°óËâ≤(„Éë„É≥„ÉÄ)) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED75-panda}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -403,8 +403,8 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ ED79ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED79Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-ED79-000}">
 <picture src="ed79_000.bmp" />
 </contribution>
@@ -414,8 +414,8 @@
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-ED79-100}">
 <picture src="ed79_100.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ ED79ã@ä÷é‘(0î‘ë‰) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED79Ê©üÈñ¢Ëªä(0Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-0}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -423,7 +423,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED79ã@ä÷é‘(50î‘ë‰) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED79Ê©üÈñ¢Ëªä(50Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-50}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -431,7 +431,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ ED79ã@ä÷é‘(100î‘ë‰) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä ED79Ê©üÈñ¢Ëªä(100Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-ED79-100}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -442,10 +442,10 @@
 
 
 
-<title>åó¨•åíºóºópìdãCã@ä÷é‘</title>
+<title>‰∫§ÊµÅÔΩ•‰∫§Áõ¥‰∏°Áî®ÈõªÊ∞óÊ©üÈñ¢Ëªä</title>
 
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF81-0}">
 <picture src="ef81_0.bmp" />
 </contribution>
@@ -467,8 +467,8 @@
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF81-twilight}">
 <picture src="ef81_twilight.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ê‘13çÜìhêFÉçÅ[ÉYÉsÉìÉN) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(Ëµ§13Âè∑Â°óËâ≤„É≠„Éº„Ç∫„Éî„É≥„ÇØ) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-p}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -653,7 +653,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(JRâ›ï®çXêVé‘) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(JRË≤®Áâ©Êõ¥Êñ∞Ëªä) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -838,7 +838,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ê‘2çÜìhêF) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(Ëµ§2Âè∑Â°óËâ≤) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-r}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1023,7 +1023,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(81çÜã@Ç®è¢Çµìhëï) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(81Âè∑Ê©ü„ÅäÂè¨„ÅóÂ°óË£Ö) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-81-omesi}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1208,7 +1208,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(300î‘ë‰ÉXÉeÉìÉåÉXñ≥ìhëï) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(300Áï™Âè∞„Çπ„ÉÜ„É≥„É¨„ÇπÁÑ°Â°óË£Ö) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-300s}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1393,7 +1393,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(304çÜã@ÉXÉeÉìÉåÉXñ≥ìhëïçXêVé‘) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(304Âè∑Ê©ü„Çπ„ÉÜ„É≥„É¨„ÇπÁÑ°Â°óË£ÖÊõ¥Êñ∞Ëªä) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-304s-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1578,7 +1578,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(300î‘ë‰ÉXÉeÉìÉåÉXÅAÉçÅ[ÉYÉsÉìÉNìhëï) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(300Áï™Âè∞„Çπ„ÉÜ„É≥„É¨„Çπ„ÄÅ„É≠„Éº„Ç∫„Éî„É≥„ÇØÂ°óË£Ö) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-300p}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1763,7 +1763,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(301çÜã@ÉXÉeÉìÉåÉXÅAÉçÅ[ÉYÉsÉìÉNìhëïçXêVé‘) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(301Âè∑Ê©ü„Çπ„ÉÜ„É≥„É¨„Çπ„ÄÅ„É≠„Éº„Ç∫„Éî„É≥„ÇØÂ°óË£ÖÊõ¥Êñ∞Ëªä) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-301p-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -1948,7 +1948,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(400î‘ë‰çXêVé‘) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(400Áï™Âè∞Êõ¥Êñ∞Ëªä) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-400-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2133,7 +2133,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(408çÜã@ééå±ìhêF) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(408Âè∑Ê©üË©¶È®ìÂ°óËâ≤) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-408-test}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2141,7 +2141,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(451î‘) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(451Áï™) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-451}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2149,7 +2149,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(453î‘Å`) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(453Áï™ÔΩû) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-453}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2334,7 +2334,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(500î‘ë‰) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(500Áï™Âè∞) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-500}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2519,7 +2519,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ÉJÉVÉIÉyÉA) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(„Ç´„Ç∑„Ç™„Éö„Ç¢) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-cassiopeia}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2527,7 +2527,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ÉXÅ[ÉpÅ[ÅEÉGÉNÉXÉvÉåÉXÅEÉåÉCÉìÉ{Å[) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(„Çπ„Éº„Éë„Éº„Éª„Ç®„ÇØ„Çπ„Éó„É¨„Çπ„Éª„É¨„Ç§„É≥„Éú„Éº) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-rainbow}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2535,7 +2535,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ñkìlêØ) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(ÂåóÊñóÊòü) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-hokuto}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2543,7 +2543,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EF81ã@ä÷é‘(ÉgÉèÉCÉâÉCÉgÅEÉGÉNÉXÉvÉåÉX) -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EF81Ê©üÈñ¢Ëªä(„Éà„ÉØ„Ç§„É©„Ç§„Éà„Éª„Ç®„ÇØ„Çπ„Éó„É¨„Çπ) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF81-twilight}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2552,13 +2552,13 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- íºó¨ìdãCã@ä÷é‘ EF200ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF200Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF200}">
 <picture src="EF200.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- íºó¨ìdãCã@ä÷é‘ EF200ã@ä÷é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF200Ê©üÈñ¢Ëªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF200}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2567,8 +2567,8 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- íºó¨ìdãCã@ä÷é‘ EF210ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF210Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF210-000}">
 <picture src="EF210_000.bmp" />
 </contribution>
@@ -2578,8 +2578,8 @@
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EF210-100-sa}">
 <picture src="ef210_100_singlearm.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- íºó¨ìdãCã@ä÷é‘ EF210ã@ä÷é‘-0î‘ë‰ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF210Ê©üÈñ¢Ëªä-0Áï™Âè∞ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF210-000}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2587,7 +2587,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- íºó¨ìdãCã@ä÷é‘ EF210ã@ä÷é‘-100î‘ë‰ -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF210Ê©üÈñ¢Ëªä-100Áï™Âè∞ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF210-100}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2595,7 +2595,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- íºó¨ìdãCã@ä÷é‘ EF210ã@ä÷é‘-100î‘ë‰(ÉVÉìÉOÉãÉAÅ[ÉÄÉpÉìÉ^) -->
+<!-- Áõ¥ÊµÅÈõªÊ∞óÊ©üÈñ¢Ëªä EF210Ê©üÈñ¢Ëªä-100Áï™Âè∞(„Ç∑„É≥„Ç∞„É´„Ç¢„Éº„É†„Éë„É≥„Çø) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF210-100-sa}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2604,16 +2604,16 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘901çÜã@ééçÏã@(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-901-2a}">
 <picture src="eh500_901_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-901-2b}">
 <picture src="eh500_901_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘901çÜã@ééçÏã@(2óº) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-901-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2628,22 +2628,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘901çÜã@ééçÏã@(2óº) å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-901-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-901-2b}"/>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇPéü(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-001-2a}">
 <picture src="eh500_001_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-001-2b}">
 <picture src="eh500_001_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇPéü(2óº) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-001-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2658,22 +2658,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇPéü(2óº) å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-001-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-001-2b}"/>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇQéü(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºíÊ¨°(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-003-2a}">
 <picture src="eh500_003_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-003-2b}">
 <picture src="eh500_003_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇQéü(2óº) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºíÊ¨°(2‰∏°) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-003-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2688,22 +2688,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇQéü(2óº) å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºíÊ¨°(2‰∏°) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-003-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-003-2b}"/>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇRéü(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºìÊ¨°(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-010-2a}">
 <picture src="eh500_010_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH500-010-2b}">
 <picture src="eh500_010_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇRéü(2óº) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºìÊ¨°(2‰∏°) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-010-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2718,22 +2718,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH500ã@ä÷é‘ÇRéü(2óº) å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH500Ê©üÈñ¢ËªäÔºìÊ¨°(2‰∏°) Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-010-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH500-010-2b}"/>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘901çÜã@ééçÏã@(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH200-901-2a}">
 <picture src="eh200_901_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH200-901-2b}">
 <picture src="eh200_901_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘901çÜã@ééçÏã@(2óº)1í[é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°)1Á´ØËªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-901-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2748,22 +2748,22 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘901çÜã@ééçÏã@(2óº)2í[é‘ å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢Ëªä901Âè∑Ê©üË©¶‰ΩúÊ©ü(2‰∏°)2Á´ØËªä Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-901-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-901-2b}"/>
 </contribution>
 
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘ÇPéü(2óº) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH200-001-2a}">
 <picture src="eh200_001_2a.bmp" />
 </contribution>
 <contribution type="picture" id="{FreeTrain-Shika-ElectricLocomotive-picture-EH200-001-2b}">
 <picture src="eh200_001_2b.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘ÇPéü(2óº)1í[é‘ -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°)1Á´ØËªä -->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-001-2a}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2778,7 +2778,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ìdãCã@ä÷é‘ EH200ã@ä÷é‘ÇPéü(2óº)2í[é‘ å¸Ç´ÅFãt-->
+<!-- ÈõªÊ∞óÊ©üÈñ¢Ëªä EH200Ê©üÈñ¢ËªäÔºëÊ¨°(2‰∏°)2Á´ØËªä Âêë„ÅçÔºöÈÄÜ-->
 <contribution type="trainCar" id="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-001-2b-R}">
 <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 <base carRef="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EH200-001-2b}"/>
@@ -2787,10 +2787,10 @@
 
 
 
-<title>ÉfÉBÅ[É[Éãã@ä÷é‘</title>
+<title>„Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä</title>
 
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
 <contribution type="picture" id="{FreeTrain-Shika-DieselLocomotive-picture-DD51}">
 <picture src="dd51.bmp" />
 </contribution>
@@ -2800,8 +2800,8 @@
 <contribution type="picture" id="{FreeTrain-Shika-DieselLocomotive-picture-DD51-hokuto}">
 <picture src="dd51_hokuto.bmp" />
 </contribution>
-<!-- é‘óºíËã` -->
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘ãåçëìSêF -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢ËªäÊóßÂõΩÈâÑËâ≤ -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JNR}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2953,7 +2953,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘745çÜã@(éOÇ¬ñ⁄) -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢Ëªä745Âè∑Ê©ü(‰∏â„Å§ÁõÆ) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-745}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2961,7 +2961,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘ñkìlêØ -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢ËªäÂåóÊñóÊòü -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-hokuto}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -2969,7 +2969,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘ÉÜÅ[ÉçÉâÉCÉiÅ[ -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢Ëªä„É¶„Éº„É≠„É©„Ç§„Éä„Éº -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-Euroliner}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -3121,7 +3121,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘JRâ›ï®çXêVã@ -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢ËªäJRË≤®Áâ©Êõ¥Êñ∞Ê©ü -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-JRF}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -3277,7 +3277,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DD51ã@ä÷é‘JRâ›ï®çXêVã@(ñkäCìπédól) -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DD51Ê©üÈñ¢ËªäJRË≤®Áâ©Êõ¥Êñ∞Ê©ü(ÂåóÊµ∑ÈÅì‰ªïÊßò) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DD51-renew}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -3430,13 +3430,13 @@
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
 
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DF200ã@ä÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` --> 
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DF200Ê©üÈñ¢Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© --> 
 <contribution type="picture" id="{FreeTrain-Shika-DieselLocomotive-picture-DF200-901}">
 <picture src="df200_901.bmp" />
 </contribution>
-<!-- é‘ÁqíËã` -->
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DF200ã@ä÷é‘(901çÜã@) -->
+<!-- ËªäËºåÂÆöÁæ© -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DF200Ê©üÈñ¢Ëªä(901Âè∑Ê©ü) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DF200-901}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -3444,7 +3444,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DF200ã@ä÷é‘(1çÜã@Å`9çÜã@) -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DF200Ê©üÈñ¢Ëªä(1Âè∑Ê©üÔΩû9Âè∑Ê©ü) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DF200-001}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">
@@ -3468,7 +3468,7 @@
 </sprite>
 <capacity>0</capacity> <seatedcapacity>0</seatedcapacity>
 </contribution>
-<!-- ÉfÉBÅ[É[Éãã@ä÷é‘ DF200ã@ä÷é‘(10çÜã@Å`) -->
+<!-- „Éá„Ç£„Éº„Çº„É´Ê©üÈñ¢Ëªä DF200Ê©üÈñ¢Ëªä(10Âè∑Ê©üÔΩû) -->
 <contribution type="trainCar" id="{FreeTrain-Shika-DieselLocomotive-TrainCar-DF200-010}">
 <class name="freetrain.contributions.train.AsymTrainCarImpl" />
 <sprite origin="0,0">

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
  <plug-in>
-  <title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@ƒ‚ƒKƒ~</title>
-  <author>‚è‚¨‚è‚¨</author>
+  <title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ãƒ¢ã‚¬ãƒŸ</title>
+  <author>ã‚ŠãŠã‚ŠãŠ</author>
   <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
   <depend on="jp.geocities.mogami00.tank" />
 
   <contribution type="GenericStructure" id="{FE61055B-ACE7-4E6D-B10F-C73DDA698A2B}-gs" >
-   <group>íŽÔ</group>
+   <group>æˆ¦è»Š</group>
    <price>10000000</price>
    <size>1,1</size>
    <structure>
-    <category byname="ŒRŽ–Ž{Ý"/> 
+    <category byname="è»äº‹æ–½è¨­"/> 
    </structure>
    <height>1</height>
    <sprite origin="0,0" offset="5">

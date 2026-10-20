@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 	<!ENTITY Station_04 '
 		<price>25000000</price>
@@ -27,8 +27,8 @@
 	'>	
 ]>
 <plug-in>
-	<title>—m•—–Ø‘¢‰wŽÉ</title>
-	<author>C477@2—¼–Ú</author>
+	<title>æ´‹é¢¨æœ¨é€ é§…èˆŽ</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{FC522DC0-8CB6-4106-C477-E2FCA3848D1E}">
@@ -38,7 +38,7 @@
 	</contribution>
 
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-1a">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin="  0,0" offset="16">
@@ -47,7 +47,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-0a">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin=" 48,0" offset="24">
@@ -56,7 +56,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-2a">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin=" 96,0" offset="16">
@@ -65,7 +65,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-3a">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin="144,0" offset="24">
@@ -75,7 +75,7 @@
 	</contribution>
 
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-1b">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin="  0,0" offset="16">
@@ -84,7 +84,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-0b">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin=" 48,0" offset="24">
@@ -93,7 +93,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-2b">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin=" 96,0" offset="16">
@@ -102,7 +102,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-3b">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin="144,0" offset="24">
@@ -112,7 +112,7 @@
 	</contribution>
 
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-1c">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin="  0,0" offset="16">
@@ -121,7 +121,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-0c">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin=" 48,0" offset="24">
@@ -130,7 +130,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-2c">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin=" 96,0" offset="16">
@@ -139,7 +139,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-3c">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin="144,0" offset="24">
@@ -149,7 +149,7 @@
 	</contribution>
 
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-1d">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin="  0,0" offset="16">
@@ -158,7 +158,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-0d">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin=" 48,0" offset="24">
@@ -167,7 +167,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-2d">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>1,2</size>
 		<sprite origin=" 96,0" offset="16">
@@ -176,7 +176,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="station" id="{2A279F76-C913-4692-C477-04FF49922523}-3d">
-		<group>—m•—–Ø‘¢‰wŽÉA</group>
+		<group>æ´‹é¢¨æœ¨é€ é§…èˆŽA</group>
 		&Station_04;
 		<size>2,1</size>
 		<sprite origin="144,0" offset="24">

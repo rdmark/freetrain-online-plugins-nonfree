@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œ</title>
-	<author>ˆ»£ƒqƒ</author>
+	<title>æž¶ç·šæŸ±</title>
+	<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
 	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
 	
 	<contribution type="electricPole" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-Kasen-1-Left}">
-		<name>•¡ü—p(¶)</name>
+		<name>è¤‡ç·šç”¨(å·¦)</name>
 		<sprite>
 			<picture src="kasen1left.bmp"/>
 		</sprite>
 	</contribution>
 	
 	<contribution type="electricPole" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-Kasen-1-Center}">
-		<name>•¡ü—p(’†)</name>
+		<name>è¤‡ç·šç”¨(ä¸­)</name>
 		<sprite>
 			<picture src="kasen1center.bmp"/>
 		</sprite>
 	</contribution>
 	
 	<contribution type="electricPole" id="{FreeTrain-AYASE-Hiro-RailStructureImpl-Kasen-1-Right}">
-		<name>•¡ü—p(‰E)</name>
+		<name>è¤‡ç·šç”¨(å³)</name>
 		<sprite>
 			<picture src="kasen1right.bmp"/>
 		</sprite>

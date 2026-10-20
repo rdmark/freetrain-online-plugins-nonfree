@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>木造民家</title>
+	<title>譛ｨ騾豌大ｮｶ</title>
 	<author>toaru</author>
 	<homepage>-</homepage>
 		
@@ -11,11 +11,11 @@
 </contribution>
 	
 <contribution type="GenericStructure" id="{0E3165AC-1650-4CA1-A897-09E08BF36EFC}">
-	<name>木造民家</name>
+	<name>譛ｨ騾豌大ｮｶ</name>
 	<price>5000000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="一戸建て"/>
+		<category byname="荳謌ｸ蟒ｺ縺ｦ"/>
 	</structure>
 	<height>1</height>
 	<population>

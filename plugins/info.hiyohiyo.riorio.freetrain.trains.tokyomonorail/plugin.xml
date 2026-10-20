@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-  <title>“Œ‹žƒ‚ƒmƒŒ[ƒ‹700Œ`E1000Œ`</title>
-  <author>‚è‚¨‚è‚¨</author>
+  <title>æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«700å½¢ãƒ»1000å½¢</title>
+  <author>ã‚ŠãŠã‚ŠãŠ</author>
   <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹700Œ` æ“ªŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«700å½¢ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-0700-823B-717DF0CC1911}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -16,7 +16,7 @@
     <seatedcapacity>64</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹800Œ` ’†ŠÔŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«800å½¢ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-0700-823B-717DF0CC1911}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -26,18 +26,18 @@
     <seatedcapacity>68</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹700Œ` Œã”öŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«700å½¢ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-0700-823B-717DF0CC1911}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-tokyomonorail-0700-823B-717DF0CC1911}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-tokyomonorail-0700-8AF2-087BD82FFB9C}">
-    <company>“Œ‹žƒ‚ƒmƒŒ[ƒ‹</company>
-    <type>700Œ`</type>
+    <company>æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</company>
+    <type>700å½¢</type>
     <name> </name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1982”N‚©‚ç»‘¢‚³‚ê‚½15‚‹‰ƒAƒ‹ƒ~ŽÔ‘Ì‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼B“Œ‹žƒ‚ƒmƒŒ[ƒ‹E•l¼’¬`‰H“c‹ó`ŠÔ‚Å‰^“]‚³‚ê‚½BŒãŒp‚Ì1000Œ`E2000Œ`‚Ì‘”õ‚É‚æ‚èA1998”N‚É‘SŽÔ”pŽÔ‚Æ‚È‚Á‚½B</description>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1982å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸ15ï½ç´šã‚¢ãƒ«ãƒŸè»Šä½“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ãƒ»æµœæ¾ç”ºï½žç¾½ç”°ç©ºæ¸¯é–“ã§é‹è»¢ã•ã‚ŒãŸã€‚å¾Œç¶™ã®1000å½¢ãƒ»2000å½¢ã®å¢—å‚™ã«ã‚ˆã‚Šã€1998å¹´ã«å…¨è»Šå»ƒè»Šã¨ãªã£ãŸã€‚</description>
 	<fare>500</fare>
 	<price>35000000</price>
 	<amenity>100</amenity>
@@ -50,7 +50,7 @@
   </contribution>
 
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒOƒŠ[ƒ“ƒKƒ€ æ“ªŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚°ãƒªãƒ¼ãƒ³ã‚¬ãƒ  å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-B87F-A0727178E5CF}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -60,7 +60,7 @@
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒOƒŠ[ƒ“ƒKƒ€ ’†ŠÔŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚°ãƒªãƒ¼ãƒ³ã‚¬ãƒ  ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-B87F-A0727178E5CF}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -70,18 +70,18 @@
     <seatedcapacity>52</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒOƒŠ[ƒ“ƒKƒ€ Œã”öŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚°ãƒªãƒ¼ãƒ³ã‚¬ãƒ  å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-B87F-A0727178E5CF}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-tokyomonorail-1000-B87F-A0727178E5CF}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-tokyomonorail-1000-4C69-6F2A830DD954}">
-    <company>“Œ‹žƒ‚ƒmƒŒ[ƒ‹</company>
-    <type>1000Œn</type>
-    <name>ƒOƒŠ[ƒ“ƒKƒ€</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1989”N‚©‚çŽg—p‚³‚ê‚Ä‚¢‚éAŒ»Ý‚ÌŽå—ÍŽÔ—¼Bƒƒbƒe‚Ì‘S–ÊLŽÔ‚Æ‚È‚Á‚½•Ò¬‚ª‚ ‚èA‚¤‚¿1•Ò¬‚ÍƒOƒŠ[ƒ“ƒKƒ€‚ÌƒpƒbƒP[ƒWƒJƒ‰[‚ÉƒyƒCƒ“ƒg‚³‚ê‚Ä‚¢‚éB</description>
+    <company>æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</company>
+    <type>1000ç³»</type>
+    <name>ã‚°ãƒªãƒ¼ãƒ³ã‚¬ãƒ </name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1989å¹´ã‹ã‚‰ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹ã€ç¾åœ¨ã®ä¸»åŠ›è»Šä¸¡ã€‚ãƒ­ãƒƒãƒ†ã®å…¨é¢åºƒå‘Šè»Šã¨ãªã£ãŸç·¨æˆãŒã‚ã‚Šã€ã†ã¡1ç·¨æˆã¯ã‚°ãƒªãƒ¼ãƒ³ã‚¬ãƒ ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚«ãƒ©ãƒ¼ã«ãƒšã‚¤ãƒ³ãƒˆã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 	<fare>500</fare>
 	<price>35000000</price>
 	<amenity>100</amenity>
@@ -94,7 +94,7 @@
   </contribution>
 
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒN[ƒ‹ƒ~ƒ“ƒgƒKƒ€ æ“ªŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚¯ãƒ¼ãƒ«ãƒŸãƒ³ãƒˆã‚¬ãƒ  å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-9B29-7A7686852464}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -104,7 +104,7 @@
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒN[ƒ‹ƒ~ƒ“ƒgƒKƒ€ ’†ŠÔŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚¯ãƒ¼ãƒ«ãƒŸãƒ³ãƒˆã‚¬ãƒ  ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-9B29-7A7686852464}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -114,18 +114,18 @@
     <seatedcapacity>52</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`ƒN[ƒ‹ƒ~ƒ“ƒgƒKƒ€ Œã”öŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢ã‚¯ãƒ¼ãƒ«ãƒŸãƒ³ãƒˆã‚¬ãƒ  å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-9B29-7A7686852464}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-tokyomonorail-1000-9B29-7A7686852464}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-tokyomonorail-1000-BC00-BB48C20F18B8}">
-    <company>“Œ‹žƒ‚ƒmƒŒ[ƒ‹</company>
-    <type>1000Œn</type>
-    <name>ƒN[ƒ‹ƒ~ƒ“ƒgƒKƒ€</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1989”N‚©‚çŽg—p‚³‚ê‚Ä‚¢‚éAŒ»Ý‚ÌŽå—ÍŽÔ—¼Bƒƒbƒe‚Ì‘S–ÊLŽÔ‚Æ‚È‚Á‚½•Ò¬‚ª‚ ‚èA‚¤‚¿1•Ò¬‚ÍƒN[ƒ‹ƒ~ƒ“ƒgƒKƒ€‚ÌƒpƒbƒP[ƒWƒJƒ‰[‚ÉƒyƒCƒ“ƒg‚³‚ê‚Ä‚¢‚éB</description>
+    <company>æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</company>
+    <type>1000ç³»</type>
+    <name>ã‚¯ãƒ¼ãƒ«ãƒŸãƒ³ãƒˆã‚¬ãƒ </name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1989å¹´ã‹ã‚‰ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹ã€ç¾åœ¨ã®ä¸»åŠ›è»Šä¸¡ã€‚ãƒ­ãƒƒãƒ†ã®å…¨é¢åºƒå‘Šè»Šã¨ãªã£ãŸç·¨æˆãŒã‚ã‚Šã€ã†ã¡1ç·¨æˆã¯ã‚¯ãƒ¼ãƒ«ãƒŸãƒ³ãƒˆã‚¬ãƒ ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚«ãƒ©ãƒ¼ã«ãƒšã‚¤ãƒ³ãƒˆã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 	<fare>500</fare>
 	<price>35000000</price>
 	<amenity>100</amenity>
@@ -138,7 +138,7 @@
   </contribution>
 
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`•œ“h‘• æ“ªŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢å¾©åˆ»å¡—è£… å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-8F41-EE6DD7B8163F}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -148,7 +148,7 @@
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`•œ“h‘• ’†ŠÔŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢å¾©åˆ»å¡—è£… ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-8F41-EE6DD7B8163F}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -158,18 +158,18 @@
     <seatedcapacity>52</seatedcapacity>
   </contribution>
 
-  <!-- “Œ‹žƒ‚ƒmƒŒ[ƒ‹1000Œ`•œ“h‘• Œã”öŽÔ-->
+  <!-- æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«1000å½¢å¾©åˆ»å¡—è£… å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-tokyomonorail-1000-8F41-EE6DD7B8163F}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-tokyomonorail-1000-8F41-EE6DD7B8163F}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-tokyomonorail-1000-9525-13507227E2DD}">
-    <company>“Œ‹žƒ‚ƒmƒŒ[ƒ‹</company>
-    <type>1000Œn</type>
-    <name>•œ“h‘•</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1989”N‚©‚çŽg—p‚³‚ê‚Ä‚¢‚éAŒ»Ý‚ÌŽå—ÍŽÔ—¼B‚¤‚¿1•Ò¬‚ÍA“Œ‹žƒ‚ƒmƒŒ[ƒ‹ŠJ‹ÆŽž‚É‘–‚Á‚Ä‚¢‚½100Œ`‚Ì•œƒJƒ‰[‚ÉƒyƒCƒ“ƒg‚³‚ê‚Ä‚¢‚éB</description>
+    <company>æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</company>
+    <type>1000ç³»</type>
+    <name>å¾©åˆ»å¡—è£…</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1989å¹´ã‹ã‚‰ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹ã€ç¾åœ¨ã®ä¸»åŠ›è»Šä¸¡ã€‚ã†ã¡1ç·¨æˆã¯ã€æ±äº¬ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«é–‹æ¥­æ™‚ã«èµ°ã£ã¦ã„ãŸ100å½¢ã®å¾©åˆ»ã‚«ãƒ©ãƒ¼ã«ãƒšã‚¤ãƒ³ãƒˆã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 	<fare>500</fare>
 	<price>35000000</price>
 	<amenity>100</amenity>

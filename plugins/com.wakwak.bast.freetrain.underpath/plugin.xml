@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title>underpath</title>
-	<author>ては</author>
+	<author>縺ｦ縺ｯ</author>
 	<homepage></homepage>
 	
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-1}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>1000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -16,7 +16,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-2}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>1000000</price>
 		<size>4,1</size>
 		<height>1</height>
@@ -27,7 +27,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-3}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>1000000</price>
 		<size>1,4</size>
 		<height>1</height>
@@ -38,7 +38,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-4}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>1000000</price>
 		<size>1,4</size>
 		<height>1</height>
@@ -49,7 +49,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-5}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>2000000</price>
 		<size>4,2</size>
 		<height>1</height>
@@ -60,7 +60,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-6}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>2000000</price>
 		<size>4,2</size>
 		<height>1</height>
@@ -71,7 +71,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-7}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>2000000</price>
 		<size>2,4</size>
 		<height>1</height>
@@ -82,7 +82,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{nekoneko-nyanyanya-underpath-8}">
-		<group>アンダーパス</group>
+		<group>繧｢繝ｳ繝繝ｼ繝代せ</group>
 		<price>2000000</price>
 		<size>2,4</size>
 		<height>1</height>

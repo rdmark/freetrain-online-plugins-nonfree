@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<depend on="FreeTrain.org.name.fujiTV" />
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@Žü</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€å‘¨</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
  <contribution type="picture" id="{AACA403C-56ED-418C-8444-ED4CB868234C}-pict">
@@ -11,7 +11,7 @@
 
 	
  <contribution type="GenericStructure" id="{AACA403C-56ED-418C-8444-ED4CB868234C}-gs">
-		<name>ƒtƒWƒeƒŒƒr</name>
+		<name>ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“</name>
 		<price>10000000</price>
 		<size>8,2</size>
 		<height>6</height>
@@ -25,8 +25,8 @@
 		<picture ref="{AACA403C-56ED-418C-8444-ED4CB868234C}-pict" />
 		</sprite>
 		<structure>
-			<category  byname="•ú‘—ƒƒfƒBƒA" />
-			<category  byname="ƒ‰ƒ“ƒhƒ}[ƒN" />
+			<category  byname="æ”¾é€ãƒ¡ãƒ‡ã‚£ã‚¢" />
+			<category  byname="ãƒ©ãƒ³ãƒ‰ãƒžãƒ¼ã‚¯" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>

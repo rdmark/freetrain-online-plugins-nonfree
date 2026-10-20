@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>民家(小)</title>
+	<title>豌大ｮｶ(蟆�)</title>
 	<author>syousei</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.syousei"/>
 	
 	<contribution type="GenericStructure" id="{D6DE0AED-AECF-4d7f-8455-488016997FFF}-gs">
-		<name>民家(小)</name>
+		<name>豌大ｮｶ(蟆�)</name>
 		<structure>
-			<category byname="一戸建て"/>
+			<category byname="荳謌ｸ蟒ｺ縺ｦ"/>
 		</structure>
 		<price>15000000</price>
 		<size>1,1</size>

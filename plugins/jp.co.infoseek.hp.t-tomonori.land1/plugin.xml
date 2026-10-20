@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-	<title>…</title>
-	<author>’|“à ’q‹I</author>
+	<title>æ°´</title>
+	<author>ç«¹å†… æ™ºç´€</author>
 	<homepage>http://t-tomonori.hp.infoseek.co.jp</homepage>
 
 	<contribution type="land" id="{tomonori-water-land-8D86-7FD3B9B26994}">
-		<group>…</group>
-		<name>…</name>
+		<group>æ°´</group>
+		<name>æ°´</name>
 		<price>10</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		<sprite origin="0,0" offset="16" size="32,32">
@@ -17,8 +17,8 @@
 	</contribution>
 
 	<contribution type="land" id="{tomonori-asfa-land-8D86-7FD3B9B26994}">
-		<group>ƒAƒXƒtƒ@ƒ‹ƒg</group>
-		<name>ƒAƒXƒtƒ@ƒ‹ƒg</name>
+		<group>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</group>
+		<name>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</name>
 		<price>10000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
 		<sprite origin="0,0" offset="16" size="32,32">

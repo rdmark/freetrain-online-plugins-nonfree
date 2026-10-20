@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>ƒ}ƒ“ƒVƒ‡ƒ“08</title> 
-  <author>ƒ‚ƒKƒ~</author> 
+  <title>ãƒãƒ³ã‚·ãƒ§ãƒ³08</title> 
+  <author>ãƒ¢ã‚¬ãƒŸ</author> 
   <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{mogami-building-mansyon-picture-63A28TF0577D}">
   <picture src="mansyon08.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-building-mansyon-6A48TD4J9A7D}">
-  <group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“i3x4j</group> 
+  <group>åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³ï¼ˆ3x4ï¼‰</group> 
   <structure>
-  <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+  <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <size>3,4</size> 
   <price>120000000</price> 

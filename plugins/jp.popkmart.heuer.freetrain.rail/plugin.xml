@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒgƒ“ƒlƒ‹BŒû</title>
+	<title>ãƒˆãƒ³ãƒãƒ«å‘å£</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />	
 	<contribution type="electricPole" id="{RAIL0100-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(’PüA)</name>
+		<name>TNå‘å£(å˜ç·šA)</name>
 		<sprite>
 			<picture src="tunnel.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0105-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(’PüB)</name>
+		<name>TNå‘å£(å˜ç·šB)</name>
 		<sprite>
 			<picture src="tunnel2.bmp">
 				<override when="winter" src="tunnel2w.bmp" />
@@ -19,7 +19,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0110-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(’PüCa)</name>
+		<name>TNå‘å£(å˜ç·šCa)</name>
 		<sprite>
 			<picture src="tunnel3a.bmp">
 				<override when="summer" src="tunnel3a_s.bmp" />
@@ -29,7 +29,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0111-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(’PüCb)</name>
+		<name>TNå‘å£(å˜ç·šCb)</name>
 		<sprite>
 			<picture src="tunnel3b.bmp">
 				<override when="summer" src="tunnel3b_s.bmp" />
@@ -39,54 +39,54 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0101-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(•¡üA¶)</name>
+		<name>TNå‘å£(è¤‡ç·šAå·¦)</name>
 		<sprite>
 			<picture src="tunnel_l.bmp"/>
 		</sprite>
 	</contribution>	
 	<contribution type="electricPole" id="{RAIL0102-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(•¡üA‰E)</name>
+		<name>TNå‘å£(è¤‡ç·šAå³)</name>
 		<sprite>
 			<picture src="tunnel_r.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0103-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(•¡üB¶)</name>
+		<name>TNå‘å£(è¤‡ç·šBå·¦)</name>
 		<sprite>
 			<picture src="tunnel2_l.bmp"/>
 		</sprite>
 	</contribution>	
 	<contribution type="electricPole" id="{RAIL0104-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNBŒû(•¡üB‰E)</name>
+		<name>TNå‘å£(è¤‡ç·šBå³)</name>
 		<sprite>
 			<picture src="tunnel2_r.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL5000-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNŠÉÕH(’Pü)</name>
+		<name>TNç·©è¡å·¥(å˜ç·š)</name>
 		<sprite>
 			<picture src="tnb.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL5001-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNŠÉÕH(•¡ü¶)</name>
+		<name>TNç·©è¡å·¥(è¤‡ç·šå·¦)</name>
 		<sprite>
 			<picture src="tnb_l.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL5002-8058-11D7-BB78-0090FE1AB959}">
-		<name>TNŠÉÕH(•¡ü‰E)</name>
+		<name>TNç·©è¡å·¥(è¤‡ç·šå³)</name>
 		<sprite>
 			<picture src="tnb_r.bmp"/>
 		</sprite>
 	</contribution>
 
-	<title>“¥Ø</title>
+	<title>è¸åˆ‡</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />	
 	<contribution type="electricPole" id="{RAIL0401-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø</name>
+		<name>é–€åž‹è¸åˆ‡</name>
 		<sprite>
 			<picture src="rc1.bmp">
 				<override when="night" src="rc1_n.bmp" />
@@ -94,7 +94,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0402-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/¶</name>
+		<name>é–€åž‹è¸åˆ‡/å·¦</name>
 		<sprite>
 			<picture src="rc1l.bmp">
 				<override when="night" src="rc1l_n.bmp" />
@@ -102,7 +102,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0403-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/‰E</name>
+		<name>é–€åž‹è¸åˆ‡/å³</name>
 		<sprite>
 			<picture src="rc1r.bmp">
 				<override when="night" src="rc1r_n.bmp" />
@@ -110,13 +110,13 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0404-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/’†</name>
+		<name>é–€åž‹è¸åˆ‡/ä¸­</name>
 		<sprite>
 			<picture src="rc1o.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0411-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/‰œ</name>
+		<name>é–€åž‹è¸åˆ‡/å¥¥</name>
 		<sprite>
 			<picture src="rc1b.bmp">
 				<override when="night" src="rc1b_n.bmp" />
@@ -124,7 +124,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0412-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/‘O</name>
+		<name>é–€åž‹è¸åˆ‡/å‰</name>
 		<sprite>
 			<picture src="rc1a.bmp">
 				<override when="night" src="rc1a_n.bmp" />
@@ -132,7 +132,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0413-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/¶‰œ</name>
+		<name>é–€åž‹è¸åˆ‡/å·¦å¥¥</name>
 		<sprite>
 			<picture src="rc1lb.bmp">
 				<override when="night" src="rc1lb_n.bmp" />
@@ -140,7 +140,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0414-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/¶‘O</name>
+		<name>é–€åž‹è¸åˆ‡/å·¦å‰</name>
 		<sprite>
 			<picture src="rc1la.bmp">
 				<override when="night" src="rc1la_n.bmp" />
@@ -148,7 +148,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0415-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/‰E‰œ</name>
+		<name>é–€åž‹è¸åˆ‡/å³å¥¥</name>
 		<sprite>
 			<picture src="rc1rb.bmp">
 				<override when="night" src="rc1rb_n.bmp" />
@@ -156,7 +156,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0416-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/‰E‘O</name>
+		<name>é–€åž‹è¸åˆ‡/å³å‰</name>
 		<sprite>
 			<picture src="rc1ra.bmp">
 				<override when="night" src="rc1ra_n.bmp" />
@@ -164,125 +164,125 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0417-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/’†‰œ</name>
+		<name>é–€åž‹è¸åˆ‡/ä¸­å¥¥</name>
 		<sprite>
 			<picture src="rc1ob.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0418-8058-11D7-BB78-0090FE1AB959}">
-		<name>–åŒ^“¥Ø/’†‘O</name>
+		<name>é–€åž‹è¸åˆ‡/ä¸­å‰</name>
 		<sprite>
 			<picture src="rc1oa.bmp"/>
 		</sprite>
 	</contribution>
 
-	<title>ŽÔŽ~‚ß</title>
+	<title>è»Šæ­¢ã‚</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
 	<contribution type="electricPole" id="{RAIL0511-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/A/‘O</name>
+		<name>è»Šæ­¢ã‚/A/å‰</name>
 		<sprite>
 			<picture src="sr1a.bmp"/>
 		</sprite>
 	</contribution>	
 	<contribution type="electricPole" id="{RAIL0512-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/A/‰œ</name>
+		<name>è»Šæ­¢ã‚/A/å¥¥</name>
 		<sprite>
 			<picture src="sr1b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0521-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/B/‘O</name>
+		<name>è»Šæ­¢ã‚/B/å‰</name>
 		<sprite>
 			<picture src="sr2a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0522-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/B/‰œ</name>
+		<name>è»Šæ­¢ã‚/B/å¥¥</name>
 		<sprite>
 			<picture src="sr2b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0531-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C/‘O</name>
+		<name>è»Šæ­¢ã‚/C/å‰</name>
 		<sprite>
 			<picture src="sr30a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0532-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C/‰œ</name>
+		<name>è»Šæ­¢ã‚/C/å¥¥</name>
 		<sprite>
 			<picture src="sr30b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0533-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C+A/‘O</name>
+		<name>è»Šæ­¢ã‚/C+A/å‰</name>
 		<sprite>
 			<picture src="sr31a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0534-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C+A/‰œ</name>
+		<name>è»Šæ­¢ã‚/C+A/å¥¥</name>
 		<sprite>
 			<picture src="sr31b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0535-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C+B/‘O</name>
+		<name>è»Šæ­¢ã‚/C+B/å‰</name>
 		<sprite>
 			<picture src="sr32a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0536-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/C+B/‰œ</name>
+		<name>è»Šæ­¢ã‚/C+B/å¥¥</name>
 		<sprite>
 			<picture src="sr32b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0541-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D/‘O</name>
+		<name>è»Šæ­¢ã‚/D/å‰</name>
 		<sprite>
 			<picture src="sr40a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0542-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D/‰œ</name>
+		<name>è»Šæ­¢ã‚/D/å¥¥</name>
 		<sprite>
 			<picture src="sr40b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0543-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D+A/‘O</name>
+		<name>è»Šæ­¢ã‚/D+A/å‰</name>
 		<sprite>
 			<picture src="sr41a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0544-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D+A/‰œ</name>
+		<name>è»Šæ­¢ã‚/D+A/å¥¥</name>
 		<sprite>
 			<picture src="sr41b.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0545-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D+B/‘O</name>
+		<name>è»Šæ­¢ã‚/D+B/å‰</name>
 		<sprite>
 			<picture src="sr42a.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0546-8058-11D7-BB78-0090FE1AB959}">
-		<name>ŽÔŽ~‚ß/D+B/‰œ</name>
+		<name>è»Šæ­¢ã‚/D+B/å¥¥</name>
 		<sprite>
 			<picture src="sr42b.bmp"/>
 		</sprite>
 	</contribution>
 
-	<title>ƒƒbƒNƒVƒFƒbƒh</title>
+	<title>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />	
 	<contribution type="electricPole" id="{RAIL0200-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhA1</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰A1</name>
 		<sprite>
 			<picture src="rsa1.bmp">
 				<override when="winter" src="rsa1w.bmp" />
@@ -290,7 +290,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0201-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhA1c</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰A1c</name>
 		<sprite>
 			<picture src="rsa1c.bmp">
 				<override when="winter" src="rsa1cw.bmp" />
@@ -298,7 +298,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0202-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhA2</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰A2</name>
 		<sprite>
 			<picture src="rsa2.bmp">
 				<override when="winter" src="rsa2w.bmp" />
@@ -306,7 +306,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0203-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhA2c</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰A2c</name>
 		<sprite>
 			<picture src="rsa2c.bmp">
 				<override when="winter" src="rsa2cw.bmp" />
@@ -314,7 +314,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0204-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhAx</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰Ax</name>
 		<sprite>
 			<picture src="rsax.bmp">
 				<override when="winter" src="rsaxw.bmp" />
@@ -322,7 +322,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0205-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒƒbƒNƒVƒFƒbƒhAy</name>
+		<name>ãƒ­ãƒƒã‚¯ã‚·ã‚§ãƒƒãƒ‰Ay</name>
 		<sprite>
 			<picture src="rsay.bmp">
 				<override when="winter" src="rsayw.bmp" />
@@ -330,71 +330,71 @@
 		</sprite>
 	</contribution>
 
-	<title>‹´‹r</title>
+	<title>æ©‹è„š</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />	
 	<contribution type="electricPole" id="{RAIL0251-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒ‰[ƒƒ“‹´‹rA1</name>
+		<name>ãƒ©ãƒ¼ãƒ¡ãƒ³æ©‹è„šA1</name>
 		<sprite>
 			<picture src="bpr1.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0252-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒ‰[ƒƒ“‹´‹rA2</name>
+		<name>ãƒ©ãƒ¼ãƒ¡ãƒ³æ©‹è„šA2</name>
 		<sprite>
 			<picture src="bpr2.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0253-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒ‰[ƒƒ“‹´‹rA3</name>
+		<name>ãƒ©ãƒ¼ãƒ¡ãƒ³æ©‹è„šA3</name>
 		<sprite>
 			<picture src="bpr3.bmp"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{RAIL0254-8058-11D7-BB78-0090FE1AB959}">
-		<name>ƒ‰[ƒƒ“‹´‹rA4</name>
+		<name>ãƒ©ãƒ¼ãƒ¡ãƒ³æ©‹è„šA4</name>
 		<sprite>
 			<picture src="bpr4.bmp"/>
 		</sprite>
 	</contribution>
 
-	<title>ƒoƒ‰ƒXƒg</title>
+	<title>ãƒãƒ©ã‚¹ãƒˆ</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>
 	<contribution type="road" id="{RAIL0301-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/»—˜/[ ‚w ]a</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©/[ ï¼¸ ]a</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_a1.bmp" size="32,16" offset="0"/>
 	</contribution>
 	<contribution type="road" id="{RAIL0302-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/»—˜/[ ‚w ]b</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©/[ ï¼¸ ]b</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_a2.bmp" size="32,16" offset="0"/>
 	</contribution>
 	<contribution type="road" id="{RAIL0303-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/»—˜/[{]’P</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©/[ï¼‹]å˜</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_a3.bmp" size="32,16" offset="0"/>
 	</contribution>
 	<contribution type="road" id="{RAIL0304-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/»—˜/[{]•¡</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©/[ï¼‹]è¤‡</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_a4.bmp" size="32,16" offset="0"/>
 	</contribution>
 	<contribution type="road" id="{RAIL0311-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/‘Œ´/[ ‚w ]a</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ/[ ï¼¸ ]a</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_b1.bmp" size="32,16" offset="0">
 			<override when="autumn" src="ballast_b1_a.bmp" />
 			<override when="winter" src="ballast_b1_w.bmp" />
@@ -402,9 +402,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0312-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/‘Œ´/[ ‚w ]b</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ/[ ï¼¸ ]b</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_b2.bmp" size="32,16" offset="0">
 			<override when="autumn" src="ballast_b2_a.bmp" />
 			<override when="winter" src="ballast_b2_w.bmp" />
@@ -412,9 +412,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0313-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/‘Œ´/[{]’P</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ/[ï¼‹]å˜</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_b3.bmp" size="32,16" offset="0">
 			<override when="autumn" src="ballast_b3_a.bmp" />
 			<override when="winter" src="ballast_b3_w.bmp" />
@@ -422,9 +422,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0314-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/‘Œ´/[{]•¡</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ/[ï¼‹]è¤‡</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_b4.bmp" size="32,16" offset="0">
 			<override when="autumn" src="ballast_b4_a.bmp" />
 			<override when="winter" src="ballast_b4_w.bmp" />
@@ -432,9 +432,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0321-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/ŽR”§/[ ‚w ]a</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/å±±è‚Œ/[ ï¼¸ ]a</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_c1.bmp" size="32,16" offset="0">
 			<override when="summer" src="ballast_c1_s.bmp" />
 			<override when="autumn" src="ballast_c1_a.bmp" />
@@ -443,9 +443,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0322-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/ŽR”§/[ ‚w ]b</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/å±±è‚Œ/[ ï¼¸ ]b</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_c2.bmp" size="32,16" offset="0">
 			<override when="summer" src="ballast_c2_s.bmp" />
 			<override when="autumn" src="ballast_c2_a.bmp" />
@@ -454,9 +454,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0323-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/ŽR”§/[{]’P</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/å±±è‚Œ/[ï¼‹]å˜</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_c3.bmp" size="32,16" offset="0">
 			<override when="summer" src="ballast_c3_s.bmp" />
 			<override when="autumn" src="ballast_c3_a.bmp" />
@@ -465,9 +465,9 @@
 	</contribution>
 	<contribution type="road" id="{RAIL0324-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒoƒ‰ƒXƒg/ŽR”§/[{]•¡</name>
+		<name>ãƒãƒ©ã‚¹ãƒˆ/å±±è‚Œ/[ï¼‹]è¤‡</name>
 		<style name="railballast"/>
-		<description>ƒoƒ‰ƒXƒg</description>
+		<description>ãƒãƒ©ã‚¹ãƒˆ</description>
 		<picture src="ballast_c4.bmp" size="32,16" offset="0">
 			<override when="summer" src="ballast_c4_s.bmp" />
 			<override when="autumn" src="ballast_c4_a.bmp" />

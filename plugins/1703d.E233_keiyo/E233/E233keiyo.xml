@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-  <!-- E233Œn‹ž—tüæ“ªŽÔ -->
+  <!-- E233ç³»äº¬è‘‰ç·šå…ˆé ­è»Š -->
   <contribution type="trainCar" id="{CyberExpress1703d-E233-Keiyo}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -10,7 +10,7 @@
 	<seatedcapacity>43</seatedcapacity>
   </contribution>
 
-  <!-- E233Œn‹ž—tü’†ŠÔŽÔ -->
+  <!-- E233ç³»äº¬è‘‰ç·šä¸­é–“è»Š -->
   <contribution type="trainCar" id="{CyberExpress1703d-E233-Keiyo}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -20,19 +20,19 @@
 	<seatedcapacity>54</seatedcapacity>
   </contribution>
 
-  <!-- E233Œn‹ž—tüŒã”öŽÔ -->
+  <!-- E233ç³»äº¬è‘‰ç·šå¾Œå°¾è»Š -->
   <contribution type="trainCar" id="{CyberExpress1703d-E233-Keiyo}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{CyberExpress1703d-E233-Keiyo}-h" />
   </contribution>
 
-  <!-- E233Œn‹ž—tü -->
+  <!-- E233ç³»äº¬è‘‰ç·š -->
   <contribution type="train" id="{CyberExpress1703d-E233-Keiyo}">
-    <company>JR“Œ“ú–{</company>
-    <type>E233Œn</type>
-    <name>‹ž—tü</name>
-    <author>‚¢‚Á‚¿[</author>
-    <description>“Œ‹ž`‘h‰äŠÔ‚Ì‹ž—tü‚ÆA“à–[ü‚Ìã‘–©EŠO–[ü‚Ìã‘ˆêƒm‹{‚Ü‚Å‚ð‘–‚éE233Œn‚Å‚·B</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>E233ç³»</type>
+    <name>äº¬è‘‰ç·š</name>
+    <author>ã„ã£ã¡ãƒ¼</author>
+    <description>æ±äº¬ï½žè˜‡æˆ‘é–“ã®äº¬è‘‰ç·šã¨ã€å†…æˆ¿ç·šã®ä¸Šç·æ¹Šãƒ»å¤–æˆ¿ç·šã®ä¸Šç·ä¸€ãƒŽå®®ã¾ã§ã‚’èµ°ã‚‹E233ç³»ã§ã™ã€‚</description>
     <fare>400</fare>
     <price>28000000</price>
 	<amenity>100</amenity>

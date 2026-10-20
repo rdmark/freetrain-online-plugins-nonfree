@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY robby '
 		<price>20000000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -14,7 +14,7 @@
 		<size>2,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -23,7 +23,7 @@
 		<size>2,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -32,7 +32,7 @@
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -40,8 +40,8 @@
 ]>
 
 <plug-in>
-	<title>‹ó`ƒ^[ƒ~ƒiƒ‹‚`</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ç©ºæ¸¯ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ï¼¡</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-01">
@@ -65,15 +65,15 @@
 		</picture>
 	</contribution>
 		
-	<!--ƒƒCƒ“ƒh[ƒ€-->
+	<!--ãƒ¡ã‚¤ãƒ³ãƒ‰ãƒ¼ãƒ -->
 	<contribution type="GenericStructure" id="{B63CD389-C7FA-43D6-C477-74D088277950}">
-		<group>‹ó`‘Ûüƒ^[ƒ~ƒiƒ‹</group>
-		<design>‘åŒ^ƒh[ƒ€</design>
+		<group>ç©ºæ¸¯å›½éš›ç·šã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>å¤§åž‹ãƒ‰ãƒ¼ãƒ </design>
 		<price>10000000000</price>
 		<size>8,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 		<sprite origin="0,0" offset="80">
@@ -89,10 +89,10 @@
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-01"/>
 		</sprite>		
 	</contribution>
-	<!--o”­ƒƒr[-->
+	<!--å‡ºç™ºãƒ­ãƒ“ãƒ¼-->
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-C477-CA46233A4D78}-1">
-		<group>‹ó`“‹æŒû</group>
-		<design>ƒƒr[‹·</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>ãƒ­ãƒ“ãƒ¼ç‹­</design>
 		&robby;
 		<sprite origin="32,8" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-02"/>
@@ -102,8 +102,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-C477-CA46233A4D78}-2">
-		<group>‹ó`“‹æŒû</group>
-		<design>ƒƒr[‹·(ŠÅ”Â•t‚«)</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>ãƒ­ãƒ“ãƒ¼ç‹­(çœ‹æ¿ä»˜ã)</design>
 		&robby;
 		<sprite origin="0,8" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-02"/>
@@ -113,8 +113,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-C477-CA46233A4D78}-3">
-		<group>‹ó`“‹æŒû</group>
-		<design>ƒƒr[L</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>ãƒ­ãƒ“ãƒ¼åºƒ</design>
 		&robbyW;
 		<sprite origin="48,48" offset="16" opposite="true">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-04"/>
@@ -124,8 +124,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{C307E366-78BE-437E-C477-CA46233A4D78}-4">
-		<group>‹ó`“‹æŒû</group>
-		<design>ƒƒr[L(ŠÅ”Â•t‚«)</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>ãƒ­ãƒ“ãƒ¼åºƒ(çœ‹æ¿ä»˜ã)</design>
 		&robbyW;
 		<sprite origin="48,0" offset="16" opposite="true">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-04"/>
@@ -134,10 +134,10 @@
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-04"/>
 		</sprite>		
 	</contribution>
-	<!--“‹æŒû-->
+	<!--æ­ä¹—å£-->
 	<contribution type="GenericStructure" id="{38DCF80D-2EA2-45D4-C477-94967CC1522D}-1">
-		<group>‹ó`“‹æŒû</group>
-		<design>“‹æŒû</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>æ­ä¹—å£</design>
 		&gateA;
 		<sprite origin="64,0" offset="24">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-02"/>
@@ -153,8 +153,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{38DCF80D-2EA2-45D4-C477-94967CC1522D}-2">
-		<group>‹ó`“‹æŒû</group>
-		<design>“‹æŒû</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>æ­ä¹—å£</design>
 		&gateA;
 		<sprite origin="64,48" offset="24">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-02"/>
@@ -171,10 +171,10 @@
 	</contribution>
 	
 
-	<!--ƒoƒXEƒ^ƒNƒV[æ‚èê-->
+	<!--ãƒã‚¹ãƒ»ã‚¿ã‚¯ã‚·ãƒ¼ä¹—ã‚Šå ´-->
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-1">
-		<group>‰w‘OLê</group>
-		<design>ŠÅ”Â•t‚«(”¼)</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>çœ‹æ¿ä»˜ã(åŠ)</design>
 		&entrance;
 		<sprite origin="0,0" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>
@@ -190,8 +190,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-2">
-		<group>‰w‘OLê</group>
-		<design>ŠÅ”Â•t‚«(‘S)</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>çœ‹æ¿ä»˜ã(å…¨)</design>
 		&entrance;
 		<sprite origin="0,32" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>
@@ -207,8 +207,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-5">
-		<group>‰w‘OLê</group>
-		<design>”¼‰®ª</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>åŠå±‹æ ¹</design>
 		&entrance;
 		<sprite origin="0,128" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>
@@ -224,8 +224,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-6">
-		<group>‰w‘OLê</group>
-		<design>‚k‰®ª</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>ï¼¬å±‹æ ¹</design>
 		&entrance;
 		<sprite origin="0,160" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>
@@ -241,8 +241,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-3">
-		<group>‰w‘OLê</group>
-		<design>”¼‰®ª/”¼“¹˜H</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>åŠå±‹æ ¹/åŠé“è·¯</design>
 		&entrance;
 		<sprite origin="0,64" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>
@@ -258,8 +258,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{206632ED-DC73-454D-C477-5EF51383D81A}-4">
-		<group>‰w‘OLê</group>
-		<design>‚k‰®ª/Šp“¹˜H</design>
+		<group>é§…å‰åºƒå ´</group>
+		<design>ï¼¬å±‹æ ¹/è§’é“è·¯</design>
 		&entrance;
 		<sprite origin="0,96" offset="16">
 			<picture ref="{DBCD7B5E-CCFE-478F-C477-F69C7B1E1FE2}-03"/>

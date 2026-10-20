@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>トランスファークレーン</title> 
-  <author>モガミ</author> 
+  <title>繝医Λ繝ｳ繧ｹ繝輔ぃ繝ｼ繧ｯ繝ｬ繝ｼ繝ｳ</title> 
+  <author>繝｢繧ｬ繝�</author> 
   <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{mogami-building-transfercrane-picture-8E6ADCD909B5}">
   <picture src="transfercrane.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-building-transfercrane-6626CC7B95F1}-0">
-  <group>トランスファークレーン</group> 
+  <group>繝医Λ繝ｳ繧ｹ繝輔ぃ繝ｼ繧ｯ繝ｬ繝ｼ繝ｳ</group> 
   <structure>
-  <category byname="貨物埠頭" /> 
+  <category byname="雋ｨ迚ｩ蝓鬆ｭ" /> 
   </structure>
   <size>2,2</size>
   <price>300000</price> 
@@ -28,9 +28,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-building-transfercrane-6626CC7B95F1}-1">
-  <group>トランスファークレーン</group> 
+  <group>繝医Λ繝ｳ繧ｹ繝輔ぃ繝ｼ繧ｯ繝ｬ繝ｼ繝ｳ</group> 
   <structure>
-  <category byname="貨物埠頭" /> 
+  <category byname="雋ｨ迚ｩ蝓鬆ｭ" /> 
   </structure>
   <size>2,2</size>
   <price>300000</price> 
@@ -48,9 +48,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-building-transfercrane-6626CC7B95F1}-2">
-  <group>トランスファークレーン</group> 
+  <group>繝医Λ繝ｳ繧ｹ繝輔ぃ繝ｼ繧ｯ繝ｬ繝ｼ繝ｳ</group> 
   <structure>
-  <category byname="貨物埠頭" /> 
+  <category byname="雋ｨ迚ｩ蝓鬆ｭ" /> 
   </structure>
   <size>2,2</size>
   <price>300000</price> 
@@ -68,9 +68,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{mogami-building-transfercrane-6626CC7B95F1}-3">
-  <group>トランスファークレーン</group> 
+  <group>繝医Λ繝ｳ繧ｹ繝輔ぃ繝ｼ繧ｯ繝ｬ繝ｼ繝ｳ</group> 
   <structure>
-  <category byname="貨物埠頭" /> 
+  <category byname="雋ｨ迚ｩ蝓鬆ｭ" /> 
   </structure>
   <size>2,2</size>
   <price>300000</price> 

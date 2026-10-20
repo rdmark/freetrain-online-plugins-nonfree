@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<author>��������</author>
+	<author>しかしか</author>
  	<homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-	<title>�ꔨ�d�C�S��</title>
+	<title>一畑電気鉄道</title>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� ED22 -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 ED22 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-ED22}">
 		<picture src="ED22.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �g50 -->
+	<!-- 一畑電気鉄道 ト50 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-to50}">
 		<picture src="to50.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� ���� -->
+	<!-- 一畑電気鉄道 ワム -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-wamu50000}">
 		<picture src="wamu50000.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� ED22 -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 ED22 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-ED22}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -28,7 +28,7 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �g50 -->
+	<!-- 一畑電気鉄道 ト50 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-to50}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -37,7 +37,7 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� ���� -->
+	<!-- 一畑電気鉄道 ワム -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-wamu50000}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -46,13 +46,13 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-ED22}">
-		<company>�ꔨ�d�C�S��</company>
+		<company>一畑電気鉄道</company>
 		<type>ED22</type>
-		<name>�ו����</name>
-		<author>��������</author>
-		<description>���a02�N�{�[���h�E�C���E�E�F�X�`���O�n�E�X�А����̓d�C�@�֎�ED22�ł��B���M�Z�S��1���ŁA���SED221�A�����S��ED1�A�ߍ]�S��ED1�ƕϑJ���ď��a30�NED221�ɉ��ԁA���a35�N�ꔨ�d�S�ɓ������܂����B�ꔨ�d�S�̉ݕ��c�Ɣp�~�Ȍ�A���a49�N�ɍO��S���ɏ��n����Ă��܂��B
+		<name>荷物列車</name>
+		<author>しかしか</author>
+		<description>昭和02年ボールドウイン・ウェスチングハウス社製造の電気機関車ED22です。元信濃鉄道1号で、国鉄ED221、西武鉄道ED1、近江鉄道ED1と変遷して昭和30年ED221に改番、昭和35年一畑電鉄に入線しました。一畑電鉄の貨物営業廃止以後、昭和49年に弘南鉄道に譲渡されています。
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -60,32 +60,32 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�d" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-ED22}"/>
-			<car char="��" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-to50}"/>
-			<car char="�L" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-wamu50000}"/>
+			<car char="電" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-ED22}"/>
+			<car char="無" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-to50}"/>
+			<car char="有" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-wamu50000}"/>
 			
-			<composition>�d</composition>
-			<composition>�d��</composition>
-			<composition>�d���L</composition>
-			<composition>�d���L�L</composition>
-			<composition>�d���L�L�L</composition>
-			<composition>�d���L���L�L</composition>
-			<composition>�d���L���L�L�L</composition>
-			<composition>�d���L�����L�L�L</composition>
-			<composition>�d���L�����L�L�L�L</composition>
-			<composition>�d���L�����L�L�L�L�L</composition>
-			<composition>�d���L�����L�L�L���L�L</composition>
+			<composition>電</composition>
+			<composition>電無</composition>
+			<composition>電無有</composition>
+			<composition>電無有有</composition>
+			<composition>電無有有有</composition>
+			<composition>電無有無有有</composition>
+			<composition>電無有無有有有</composition>
+			<composition>電無有無無有有有</composition>
+			<composition>電無有無無有有有有</composition>
+			<composition>電無有無無有有有有有</composition>
+			<composition>電無有無無有有有無有有</composition>
 
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n�j50�` -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハニ50形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-dehani50}">
 		<picture src="dehani50.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n�j50�` -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハニ50形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-dehani50}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -94,7 +94,7 @@
 		<capacity>90</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n50�` -->
+	<!-- 一畑電気鉄道 デハ50形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha50}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -103,13 +103,13 @@
 		<capacity>36</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-dehani50}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n�j50�`</type>
+		<company>一畑電気鉄道</company>
+		<type>デハニ50形</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a03�N���{���q�����̉ו������ԁB�ו��A���̌����Ƌ��ɁA�f�n�j51�͏��a26�N�Ƀf�n21�ɁA�f�n�j54�͏��a42�N�Ƀf�n11�ɉ�������A�f�n�j52�͒��36���̂����~��ԃf�n52�ɉ�������Ă��܂��B3���S�Ď蓮���ł��B���b�V�����̑�����A���W�ݎԂ������ăo���X�g�U�z��ƂȂǂɎg�p���ꂽ�肵�Ă��܂��B
+		<author>しかしか</author>
+		<description>昭和03年日本車輌製造の荷物合造車。荷物輸送の減少と共に、デハニ51は昭和26年にデハ21に、デハニ54は昭和42年にデハ11に改造され、デハニ52は定員36名のお座敷列車デハ52に改造されています。3扉全て手動扉です。ラッシュ時の増強や、無蓋貨車を引いてバラスト散布作業などに使用されたりしています。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -117,19 +117,19 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-dehani50}"/>
-			<car char="��" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-to50}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-dehani50}"/>
+			<car char="無" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-to50}"/>
 			
-			<composition>�`</composition>
-			<composition>�`��</composition>
+			<composition>Ａ</composition>
+			<composition>Ａ無</composition>
 		</config>
 	</contribution>
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha50}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  50�`</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ  50形</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a03�N���{���q�����̉ו������ԃf�n�j52���A�����~��Ԃɉ����������̂ł��B��͓�R���̂��̂��g�p���Ă��܂��B
+		<author>しかしか</author>
+		<description>昭和03年日本車輌製造の荷物合造車デハニ52を、お座敷列車に改造したものです。畳は難燃性のものを使用しています。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -137,19 +137,19 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha50}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha50}"/>
 			
-			<composition>�`</composition>
+			<composition>Ａ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n1�` -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ1形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha1}">
 		<picture src="deha1.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n1�` -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ1形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -158,13 +158,13 @@
 		<capacity>100</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha1}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n   1�`</type>
-		<name>��А�</name>
-		<author>��������</author>
-		<description>���a02�N���{���q�����B���a53�N�ɃA���i�H�@�Ń����}�����̉���������A��А���p�ԂƂȂ�܂����B
+		<company>一畑電気鉄道</company>
+		<type>デハ   1形</type>
+		<name>大社線</name>
+		<author>しかしか</author>
+		<description>昭和02年日本車輌製造。昭和53年にアルナ工機でワンマン化の改造がされ、大社線専用車となりました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -172,23 +172,23 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha1}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha1}"/>
 			
-			<composition>�`</composition>
+			<composition>Ａ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n10�` -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ10形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha10}">
 		<picture src="deha10.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n110�` -->
+	<!-- 一畑電気鉄道 クハ110形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-kuha110}">
 		<picture src="kuha110.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n10�` -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ10形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha10}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -197,7 +197,7 @@
 		<capacity>110</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n110�` -->
+	<!-- 一畑電気鉄道 クハ110形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha110}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -210,13 +210,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha110}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha10}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  10�`+�N�n110�`</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ  10形+クハ110形</type>
 		<name></name>
-		<author>��������</author>
-		<description>�f�n10�`�ƃN�n110�`�̕Ґ��B�f�n11�́A���a05�N���{���q�����̃f�n�j54�����a42�N�ɉ������Đ�������܂����B�N�n111�́A���a03�N���{���q�����̐���ԃN�n101�����a23�N�ɓd���ԃf�n7�ɉ������A��������a37�N�ɍĂѐ���ԂƂ��ĉ������Đ�������܂����B
+		<author>しかしか</author>
+		<description>デハ10形とクハ110形の編成。デハ11は、昭和05年日本車輌製造のデハニ54を昭和42年に改造して製造されました。クハ111は、昭和03年日本車輌製造の制御車クハ101を昭和23年に電動車デハ7に改造し、それを昭和37年に再び制御車として改造して製造されました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -224,24 +224,24 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha10}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha110-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha10}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha110-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n20�` -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ20形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha20}">
 		<picture src="deha20.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n100�` -->
+	<!-- 一畑電気鉄道 クハ100形 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-kuha100}">
 		<picture src="kuha100.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n20�` -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ20形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha20}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -250,7 +250,7 @@
 		<capacity>100</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n100�` -->
+	<!-- 一畑電気鉄道 クハ100形 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha100}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -263,13 +263,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha100}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha20}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  20�`+�N�n100�`</type>
-		<name>���]��</name>
-		<author>��������</author>
-		<description>�f�n20�`�ƃN�n100�`�̕Ґ��B�f�n20�`�́A���{���q�����̃f�n�j50�`��f�n1�`���A�������A���p��2���Z�~�N���X�V�[�g�Ƀi�j���H�@�ŉ������Đ�������܂����B�N�n100�`�́A���a15�N�ؓ�ԗ������̕�����S���N�n5860�`(����1235�`)�����a33�N�`34�N�ɈڐЂ��A���a37�N�ɂ͗��^�]�䂾�������̂�Љ^�]��ɉ������ăX�y�[�X���m�ۂ��A�Ԉ֎q�ɂ��Ή����Ă��܂��B�ǂ���̎ԗ����h�A�͎蓮�ł��B
+		<company>一畑電気鉄道</company>
+		<type>デハ  20形+クハ100形</type>
+		<name>松江線</name>
+		<author>しかしか</author>
+		<description>デハ20形とクハ100形の編成。デハ20形は、日本車輌製造のデハニ50形やデハ1形を、長距離輸送用に2扉セミクロスシートにナニワ工機で改造して製造されました。クハ100形は、昭和15年木南車両製造の武蔵野鉄道クハ5860形(西部1235～)を昭和33年～34年に移籍し、昭和37年には両運転台だったものを片運転台に改造してスペースを確保し、車椅子にも対応しています。どちらの車両もドアは手動です。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -277,21 +277,21 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha20}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha100-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha20}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha100-R}"/>
 			
-			<composition>�`</composition>
-			<composition>�`�a</composition>
+			<composition>Ａ</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n60�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ60系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha60}">
 		<picture src="deha60.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n60�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ60系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -300,13 +300,13 @@
 		<capacity>147</capacity>
 		<seatedcapacity>42</seatedcapacity>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha60}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  60�n</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ  60系</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a36�N����������q�H�ꐻ���̌������S���N���n551�n�ł��B�N���n552��551�́A554��553�̉^�]��𓋍ڂ��ė��^�]��̎ԗ��ɉ������āA���a61�N�ɓ������܂����B�����̓f�n92��93�ł������A���Ԃ���܂����B
+		<author>しかしか</author>
+		<description>昭和36年西武所沢車輌工場製造の元西武鉄道クモハ551系です。クモハ552に551の、554に553の運転台を搭載して両運転台の車両に改造して、昭和61年に入線しました。当初はデハ92と93でしたが、改番されました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -314,23 +314,23 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
 			
-			<composition>�`</composition>
+			<composition>Ａ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n70�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ70系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha70}">
 		<picture src="deha70.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n170�n -->
+	<!-- 一畑電気鉄道 クハ170系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-kuha170}">
 		<picture src="kuha170.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n70�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ70系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha70}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -339,7 +339,7 @@
 		<capacity>120</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n170�n -->
+	<!-- 一畑電気鉄道 クハ170系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha170}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -352,13 +352,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha170}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha70}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  70�n+�N�n170�n</type>
-		<name>���]��</name>
-		<author>��������</author>
-		<description>�f�n70�n�ƃN�n170�n�̕Ґ��B�f�n70�n�́A��������S���̐���Ԃ̃N�n5570�n�ŁA���a22�N�ɓd�������ꐼ�����n300�n(�N���n300�n)�ɂȂ�A���a39�N�ɐ�������ԗ��H��ŉ������ē������܂����B�N�n170�n�́A��������������S���N�n5570�n�ŁA�d��������Ă����������n300�n(�N���n300�n)��d���������āA�Ăѐ���Ԃɉ�������܂����B
+		<company>一畑電気鉄道</company>
+		<type>デハ  70系+クハ170系</type>
+		<name>松江線</name>
+		<author>しかしか</author>
+		<description>デハ70系とクハ170系の編成。デハ70系は、元武蔵野鉄道の制御車のクハ5570系で、昭和22年に電装化され西武モハ300系(クモハ300系)になり、昭和39年に西武所沢車両工場で改造して入線しました。クハ170系は、同じく元武蔵野鉄道クハ5570系で、電装化されていた西武モハ300系(クモハ300系)を電装解除して、再び制御車に改造されました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -366,24 +366,24 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha70}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha170-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha70}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha170-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n80�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ80系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha80}">
 		<picture src="deha80.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n180�n -->
+	<!-- 一畑電気鉄道 クハ180系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-kuha180}">
 		<picture src="kuha180.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n80�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ80系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha80}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -392,7 +392,7 @@
 		<capacity>160</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n180�n -->
+	<!-- 一畑電気鉄道 クハ180系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha180}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -405,13 +405,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha180}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha80}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  80�n+�N�n180�n</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ  80系+クハ180系</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a34�N����������q�H�ꐻ���̌������S��451�n�ł��B���a57�N�ɓ������܂����B
+		<author>しかしか</author>
+		<description>昭和34年西武所沢車輌工場製造の元西武鉄道451系です。昭和57年に入線しました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -419,27 +419,27 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha80}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha180-R}"/>
-			<car char="�b" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha80}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha180-R}"/>
+			<car char="Ｃ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
 			
-			<composition>�`�a</composition>
-			<composition>�`�a�b</composition>
-			<composition>�`�a�`�a</composition>
+			<composition>ＡＢ</composition>
+			<composition>ＡＢＣ</composition>
+			<composition>ＡＢＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n90�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ90系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha90}">
 		<picture src="deha90.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n190�n -->
+	<!-- 一畑電気鉄道 クハ190系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-kuha190}">
 		<picture src="kuha190.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n90�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ90系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha90}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -448,7 +448,7 @@
 		<capacity>160</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �N�n190�n -->
+	<!-- 一畑電気鉄道 クハ190系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha190}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -461,13 +461,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha190}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha90}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n  90�n+�N�n190�n</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ  90系+クハ190系</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a37�N����������q�H�ꐻ���̌������S��551�n�ł��B���a60�N�ɓ������܂����B
+		<author>しかしか</author>
+		<description>昭和37年西武所沢車輌工場製造の元西武鉄道551系です。昭和60年に入線しました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -475,33 +475,33 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha90}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha190-R}"/>
-			<car char="�b" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha90}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-kuha190-R}"/>
+			<car char="Ｃ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha60}"/>
 			
-			<composition>�`�a</composition>
-			<composition>�`�a�b</composition>
-			<composition>�`�a�`�a</composition>
+			<composition>ＡＢ</composition>
+			<composition>ＡＢＣ</composition>
+			<composition>ＡＢＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n2100�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ2100系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha2101}">
 		<picture src="deha2101.bmp" />
 	</contribution>
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha2103}">
 		<picture src="deha2103.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n2110�n -->
+	<!-- 一畑電気鉄道 デハ2110系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha2111}">
 		<picture src="deha2111.bmp" />
 	</contribution>
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha2113}">
 		<picture src="deha2113.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n2100�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ2100系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2101}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -518,7 +518,7 @@
 		<capacity>126</capacity>
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n2110�n -->
+	<!-- 一畑電気鉄道 デハ2110系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2111}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -543,13 +543,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2113}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha2101}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n2100+2110�n</type>
-		<name>3��</name>
-		<author>��������</author>
-		<description>���a43�N���{���q�����̌������d�S5000�n�ł��B����06�N�ɓ������܂����B
+		<company>一畑電気鉄道</company>
+		<type>デハ2100+2110系</type>
+		<name>3扉</name>
+		<author>しかしか</author>
+		<description>昭和43年日本車輌製造の元京王電鉄5000系です。平成06年に入線しました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -557,18 +557,18 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2101}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2111-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2101}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2111-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha2103}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n2100+2110�n</type>
-		<name>2��</name>
-		<author>��������</author>
-		<description>���a43�N���{���q�����̌������d�S5000�n�ł��B����07�N�ɓ������܂����B2���ɉ���������Ȓ���������Ă��܂��B
+		<company>一畑電気鉄道</company>
+		<type>デハ2100+2110系</type>
+		<name>2扉</name>
+		<author>しかしか</author>
+		<description>昭和43年日本車輌製造の元京王電鉄5000系です。平成07年に入線しました。2扉に改造され座席定員が増えています。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -576,24 +576,24 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2103}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2113-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2103}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha2113-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n3000�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ3000系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha3000}">
 		<picture src="deha3000.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n3010�n -->
+	<!-- 一畑電気鉄道 デハ3010系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha3010}">
 		<picture src="deha3010.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n3000�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ3000系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3000}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -602,7 +602,7 @@
 		<capacity>126</capacity>
 		<seatedcapacity>32</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n3010�n -->
+	<!-- 一畑電気鉄道 デハ3010系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3010}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -615,13 +615,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3010}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha3010}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n3000+3010�n</type>
+		<company>一畑電気鉄道</company>
+		<type>デハ3000+3010系</type>
 		<name></name>
-		<author>��������</author>
-		<description>���a34�N�鍑���q�����̌���C�d�S21000�n�ł��B����08�N�ɓ������܂����B
+		<author>しかしか</author>
+		<description>昭和34年帝国車輌製造の元南海電鉄21000系です。平成08年に入線しました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -629,24 +629,24 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3000}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3010-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3000}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha3010-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 
-	<!-- �C���[�W�摜��` --> 
-	<!-- �ꔨ�d�C�S�� �f�n5000�n -->
+	<!-- イメージ画像定義 --> 
+	<!-- 一畑電気鉄道 デハ5000系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha5000}">
 		<picture src="deha5000.bmp" />
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n5100�n -->
+	<!-- 一畑電気鉄道 デハ5100系 -->
 	<contribution type="picture" id="{FreeTrain-Streetcar-Tramcar-picture-deha5100}">
 		<picture src="deha5100.bmp" />
 	</contribution>
- 	<!-- �ԗ���` -->
-	<!-- �ꔨ�d�C�S�� �f�n5000�n -->
+ 	<!-- 車両定義 -->
+	<!-- 一畑電気鉄道 デハ5000系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5000}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -655,7 +655,7 @@
 		<capacity>110</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- �ꔨ�d�C�S�� �f�n5100�n -->
+	<!-- 一畑電気鉄道 デハ5100系 -->
 	<contribution type="trainCar" id="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5100}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -668,13 +668,13 @@
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5100}"/>
 	</contribution>
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 	<contribution type="train" id="{FreeTrain-Streetcar-Tramcar-Train-deha5000}">
-		<company>�ꔨ�d�C�S��</company>
-		<type>�f�n5000+5100�n</type>
-		<name>�o�_��Ѝ�</name>
-		<author>��������</author>
-		<description>���a42�N���{���q�����̌������d�S5000�n�ł��B����10�N�ɓ������܂����B
+		<company>一畑電気鉄道</company>
+		<type>デハ5000+5100系</type>
+		<name>出雲大社号</name>
+		<author>しかしか</author>
+		<description>昭和42年日本車輌製造の元京王電鉄5000系です。平成10年に入線しました。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -682,10 +682,10 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="�`" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5000}"/>
-			<car char="�a" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5100-R}"/>
+			<car char="Ａ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5000}"/>
+			<car char="Ｂ" ref="{FreeTrain-Streetcar-Tramcar-TrainCar-deha5100-R}"/>
 			
-			<composition>�`�a</composition>
+			<composition>ＡＢ</composition>
 		</config>
 	</contribution>
 

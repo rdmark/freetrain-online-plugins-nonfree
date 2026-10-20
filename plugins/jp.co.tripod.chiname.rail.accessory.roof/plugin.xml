@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒz[ƒ€‰®ª</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ãƒ›ãƒ¼ãƒ å±‹æ ¹</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -25,25 +25,25 @@
 	</contribution>
 
 	<contribution type="electricPole" id="{EB293476-BBDD-4A12-A785-63055A62047B}-1">
-		<name>ƒKƒ‰ƒX•Ç(‘O)</name>
+		<name>ã‚¬ãƒ©ã‚¹å£(å‰)</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{8EE00527-1603-4C95-C477-7FC01B35604D}-1" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{EB293476-BBDD-4A12-A785-63055A62047B}-2">
-		<name>ƒKƒ‰ƒX•Ç(Œã)</name>
+		<name>ã‚¬ãƒ©ã‚¹å£(å¾Œ)</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{8EE00527-1603-4C95-C477-7FC01B35604D}-2" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{EB293476-BBDD-4A12-A785-63055A62047B}-3">
-		<name>ƒKƒ‰ƒX‰®ªA</name>
+		<name>ã‚¬ãƒ©ã‚¹å±‹æ ¹A</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{8EE00527-1603-4C95-C477-7FC01B35604D}-3" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{EB293476-BBDD-4A12-A785-63055A62047B}-4">
-		<name>ƒKƒ‰ƒX‰®ªB</name>
+		<name>ã‚¬ãƒ©ã‚¹å±‹æ ¹B</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{8EE00527-1603-4C95-C477-7FC01B35604D}-4" />
 		</sprite>

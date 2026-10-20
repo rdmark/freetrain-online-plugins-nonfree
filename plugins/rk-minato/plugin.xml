@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
  <plug-in>
- <title>êÖñÂ</title> 
- <author>â‘ïHóÛâŒ</author> 
+ <title>Ê∞¥ÈñÄ</title> 
+ <author>Ëä±Ëè±ÁÉàÁÅ´</author> 
  <homepage /> 
  <contribution type="picture" id="{rk-miato-cg-n01}">
  <picture src="minato001.bmp" /> 
@@ -19,9 +19,9 @@
  <picture src="minato006.bmp" /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n001}">
- <group>ç`Ç`</group> 
+ <group>Ê∏ØÔº°</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -36,9 +36,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n002}">
- <group>ç`Ç`</group> 
+ <group>Ê∏ØÔº°</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -53,9 +53,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n003}">
- <group>ç`Ça</group> 
+ <group>Ê∏ØÔº¢</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -70,9 +70,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n004}">
- <group>ç`Ça</group> 
+ <group>Ê∏ØÔº¢</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -87,9 +87,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n005}">
- <group>ç`ÉpÅ[Éc</group> 
+ <group>Ê∏Ø„Éë„Éº„ÉÑ</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price>  
  <size>3,2</size> 
@@ -104,9 +104,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n006}">
- <group>ç`ÉpÅ[Éc</group> 
+ <group>Ê∏Ø„Éë„Éº„ÉÑ</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>2,3</size> 
@@ -121,9 +121,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n007}">
- <group>ç`Çb</group> 
+ <group>Ê∏ØÔº£</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -138,9 +138,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n008}">
- <group>ç`Çb</group> 
+ <group>Ê∏ØÔº£</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -155,9 +155,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n009}">
- <group>ç`Çc</group> 
+ <group>Ê∏ØÔº§</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 
@@ -172,9 +172,9 @@
  <computerCannotBuild /> 
  </contribution>
  <contribution type="GenericStructure" id="{rk-miato-n010}">
- <group>ç`Çc</group> 
+ <group>Ê∏ØÔº§</group> 
  <structure>
- <category byname="ãôç`" /> 
+ <category byname="ÊºÅÊ∏Ø" /> 
  </structure>
  <price>10000000</price> 
  <size>3,3</size> 

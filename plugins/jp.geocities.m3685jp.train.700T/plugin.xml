@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<title>700T�^</title>
+<title>700T型</title>
 <author>Tyousen121</author>
 <homepage>http://www.geocities.jp/m3685jp/</homepage>
 	
@@ -34,11 +34,11 @@
 		<amenity>130</amenity>
 <speed>superb</speed>
 <author>Tyousen121</author>
-<type>700T�^</type>
-<company>��p�����S��</company>
+<type>700T型</type>
+<company>台湾高速鉄道</company>
 <description>
-���̗A�o�p�V�����ԗ��Ƃ��āA700�n�V�����ԗ����x�[�X�ɐ������ꂽ�B
-700�n�̕Ґ��ɑ΂��A700T�^��12���Ґ��ł���B
+初の輸出用新幹線車両として、700系新幹線車両をベースに製造された。
+700系の編成に対し、700T型は12両編成である。
 </description>
 <triprange>long</triprange>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY wall-khaki '
 <spriteType name="hueTransform">
@@ -212,10 +212,10 @@
 '>
 
 <!ENTITY component_shintoshrine_001 '
-	<group>@‹³{İ</group>
-	<name>_Ğ(3x3)</name>
+	<group>å®—æ•™æ–½è¨­</group>
+	<name>ç¥ç¤¾(3x3)</name>
 	<structure>
-		<category byname="@‹³{İ"/>
+		<category byname="å®—æ•™æ–½è¨­"/>
 	</structure>
 	<price>10000000</price>
 	<size>3,3</size>
@@ -233,10 +233,10 @@
 	</population>
 '>
 <!ENTITY component_shintoshrine_002 '
-	<group>@‹³{İ</group>
-	<name>_Ğ(1x1)</name>
+	<group>å®—æ•™æ–½è¨­</group>
+	<name>ç¥ç¤¾(1x1)</name>
 	<structure>
-		<category byname="@‹³{İ"/>
+		<category byname="å®—æ•™æ–½è¨­"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -254,10 +254,10 @@
 	</population>
 '>
 <!ENTITY component_postoffice_001 '
-	<group>—X•Ö‹Ç</group>
-	<name>—X•Ö‹Ç(1x1)</name>
+	<group>éƒµä¾¿å±€</group>
+	<name>éƒµä¾¿å±€(1x1)</name>
 	<structure>
-		<category byname="—X•Ö‹Ç"/>
+		<category byname="éƒµä¾¿å±€"/>
 	</structure>
 	<price>8000000</price>
 	<size>1,1</size>
@@ -276,10 +276,10 @@
 '>
 
 <!ENTITY component_villageoffice_001 '
-	<group>–ğŠ</group>
-	<name>‘º–ğê(1x1)</name>
+	<group>å½¹æ‰€</group>
+	<name>æ‘å½¹å ´(1x1)</name>
 	<structure>
-		<category byname="–ğŠ"/>
+		<category byname="å½¹æ‰€"/>
 	</structure>
 	<price>2000000000</price>
 	<size>1,1</size>
@@ -299,10 +299,10 @@
 '>
 
 <!ENTITY component_townoffice_001 '
-	<group>–ğŠ</group>
-	<name>’¬–ğê(1x2)</name>
+	<group>å½¹æ‰€</group>
+	<name>ç”ºå½¹å ´(1x2)</name>
 	<structure>
-		<category byname="–ğŠ"/>
+		<category byname="å½¹æ‰€"/>
 	</structure>
 	<price>4000000000</price>
 	<size>1,2</size>
@@ -322,10 +322,10 @@
 '>
 
 <!ENTITY component_cityoffice_001 '
-	<group>–ğŠ</group>
-	<name>s–ğŠ(2x2)</name>
+	<group>å½¹æ‰€</group>
+	<name>å¸‚å½¹æ‰€(2x2)</name>
 	<structure>
-		<category byname="–ğŠ"/>
+		<category byname="å½¹æ‰€"/>
 	</structure>
 	<price>10000000000</price>
 	<size>2,2</size>
@@ -345,10 +345,10 @@
 '>
 
 <!ENTITY component_prefecturaloffice_001 '
-	<group>–ğŠ</group>
-	<name>“s“¹•{Œ§’¡(3x7)</name>
+	<group>å½¹æ‰€</group>
+	<name>éƒ½é“åºœçœŒåº(3x7)</name>
 	<structure>
-		<category byname="–ğŠ"/>
+		<category byname="å½¹æ‰€"/>
 	</structure>
 	<price>1569000000000</price>
 	<size>3,7</size>
@@ -368,10 +368,10 @@
 '>
 
 <!ENTITY component_prefecturaloffice_002 '
-	<group>–ğŠ</group>
-	<name>“s“¹•{Œ§’¡(3x7)</name>
+	<group>å½¹æ‰€</group>
+	<name>éƒ½é“åºœçœŒåº(3x7)</name>
 	<structure>
-		<category byname="–ğŠ"/>
+		<category byname="å½¹æ‰€"/>
 	</structure>
 	<price>1100000000000</price>
 	<size>3,7</size>
@@ -394,14 +394,14 @@
 
 <plug-in>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>Œš•¨(Œö‹¤)</title>
+<title>å»ºç‰©(å…¬å…±)</title>
 
-<!-- _Ğ -->
+<!-- ç¥ç¤¾ -->
 
-<!-- _Ğ(3x3) -->
+<!-- ç¥ç¤¾(3x3) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-shrine-shinto-shintoshrine-01}">
 	<picture  src="shintoshrine_01spring.bmp">
 		<override when="spring" src="shintoshrine_01spring.bmp"/>
@@ -411,10 +411,10 @@
 	</picture>
 </contribution>
 
-<!-- _Ğ(3x3) -->
+<!-- ç¥ç¤¾(3x3) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-shrine-shinto-shintoshrine01}">
 &component_shintoshrine_001;
-	<design>_Ğ</design>
+	<design>ç¥ç¤¾</design>
 	<spriteType name="hueTransform">
 		<map  from="*,0,0"  to="222,87,57"/>
 	</spriteType>
@@ -437,17 +437,17 @@
 </contribution>
 
 
-<!-- _Ğ(1x1) -->
+<!-- ç¥ç¤¾(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-shrine-shinto-shintoshrine-02}">
 	<picture  src="shintoshrine_02.bmp">
 		<override when="night" src="shintoshrine_02n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- _Ğ(1x1) -->
+<!-- ç¥ç¤¾(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-shrine-shinto-shintoshrine02a}">
 &component_shintoshrine_002;
-	<design>_Ğ(é“h‚è)</design>
+	<design>ç¥ç¤¾(æœ±å¡—ã‚Š)</design>
 
 	<sprite origin="0,0" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-shrine-shinto-shintoshrine-02}"/>
@@ -463,10 +463,10 @@
 	</sprite>
 </contribution>
 
-<!-- _Ğ(1x1) -->
+<!-- ç¥ç¤¾(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-shrine-shinto-shintoshrine02b}">
 &component_shintoshrine_002;
-	<design>_Ğ(–Ø‘¢)</design>
+	<design>ç¥ç¤¾(æœ¨é€ )</design>
 
 	<sprite origin="0,32" offset="16">
 		<picture ref="{FreeTrain-Shika-picture-structure-shrine-shinto-shintoshrine-02}"/>
@@ -483,19 +483,19 @@
 </contribution>
 
 
-<!-- —X•Ö‹Ç -->
+<!-- éƒµä¾¿å±€ -->
 
-<!-- —X•Ö‹Ç(1x1) -->
+<!-- éƒµä¾¿å±€(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-publicfacilities-postoffice-01}">
 	<picture  src="postoffice_01.bmp">
 		<override when="night" src="postoffice_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- —X•Ö‹Ç(1x1) -->
+<!-- éƒµä¾¿å±€(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicfacilities-postoffice01a}">
 &component_postoffice_001;
-	<design>—X•Ö‹Ç(2ŠK)A</design>
+	<design>éƒµä¾¿å±€(2éš)A</design>
 	&wall-greyyellow;
 	&wall-warmbrown;
 	&wall-greywarmbrown;
@@ -517,10 +517,10 @@
 	</sprite>
 </contribution>
 
-<!-- —X•Ö‹Ç(1x1) -->
+<!-- éƒµä¾¿å±€(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicfacilities-postoffice01b}">
 &component_postoffice_001;
-	<design>—X•Ö‹Ç(2ŠK)B</design>
+	<design>éƒµä¾¿å±€(2éš)B</design>
 	&wall-greyyellow;
 	&wall-warmbrown;
 	&wall-greywarmbrown;
@@ -542,10 +542,10 @@
 	</sprite>
 </contribution>
 
-<!-- —X•Ö‹Ç(1x1) -->
+<!-- éƒµä¾¿å±€(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicfacilities-postoffice01c}">
 &component_postoffice_001;
-	<design>—X•Ö‹Ç(3ŠK)A</design>
+	<design>éƒµä¾¿å±€(3éš)A</design>
 	&wall-greyyellow;
 	&wall-warmbrown;
 	&wall-greywarmbrown;
@@ -567,10 +567,10 @@
 	</sprite>
 </contribution>
 
-<!-- —X•Ö‹Ç(1x1) -->
+<!-- éƒµä¾¿å±€(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicfacilities-postoffice01d}">
 &component_postoffice_001;
-	<design>—X•Ö‹Ç(3ŠK)B</design>
+	<design>éƒµä¾¿å±€(3éš)B</design>
 	&wall-greyyellow;
 	&wall-warmbrown;
 	&wall-greywarmbrown;
@@ -593,19 +593,19 @@
 </contribution>
 
 
-<!-- –ğŠ -->
+<!-- å½¹æ‰€ -->
 
-<!-- ‘º–ğê(1x1) -->
+<!-- æ‘å½¹å ´(1x1) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-publicoffice-villageoffice-01}">
 	<picture  src="villageoffice_01.bmp">
 		<override when="night" src="villageoffice_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- ‘º–ğê(1x1) -->
+<!-- æ‘å½¹å ´(1x1) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-villageoffice01a}">
 &component_villageoffice_001;
-	<design>‘º–ğê(–Ø‘¢1ŠK)A</design>
+	<design>æ‘å½¹å ´(æœ¨é€ 1éš)A</design>
 	&wall-wood010;
 	&wall-wood009;
 	&wall-wood007;
@@ -629,7 +629,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-villageoffice01b}">
 &component_villageoffice_001;
-	<design>‘º–ğê(–Ø‘¢1ŠK)B</design>
+	<design>æ‘å½¹å ´(æœ¨é€ 1éš)B</design>
 	&wall-wood010;
 	&wall-wood009;
 	&wall-wood006;
@@ -653,7 +653,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-villageoffice01c}">
 &component_villageoffice_001;
-	<design>‘º–ğê(“S‹Ø2ŠK)A</design>
+	<design>æ‘å½¹å ´(é‰„ç­‹2éš)A</design>
 	&wall-lightgrayishpink;
 	&wall-palegrayishpink;
 	&wall-lightyelloworange;
@@ -677,7 +677,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-villageoffice01d}">
 &component_villageoffice_001;
-	<design>‘º–ğê(“S‹Ø2ŠK)B</design>
+	<design>æ‘å½¹å ´(é‰„ç­‹2éš)B</design>
 	&wall-lightredbrick;
 	&wall-palesky;
 	&wall-redbrick;
@@ -699,17 +699,17 @@
 	</sprite>
 </contribution>
 
-<!-- ’¬–ğê(1x2) -->
+<!-- ç”ºå½¹å ´(1x2) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-publicoffice-townoffice-01}">
 	<picture  src="townoffice_01.bmp">
 		<override when="night" src="townoffice_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- ’¬–ğê(1x2) -->
+<!-- ç”ºå½¹å ´(1x2) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-townoffice01a}">
 &component_townoffice_001;
-	<design>’¬–ğêA</design>
+	<design>ç”ºå½¹å ´A</design>
 	&wall-palegrayishpink;
 	&wall-redbrick;
 	&wall-urbanstone;
@@ -733,7 +733,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-townoffice01b}">
 &component_townoffice_001;
-	<design>’¬–ğêB</design>
+	<design>ç”ºå½¹å ´B</design>
 	&wall-palesky;
 	&wall-pastelgray;
 	&wall-greywarmbrown;
@@ -755,17 +755,17 @@
 	</sprite>
 </contribution>
 
-<!-- s–ğŠ(2x2) -->
+<!-- å¸‚å½¹æ‰€(2x2) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-publicoffice-cityoffice-01}">
 	<picture  src="cityoffice_01.bmp">
 		<override when="night" src="cityoffice_01n.bmp"/>
 	</picture>
 </contribution>
 
-<!-- s–ğŠ(2x2) -->
+<!-- å¸‚å½¹æ‰€(2x2) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-cityoffice01a}">
 &component_cityoffice_001;
-	<design>s–ğŠA</design>
+	<design>å¸‚å½¹æ‰€A</design>
 	&ta-white;
 	&wall-brownbeige;
 	&wall-darkbrown;
@@ -789,7 +789,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-cityoffice01b}">
 &component_cityoffice_001;
-	<design>s–ğŠB</design>
+	<design>å¸‚å½¹æ‰€B</design>
 	&wall-lightgrayishblue;
 	&wall-grayishbrown;
 	&wall-brownbeige;
@@ -811,7 +811,7 @@
 	</sprite>
 </contribution>
 
-<!-- “s“¹•{Œ§’¡(7x3) -->
+<!-- éƒ½é“åºœçœŒåº(7x3) -->
 <contribution type="picture" id="{FreeTrain-Shika-picture-structure-publicoffice-prefecturaloffice-01}">
 	<picture  src="prefecturaloffice_01.bmp">
 		<override when="night" src="prefecturaloffice_01n.bmp"/>
@@ -823,10 +823,10 @@
 	</picture>
 </contribution>
 
-<!-- “s“¹•{Œ§’¡(7x3) -->
+<!-- éƒ½é“åºœçœŒåº(7x3) -->
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-prefecturaloffice01}">
 &component_prefecturaloffice_001;
-	<design>“s’¡‘æˆê–{’¡É</design>
+	<design>éƒ½åºç¬¬ä¸€æœ¬åºèˆ</design>
 
 	<sprite origin="0,0" offset="288">
 		<picture ref="{FreeTrain-Shika-picture-structure-publicoffice-prefecturaloffice-01}"/>
@@ -843,7 +843,7 @@
 </contribution>
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-publicoffice-prefecturaloffice02}">
 &component_prefecturaloffice_002;
-	<design>“s’¡‘æ“ñ’¡É</design>
+	<design>éƒ½åºç¬¬äºŒåºèˆ</design>
 
 	<sprite origin="0,0" offset="176">
 		<picture ref="{FreeTrain-Shika-picture-structure-publicoffice-prefecturaloffice-02}"/>

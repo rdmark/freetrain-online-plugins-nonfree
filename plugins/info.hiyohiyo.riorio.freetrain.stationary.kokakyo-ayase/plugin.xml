@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‚‰Ë‹´‹riƒXƒ‰ƒu‹O“¹j</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>é«˜æž¶æ©‹è„šï¼ˆã‚¹ãƒ©ãƒ–è»Œé“ï¼‰</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	<contribution type="picture" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}">
@@ -10,7 +10,7 @@
 	
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-A">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -20,7 +20,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-B">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -30,7 +30,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-C">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -40,7 +40,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-D">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -50,7 +50,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-E">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -60,7 +60,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-F">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -70,7 +70,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-G">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -80,7 +80,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-H">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -90,7 +90,7 @@
 	</contribution>
 
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-II">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -100,7 +100,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint01-picture-BFEA15454F81}-JJ">
-		<group>ƒRƒ“‹´‹r</group>
+		<group>ã‚³ãƒ³æ©‹è„š</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -117,7 +117,7 @@
 
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-A">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -127,7 +127,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-B">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -137,7 +137,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-C">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -147,7 +147,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-D">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -157,7 +157,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-E">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -167,7 +167,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-F">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -177,7 +177,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-G">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -187,7 +187,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-H">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -198,7 +198,7 @@
 
 
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-II">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -208,7 +208,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint02-picture-0D247E162113}-JJ">
-		<group>ƒRƒ“‹´‹r(‘¤“¹•t)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(å´é“ä»˜)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -224,7 +224,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-C">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -234,7 +234,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-D">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -244,7 +244,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-E">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -254,7 +254,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-F">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -264,7 +264,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-G">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -274,7 +274,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint03-picture-B470B202E927}-H">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -289,7 +289,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-C">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -299,7 +299,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-D">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -309,7 +309,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-E">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -319,7 +319,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-F">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -329,7 +329,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-G">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -339,7 +339,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint04-picture-821A3444FBE1}-H">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -355,7 +355,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-C">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -365,7 +365,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-D">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -375,7 +375,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-E">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -385,7 +385,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-F">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -395,7 +395,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-G">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -405,7 +405,7 @@
 	</contribution>
 	
 	<contribution type="railStationary" id="{riorio-ayase-kokakyorepaint05-picture-189F34FA2FBC}-H">
-		<group>ƒRƒ“‹´‹r(•¡‡)</group>
+		<group>ã‚³ãƒ³æ©‹è„š(è¤‡åˆ)</group>
 		<price>1000000</price>
 		<size>1,1</size>
 		<height>2</height>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>建物総合コンバート　しの</title>
-	<author>りおりお</author>
+	<title>蟒ｺ迚ｩ邱丞粋繧ｳ繝ｳ繝舌�ｼ繝医縺励�ｮ</title>
+	<author>繧翫♀繧翫♀</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="FreeTrain.structure.piugin.1.shino" />
 
@@ -11,7 +11,7 @@
 
 	
 	<contribution type="GenericStructure" id="{S5776500-E8E5-4D5E-B30A-A0036A6ECDEB}-gs">
-		<group>国際展示場</group>
+		<group>蝗ｽ髫帛ｱ慕､ｺ蝣ｴ</group>
 		<price>50000000</price>
 		<size>4,7</size>
 		<height>2</height>
@@ -19,8 +19,8 @@
 		<picture ref="{S5776500-E8E5-4D5E-B30A-A0036A6ECDEB}-pict" />
 		</sprite>
 		<structure>
-			<category byname="イベント会場" />
-			<category byname="展示場" />
+			<category byname="繧､繝吶Φ繝井ｼ壼ｴ" />
+			<category byname="螻慕､ｺ蝣ｴ" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>

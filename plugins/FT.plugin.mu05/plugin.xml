@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰w‚Ì‰®ª</title>
-	<author>ƒ€[05</author>
+	<title>é§…ã®å±‹æ ¹</title>
+	<author>ãƒ ãƒ¼05</author>
 	<homepage>http://tcct.zaq.ne.jp/bpbkn807</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -24,25 +24,25 @@
 	</contribution>
 
 	<contribution type="electricPole" id="{umafsu27-1532-8315-mu05-plugins00101-front}-1">
-		<name>Œ»‘ã‚Á‚Û‚¢•Ç(‘O)</name>
+		<name>ç¾ä»£ã£ã½ã„å£(å‰)</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{umafsu27-1532-8315-mu05-plugins00101}-1" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{umafsu27-1532-8315-mu05-plugins00102-rear}-2">
-		<name>Œ»‘ã‚Á‚Û‚¢•Ç(Œã)</name>
+		<name>ç¾ä»£ã£ã½ã„å£(å¾Œ)</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{umafsu27-1532-8315-mu05-plugins00102}-2" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{umafsu27-1532-8315-mu05-plugins00103-roof1}-3">
-		<name>Œ»‘ã‚Á‚Û‚¢‰®ª1</name>
+		<name>ç¾ä»£ã£ã½ã„å±‹æ ¹1</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{umafsu27-1532-8315-mu05-plugins00103}-3" />
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{umafsu27-1532-8315-mu05-plugins00104-roof2}-4">
-		<name>Œ»‘ã‚Á‚Û‚¢‰®ª2</name>
+		<name>ç¾ä»£ã£ã½ã„å±‹æ ¹2</name>
 		<sprite origin=" 0, 0" offset="16">
 			<picture ref="{umafsu27-1532-8315-mu05-plugins00104}-4" />
 		</sprite>

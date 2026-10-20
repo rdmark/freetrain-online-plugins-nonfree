@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�����p�b�N</title>
-	<author>�k�̋D�ԉ�</author>
+	<title>東武パック</title>
+	<author>北の汽車屋</author>
  	<homepage>http://www.geocities.jp/kitapoppoya/</homepage>
 
 	<contribution type="picture" id="{C2CC877A-466D-43FC-81E7-69D8A0C35D-tb10000-1}">
@@ -76,7 +76,7 @@
 		<picture src="tb300kb.bmp" />
 	</contribution>
 
-        <!-- TB10000�擪 -->
+        <!-- TB10000先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D-tb10000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -86,7 +86,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- TB10030�擪 -->
+	<!-- TB10030先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D-tb10030}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -98,7 +98,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- TB9000�擪 -->
+	<!-- TB9000先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7A-690D-tb9000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -108,7 +108,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- TB20000�擪 -->
+	<!-- TB20000先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20000-1}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -118,7 +118,7 @@
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
 
-	<!-- TB20050�擪 -->
+	<!-- TB20050先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20050-1}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -128,7 +128,7 @@
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
 
-	<!-- TB6050�擪 -->
+	<!-- TB6050先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050-1}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -138,7 +138,7 @@
 		<seatedcapacity>68</seatedcapacity>
 	</contribution>
 
-	<!-- TB8000N�擪 -->
+	<!-- TB8000N先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-1}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -148,7 +148,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 	
-	<!-- TB8000Q�擪 -->
+	<!-- TB8000Q先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-2}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -158,7 +158,7 @@
 		<seatedcapacity>50</seatedcapacity>
 	</contribution>
 
-	<!-- TB200�擪 -->
+	<!-- TB200先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb200}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -168,7 +168,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- TB100�擪 -->
+	<!-- TB100先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb100}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -178,7 +178,7 @@
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
 
-	<!-- TB300�擪 -->
+	<!-- TB300先頭 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb300}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -188,7 +188,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 
-	<!-- TB10000���� -->
+	<!-- TB10000中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb10000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -198,7 +198,7 @@
 		<seatedcapacity>58</seatedcapacity>
 	</contribution>
 
-	<!-- TB20000���� -->
+	<!-- TB20000中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20000}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -208,7 +208,7 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-	<!-- TB20050���� -->
+	<!-- TB20050中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20050}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -218,7 +218,7 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 	
-	<!-- TB8000���� -->
+	<!-- TB8000中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb8000k}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -228,7 +228,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- TB200���� -->
+	<!-- TB200中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb200}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -238,7 +238,7 @@
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
 
-	<!-- TB100���� -->
+	<!-- TB100中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb100}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -248,7 +248,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 
-	<!-- TB300���� -->
+	<!-- TB300中間 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb300}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -258,80 +258,80 @@
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
 
-	<!-- TB10000�Ō�� -->
+	<!-- TB10000最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb10000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D-tb10000}-h" />
 	</contribution>
 
-	<!-- TB10030�Ō�� -->
+	<!-- TB10030最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb10030}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D-tb10030}-h" />
 	</contribution>
 
-	<!-- TB9000�Ō�� -->
+	<!-- TB9000最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb9000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7A-690D-tb9000}-h" />
 	</contribution>
 
-	<!-- TB20000�Ō�� -->
+	<!-- TB20000最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20000}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20000-1}-h" />
 	</contribution>
 
-	<!-- TB20050�Ō�� -->
+	<!-- TB20050最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20050}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20050-1}-h" />
 	</contribution>
 
-	<!-- TB6050�Ō�� -->
+	<!-- TB6050最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050-1}-h" />
 	</contribution>
 
 
-	<!-- TB8000N�Ō�� -->
+	<!-- TB8000N最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-1}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-1}-h" />
 	</contribution>
 
-	<!-- TB8000Q�Ō�� -->
+	<!-- TB8000Q最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-2}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-2}-h" />
 	</contribution>
 
-	<!-- TB200�Ō�� -->
+	<!-- TB200最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb200}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb200}-h" />
 	</contribution>
 
-	<!-- TB100�Ō�� -->
+	<!-- TB100最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb100}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb100}-h" />
 	</contribution>
 
-	<!-- TB300�Ō�� -->
+	<!-- TB300最後尾 -->
 	<contribution type="trainCar" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb300}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb300}-h" />
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb9000}">
-		<company>�����S��</company>
-		<type>10000�n�n��</type>
-		<name>9000�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>10000系系列</type>
+		<name>9000系</name>
+		<author>北の汽車屋</author>
 		<description>
-������������瓌�����g���L�y�����ɒ��ʏ����ꂷ��ԗ��̂����A�����̂��̂ł��B
+東武東上線から東京メトロ有楽町線に直通乗り入れする車両のうち、初期のものです。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -345,12 +345,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb10000}">
-		<company>�����S��</company>
-		<type>10000�n�n��</type>
-		<name>10000�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>10000系系列</type>
+		<name>10000系</name>
+		<author>北の汽車屋</author>
 		<description>
-1985�N���琻�����ꂽ�n����p20m���ʋΓd�ԁB�{���n���ł�2�E6���Ґ���A�����āA������ł�10���Ґ��ŉ^�p����Ă���B
+1985年から製造された地上線用20m級通勤電車。本線系統では2・6両編成を連結して、東上線では10両編成で運用されている。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -364,12 +364,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb10030}">
-		<company>�����S��</company>
-		<type>10000�n�n��</type>
-		<name>10030�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>10000系系列</type>
+		<name>10030系</name>
+		<author>北の汽車屋</author>
 		<description>
-10000�n��̃}�C�i�[�`�F���W�^�ŁA�O�ʃ}�X�N������I�ȗe�e�ɂȂ����B�{���n���E������Ō��邱�Ƃ��ł���B
+10000系列のマイナーチェンジ型で、前面マスクが現代的な容貌になった。本線系統・東上線で見ることができる。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -383,12 +383,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20000}">
-		<company>�����S��</company>
-		<type>20000�n�n��</type>
-		<name>20000�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>20000系系列</type>
+		<name>20000系</name>
+		<author>北の汽車屋</author>
 		<description>
-�����{���n�����瓌�����g������J���ɒ��ʂ��邽�߂ɐ������ꂽ18m���ʋΓd�ԁB����J���ł̗�[�����͂��߂Ƃ���ڋq�ݔ����P�ɓ������B
+東武本線系統から東京メトロ日比谷線に直通するために製造された18m級通勤電車。日比谷線での冷房化をはじめとする接客設備改善に働いた。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -402,12 +402,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20050}">
-		<company>�����S��</company>
-		<type>20000�n�n��</type>
-		<name>20050�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>20000系系列</type>
+		<name>20050系</name>
+		<author>北の汽車屋</author>
 		<description>
-�����{���n�����瓌�����g������J���ɒ��ʂ��邽�߂ɐ������ꂽ18m���ʋΓd�ԁB�擪�Ԃ�5������3���ɍĂі߂����B
+東武本線系統から東京メトロ日比谷線に直通するために製造された18m級通勤電車。先頭車が5扉から3扉に再び戻った。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -418,9 +418,9 @@
 		   <car char="A" ref="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20050-1}-h"/>
 		   <car char="B" ref="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20050}-m"/>
 		   <car char="C" ref="{C2CC877A-466D-43FC-81E7-690D8A00C35D-tb20000}-m"/>
-		�@ <car char="D" ref="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20050}-t"/>   
+		　 <car char="D" ref="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb20050}-t"/>   
 		   
-		�@ <composition>ABBD</composition>
+		　 <composition>ABBD</composition>
 		   <composition>ABCCBD</composition>
 		   <composition>ABCCCCBD</composition>
 		   <composition>ABCCCCBDABBD</composition>
@@ -429,10 +429,10 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050}">
-		<company>�����S��</company>
-		<type>6050�n</type>
+		<company>東武鉄道</company>
+		<type>6050系</type>
 		<name></name>
-		<author>�k�̋D�ԉ�</author>
+		<author>北の汽車屋</author>
 		<description>
 
 		</description>
@@ -446,7 +446,7 @@
 		   <car char="A" ref="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050-1}-h"/>
 		   <car char="B" ref="{C2CC877A-466D-43FC-81E7-690D8A03C35D-tb6050}-t"/>
 		   
-		�@ <composition>AB</composition>
+		　 <composition>AB</composition>
 		   <composition>ABB</composition>
 		   <composition>ABAB</composition>
 		   <composition>ABABAB</composition>
@@ -455,12 +455,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-1}">
-		<company>�����S��</company>
-		<type>8000�n</type>
-		<name>8000�n</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>8000系</type>
+		<name>8000系</name>
+		<author>北の汽車屋</author>
 		<description>
-�{���n���E������̑S���ɂ킽�蕝�L�����􂷂�20m���ʋΓd�ԁB���܂�ɑ����̃t�@�~���[�������߁A�u���S��103�n�v�ƌĂ΂ꂽ���Ƃ�����B
+本線系統・東上線の全線にわたり幅広く活躍する20m級通勤電車。あまりに多数のファミリーを持つため、「私鉄の103系」と呼ばれたこともある。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -474,12 +474,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-690D8A003C35D-tb8000-2}">
-		<company>�����S��</company>
-		<type>8000�n</type>
-		<name>8000�n�@�X�V��</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>8000系</type>
+		<name>8000系　更新車</name>
+		<author>北の汽車屋</author>
 		<description>
-8000�n���܂��܂��g�����������̓����́A�w�b�h���C�g��HID���ȂǍX�V�H����i�߂Ă���B
+8000系をまだまだ使い続けるつもりの東武は、ヘッドライトのHID化など更新工事を進めている。
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -493,12 +493,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb200}">
-		<company>�����S��</company>
-		<type>200�n</type>
-		<name>��傤����</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>200系</type>
+		<name>りょうもう</name>
+		<author>北の汽車屋</author>
 		<description>
-�L�����}�u��傤�����v�Ɏg�p����Ă�����}�d�Ԃł��B
+有料特急「りょうもう」に使用されている特急電車です。
 		</description>
 		<triprange>long</triprange>
 		<fare>750</fare>
@@ -513,12 +513,12 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb100}">
-		<company>�����S��</company>
-		<type>100�n</type>
-		<name>�X�y�[�V�A</name>
-		<author>�k�̋D�ԉ�</author>
+		<company>東武鉄道</company>
+		<type>100系</type>
+		<name>スペーシア</name>
+		<author>北の汽車屋</author>
 		<description>
-�����󑐂���������ʂɌ������u���ʁv�u������v�Ɏg�p����Ă�����}�d�ԁBJR�Ƃ̒��ʉ^�]���J�n����A�V�h�E�r�܂ɂ���������悤�ɂȂ����B
+東武浅草から日光方面に向かう「きぬ」「けごん」に使用されている特急電車。JRとの直通運転が開始され、新宿・池袋にも顔をだすようになった。
 		</description>
 		<triprange>long</triprange>
 		<fare>800</fare>
@@ -533,11 +533,11 @@
 	</contribution>
 
 	<contribution type="train" id="{C2CC877A-466D-43FC-81E7-69D8A00C35DA-tb300}">
-		<company>�����S��</company>
-		<type>300�n</type>
-		<name>300�n</name>
+		<company>東武鉄道</company>
+		<type>300系</type>
+		<name>300系</name>
 		<triprange>long</triprange>
-		<author>�k�̋D�ԉ�</author>
+		<author>北の汽車屋</author>
 		<description>
 
 		</description>

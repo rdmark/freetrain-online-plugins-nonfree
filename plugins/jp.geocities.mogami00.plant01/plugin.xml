@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>‰»Šw”½‰“ƒ</title> 
- <author>ƒ‚ƒKƒ~</author> 
+ <title>åŒ–å­¦åå¿œå¡”</title> 
+ <author>ãƒ¢ã‚¬ãƒŸ</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-buildingi-building-kagakuplant01-picture-2E1005005113}">
  <picture src="plant01.bmp" /> 
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-kagakuplant01-E07234000ED8}">
- <group>‰»Šw”½‰“ƒ</group> 
+ <group>åŒ–å­¦åå¿œå¡”</group> 
  <structure>
- <category byname="‰»ŠwHê" /> 
+ <category byname="åŒ–å­¦å·¥å ´" /> 
  </structure>
  <price>50000000</price> 
  <size>1,1</size> 

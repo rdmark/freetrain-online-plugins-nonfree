@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY hc01 '
 	<spriteType name="colorMapped">
@@ -254,9 +254,9 @@
 	</spriteType>
 '>
 <!ENTITY h0101 '
-	<name>•——Í”­“d—p•—ŽÔ</name>
+	<name>é¢¨åŠ›ç™ºé›»ç”¨é¢¨è»Š</name>
 	<structure>
-		<category byname="•——Í”­“dŠ"/>
+		<category byname="é¢¨åŠ›ç™ºé›»æ‰€"/>
 	</structure>
 	<price>60000000</price>
 	<size>1,3</size>
@@ -270,38 +270,38 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0201 '
-	<name>•¨—¬ƒZƒ“ƒ^[</name>
+	<name>ç‰©æµã‚»ãƒ³ã‚¿ãƒ¼</name>
 	<structure>
-		<category byname="W”zŠ"/>
+		<category byname="é›†é…æ‰€"/>
 	</structure>
 	<computerCannotBuild/>
 '>
 <!ENTITY h0301 '
-	<name>Î–ûƒ^ƒ“ƒN</name>
+	<name>çŸ³æ²¹ã‚¿ãƒ³ã‚¯</name>
 	<structure>
-		<category byname="Î–ûƒ^ƒ“ƒN"/>
+		<category byname="çŸ³æ²¹ã‚¿ãƒ³ã‚¯"/>
 	</structure>
-	<design>’nãŽ®(‘å)</design>
+	<design>åœ°ä¸Šå¼(å¤§)</design>
 	<size>3,3</size>
 	<height>2</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY h0302 '
-	<name>Î–ûƒ^ƒ“ƒN</name>
+	<name>çŸ³æ²¹ã‚¿ãƒ³ã‚¯</name>
 	<structure>
-		<category byname="Î–ûƒ^ƒ“ƒN"/>
+		<category byname="çŸ³æ²¹ã‚¿ãƒ³ã‚¯"/>
 	</structure>
-	<design>’nãŽ®(’†)</design>
+	<design>åœ°ä¸Šå¼(ä¸­)</design>
 	<size>3,3</size>
 	<height>2</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY h0303 '
-	<name>Î–ûƒ^ƒ“ƒN</name>
+	<name>çŸ³æ²¹ã‚¿ãƒ³ã‚¯</name>
 	<structure>
-		<category byname="Î–ûƒ^ƒ“ƒN"/>
+		<category byname="çŸ³æ²¹ã‚¿ãƒ³ã‚¯"/>
 	</structure>
-	<design>’nãŽ®(¬)</design>
+	<design>åœ°ä¸Šå¼(å°)</design>
 	<size>2,2</size>
 	<height>2</height>
 	<price>500000000</price>
@@ -312,9 +312,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0304 '
-	<name>ƒKƒXƒ^ƒ“ƒN</name>
+	<name>ã‚¬ã‚¹ã‚¿ãƒ³ã‚¯</name>
 	<structure>
-		<category byname="ƒKƒXƒ^ƒ“ƒN"/>
+		<category byname="ã‚¬ã‚¹ã‚¿ãƒ³ã‚¯"/>
 	</structure>
 	<size>2,2</size>
 	<height>2</height>
@@ -326,9 +326,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0305 '
-	<name>”z…’r</name>
+	<name>é…æ°´æ± </name>
 	<structure>
-		<category byname="‹‹…“ƒ"/>
+		<category byname="çµ¦æ°´å¡”"/>
 	</structure>
 	<size>2,2</size>
 	<height>2</height>
@@ -340,11 +340,11 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0306 '
-	<name>Î–ûƒ^ƒ“ƒN</name>
+	<name>çŸ³æ²¹ã‚¿ãƒ³ã‚¯</name>
 	<structure>
-		<category byname="Î–ûƒ^ƒ“ƒN"/>
+		<category byname="çŸ³æ²¹ã‚¿ãƒ³ã‚¯"/>
 	</structure>
-	<design>’n’†Ž®</design>
+	<design>åœ°ä¸­å¼</design>
 	<size>3,3</size>
 	<height>1</height>
 	<price>1000000000</price>
@@ -355,11 +355,11 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0307 '
-	<name>ò…ê</name>
+	<name>æµ„æ°´å ´</name>
 	<structure>
-		<category byname="ò…ê"/>
+		<category byname="æµ„æ°´å ´"/>
 	</structure>
-	<design>ŠÈˆÕò…ê</design>
+	<design>ç°¡æ˜“æµ„æ°´å ´</design>
 	<size>1,2</size>
 	<height>1</height>
 	<price>20000000</price>
@@ -370,11 +370,11 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0308 '
-	<name>”z…’r</name>
+	<name>é…æ°´æ± </name>
 	<structure>
-		<category byname="‹‹…“ƒ"/>
+		<category byname="çµ¦æ°´å¡”"/>
 	</structure>
-	<design>ƒRƒ“ƒNƒŠ[ƒg»(¬)</design>
+	<design>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆè£½(å°)</design>
 	<size>1,1</size>
 	<height>1</height>
 	<price>40000000</price>
@@ -385,9 +385,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0401 '
-	<name>–h”g’ç</name>
+	<name>é˜²æ³¢å ¤</name>
 	<structure>
-		<category byname="Ž¡…–h”gÝ”õ"/>
+		<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™"/>
 	</structure>
 	<price>1000000</price>
 	<size>1,1</size>
@@ -395,9 +395,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h04011 '
-	<name>–h”g’ç(»•l)</name>
+	<name>é˜²æ³¢å ¤(ç ‚æµœ)</name>
 	<structure>
-		<category byname="Ž¡…–h”gÝ”õ"/>
+		<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™"/>
 	</structure>
 	<price>2000000</price>
 	<size>1,1</size>
@@ -405,9 +405,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h04012 '
-	<name>–h”g’ç(”gÁƒuƒƒbƒN)</name>
+	<name>é˜²æ³¢å ¤(æ³¢æ¶ˆãƒ–ãƒ­ãƒƒã‚¯)</name>
 	<structure>
-		<category byname="Ž¡…–h”gÝ”õ"/>
+		<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™"/>
 	</structure>
 	<price>2500000</price>
 	<size>1,1</size>
@@ -415,9 +415,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0402 '
-	<name>–h”g’ç(—’d•—)</name>
+	<name>é˜²æ³¢å ¤(é››å£‡é¢¨)</name>
 	<structure>
-		<category byname="Ž¡…–h”gÝ”õ"/>
+		<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -425,18 +425,18 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0403 '
-	<name>»–hƒ_ƒ€</name>
+	<name>ç ‚é˜²ãƒ€ãƒ </name>
 	<structure>
-		<category byname="Ž¡…–h”gÝ”õ"/>
+		<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™"/>
 	</structure>
 	<price>3000000</price>
 	<height>1</height>
 	<computerCannotBuild/>
 '>
 <!ENTITY h0404 '
-	<name>–@˜g</name>
+	<name>æ³•æž </name>
 	<structure>
-		<category byname="Ž¡ŽRÝ”õ"/>
+		<category byname="æ²»å±±è¨­å‚™"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -444,9 +444,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h04041 '
-	<name>–@˜gƒ¿</name>
+	<name>æ³•æž Î±</name>
 	<structure>
-		<category byname="Ž¡ŽRÝ”õ"/>
+		<category byname="æ²»å±±è¨­å‚™"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -454,9 +454,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h04042 '
-	<name>–@˜gƒÀ</name>
+	<name>æ³•æž Î²</name>
 	<structure>
-		<category byname="Ž¡ŽRÝ”õ"/>
+		<category byname="æ²»å±±è¨­å‚™"/>
 	</structure>
 	<price>1500000</price>
 	<size>1,1</size>
@@ -464,9 +464,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h04043 '
-	<name>–@˜gƒÁ</name>
+	<name>æ³•æž Î³</name>
 	<structure>
-		<category byname="Ž¡ŽRÝ”õ"/>
+		<category byname="æ²»å±±è¨­å‚™"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -474,9 +474,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0701 '
-	<name>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(3x3)</name>
+	<name>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(3x3)</name>
 	<structure>
-		<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+		<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 	</structure>
 	<price>300000000</price>
 	<size>3,3</size>
@@ -489,9 +489,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0702 '
-	<name>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(3x2)</name>
+	<name>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(3x2)</name>
 	<structure>
-		<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+		<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 	</structure>
 	<price>250000000</price>
 	<size>2,3</size>
@@ -504,9 +504,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0801 '
-	<name>‰Î—Í”­“dŠ</name>
+	<name>ç«åŠ›ç™ºé›»æ‰€</name>
 	<structure>
-		<category byname="‰Î—Í”­“dŠ"/>
+		<category byname="ç«åŠ›ç™ºé›»æ‰€"/>
 	</structure>
 	<price>40000000000</price>
 	<size>5,2</size>
@@ -518,9 +518,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h0802 '
-	<name>‰Î—Í”­“dŠ</name>
+	<name>ç«åŠ›ç™ºé›»æ‰€</name>
 	<structure>
-		<category byname="‰Î—Í”­“dŠ"/>
+		<category byname="ç«åŠ›ç™ºé›»æ‰€"/>
 	</structure>
 	<price>50000000000</price>
 	<size>5,3</size>
@@ -532,9 +532,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1001 '
-	<name>‚‹´‹r</name>
+	<name>é«˜æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -545,9 +545,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1002 '
-	<name>‹´‹r</name>
+	<name>æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -557,9 +557,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1003 '
-	<name>‚‹´‹r</name>
+	<name>é«˜æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -568,9 +568,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1004 '
-	<name>‹´‹r</name>
+	<name>æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -578,11 +578,11 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1101 '
-	<name>Ž©“®ŽÔŠwZ</name>
+	<name>è‡ªå‹•è»Šå­¦æ ¡</name>
 	<structure>
-		<category byname="Ž„—§‹³ˆçŽ{Ý"/>
+		<category byname="ç§ç«‹æ•™è‚²æ–½è¨­"/>
 	</structure>
-	<design>ƒR[ƒX</design>
+	<design>ã‚³ãƒ¼ã‚¹</design>
 	<price>20000000</price>
 	<size>5,6</size>
 	<height>1</height>
@@ -593,11 +593,11 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1102 '
-	<name>Ž©“®ŽÔŠwZ</name>
+	<name>è‡ªå‹•è»Šå­¦æ ¡</name>
 	<structure>
-		<category byname="Ž„—§‹³ˆçŽ{Ý"/>
+		<category byname="ç§ç«‹æ•™è‚²æ–½è¨­"/>
 	</structure>
-	<design>ZŽÉŒ“ŽÔŒÉ</design>
+	<design>æ ¡èˆŽå…¼è»Šåº«</design>
 	<price>30000000</price>
 	<height>1</height>
 	<population>
@@ -608,12 +608,12 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1201 '
-	<name>ƒJƒ“ƒgƒŠ[ƒGƒŒƒx[ƒ^[</name>
+	<name>ã‚«ãƒ³ãƒˆãƒªãƒ¼ã‚¨ãƒ¬ãƒ™ãƒ¼ã‚¿ãƒ¼</name>
 	<structure>
-		<category byname="H—¿ŽY’n"/>
-		<category byname="‘qŒÉ" hide="true"/>
+		<category byname="é£Ÿæ–™ç”£åœ°"/>
+		<category byname="å€‰åº«" hide="true"/>
 	</structure>
-	<design>‘å‹K–Í‹¤“¯Š£‘‡Ž{Ý</design>
+	<design>å¤§è¦æ¨¡å…±åŒä¹¾ç‡¥æ–½è¨­</design>
 	<price>270000000</price>
 	<size>4,2</size>
 	<height>3</height>
@@ -630,59 +630,59 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1301 '
-	<name>Á–h</name>
+	<name>æ¶ˆé˜²ç½²</name>
 	<structure>
-		<category byname="Á–h"/>
+		<category byname="æ¶ˆé˜²ç½²"/>
 	</structure>
 	&hcA;
 	<computerCannotBuild/>
 '>
 <!ENTITY h1401 '
-	<name>ŒxŽ@</name>
+	<name>è­¦å¯Ÿç½²</name>
 	<structure>
-		<category byname="ŒxŽ@"/>
+		<category byname="è­¦å¯Ÿç½²"/>
 	</structure>
 	&hcA;
 	<computerCannotBuild/>
 '>
 <!ENTITY h1501 '
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>‰Ô’d</subgroup>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>èŠ±å£‡</subgroup>
 		<height>1</height>
 '>
 <!ENTITY h1502 '
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>…˜H</subgroup>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æ°´è·¯</subgroup>
 		<height>1</height>
 '>
 <!ENTITY h1503 '
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>Ž÷–Ø</subgroup>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æ¨¹æœ¨</subgroup>
 		<height>1</height>
 '>
 <!ENTITY h1504 '
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ŠK’i</subgroup>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>éšŽæ®µ</subgroup>
 		<height>2</height>
 '>
 <!ENTITY h1505 '
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ŽÎ–Ê</subgroup>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æ–œé¢</subgroup>
 		<height>2</height>
 '>
 <!ENTITY h1601 '
-	<name>Šî’n‹Ç</name>
+	<name>åŸºåœ°å±€</name>
 	<structure>
-		<category byname="•ú‘—ƒƒfƒBƒA"/>
+		<category byname="æ”¾é€ãƒ¡ãƒ‡ã‚£ã‚¢"/>
 	</structure>
-		<design>Œg‘Ñ“d˜bŠî’n‹Ç</design>
+		<design>æºå¸¯é›»è©±åŸºåœ°å±€</design>
 		<size>1,1</size>
 	<computerCannotBuild/>
 '>
 <!ENTITY h1701 '
-	<name>Ž©‘RŠâ</name>
+	<name>è‡ªç„¶å²©</name>
 	<structure>
-		<category byname="Ž©‘R\‘¢•¨"/>
+		<category byname="è‡ªç„¶æ§‹é€ ç‰©"/>
 	</structure>
 		<size>1,1</size>
 	<price>3000000</price>
@@ -692,12 +692,12 @@
 ]>
 
 <plug-in>
-	<title>FreeTrainExAVer—pŒš•¨‘‡(Œš’z)</title>
+	<title>FreeTrainExAVerç”¨å»ºç‰©ç·åˆ(å»ºç¯‰)</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>
 
 
-<!-- •——Í”­“dŠ -->
+<!-- é¢¨åŠ›ç™ºé›»æ‰€ -->
 	<contribution type="picture" id="{HEUER-0001-WINDMILL-PICTURE-0001}">
 		<picture src="windmill_a.bmp">
 			<override when="summer" src="windmill_b.bmp" />
@@ -722,7 +722,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0001-WINDMILL-STRUCTURE-0002}">
 		&h0101;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="256,0" offset="64">
 			<picture ref="{HEUER-0001-WINDMILL-PICTURE-0004}"/>
 		</sprite>
@@ -732,7 +732,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0001-WINDMILL-STRUCTURE-0003}">
 		&h0101;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="0,0" offset="64">
 			<picture ref="{HEUER-0001-WINDMILL-PICTURE-0003}"/>
 		</sprite>
@@ -742,7 +742,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0001-WINDMILL-STRUCTURE-0004}">
 		&h0101;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="128,0" offset="64">
 			<picture ref="{HEUER-0001-WINDMILL-PICTURE-0002}"/>
 		</sprite>
@@ -752,7 +752,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0001-WINDMILL-STRUCTURE-0001}">
 		&h0101;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="0,0" offset="64">
 			<picture ref="{HEUER-0001-WINDMILL-PICTURE-0001}"/>
 		</sprite>
@@ -762,7 +762,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0001-WINDMILL-STRUCTURE-0005}">
 		&h0101;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="128,0" offset="64">
 			<picture ref="{HEUER-0001-WINDMILL-PICTURE-0003}"/>
 		</sprite>
@@ -772,7 +772,7 @@
 	</contribution>
 
 
-<!-- W”zŠ -->
+<!-- é›†é…æ‰€ -->
 	<contribution type="picture" id="{HEUER-0002-BUTURYU-PICTURE-0001}">
 		<picture src="buturyu.bmp">
 			<override when="night" src="buturyu_n.bmp" />
@@ -870,7 +870,7 @@
 	</contribution>
 
 
-<!-- Î–ûƒ^ƒ“ƒN -->
+<!-- çŸ³æ²¹ã‚¿ãƒ³ã‚¯ -->
 	<contribution type="picture" id="{HEUER-0003-OILTANK-PICTURE-0001}">
 		<picture src="oiltank.bmp">
 		</picture>
@@ -957,7 +957,7 @@
 	</contribution>
 
 
-<!-- ƒKƒXƒ^ƒ“ƒN -->
+<!-- ã‚¬ã‚¹ã‚¿ãƒ³ã‚¯ -->
 	<contribution type="picture" id="{HEUER-0003-GASTANK-PICTURE-0001}">
 		<picture src="gastank.bmp">
 		</picture>
@@ -982,13 +982,13 @@
 	</contribution>
 
 
-<!-- ‹‹…“ƒ -->
+<!-- çµ¦æ°´å¡” -->
 	<contribution type="picture" id="{HEUER-0003-WATERTANK-PICTURE-0001}">
 		<picture src="watertank.bmp">
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0003-WATERTANK-STRUCTURE-0001}">
-		<design>ƒRƒ“ƒNƒŠ[ƒg»(‘å)</design>
+		<design>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆè£½(å¤§)</design>
 		&h0305;
 		&hcwt1;
 		<sprite origin="0,0" offset="24">
@@ -1005,7 +1005,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0003-WATERTANK-STRUCTURE-0002}">
-		<design>|»(‘å)</design>
+		<design>é‹¼è£½(å¤§)</design>
 		&h0305;
 		&hcA;
 		<sprite origin="256,0" offset="24">
@@ -1030,7 +1030,7 @@
 	</contribution>
 
 
-<!-- ò…ê -->
+<!-- æµ„æ°´å ´ -->
 	<contribution type="picture" id="{HEUER-0003-WPP-PICTURE-0001}">
 		<picture src="wpp.bmp">
 		</picture>
@@ -1053,7 +1053,7 @@
 	</contribution>
 
 
-<!-- Ž¡…–h”gÝ”õ -->
+<!-- æ²»æ°´é˜²æ³¢è¨­å‚™ -->
 	<contribution type="picture" id="{HEUER-0004-BREAKWATER-PICTURE-0001}">
 		<picture src="breakwater.bmp">
 		</picture>
@@ -1198,7 +1198,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0009}">
 		&h04011;
-		<design>ŠC¥»•l¥’¼ü</design>
+		<design>æµ·ï½¥ç ‚æµœï½¥ç›´ç·š</design>
 		<sprite origin="0,16" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1214,7 +1214,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0010}">
 		&h04011;
-		<design>ŠC¥»•l¥“Ê‹È</design>
+		<design>æµ·ï½¥ç ‚æµœï½¥å‡¸æ›²</design>
 		<sprite origin="0,48" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1230,7 +1230,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0011}">
 		&h04011;
-		<design>ŠC¥»•l¥‰š‹È</design>
+		<design>æµ·ï½¥ç ‚æµœï½¥å‡¹æ›²</design>
 		<sprite origin="0,80" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1246,7 +1246,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0012}">
 		&h04011;
-		<design>»•l‚Ì‚Ý¥’¼ü</design>
+		<design>ç ‚æµœã®ã¿ï½¥ç›´ç·š</design>
 		<sprite origin="0,112" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1262,7 +1262,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0013}">
 		&h04011;
-		<design>»•l‚Ì‚Ý¥“Ê‹È</design>
+		<design>ç ‚æµœã®ã¿ï½¥å‡¸æ›²</design>
 		<sprite origin="0,144" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1278,7 +1278,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0014}">
 		&h04011;
-		<design>»•l‚Ì‚Ý¥‰š‹È</design>
+		<design>ç ‚æµœã®ã¿ï½¥å‡¹æ›²</design>
 		<sprite origin="0,176" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1294,7 +1294,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0015}">
 		&h04012;
-		<design>ŠC¥ÌÞÛ¯¸¥’¼ü</design>
+		<design>æµ·ï½¥ï¾Œï¾žï¾›ï½¯ï½¸ï½¥ç›´ç·š</design>
 		<sprite origin="0,208" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1310,7 +1310,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0016}">
 		&h04012;
-		<design>ŠC¥ÌÞÛ¯¸¥“Ê‹È</design>
+		<design>æµ·ï½¥ï¾Œï¾žï¾›ï½¯ï½¸ï½¥å‡¸æ›²</design>
 		<sprite origin="0,240" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1326,7 +1326,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0017}">
 		&h04012;
-		<design>ŠC¥ÌÞÛ¯¸¥‰š‹È</design>
+		<design>æµ·ï½¥ï¾Œï¾žï¾›ï½¯ï½¸ï½¥å‡¹æ›²</design>
 		<sprite origin="0,272" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1342,7 +1342,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0018}">
 		&h04012;
-		<design>ÌÞÛ¯¸‚Ì‚Ý¥’¼ü</design>
+		<design>ï¾Œï¾žï¾›ï½¯ï½¸ã®ã¿ï½¥ç›´ç·š</design>
 		<sprite origin="0,304" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1358,7 +1358,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0019}">
 		&h04012;
-		<design>ÌÞÛ¯¸‚Ì‚Ý¥“Ê‹È</design>
+		<design>ï¾Œï¾žï¾›ï½¯ï½¸ã®ã¿ï½¥å‡¸æ›²</design>
 		<sprite origin="0,336" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1374,7 +1374,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-BREAKWATER-STRUCTURE-0020}">
 		&h04012;
-		<design>ÌÞÛ¯¸‚Ì‚Ý¥‰š‹È</design>
+		<design>ï¾Œï¾žï¾›ï½¯ï½¸ã®ã¿ï½¥å‡¹æ›²</design>
 		<sprite origin="0,368" offset="0">
 			<picture ref="{HEUER-0004-BREAKWATER-PICTURE-0003}"/>
 		</sprite>
@@ -1390,7 +1390,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-DAM-STRUCTURE-0001}">
 		&h0403;
-		<design>»–h‰’ç</design>
+		<design>ç ‚é˜²å °å ¤</design>
 		<size>1,2</size>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{HEUER-0004-DAM-PICTURE-0001}"/>
@@ -1407,7 +1407,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-DAM-STRUCTURE-0002}">
 		&h0403;
-		<design>°ŒÅHŒQ</design>
+		<design>åºŠå›ºå·¥ç¾¤</design>
 		<size>4,1</size>
 		<sprite origin="0,0" offset="40">
 			<picture ref="{HEUER-0004-DAM-PICTURE-0002}"/>
@@ -1424,7 +1424,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-DAM-STRUCTURE-0003}">
 		&h0403;
-		<design>°ŒÅHŒQ</design>
+		<design>åºŠå›ºå·¥ç¾¤</design>
 		<size>4,1</size>
 		<sprite origin="80,0" offset="40">
 			<picture ref="{HEUER-0004-DAM-PICTURE-0002}"/>
@@ -1441,7 +1441,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-DAM-STRUCTURE-0004}">
 		&h0403;
-		<design>°ŒÅHŒQ</design>
+		<design>åºŠå›ºå·¥ç¾¤</design>
 		<size>4,1</size>
 		<sprite origin="160,0" offset="40">
 			<picture ref="{HEUER-0004-DAM-PICTURE-0002}"/>
@@ -1458,7 +1458,7 @@
 	</contribution>
 
 
-<!-- Ž¡ŽRÝ”õ -->
+<!-- æ²»å±±è¨­å‚™ -->
 	<contribution type="picture" id="{HEUER-0004-FRAME-PICTURE-0001}">
 		<picture src="frame.bmp">
 			<override when="summer" src="frame_s.bmp" />
@@ -1486,7 +1486,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0001}">
 		&h0404;
-		<design>’¼ü</design>
+		<design>ç›´ç·š</design>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1502,7 +1502,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0002}">
 		&h0404;
-		<design>’¼ü(AÍ)</design>
+		<design>ç›´ç·š(æ¤æ ½)</design>
 		<sprite origin="0,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1518,7 +1518,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0003}">
 		&h0404;
-		<design>“Ê‹È</design>
+		<design>å‡¸æ›²</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1534,7 +1534,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0004}">
 		&h0404;
-		<design>“Ê‹È(AÍ)</design>
+		<design>å‡¸æ›²(æ¤æ ½)</design>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1550,7 +1550,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0005}">
 		&h0404;
-		<design>‰š‹È</design>
+		<design>å‡¹æ›²</design>
 		<sprite origin="160,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1566,7 +1566,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0006}">
 		&h0404;
-		<design>‰š‹È(AÍ)</design>
+		<design>å‡¹æ›²(æ¤æ ½)</design>
 		<sprite origin="160,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0001}"/>
 		</sprite>
@@ -1582,7 +1582,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0011}">
 		&h04041;
-		<design>’Êí/‘Œ´</design>
+		<design>é€šå¸¸/è‰åŽŸ</design>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1598,7 +1598,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0012}">
 		&h04041;
-		<design>AÍ/‘Œ´</design>
+		<design>æ¤æ ½/è‰åŽŸ</design>
 		<sprite origin="96,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1614,7 +1614,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0013}">
 		&h04041;
-		<design>’Êí/ŽR”§</design>
+		<design>é€šå¸¸/å±±è‚Œ</design>
 		<sprite origin="0,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1630,7 +1630,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0014}">
 		&h04041;
-		<design>AÍ/ŽR”§</design>
+		<design>æ¤æ ½/å±±è‚Œ</design>
 		<sprite origin="96,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1646,7 +1646,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00141}">
 		&h04041;
-		<design>’Êí/»—˜</design>
+		<design>é€šå¸¸/ç ‚åˆ©</design>
 		<sprite origin="0,256" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1662,7 +1662,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00142}">
 		&h04041;
-		<design>AÍ/»—˜</design>
+		<design>æ¤æ ½/ç ‚åˆ©</design>
 		<sprite origin="96,256" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1678,7 +1678,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00143}">
 		&h04041;
-		<design>’Êí/»•l</design>
+		<design>é€šå¸¸/ç ‚æµœ</design>
 		<sprite origin="0,288" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1694,7 +1694,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00144}">
 		&h04041;
-		<design>AÍ/»•l</design>
+		<design>æ¤æ ½/ç ‚æµœ</design>
 		<sprite origin="96,288" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1710,7 +1710,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00145}">
 		&h04041;
-		<design>’Êí/…–Ê</design>
+		<design>é€šå¸¸/æ°´é¢</design>
 		<sprite origin="0,320" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1726,7 +1726,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00146}">
 		&h04041;
-		<design>AÍ/…–Ê</design>
+		<design>æ¤æ ½/æ°´é¢</design>
 		<sprite origin="96,320" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1742,7 +1742,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0015}">
 		&h04041;
-		<design>’Êí/ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>é€šå¸¸/ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="0,64" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1758,7 +1758,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0016}">
 		&h04041;
-		<design>AÍ/ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>æ¤æ ½/ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="96,64" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1774,7 +1774,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0017}">
 		&h04041;
-		<design>’Êí/ˆêŽÔü</design>
+		<design>é€šå¸¸/ä¸€è»Šç·š</design>
 		<sprite origin="0,96" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1790,7 +1790,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0018}">
 		&h04041;
-		<design>AÍ/ˆêŽÔü</design>
+		<design>æ¤æ ½/ä¸€è»Šç·š</design>
 		<sprite origin="96,96" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1806,7 +1806,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0019}">
 		&h04041;
-		<design>’Êí/”’”jü</design>
+		<design>é€šå¸¸/ç™½ç ´ç·š</design>
 		<sprite origin="0,128" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1822,7 +1822,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0020}">
 		&h04041;
-		<design>AÍ/”’”jü</design>
+		<design>æ¤æ ½/ç™½ç ´ç·š</design>
 		<sprite origin="96,128" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1838,7 +1838,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0021}">
 		&h04041;
-		<design>’Êí/žòŽÀü</design>
+		<design>é€šå¸¸/æ©™å®Ÿç·š</design>
 		<sprite origin="0,160" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1854,7 +1854,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0022}">
 		&h04041;
-		<design>AÍ/žòŽÀü</design>
+		<design>æ¤æ ½/æ©™å®Ÿç·š</design>
 		<sprite origin="96,160" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1870,7 +1870,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0023}">
 		&h04041;
-		<design>’Êí/ƒoƒ‰ƒXƒg/»—˜</design>
+		<design>é€šå¸¸/ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©</design>
 		<sprite origin="0,192" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1886,7 +1886,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0024}">
 		&h04041;
-		<design>AÍ/ƒoƒ‰ƒXƒg/»—˜</design>
+		<design>æ¤æ ½/ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©</design>
 		<sprite origin="96,192" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1902,7 +1902,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0025}">
 		&h04041;
-		<design>’Êí/ƒoƒ‰ƒXƒg/‘Œ´</design>
+		<design>é€šå¸¸/ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ</design>
 		<sprite origin="0,224" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1918,7 +1918,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0026}">
 		&h04041;
-		<design>AÍ/ƒoƒ‰ƒXƒg/‘Œ´</design>
+		<design>æ¤æ ½/ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ</design>
 		<sprite origin="96,224" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1934,7 +1934,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0031}">
 		&h04042;
-		<design>’Êí/‘Œ´</design>
+		<design>é€šå¸¸/è‰åŽŸ</design>
 		<sprite origin="192,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1950,7 +1950,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0032}">
 		&h04042;
-		<design>AÍ/‘Œ´</design>
+		<design>æ¤æ ½/è‰åŽŸ</design>
 		<sprite origin="320,0" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1966,7 +1966,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0033}">
 		&h04042;
-		<design>’Êí/ŽR”§</design>
+		<design>é€šå¸¸/å±±è‚Œ</design>
 		<sprite origin="192,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1982,7 +1982,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0034}">
 		&h04042;
-		<design>AÍ/ŽR”§</design>
+		<design>æ¤æ ½/å±±è‚Œ</design>
 		<sprite origin="320,32" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -1998,7 +1998,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00341}">
 		&h04042;
-		<design>’Êí/»—˜</design>
+		<design>é€šå¸¸/ç ‚åˆ©</design>
 		<sprite origin="192,256" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2014,7 +2014,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00342}">
 		&h04042;
-		<design>AÍ/»—˜</design>
+		<design>æ¤æ ½/ç ‚åˆ©</design>
 		<sprite origin="320,256" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2030,7 +2030,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00343}">
 		&h04042;
-		<design>’Êí/»•l</design>
+		<design>é€šå¸¸/ç ‚æµœ</design>
 		<sprite origin="192,288" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2046,7 +2046,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00344}">
 		&h04042;
-		<design>AÍ/»•l</design>
+		<design>æ¤æ ½/ç ‚æµœ</design>
 		<sprite origin="320,288" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2062,7 +2062,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00345}">
 		&h04042;
-		<design>’Êí/…–Ê</design>
+		<design>é€šå¸¸/æ°´é¢</design>
 		<sprite origin="192,320" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2078,7 +2078,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-00346}">
 		&h04042;
-		<design>AÍ/…–Ê</design>
+		<design>æ¤æ ½/æ°´é¢</design>
 		<sprite origin="320,320" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2094,7 +2094,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0035}">
 		&h04042;
-		<design>’Êí/ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>é€šå¸¸/ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="192,64" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2110,7 +2110,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0036}">
 		&h04042;
-		<design>AÍ/ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>æ¤æ ½/ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="320,64" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2126,7 +2126,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0037}">
 		&h04042;
-		<design>’Êí/ˆêŽÔü</design>
+		<design>é€šå¸¸/ä¸€è»Šç·š</design>
 		<sprite origin="192,96" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2142,7 +2142,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0038}">
 		&h04042;
-		<design>AÍ/ˆêŽÔü</design>
+		<design>æ¤æ ½/ä¸€è»Šç·š</design>
 		<sprite origin="320,96" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2158,7 +2158,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0039}">
 		&h04042;
-		<design>’Êí/”’”jü</design>
+		<design>é€šå¸¸/ç™½ç ´ç·š</design>
 		<sprite origin="192,128" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2174,7 +2174,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0040}">
 		&h04042;
-		<design>AÍ/”’”jü</design>
+		<design>æ¤æ ½/ç™½ç ´ç·š</design>
 		<sprite origin="320,128" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2190,7 +2190,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0041}">
 		&h04042;
-		<design>’Êí/žòŽÀü</design>
+		<design>é€šå¸¸/æ©™å®Ÿç·š</design>
 		<sprite origin="192,160" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2206,7 +2206,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0042}">
 		&h04042;
-		<design>AÍ/žòŽÀü</design>
+		<design>æ¤æ ½/æ©™å®Ÿç·š</design>
 		<sprite origin="320,160" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2222,7 +2222,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0043}">
 		&h04042;
-		<design>’Êí/ƒoƒ‰ƒXƒg/»—˜</design>
+		<design>é€šå¸¸/ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©</design>
 		<sprite origin="192,192" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2238,7 +2238,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0044}">
 		&h04042;
-		<design>AÍ/ƒoƒ‰ƒXƒg/»—˜</design>
+		<design>æ¤æ ½/ãƒãƒ©ã‚¹ãƒˆ/ç ‚åˆ©</design>
 		<sprite origin="320,192" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2254,7 +2254,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0045}">
 		&h04042;
-		<design>’Êí/ƒoƒ‰ƒXƒg/‘Œ´</design>
+		<design>é€šå¸¸/ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ</design>
 		<sprite origin="192,224" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2270,7 +2270,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0046}">
 		&h04042;
-		<design>AÍ/ƒoƒ‰ƒXƒg/‘Œ´</design>
+		<design>æ¤æ ½/ãƒãƒ©ã‚¹ãƒˆ/è‰åŽŸ</design>
 		<sprite origin="320,224" offset="16">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0003}"/>
 		</sprite>
@@ -2286,7 +2286,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0051}">
 		&h04043;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,0" offset="32">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0004}"/>
 		</sprite>
@@ -2302,7 +2302,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0004-FRAME-STRUCTURE-0052}">
 		&h04043;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<sprite origin="128,0" offset="32">
 			<picture ref="{HEUER-0004-FRAME-PICTURE-0004}"/>
 		</sprite>
@@ -2317,7 +2317,7 @@
 		</sprite>
 	</contribution>
 
-<!-- •ª÷ƒ}ƒ“ƒVƒ‡ƒ“ -->
+<!-- åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³ -->
 	<contribution type="picture" id="{HEUER-0007-CONDO-PICTURE-0001}">
 		<picture src="condominium.bmp">
 		</picture>
@@ -2374,7 +2374,7 @@
 	</contribution>
 
 
-<!-- ‰Î—Í”­“dŠ -->
+<!-- ç«åŠ›ç™ºé›»æ‰€ -->
 	<contribution type="picture" id="{HEUER-0008-PLANT-PICTURE-0001}">
 		<picture src="powerplant.bmp">
 		</picture>
@@ -2399,7 +2399,7 @@
 	</contribution>
 
 
-<!-- ‹´‹r -->
+<!-- æ©‹è„š -->
 	<contribution type="picture" id="{HEUER-0010-BRIDGEPIER-PICTURE-0001}">
 		<picture src="bp.bmp">
 		</picture>
@@ -2424,7 +2424,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0001}">
 		&h1001;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2450,7 +2450,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0002}">
 		&h1001;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2476,7 +2476,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0101}">
 		&h1003;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2502,7 +2502,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0201}">
 		&h1003;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2550,7 +2550,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0003}">
 		&h1001;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2576,7 +2576,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0004}">
 		&h1001;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2602,7 +2602,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0102}">
 		&h1003;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2628,7 +2628,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0202}">
 		&h1003;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2676,7 +2676,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0005}">
 		&h1001;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2702,7 +2702,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0006}">
 		&h1001;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2728,7 +2728,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0103}">
 		&h1003;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2754,7 +2754,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0203}">
 		&h1003;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2802,7 +2802,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0007}">
 		&h1001;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2828,7 +2828,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0008}">
 		&h1001;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2854,7 +2854,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0104}">
 		&h1003;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2880,7 +2880,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0204}">
 		&h1003;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -2928,7 +2928,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00071}">
 		&h1001;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -2976,7 +2976,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00072}">
 		&h1001;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="96,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -3024,7 +3024,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00081}">
 		&h1001;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -3072,7 +3072,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00082}">
 		&h1001;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="96,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -3120,7 +3120,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-01041}">
 		&h1003;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -3168,7 +3168,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-01042}">
 		&h1003;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<pictures>
 			<top    origin="96,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -3216,7 +3216,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0009}">
 		&h1001;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -3242,7 +3242,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0010}">
 		&h1001;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
@@ -3268,7 +3268,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0105}">
 		&h1003;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -3294,7 +3294,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0205}">
 		&h1003;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<pictures>
 			<top    origin="0,32" offset="16">
 				<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
@@ -3343,7 +3343,7 @@
 
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0011}">
 		&h1002;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3353,7 +3353,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0012}">
 		&h1002;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3363,7 +3363,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0106}">
 		&h1004;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3373,7 +3373,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0206}">
 		&h1004;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3389,7 +3389,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0013}">
 		&h1002;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>
@@ -3399,7 +3399,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0014}">
 		&h1002;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>
@@ -3409,7 +3409,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0107}">
 		&h1004;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="32,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
 		</sprite>
@@ -3419,7 +3419,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0207}">
 		&h1004;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="32,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
 		</sprite>
@@ -3435,7 +3435,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0015}">
 		&h1002;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3445,7 +3445,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0016}">
 		&h1002;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3455,7 +3455,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0108}">
 		&h1004;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3465,7 +3465,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0208}">
 		&h1004;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3481,7 +3481,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0017}">
 		&h1002;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="32,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3491,7 +3491,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0018}">
 		&h1002;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="32,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3501,7 +3501,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0109}">
 		&h1004;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="32,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3511,7 +3511,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0209}">
 		&h1004;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="32,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0102}"/>
 		</sprite>
@@ -3527,7 +3527,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00171}">
 		&h1002;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="0,128" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3543,7 +3543,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00172}">
 		&h1002;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="0,160" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3559,7 +3559,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00181}">
 		&h1002;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="0,64" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3575,7 +3575,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-00182}">
 		&h1002;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="0,96" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3591,7 +3591,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-01191}">
 		&h1004;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="128,64" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3607,7 +3607,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-01192}">
 		&h1004;
-		<design>ŽR”§(ŽÎ–Ê)</design>
+		<design>å±±è‚Œ(æ–œé¢)</design>
 		<sprite origin="128,128" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -3623,7 +3623,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0019}">
 		&h1002;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="192,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>
@@ -3633,7 +3633,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0020}">
 		&h1002;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="192,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>
@@ -3643,7 +3643,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0110}">
 		&h1004;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
 		</sprite>
@@ -3653,7 +3653,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-0010-BRIDGEPIER-STRUCTURE-0210}">
 		&h1004;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="64,32" offset="16">
 			<picture ref="{HEUER-0010-BRIDGEPIER-PICTURE-0101}"/>
 		</sprite>
@@ -3669,7 +3669,7 @@
 	</contribution>
 
 
-<!-- Ž©“®ŽÔŠwZ -->
+<!-- è‡ªå‹•è»Šå­¦æ ¡ -->
 	<contribution type="picture" id="{HEUER-0011-DSCHOOL-PICTURE-0001}">
 		<picture src="ds_corse.bmp">
 			<override when="winter" src="ds_corse_w.bmp" />
@@ -3727,7 +3727,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ƒJƒ“ƒgƒŠ[ƒGƒŒƒx[ƒ^[ -->
+<!-- ã‚«ãƒ³ãƒˆãƒªãƒ¼ã‚¨ãƒ¬ãƒ™ãƒ¼ã‚¿ãƒ¼ -->
 	<contribution type="picture" id="{HEUER-0012-CE-PICTURE-0001}">
 		<picture src="ce.bmp">
 		</picture>
@@ -3748,14 +3748,14 @@
 		</sprite>
 	</contribution>
 
-<!-- Á–h -->
+<!-- æ¶ˆé˜²ç½² -->
 	<contribution type="picture" id="{HEUER-1301-FD-PICTURE-0001}">
 		<picture src="fd.bmp">
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0001}">
 		&h1301;
-		<design>Á–h–{•”</design>
+		<design>æ¶ˆé˜²æœ¬éƒ¨</design>
 		<size>2,2</size>
 		<height>3</height>
 		<price>430000000</price>
@@ -3778,7 +3778,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0002}">
 		&h1301;
-		<design>o’£Š</design>
+		<design>å‡ºå¼µæ‰€</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>40000000</price>
@@ -3801,7 +3801,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0003}">
 		&h1301;
-		<design>o’£Š</design>
+		<design>å‡ºå¼µæ‰€</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>40000000</price>
@@ -3824,7 +3824,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0004}">
 		&h1301;
-		<design>ŽÔŒÉ</design>
+		<design>è»Šåº«</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>20000000</price>
@@ -3847,7 +3847,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0005}">
 		&h1301;
-		<design>ŽÔŒÉ</design>
+		<design>è»Šåº«</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>20000000</price>
@@ -3870,7 +3870,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0006}">
 		&h1301;
-		<design>Á–h’c‹lŠ</design>
+		<design>æ¶ˆé˜²å›£è©°æ‰€</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>15000000</price>
@@ -3893,7 +3893,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1301-FD-STRUCTURE-0007}">
 		&h1301;
-		<design>Á–h’c‹lŠ</design>
+		<design>æ¶ˆé˜²å›£è©°æ‰€</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>15000000</price>
@@ -3915,14 +3915,14 @@
 		</sprite>
 	</contribution>
 
-<!-- ŒxŽ@ -->
+<!-- è­¦å¯Ÿç½² -->
 	<contribution type="picture" id="{HEUER-1401-PD-PICTURE-0001}">
 		<picture src="pd.bmp">
 		</picture>
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1401-PD-STRUCTURE-0001}">
 		&h1401;
-		<design>ŒxŽ@</design>
+		<design>è­¦å¯Ÿç½²</design>
 		<size>2,2</size>
 		<height>3</height>
 		<price>270000000</price>
@@ -3945,7 +3945,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1401-PD-STRUCTURE-0004}">
 		&h1401;
-		<design>Œð”Ô</design>
+		<design>äº¤ç•ª</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>16000000</price>
@@ -3968,7 +3968,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1401-PD-STRUCTURE-0005}">
 		&h1401;
-		<design>Œð”Ô</design>
+		<design>äº¤ç•ª</design>
 		<size>1,1</size>
 		<height>1</height>
 		<price>15000000</price>
@@ -3990,7 +3990,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Šî’n‹Ç -->
+<!-- åŸºåœ°å±€ -->
 	<contribution type="picture" id="{HEUER-1601-BS-PICTURE-0001}">
 		<picture src="bs.bmp">
 		</picture>
@@ -4080,7 +4080,7 @@
 		</sprite>
 	</contribution>
 
-<!-- Ž©‘RŠâ -->
+<!-- è‡ªç„¶å²© -->
 	<contribution type="picture" id="{HEUER-1701-ROCKS-PICTURE-0001}">
 		<picture src="rocks.bmp">
 		</picture>
@@ -4221,7 +4221,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0001}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>1</height>
 		<sprite origin="0,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4238,7 +4238,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0002}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>1</height>
 		<sprite origin="128,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4255,7 +4255,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0011}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>1</height>
 		<sprite origin="256,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4272,7 +4272,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0012}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>1</height>
 		<sprite origin="384,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4289,7 +4289,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0013}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>1</height>
 		<sprite origin="512,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4306,7 +4306,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0014}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>2</height>
 		<sprite origin="640,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4323,7 +4323,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0015}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>2</height>
 		<sprite origin="768,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4340,7 +4340,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{HEUER-1702-ROCKS-STRUCTURE-0016}">
 		&h1701;
-		<design>AÍ</design>
+		<design>æ¤æ ½</design>
 		<height>2</height>
 		<sprite origin="896,0" offset="32">
 			<picture ref="{HEUER-1702-ROCKS-PICTURE-0001}"/>
@@ -4356,7 +4356,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹‰Ô’d -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«èŠ±å£‡ -->
 	<contribution type="picture" id="{HEUER-1501-HVF-PICTURE-0001}">
 		<picture src="hvflower.bmp">
 			<override when="summer" src="hvflower_s.bmp" />
@@ -4366,7 +4366,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0001}">
 		&h1501;
-		<name>¬</name>
+		<name>å°</name>
 		<price>200000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4379,7 +4379,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0002}">
 		&h1501;
-		<name>¬</name>
+		<name>å°</name>
 		<price>200000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4392,7 +4392,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0003}">
 		&h1501;
-		<name>¬</name>
+		<name>å°</name>
 		<price>200000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4405,7 +4405,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0004}">
 		&h1501;
-		<name>‘å</name>
+		<name>å¤§</name>
 		<price>300000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4418,7 +4418,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0005}">
 		&h1501;
-		<name>‘å</name>
+		<name>å¤§</name>
 		<price>300000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4431,7 +4431,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1501-HVF-STRUCTURE-0006}">
 		&h1501;
-		<name>ŽÅ</name>
+		<name>èŠ</name>
 		<price>150000</price>
 		<sprite>
 			<picture ref="{HEUER-1501-HVF-PICTURE-0001}"/>
@@ -4442,7 +4442,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹…˜H -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«æ°´è·¯ -->
 	<contribution type="picture" id="{HEUER-1502-HVM-PICTURE-0001}">
 		<picture src="hvmillrace.bmp">
 			<override when="summer" src="hvmillrace_s.bmp" />
@@ -4452,7 +4452,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0001}">
 		&h1502;
-		<name>’¼ü</name>
+		<name>ç›´ç·š</name>
 		<price>300000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4464,7 +4464,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0002}">
 		&h1502;
-		<name>’¼ü</name>
+		<name>ç›´ç·š</name>
 		<price>150000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4476,7 +4476,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0003}">
 		&h1502;
-		<name>ƒJ[ƒu</name>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>300000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4488,7 +4488,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0004}">
 		&h1502;
-		<name>ƒJ[ƒu</name>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>300000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4500,7 +4500,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0005}">
 		&h1502;
-		<name>ƒJ[ƒu</name>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>150000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4512,7 +4512,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0006}">
 		&h1502;
-		<name>ƒJ[ƒu</name>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>150000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4524,7 +4524,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0007}">
 		&h1502;
-		<name>ŽO³˜H</name>
+		<name>ä¸‰å‰è·¯</name>
 		<price>350000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4536,7 +4536,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0008}">
 		&h1502;
-		<name>ŽO³˜H</name>
+		<name>ä¸‰å‰è·¯</name>
 		<price>350000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4548,7 +4548,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1502-HVM-STRUCTURE-0009}">
 		&h1502;
-		<name>\Žš˜H</name>
+		<name>åå­—è·¯</name>
 		<price>400000</price>
 		<sprite>
 			<picture ref="{HEUER-1502-HVM-PICTURE-0001}"/>
@@ -4559,7 +4559,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹Ž÷–Ø -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«æ¨¹æœ¨ -->
 	<contribution type="picture" id="{HEUER-1503-HVT-PICTURE-0001}">
 		<picture src="hvtrees.bmp">
 			<override when="summer" src="hvtrees_s.bmp" />
@@ -4569,7 +4569,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0001}">
 		&h1503;
-		<name>A–Ø</name>
+		<name>æ¤æœ¨</name>
 		<price>500000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4581,7 +4581,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0002}">
 		&h1503;
-		<name>A–Ø</name>
+		<name>æ¤æœ¨</name>
 		<price>600000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4593,7 +4593,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0003}">
 		&h1503;
-		<name>’ë–Ø</name>
+		<name>åº­æœ¨</name>
 		<price>1000000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4605,7 +4605,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0004}">
 		&h1503;
-		<name>’ë–Ø</name>
+		<name>åº­æœ¨</name>
 		<price>1200000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4617,7 +4617,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0005}">
 		&h1503;
-		<name>’ë–Ø</name>
+		<name>åº­æœ¨</name>
 		<price>1000000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4629,7 +4629,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1503-HVT-STRUCTURE-0006}">
 		&h1503;
-		<name>’ë–Ø</name>
+		<name>åº­æœ¨</name>
 		<price>1200000</price>
 		<sprite>
 			<picture ref="{HEUER-1503-HVT-PICTURE-0001}"/>
@@ -4640,7 +4640,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹ŠK’i -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«éšŽæ®µ -->
 	<contribution type="picture" id="{HEUER-1504-HVS-PICTURE-0001}">
 		<picture src="hvstairs.bmp">
 		</picture>
@@ -4672,7 +4672,7 @@
 		</sprite>
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹ŽÎ–Ê -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«æ–œé¢ -->
 	<contribution type="picture" id="{HEUER-1505-HVM-PICTURE-0001}">
 		<picture src="hvmt.bmp">
 			<override when="summer" src="hvmt_s.bmp" />
@@ -4682,7 +4682,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1505-HVM-STRUCTURE-0001}">
 		&h1505;
-		<name>ŽR”§</name>
+		<name>å±±è‚Œ</name>
 		<price>600000</price>
 		<sprite>
 			<picture ref="{HEUER-1505-HVM-PICTURE-0001}"/>
@@ -4695,7 +4695,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1505-HVM-STRUCTURE-0002}">
 		&h1505;
-		<name>ŽR”§/ŽG‘</name>
+		<name>å±±è‚Œ/é›‘è‰</name>
 		<price>650000</price>
 		<sprite>
 			<picture ref="{HEUER-1505-HVM-PICTURE-0001}"/>
@@ -4708,7 +4708,7 @@
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{HEUER-1505-HVM-STRUCTURE-0003}">
 		&h1505;
-		<name>–@˜g</name>
+		<name>æ³•æž </name>
 		<price>750000</price>
 		<sprite>
 			<picture ref="{HEUER-1505-HVM-PICTURE-0001}"/>

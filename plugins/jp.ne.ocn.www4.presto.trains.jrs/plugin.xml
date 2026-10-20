@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>JRélçë é‘óºÉZÉbÉg</title>
+	<title>JRÂõõÂõΩ Ëªä‰∏°„Çª„ÉÉ„Éà</title>
 	<homepage>http://www4.ocn.ne.jp/~presto/ft/</homepage>
 	<author>Hinoto</author>
 
 	<depend on="org.kohsuke.freetrain.trains.qra" />
 
 
-<!-- 2000ån TSE & N2000 -->
-	<!-- TSEîÒä—í êÊì™é‘ -->
+<!-- 2000Á≥ª TSE & N2000 -->
+	<!-- TSEÈùûË≤´ÈÄöÂÖàÈ†≠Ëªä -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2000}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -18,7 +18,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- TSEä—í êÊì™é‘ -->
+	<!-- TSEË≤´ÈÄöÂÖàÈ†≠Ëªä -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2100}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -28,13 +28,13 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- TSEä—í êÊì™é‘ ãtå¸Ç´ -->
+	<!-- TSEË≤´ÈÄöÂÖàÈ†≠Ëªä ÈÄÜÂêë„Åç -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2100}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2100}-h"/>
 	</contribution>
 	
-	<!-- 2500 íÜä‘é‘ -->
+	<!-- 2500 ‰∏≠ÈñìËªä -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2500}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -44,7 +44,7 @@
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
 	
-	<!-- 2400ó éYêÊçsé‘ ìoèÍéû -->
+	<!-- 2400ÈáèÁî£ÂÖàË°åËªä ÁôªÂ†¥ÊôÇ -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -54,7 +54,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- 2400ó éYêÊçsé‘ êVìhêF -->
+	<!-- 2400ÈáèÁî£ÂÖàË°åËªä Êñ∞Â°óËâ≤ -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400-new}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -64,13 +64,13 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- 2400ó éYêÊçsé‘ ìoèÍéû ãtå¸Ç´ -->
+	<!-- 2400ÈáèÁî£ÂÖàË°åËªä ÁôªÂ†¥ÊôÇ ÈÄÜÂêë„Åç -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400}-h"/>
 	</contribution>
 
-	<!-- 2400ó éYêÊçsé‘ êVìhêF ãtå¸Ç´ -->
+	<!-- 2400ÈáèÁî£ÂÖàË°åËªä Êñ∞Â°óËâ≤ ÈÄÜÂêë„Åç -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400-new}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400-new}-h"/>
@@ -86,15 +86,15 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- 2400 ãtå¸Ç´ -->
+	<!-- 2400 ÈÄÜÂêë„Åç -->
 	<contribution type="trainCar" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400-2}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-2400-2}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-TSE}">
-		<company>JRélçë</company>
-		<type>2000ån</type>
+		<company>JRÂõõÂõΩ</company>
+		<type>2000Á≥ª</type>
 		<name>TSE</name>
 		<author>HINOTO</author>
 		<description>
@@ -112,9 +112,9 @@
 	</contribution>
 
 	<contribution type="train" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-N2000-0}">
-		<company>JRélçë</company>
-		<type>2000ån</type>
-		<name>N2000 ìoèÍéû</name>
+		<company>JRÂõõÂõΩ</company>
+		<type>2000Á≥ª</type>
+		<name>N2000 ÁôªÂ†¥ÊôÇ</name>
 		<author>HINOTO</author>
 		<description>
 		</description>
@@ -131,8 +131,8 @@
 	</contribution>
 
 	<contribution type="train" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-N2000}">
-		<company>JRélçë</company>
-		<type>2000ån</type>
+		<company>JRÂõõÂõΩ</company>
+		<type>2000Á≥ª</type>
 		<name>N2000</name>
 		<author>HINOTO</author>
 		<description>
@@ -150,9 +150,9 @@
 	</contribution>
 
 	<contribution type="train" id="{8773C1E0-3EDB-11D8-968B-0800460222F9-titech-jrs-N2000-2}">
-		<company>JRélçë</company>
-		<type>2000ån</type>
-		<name>N2000 ó éYé‘</name>
+		<company>JRÂõõÂõΩ</company>
+		<type>2000Á≥ª</type>
+		<name>N2000 ÈáèÁî£Ëªä</name>
 		<author>HINOTO</author>
 		<description>
 		</description>

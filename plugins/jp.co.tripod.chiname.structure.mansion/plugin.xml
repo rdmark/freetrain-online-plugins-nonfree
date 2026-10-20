@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY Manshon2_2 '
-	<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(2x2)</group>
+	<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(2x2)</group>
 	<price>240000000</price>
 	<size>2,2</size>
 	<structure>
-		<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+		<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 	</structure>
 	<minHeight>2</minHeight>
 	<maxHeight>4</maxHeight>
@@ -15,10 +15,10 @@
 	</population>
 '>
 <!ENTITY Manshon4_2 '
-	<group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(4x2)</group>
+	<group>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³(4x2)</group>
 	<size>4,2</size>
 	<structure>
-		<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+		<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 	</structure>
 	<price>460000000</price>
 	<minHeight>3</minHeight>
@@ -62,8 +62,8 @@
 ]>
 
 <plug-in>
-	<title>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
-	<author>C477@2—¼–Ú</author>
+	<title>åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{35EA4620-0BE3-4424-C477-CE11599C3EF1}">

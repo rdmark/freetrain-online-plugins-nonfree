@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>‹ž‹}2100Œ`</title> 
+  <title>äº¬æ€¥2100å½¢</title> 
   <author>Noz</author> 
   <homepage></homepage>
  
-<!-- 2100æ“ªŽÔ --> 
-@<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-A">
-@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!-- 2100å…ˆé ­è»Š --> 
+ã€€<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-A">
+ã€€<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="keikyu2100-a.bmp" /> 
   </sprite>
   <capacity>111</capacity> 
   <seatedcapacity>50</seatedcapacity>
   </contribution>
-<!-- 2100ÅŒã”öŽÔ -->
-@<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-B">
-@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 2100æœ€å¾Œå°¾è»Š -->
+ã€€<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-B">
+ã€€<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-A" />  
   </contribution> 
-<!--2100’†ŠÔŽÔ-->
-@<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-C">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2100ä¸­é–“è»Š-->
+ã€€<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-C">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="keikyu2100-c.bmp" /> 
   </sprite>
   <capacity>120</capacity> 
   <seatedcapacity>54</seatedcapacity>
   </contribution>
-<!--2100ƒpƒ“ƒ^ŽÔ-->
-@<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-P">
-@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-@<sprite origin="0,0">
+<!--2100ãƒ‘ãƒ³ã‚¿è»Š-->
+ã€€<contribution type="trainCar" id="{7C449C7A-7942-4B43-8ADF-E6EFE24A3E1F}-P">
+ã€€<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+ã€€<sprite origin="0,0">
   <picture src="keikyu2100-b.bmp" /> 
   </sprite>
   <capacity>120</capacity> 
@@ -38,11 +38,11 @@
   </contribution>
 
   <contribution type="train" id="{57349167-D397-45AA-A2C5-8422A52F7506}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2100Œ`</type>
-<name>‹ž‹}ü</name>
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2100å½¢</type>
+<name>äº¬æ€¥ç·š</name>
 <author>Noz</author>
-<description>1998”N‚É‰õ“Á‚ÅŽg—p‚³‚ê‚Ä‚¢‚½2000Œ`‚ÌŒãŒpŽÔ‚Æ‚¢‚¤Ž–‚Å“oê‚µ‚½ŽÔ—¼B4A8A12—¼•Ò¬‚ð—pˆÓ‚µ‚Ä‚¨‚è‚Ü‚·B
+<description>1998å¹´ã«å¿«ç‰¹ã§ä½¿ç”¨ã•ã‚Œã¦ã„ãŸ2000å½¢ã®å¾Œç¶™è»Šã¨ã„ã†äº‹ã§ç™»å ´ã—ãŸè»Šä¸¡ã€‚4ã€8ã€12ä¸¡ç·¨æˆã‚’ç”¨æ„ã—ã¦ãŠã‚Šã¾ã™ã€‚
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -62,11 +62,11 @@
 </contribution>
 
   <contribution type="train" id="{AD37AE4B-E3EB-4D9D-838E-22EA4E4F82BE}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2100Œ`+V1000Œ`</type>
-<name>‹ž‹}ü</name>
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2100å½¢+æ–°1000å½¢</type>
+<name>äº¬æ€¥ç·š</name>
 <author>Noz</author>
-<description>2100Œ`8—¼+V1000Œ`4—¼‚Ì12—¼•Ò¬‚Å‚·B
+<description>2100å½¢8ä¸¡+æ–°1000å½¢4ä¸¡ã®12ä¸¡ç·¨æˆã§ã™ã€‚
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -89,11 +89,11 @@
 </contribution>
 
   <contribution type="train" id="{7F280BAD-7AA1-4454-973B-123D9F19DC33}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2100Œ`+600Œ`</type>
-<name>‹ž‹}ü</name>
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2100å½¢+600å½¢</type>
+<name>äº¬æ€¥ç·š</name>
 <author>Noz</author>
-<description>2100Œ`8—¼+600Œ`4—¼‚Ì12—¼•Ò¬‚Å‚·B
+<description>2100å½¢8ä¸¡+600å½¢4ä¸¡ã®12ä¸¡ç·¨æˆã§ã™ã€‚
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -116,11 +116,11 @@
 </contribution>
 
   <contribution type="train" id="{819C92C0-D19A-448D-9CA6-F66A233617A6}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2100Œ`+2000Œ`</type>
-<name>‹ž‹}ü</name>
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2100å½¢+2000å½¢</type>
+<name>äº¬æ€¥ç·š</name>
 <author>Noz</author>
-<description>2100Œ`8—¼+2000Œ`4—¼‚Ì12—¼•Ò¬‚Å‚·B@–F2000Œ`‚ÍA‚µ‚ÌŽ‚Ì2000Œ`‚ð—˜—p‚µ‚Ä‚¨‚è‚Ü‚·B
+<description>2100å½¢8ä¸¡+2000å½¢4ä¸¡ã®12ä¸¡ç·¨æˆã§ã™ã€‚ã€€ï¼Šï¼š2000å½¢ã¯ã€ã—ã®æ°ã®2000å½¢ã‚’åˆ©ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚
 </description>
 <fare>500</fare>
 <price>35000000</price>
@@ -143,11 +143,11 @@
 </contribution>
 
   <contribution type="train" id="{C5360292-02A0-4D4E-8FC8-CF4202E93870}">
-<company>‹ž•l‹}s“d“S</company>
-<type>2100Œ`+1500Œ`</type>
-<name>‹ž‹}ü</name>
+<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+<type>2100å½¢+1500å½¢</type>
+<name>äº¬æ€¥ç·š</name>
 <author>Noz</author>
-<description>2100Œ`8—¼+1500Œ`4—¼‚Ì12—¼•Ò¬‚Å‚·B–F1500Œ`‚ÍA‚µ‚ÌŽ‚Ì2000Œ`‚ð—˜—p‚µ‚Ä‚¨‚è‚Ü‚·B
+<description>2100å½¢8ä¸¡+1500å½¢4ä¸¡ã®12ä¸¡ç·¨æˆã§ã™ã€‚ï¼Šï¼š1500å½¢ã¯ã€ã—ã®æ°ã®2000å½¢ã‚’åˆ©ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚
 </description>
 <fare>500</fare>
 <price>35000000</price>

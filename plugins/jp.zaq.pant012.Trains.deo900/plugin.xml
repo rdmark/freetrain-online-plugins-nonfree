@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�f�I900</title>
+	<title>デオ900</title>
  	<homepage>http://www.cwo.zaq.ne.jp/pant012/freetrain/</homepage>
 
 	<contribution type="picture" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-1}">
@@ -15,7 +15,7 @@
 		<picture src="train_deo900_3.bmp" />
 	</contribution>
 
-	<!-- �f�I900�擪 -->
+	<!-- デオ900先頭 -->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -30,7 +30,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- �f�I900����-->
+	<!-- デオ900中間-->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -45,7 +45,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- �f�I900�Ō�� -->
+	<!-- デオ900最後尾 -->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4}-t">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -60,7 +60,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- �f�I900-903�擪 -->
+	<!-- デオ900-903先頭 -->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-903}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -70,7 +70,7 @@
 		<seatedcapacity>56</seatedcapacity>
 	</contribution>
 
-	<!-- �f�I900-903����-->
+	<!-- デオ900-903中間-->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-903}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -80,7 +80,7 @@
 		<seatedcapacity>60</seatedcapacity>
 	</contribution>
 
-	<!-- �f�I900-903�Ō�� -->
+	<!-- デオ900-903最後尾 -->
 	<contribution type="trainCar" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-903}-t">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -91,12 +91,12 @@
 	</contribution>
 
 	<contribution type="train" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-901}">
-		<company>�b�R�d�S</company>
-		<type>�f�I900</type>
-		<name>�����@�g�F(901�Ґ�)</name>
-		<author>�Ă�</author>
+		<company>叡山電鉄</company>
+		<type>デオ900</type>
+		<name>きらら　紅色(901編成)</name>
+		<author>ては</author>
 		<description>
-�o�����`�Ɣn�����Ԋό��p�d�ԂƂ��ĕ���9�N�ɒa�������d�Ԃł��B����傫��������_�C�i�~�b�N�ȃf�U�C���A�b�d���̃N���X�V�[�g���A����Ă��Ċy�����d�Ԃł��B(���ԎԂ�A�����Ă��܂����A���Ԃɂ͒��ԎԂ͂���܂���)
+出町柳～鞍馬を結ぶ観光用電車として平成9年に誕生した電車です。窓を大きく取ったダイナミックなデザイン、叡電初のクロスシート等、乗っていて楽しい電車です。(中間車を連結していますが、実車には中間車はありません)
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -111,12 +111,12 @@
 	</contribution>
 
 	<contribution type="train" id="{7661CAC2-57EE-4F0B-957A-E6DF86A148C4-903}">
-		<company>�b�R�d�S</company>
-		<type>�f�I900</type>
-		<name>�����@��F(903�Ґ�)</name>
-		<author>�Ă�</author>
+		<company>叡山電鉄</company>
+		<type>デオ900</type>
+		<name>きらら　朱色(903編成)</name>
+		<author>ては</author>
 		<description>
-���Ґ����D�]�������ׁA�}篐������ꂽ���Ґ��ł��B���Ȃ݂ɎԖ���"�����"�Ƃ͉����߂��ɂ��颉_���(������)����疽�����ꂽ�B(���ԎԂ�A�����Ă��܂����A���Ԃɂ͒��ԎԂ͂���܂���)
+第一編成が好評だった為、急遽製造された第二編成です。ちなみに車名の"きらら"とは沿線近くにある｢雲母坂(きらら坂)｣から命名された。(中間車を連結していますが、実車には中間車はありません)
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -130,7 +130,7 @@
 		</composition>
 	</contribution>
 
-	<!-- �f�I600 -->
+	<!-- デオ600 -->
 	<contribution type="trainCar" id="{nyaganyaga-deo600}-h">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -141,12 +141,12 @@
 	</contribution>
 
 	<contribution type="train" id="{nyaganyaga-deo600}">
-		<company>�b�R�d�S</company>
-		<type>�f�I600</type>
+		<company>叡山電鉄</company>
+		<type>デオ600</type>
 		<name></name>
-		<author>�Ă�</author>
+		<author>ては</author>
 		<description>
-�f�i500�̑������g�p���Đ��삳�ꂽ�ԗ��B��[������Ă��Ȃ��̂Ō���2�����c���݂̂ł��B</description>
+デナ500の足回りを使用して製作された車両。冷房化されていないので現在2両を残すのみです。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>90</amenity>
@@ -157,7 +157,7 @@
 		</composition>
 	</contribution>
 
-	<!-- �f�I700 -->
+	<!-- デオ700 -->
 	<contribution type="trainCar" id="{nyaganyaga-deo700}-h">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -168,12 +168,12 @@
 	</contribution>
 
 	<contribution type="train" id="{nyaganyaga-deo700}">
-		<company>�b�R�d�S</company>
-		<type>�f�I700</type>
+		<company>叡山電鉄</company>
+		<type>デオ700</type>
 		<name></name>
-		<author>�Ă�</author>
+		<author>ては</author>
 		<description>
-�b�d���̗�[�ԂŃ����}���Ή��̎ԗ��ł��B�]�k�Ȃ���b�d�̎ԗ��͕��ɐ�ԗ����ō�_�̕��i�����Ȃ�g���Ă��܂�</description>
+叡電初の冷房車でワンマン対応の車両です。余談ながら叡電の車両は武庫川車両製で阪神の部品がかなり使われています</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

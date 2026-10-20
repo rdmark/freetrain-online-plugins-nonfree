@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title></title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	
-	<!-- 485�n�擪�ԗ� -->
+	<!-- 485系先頭車両 -->
 	<contribution type="trainCar" id="{4E5FD73B-4F93-49f4-9FE8-9E8AE5FE2127}-h">
 		<class name="freetrain.framework.plugin.impl.AsymTrainCarImpl" />
 		<picture src="..\..\\trainshare\485a.bmp" origin="0,0"/>
 		<capacity>56</capacity>
 	</contribution>
 	
-	<!-- 485�n���Ԏԗ� -->
+	<!-- 485系中間車両 -->
 	<contribution type="trainCar" id="{4E5FD73B-4F93-49f4-9FE8-9E8AE5FE2127}-m">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="..\..\\trainshare\485b.bmp" origin="0,0"/>
 		<capacity>72</capacity>
 	</contribution>
 	
-	<!-- 485�n����ԗ� -->
+	<!-- 485系後尾車両 -->
 	<contribution type="trainCar" id="{4E5FD73B-4F93-49f4-9FE8-9E8AE5FE2127}-t">
 		<class name="freetrain.framework.plugin.impl.ReverseTrainCarImpl" />
 		<base carRef="{4E5FD73B-4F93-49f4-9FE8-9E8AE5FE2127}-h"/>
@@ -25,12 +25,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{4E5FD73B-4F93-49f4-9FE8-9E8AE5FE2127}">
-		<company>JR��B</company>
-		<type>485�n</type>
-		<name>�O�ʃ{���l�b�g���E�݂ǂ�A�����ߓ�</name>
-		<author>��</author>
+		<company>JR九州</company>
+		<type>485系</type>
+		<name>前面ボンネット無・みどり、かもめ等</name>
+		<author>暇</author>
 		<description>
-���a43�N�ɓo�ꂵ���𒼗��p���}�d�ԁB�o��ȗ����X�̓��}�̑㖼���ƂȂ����B�Ԃ��Ȃ��Ă݂���΂ɂȂ��Ă݂��肵�Ă���B
+昭和43年に登場した交直両用特急電車。登場以来数々の特急の代名詞となった。赤くなってみたり緑になってみたりしている。
 		</description>
 		<price>1</price>
 		<speed>fast</speed>
@@ -43,7 +43,7 @@
 	
 	
 	
-	<!-- 415�n-->
+	<!-- 415系-->
 	<contribution type="trainCar" id="{1750BB79-0993-46e3-9B7F-56E5CED89D58}">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="..\..\\trainshare\415.bmp" origin="0,0"/>
@@ -51,13 +51,13 @@
 	</contribution>
 
 	<contribution type="train" id="{7E0F257B-57AF-4eda-8E9A-FE51C3734BCF}">
-		<company>JR��B</company>
-		<type>415�n</type>
-		<name>�W���F</name>
-		<author>Min����</author>
+		<company>JR九州</company>
+		<type>415系</type>
+		<name>標準色</name>
+		<author>Minさん</author>
 		<speed>medium</speed> 
 		<capacity>95</capacity> 
-		<description>��Ɏ������{���𑖂�d�ԁB�𒼗���Ԃ𑖂邱�Ƃ��ł���̂ŁA���֕��ʏ�����Ɏg����B</description>
+		<description>主に鹿児島本線を走る電車。交直流区間を走ることができるので、下関方面乗り入れに使われる。</description>
 
 
 		<price>100</price>
@@ -69,21 +69,21 @@
 
 
 
-	<!-- 811�n�擪�ԗ� -->
+	<!-- 811系先頭車両 -->
 	<contribution type="trainCar" id="{23CAB2B9-D540-456f-B02F-671BC2ED03A5}-h">
 		<class name="freetrain.framework.plugin.impl.AsymTrainCarImpl" />
 		<picture src="811a.bmp" origin="0,0"/>
 		<capacity>110</capacity>
 	</contribution>
 	
-	<!-- 811�n���Ԏԗ� -->
+	<!-- 811系中間車両 -->
 	<contribution type="trainCar" id="{23CAB2B9-D540-456f-B02F-671BC2ED03A5}-m">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="811b.bmp" origin="0,0"/>
 		<capacity>110</capacity>
 	</contribution>
 	
-	<!-- 811�n����ԗ� -->
+	<!-- 811系後尾車両 -->
 	<contribution type="trainCar" id="{23CAB2B9-D540-456f-B02F-671BC2ED03A5}-t">
 		<class name="freetrain.framework.plugin.impl.ReverseTrainCarImpl" />
 		<base carRef="{23CAB2B9-D540-456f-B02F-671BC2ED03A5}-h"/>
@@ -91,12 +91,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{23CAB2B9-D540-456f-B02F-671BC2ED03A5}">
-		<company>JR��B</company>
-		<type>811�n</type>
-		<name>��{�F</name>
-		<author>Min����</author>
+		<company>JR九州</company>
+		<type>811系</type>
+		<name>基本色</name>
+		<author>Minさん</author>
 		<speed>medium</speed> 
-		<description>��ɕ����n��Ŋ��􂷂�ʋΓd�ԁB�S���ō\�������B</description>
+		<description>主に福岡地区で活躍する通勤電車。４両で構成される。</description>
 		<price>1</price>
 		<speed>fast</speed>
 		<composition>
@@ -107,21 +107,21 @@
 	</contribution>
 
 
-	<!-- 813�n�擪�ԗ� -->
+	<!-- 813系先頭車両 -->
 	<contribution type="trainCar" id="{B8FF8145-9108-4165-BBD5-46B647D75E2B}-h">
 		<class name="freetrain.framework.plugin.impl.AsymTrainCarImpl" />
 		<picture src="813a.bmp" origin="0,0"/>
 		<capacity>110</capacity>
 	</contribution>
 	
-	<!-- 813�n���Ԏԗ� -->
+	<!-- 813系中間車両 -->
 	<contribution type="trainCar" id="{B8FF8145-9108-4165-BBD5-46B647D75E2B}-m">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="813b.bmp" origin="0,0"/>
 		<capacity>110</capacity>
 	</contribution>
 	
-	<!-- 813�n����ԗ� -->
+	<!-- 813系後尾車両 -->
 	<contribution type="trainCar" id="{B8FF8145-9108-4165-BBD5-46B647D75E2B}-t">
 		<class name="freetrain.framework.plugin.impl.ReverseTrainCarImpl" />
 		<base carRef="{B8FF8145-9108-4165-BBD5-46B647D75E2B}-h"/>
@@ -129,12 +129,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{B8FF8145-9108-4165-BBD5-46B647D75E2B}">
-		<company>JR��B</company>
-		<type>813�n</type>
-		<name>��{�F</name>
-		<author>Min����</author>
+		<company>JR九州</company>
+		<type>813系</type>
+		<name>基本色</name>
+		<author>Minさん</author>
 		<speed>medium</speed> 
-		<description>��ɕ����E�啪�E����n��Ŋ��􂷂�ʋΓd�ԁB2���Ⴕ����3���ō\�������B</description>
+		<description>主に福岡・大分・長崎地区で活躍する通勤電車。2両若しくは3両で構成される。</description>
 		<price>1</price>
 		<speed>fast</speed>
 		<composition>

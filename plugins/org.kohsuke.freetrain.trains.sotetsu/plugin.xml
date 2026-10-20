@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‘Š–Í“S“¹ƒvƒ‰ƒOƒCƒ“</title>
-	<author>–³–¼‚Ìl</author>
+	<title>ç›¸æ¨¡é‰„é“ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>ç„¡åã®äºº</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	
-	<!-- 10000Œn -->
+	<!-- 10000ç³» -->
 	<contribution type="trainCar" id="{0405302000}dfyu3432413">
 	<class name="freetrain.contributions.train.ColoredTrainCarImpl" />
 	<capacity>140</capacity>
@@ -13,11 +13,11 @@
     	</contribution>
 
 	<contribution type="train" id="{0405302000}ljkyl5xldjgul32">
- 		<company>‘Š–Í“S“¹</company>
-		 <type>10000Œn</type>
-		 <name>10000Œn</name>
-		 <author>‘Š“S</author>
-		 <description>‘Š–Í“S“¹‚ÌÅVŒ^ŽÔçqJR“Œ“ú–{‚ÌE231‚ðŠî–{‚É‚µ‚Äì‚ç‚ê‚½   </description>
+ 		<company>ç›¸æ¨¡é‰„é“</company>
+		 <type>10000ç³»</type>
+		 <name>10000ç³»</name>
+		 <author>ç›¸é‰„</author>
+		 <description>ç›¸æ¨¡é‰„é“ã®æœ€æ–°åž‹è»Šè¼ŒJRæ±æ—¥æœ¬ã®E231ã‚’åŸºæœ¬ã«ã—ã¦ä½œã‚‰ã‚ŒãŸ   </description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -32,7 +32,7 @@
 
 
 
-	<!-- 5000Œ` -->
+	<!-- 5000å½¢ -->
 	<contribution type="trainCar" id="{0406022228}dfydsfyh13">
 	<class name="freetrain.contributions.train.ColoredTrainCarImpl" />
 	<capacity>140</capacity>
@@ -41,11 +41,11 @@
     	</contribution>
 
 	<contribution type="train" id="{0406022228}lja8953jgul32">
- 		<company>‘Š–Í“S“¹</company>
-		 <type>5000Œn</type>
-		 <name>5000Œn</name>
-		 <author>ƒzƒŠƒf[‰õ‘¬‘Š“Sü</author>
-		 <description>‘Š–Í“S“¹‰‚ÌV‘¢ŽÔBVVVFƒCƒ“ƒo[ƒ^[§Œä‚É‰ü‘¢‚³‚ê‚½</description>
+ 		<company>ç›¸æ¨¡é‰„é“</company>
+		 <type>5000ç³»</type>
+		 <name>5000ç³»</name>
+		 <author>ãƒ›ãƒªãƒ‡ãƒ¼å¿«é€Ÿç›¸é‰„ç·š</author>
+		 <description>ç›¸æ¨¡é‰„é“åˆã®æ–°é€ è»Šã€‚VVVFã‚¤ãƒ³ãƒãƒ¼ã‚¿ãƒ¼åˆ¶å¾¡ã«æ”¹é€ ã•ã‚ŒãŸ</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

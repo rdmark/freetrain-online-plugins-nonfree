@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>ŽÔçq(‹C“®ŽÔ:ƒŒ[ƒ‹ƒoƒX)</title>
+<title>è»Šè¼Œ(æ°—å‹•è»Š:ãƒ¬ãƒ¼ãƒ«ãƒã‚¹)</title>
 
-<!-- ƒCƒ[ƒW‰æ‘œ’è‹` -->
-	<!-- ‹C“®ŽÔ ƒLƒn01Œn -->
+<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ01ç³» -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiha01}">
 		<picture src="kiha01.bmp" />
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒ†ƒj01Œn -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ¦ãƒ‹01ç³» -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiyuni01}">
 		<picture src="kiyuni01.bmp" />
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn02Œn -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ02ç³» -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiha02}">
 		<picture src="kiha02.bmp" />
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn03Œn -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ03ç³» -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiha03}">
 		<picture src="kiha03.bmp" />
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn10Œn-101-102(“ì•”cŠÑ“S“¹) -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ10ç³»-101-102(å—éƒ¨ç¸¦è²«é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiha10-nanbu}">
 		<picture src="kiha10_nanbu.bmp" />
 	</contribution>
-	<!-- LE-Car ƒnƒCƒ‚180(’MŒ©“S“¹) -->
+	<!-- LE-Car ãƒã‚¤ãƒ¢180(æ¨½è¦‹é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-haimo180}">
 		<picture src="haimo180.bmp" />
 	</contribution>
-	<!-- LE-Car ƒnƒCƒ‚180(—L“c“S“¹) -->
+	<!-- LE-Car ãƒã‚¤ãƒ¢180(æœ‰ç”°é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-haimo180-arita}">
 		<picture src="haimo180_arita.bmp" />
 	</contribution>
-	<!-- LE-Car ƒ~ƒL180(ŽO–Ø“S“¹) -->
+	<!-- LE-Car ãƒŸã‚­180(ä¸‰æœ¨é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-miki180}">
 		<picture src="miki180.bmp" />
 	</contribution>
-	<!-- LE-Car ƒtƒ‰ƒ1985(–kð“S“¹) -->
+	<!-- LE-Car ãƒ•ãƒ©ãƒ¯1985(åŒ—æ¡é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-hurawa1985}">
 		<picture src="hurawa1985.bmp" />
 	</contribution>
-	<!-- LE-Car ƒLƒn10Œn(–¼ŒÃ‰®“S“¹) -->
+	<!-- LE-Car ã‚­ãƒ10ç³»(åå¤å±‹é‰„é“) -->
 	<contribution type="picture" id="{FreeTrain-Shika-DieselRailcar-RailBus-picture-kiha10-meitetu}">
 		<picture src="kiha10_meitetu.bmp" />
 	</contribution>
 
 
-<!-- ŽÔ—¼’è‹` -->
-	<!-- ‹C“®ŽÔ ƒLƒn01Œn -->
+<!-- è»Šä¸¡å®šç¾© -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ01ç³» -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha01}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -58,7 +58,7 @@
 		<capacity>46</capacity>
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒ†ƒj01Œn -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ¦ãƒ‹01ç³» -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiyuni01}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -67,7 +67,7 @@
 		<capacity>46</capacity>
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn02Œn -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ02ç³» -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha02}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -76,7 +76,7 @@
 		<capacity>46</capacity>
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn03Œn ’èˆõ46l -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ03ç³» å®šå“¡46äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha03}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -85,7 +85,7 @@
 		<capacity>46</capacity>
 		<seatedcapacity>46</seatedcapacity>
 	</contribution>
-	<!-- ‹C“®ŽÔ ƒLƒn10Œn-101-102(“ì•”cŠÑ“S“¹) ÀÈ27—§È33 ’èˆõ60l -->
+	<!-- æ°—å‹•è»Š ã‚­ãƒ10ç³»-101-102(å—éƒ¨ç¸¦è²«é‰„é“) åº§å¸­27ç«‹å¸­33 å®šå“¡60äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-nanbu}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -94,7 +94,7 @@
 		<capacity>60</capacity>
 		<seatedcapacity>27</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒnƒCƒ‚180(’MŒ©“S“¹)ƒƒ“ƒOƒV[ƒgÈ36—§È54 ’èˆõ90l -->
+	<!-- LE-Car ãƒã‚¤ãƒ¢180(æ¨½è¦‹é‰„é“)ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆå¸­36ç«‹å¸­54 å®šå“¡90äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -103,7 +103,7 @@
 		<capacity>90</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒnƒCƒ‚180(—L“c“S“¹)ƒNƒƒXƒV[ƒgÈ34—§È36 ’èˆõ70l -->
+	<!-- LE-Car ãƒã‚¤ãƒ¢180(æœ‰ç”°é‰„é“)ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆå¸­34ç«‹å¸­36 å®šå“¡70äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180-arita}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -112,7 +112,7 @@
 		<capacity>70</capacity>
 		<seatedcapacity>34</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒ~ƒL180(ŽO–Ø“S“¹) ’èˆõ88l -->
+	<!-- LE-Car ãƒŸã‚­180(ä¸‰æœ¨é‰„é“) å®šå“¡88äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-miki180}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -121,7 +121,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>34</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒtƒ‰ƒ1985-1†ŽÔ(–kð“S“¹)ƒƒ“ƒOƒV[ƒgÈ36—§È45 ’èˆõ88l -->
+	<!-- LE-Car ãƒ•ãƒ©ãƒ¯1985-1å·è»Š(åŒ—æ¡é‰„é“)ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆå¸­36ç«‹å¸­45 å®šå“¡88äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-hurawa1985-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -130,7 +130,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒtƒ‰ƒ1985-2†ŽÔ(–kð“S“¹) ’èˆõ88l -->
+	<!-- LE-Car ãƒ•ãƒ©ãƒ¯1985-2å·è»Š(åŒ—æ¡é‰„é“) å®šå“¡88äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-hurawa1985-2}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -150,7 +150,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒtƒ‰ƒ1985-3†ŽÔ(–kð“S“¹) ’èˆõ88l -->
+	<!-- LE-Car ãƒ•ãƒ©ãƒ¯1985-3å·è»Š(åŒ—æ¡é‰„é“) å®šå“¡88äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-hurawa1985-3}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -170,7 +170,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>36</seatedcapacity>
 	</contribution>
-	<!-- LE-Car ƒLƒn10Œn(–¼ŒÃ‰®“S“¹) ’èˆõ88l -->
+	<!-- LE-Car ã‚­ãƒ10ç³»(åå¤å±‹é‰„é“) å®šå“¡88äºº -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-meitetu}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -181,13 +181,13 @@
 	</contribution>
 
 
-<!-- —ñŽÔ’è‹` -->
+<!-- åˆ—è»Šå®šç¾© -->
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-kiha01-railbus}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>ƒLƒn01</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>ƒŒ[ƒ‹ƒoƒX‚ÆŒÄ‚Î‚ê‚½¬Œ^ƒfƒB[ƒ[ƒ‹ƒJ[‚Å‚·B1954”N‚©‚ç12—¼»‘¢‚³‚ê‚Ä‚¢‚Ü‚·B»‘¢“–‰‚ÍƒLƒn10000`11‚Å‚µ‚½‚ªA1957”N‚É‹ŒƒLƒn10000`03‚ªƒLƒn01‚Ì1`4‚ÉA‹ŒƒLƒn10004`11‚ªƒLƒn01‚Ì51`58‚É‰ü”Ô‚³‚ê‚Ä‚¢‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>ã‚­ãƒ01</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã¨å‘¼ã°ã‚ŒãŸå°åž‹ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼ã§ã™ã€‚1954å¹´ã‹ã‚‰12ä¸¡è£½é€ ã•ã‚Œã¦ã„ã¾ã™ã€‚è£½é€ å½“åˆã¯ã‚­ãƒ10000ï½ž11ã§ã—ãŸãŒã€1957å¹´ã«æ—§ã‚­ãƒ10000ï½ž03ãŒã‚­ãƒ01ã®1ï½ž4ã«ã€æ—§ã‚­ãƒ10004ï½ž11ãŒã‚­ãƒ01ã®51ï½ž58ã«æ”¹ç•ªã•ã‚Œã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -195,19 +195,19 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha01}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha01}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
-			<composition>‹C‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
+			<composition>æ°—æ°—æ°—</composition>
 		</config>
 	</contribution>
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-kiyuni01-railbus}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>ƒLƒ†ƒj01</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>1952”N‚ÉƒLƒn01-55‚ÌŽº“à‚Ì‚Ý‚ð‰ü‘¢‚µƒLƒ†ƒj01-1‚Æ‚µ‚½‚à‚Ì‚ÅA1—¼‚Ì‚Ý»‘¢‚³‚ê‚Ü‚µ‚½BŽR‰A–{ü‚ÆŽO]–kü‚ÅŽg—p‚³‚êAº˜a42”N‚É”pŽÔ‚³‚ê‚Ä‚¢‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>ã‚­ãƒ¦ãƒ‹01</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>1952å¹´ã«ã‚­ãƒ01-55ã®å®¤å†…ã®ã¿ã‚’æ”¹é€ ã—ã‚­ãƒ¦ãƒ‹01-1ã¨ã—ãŸã‚‚ã®ã§ã€1ä¸¡ã®ã¿è£½é€ ã•ã‚Œã¾ã—ãŸã€‚å±±é™°æœ¬ç·šã¨ä¸‰æ±ŸåŒ—ç·šã§ä½¿ç”¨ã•ã‚Œã€æ˜­å’Œ42å¹´ã«å»ƒè»Šã•ã‚Œã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -215,20 +215,20 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‰×" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiyuni01}"/>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha01}"/>
+			<car char="è·" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiyuni01}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha01}"/>
 			
-			<composition>‰×</composition>
-			<composition>‰×‹C</composition>
-			<composition>‰×‹C‹C</composition>
+			<composition>è·</composition>
+			<composition>è·æ°—</composition>
+			<composition>è·æ°—æ°—</composition>
 		</config>
 	</contribution>
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-kiha02-railbus}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>ƒLƒn02</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>ƒŒ[ƒ‹ƒoƒX‚ÆŒÄ‚Î‚ê‚½¬Œ^ƒfƒB[ƒ[ƒ‹ƒJ[‚Å‚·BƒLƒn02Œn‚Í17—¼»‘¢‚³‚ê‚Ü‚µ‚½B»‘¢“–‰‚ÍƒLƒn10012`28‚Å‚µ‚½‚ªA1957”N‚ÉƒLƒn02 1`17‚É‰ü”Ô‚³‚ê‚Ä‚¢‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>ã‚­ãƒ02</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã¨å‘¼ã°ã‚ŒãŸå°åž‹ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼ã§ã™ã€‚ã‚­ãƒ02ç³»ã¯17ä¸¡è£½é€ ã•ã‚Œã¾ã—ãŸã€‚è£½é€ å½“åˆã¯ã‚­ãƒ10012ï½ž28ã§ã—ãŸãŒã€1957å¹´ã«ã‚­ãƒ02 1ï½ž17ã«æ”¹ç•ªã•ã‚Œã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -236,20 +236,20 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha02}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha02}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
-			<composition>‹C‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
+			<composition>æ°—æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-kiha03-railbus}">
-		<company>‹Œ“ú–{‘—L“S“¹</company>
-		<type>ƒLƒn03</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>1956”N‚É“Œ‹}ŽÔçq‚ÅƒLƒn02‚ðŠî–{‚É–kŠC“¹Œü‚¯‚Æ‚µ‚Ä»‘¢‚³‚ê‚½‹ÉŠ¦Žd—l‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B‹q‘‹‚Í“ñd‘‹‚É‚È‚èA’g–[‘•’u‚ª‹­‰»‚ª}‚ç‚ê‚Ä‚¢‚Ü‚·B»‘¢“–‰‚ÍƒLƒn10200`10219‚Å‚µ‚½‚ªA1957”N‚ÉƒLƒn03 1`20‚É‰ü”Ô‚³‚ê‚Ä‚¢‚Ü‚·B1966”N‚Ü‚Å‚É‘SŽÔ”pŽÔ‚Æ‚È‚Á‚Ä‚¢‚Ü‚·B
+		<company>æ—§æ—¥æœ¬å›½æœ‰é‰„é“</company>
+		<type>ã‚­ãƒ03</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>1956å¹´ã«æ±æ€¥è»Šè¼Œã§ã‚­ãƒ02ã‚’åŸºæœ¬ã«åŒ—æµ·é“å‘ã‘ã¨ã—ã¦è£½é€ ã•ã‚ŒãŸæ¥µå¯’ä»•æ§˜ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚å®¢çª“ã¯äºŒé‡çª“ã«ãªã‚Šã€æš–æˆ¿è£…ç½®ãŒå¼·åŒ–ãŒå›³ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚è£½é€ å½“åˆã¯ã‚­ãƒ10200ï½ž10219ã§ã—ãŸãŒã€1957å¹´ã«ã‚­ãƒ03 1ï½ž20ã«æ”¹ç•ªã•ã‚Œã¦ã„ã¾ã™ã€‚1966å¹´ã¾ã§ã«å…¨è»Šå»ƒè»Šã¨ãªã£ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -257,20 +257,20 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha03}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha03}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
-			<composition>‹C‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
+			<composition>æ°—æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-nanbu-kiha10-railbus}">
-		<company>“ì•”cŠÑ“S“¹</company>
-		<type>ƒLƒn10</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>1962(º˜a37)”N10ŒŽ20“ú‚Ì“ì•”cŠÑ“S“¹‚ÌŠJ‹Æ‚É‡‚í‚¹‚Ä•xŽmdH‚Å»‘¢‚³‚ê‚Ü‚µ‚½B1996”N‚ÉƒGƒo[ƒOƒŠ[ƒ“ÜŽóÜB‚È‚¨“ì•”cŠÑ“S“¹‚Í1997(•½¬9)”N5ŒŽ5“ú‚É‰c‹Æ‹xŽ~‚Æ‚È‚èAŒã‚Ì2002(•½¬14)”N8ŒŽ1“ú‚ð‚à‚Á‚Ä“S“¹Ž–‹Æ”pŽ~‚Æ‚È‚Á‚Ä‚¢‚Ü‚·B
+		<company>å—éƒ¨ç¸¦è²«é‰„é“</company>
+		<type>ã‚­ãƒ10</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>1962(æ˜­å’Œ37)å¹´10æœˆ20æ—¥ã®å—éƒ¨ç¸¦è²«é‰„é“ã®é–‹æ¥­ã«åˆã‚ã›ã¦å¯Œå£«é‡å·¥ã§è£½é€ ã•ã‚Œã¾ã—ãŸã€‚1996å¹´ã«ã‚¨ãƒãƒ¼ã‚°ãƒªãƒ¼ãƒ³è³žå—è³žã€‚ãªãŠå—éƒ¨ç¸¦è²«é‰„é“ã¯1997(å¹³æˆ9)å¹´5æœˆ5æ—¥ã«å–¶æ¥­ä¼‘æ­¢ã¨ãªã‚Šã€å¾Œã®2002(å¹³æˆ14)å¹´8æœˆ1æ—¥ã‚’ã‚‚ã£ã¦é‰„é“äº‹æ¥­å»ƒæ­¢ã¨ãªã£ã¦ã„ã¾ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -278,19 +278,19 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-nanbu}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-nanbu}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-tarumi-haimo180-railbus}">
-		<company>’MŒ©“S“¹</company>
-		<type>ƒnƒCƒ‚180</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·BƒNƒƒXƒV[ƒg‚Æƒƒ“ƒOƒV[ƒg‚Ì3—¼‚ ‚è‚Ü‚µ‚½‚ªAƒNƒƒXƒV[ƒg‚¾‚Á‚½1—¼‚Í˜a‰ÌŽRŒ§‚Ì—L“c“S“¹‚É÷“n‚³‚ê‚Ü‚µ‚½B
+		<company>æ¨½è¦‹é‰„é“</company>
+		<type>ãƒã‚¤ãƒ¢180</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆã¨ãƒ­ãƒ³ã‚°ã‚·ãƒ¼ãƒˆã®3ä¸¡ã‚ã‚Šã¾ã—ãŸãŒã€ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆã ã£ãŸ1ä¸¡ã¯å’Œæ­Œå±±çœŒã®æœ‰ç”°é‰„é“ã«è­²æ¸¡ã•ã‚Œã¾ã—ãŸã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -298,20 +298,20 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
-			<composition>‹C‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
+			<composition>æ°—æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-arita-haimo180-railbus}">
-		<company>—L“c“S“¹</company>
-		<type>ƒnƒCƒ‚180</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B’MŒ©“S“¹‚æ‚è÷“n‚³‚ê‚½‚à‚Ì‚ÅAƒNƒƒXƒV[ƒg34È’èˆõ70–¼‚Å‚·B
+		<company>æœ‰ç”°é‰„é“</company>
+		<type>ãƒã‚¤ãƒ¢180</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚æ¨½è¦‹é‰„é“ã‚ˆã‚Šè­²æ¸¡ã•ã‚ŒãŸã‚‚ã®ã§ã€ã‚¯ãƒ­ã‚¹ã‚·ãƒ¼ãƒˆ34å¸­å®šå“¡70åã§ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -319,19 +319,19 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180-arita}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-haimo180-arita}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-miki-miki180-railbus}">
-		<company>ŽO–Ø“S“¹</company>
-		<type>ƒ~ƒL180</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B
+		<company>ä¸‰æœ¨é‰„é“</company>
+		<type>ãƒŸã‚­180</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -339,19 +339,19 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-miki180}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-miki180}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-miki-hurawa1985-1-railbus}">
-		<company>–kð“S“¹</company>
-		<type>ƒtƒ‰ƒ1985-1</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B“h‘•‚Í1†ŽÔ‚ª”’’n‚ÉÔ‚É‰©—Î¤2†ŽÔ‚ÍÔ‚ÉÂ¤3†ŽÔ‚ÍÔ‚É—ÎF‚Ì‘Ñ‚Å‚·B
+		<company>åŒ—æ¡é‰„é“</company>
+		<type>ãƒ•ãƒ©ãƒ¯1985-1</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚å¡—è£…ã¯1å·è»ŠãŒç™½åœ°ã«èµ¤ã«é»„ç·‘ï½¤2å·è»Šã¯èµ¤ã«é’ï½¤3å·è»Šã¯èµ¤ã«ç·‘è‰²ã®å¸¯ã§ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -370,11 +370,11 @@
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-miki-hurawa1985-2-railbus}">
-		<company>–kð“S“¹</company>
-		<type>ƒtƒ‰ƒ1985-2</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B“h‘•‚Í1†ŽÔ‚ª”’’n‚ÉÔ‚É‰©—Î¤2†ŽÔ‚ÍÔ‚ÉÂ¤3†ŽÔ‚ÍÔ‚É—ÎF‚Ì‘Ñ‚Å‚·B
+		<company>åŒ—æ¡é‰„é“</company>
+		<type>ãƒ•ãƒ©ãƒ¯1985-2</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚å¡—è£…ã¯1å·è»ŠãŒç™½åœ°ã«èµ¤ã«é»„ç·‘ï½¤2å·è»Šã¯èµ¤ã«é’ï½¤3å·è»Šã¯èµ¤ã«ç·‘è‰²ã®å¸¯ã§ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -393,11 +393,11 @@
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-miki-hurawa1985-3-railbus}">
-		<company>–kð“S“¹</company>
-		<type>ƒtƒ‰ƒ1985-3</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>•xŽmdH»‘¢‚ÌLE-Car(ƒ‰ƒCƒgƒGƒRƒmƒ~[EƒfƒB[ƒ[ƒ‹ƒJ[)‚ÌƒŒ[ƒ‹ƒoƒX‚Å‚·B“h‘•‚Í1†ŽÔ‚ª”’’n‚ÉÔ‚É‰©—Î¤2†ŽÔ‚ÍÔ‚ÉÂ¤3†ŽÔ‚ÍÔ‚É—ÎF‚Ì‘Ñ‚Å‚·B
+		<company>åŒ—æ¡é‰„é“</company>
+		<type>ãƒ•ãƒ©ãƒ¯1985-3</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å¯Œå£«é‡å·¥è£½é€ ã®LE-Car(ãƒ©ã‚¤ãƒˆã‚¨ã‚³ãƒŽãƒŸãƒ¼ãƒ»ãƒ‡ã‚£ãƒ¼ã‚¼ãƒ«ã‚«ãƒ¼)ã®ãƒ¬ãƒ¼ãƒ«ãƒã‚¹ã§ã™ã€‚å¡—è£…ã¯1å·è»ŠãŒç™½åœ°ã«èµ¤ã«é»„ç·‘ï½¤2å·è»Šã¯èµ¤ã«é’ï½¤3å·è»Šã¯èµ¤ã«ç·‘è‰²ã®å¸¯ã§ã™ã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -416,11 +416,11 @@
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-Shika-RailroadTrain-meitetu-kiha10-railbus}">
-		<company>–¼ŒÃ‰®“S“¹</company>
-		<type>ƒLƒn10</type>
-		<name>ƒŒ[ƒ‹ƒoƒX</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>”ª•S’Ãü‚ÆŽO‰Íü—p‚É1984(º˜a59)”N‚É•xŽmdH‚Å”ñ—â–[ŽÔ‚ª»‘¢‚³‚êA1985(º˜a60)”N‚É—â–[ŽÔ‚ª»‘¢‚³‚ê‚Ü‚µ‚½B1995(•½¬7)”N‚É‘SŽÔ”pŽÔ‚Æ‚È‚Á‚Ä‚¢‚Ü‚·‚ªA—â–[ŽÔ2—¼(ƒLƒn15¥16)‚Í‚­‚è‚Í‚ç“c‰€“S“¹‚ÉˆÚÐ‚³‚ê‚Ü‚µ‚½B
+		<company>åå¤å±‹é‰„é“</company>
+		<type>ã‚­ãƒ10</type>
+		<name>ãƒ¬ãƒ¼ãƒ«ãƒã‚¹</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å…«ç™¾æ´¥ç·šã¨ä¸‰æ²³ç·šç”¨ã«1984(æ˜­å’Œ59)å¹´ã«å¯Œå£«é‡å·¥ã§éžå†·æˆ¿è»ŠãŒè£½é€ ã•ã‚Œã€1985(æ˜­å’Œ60)å¹´ã«å†·æˆ¿è»ŠãŒè£½é€ ã•ã‚Œã¾ã—ãŸã€‚1995(å¹³æˆ7)å¹´ã«å…¨è»Šå»ƒè»Šã¨ãªã£ã¦ã„ã¾ã™ãŒã€å†·æˆ¿è»Š2ä¸¡(ã‚­ãƒ15ï½¥16)ã¯ãã‚Šã¯ã‚‰ç”°åœ’é‰„é“ã«ç§»ç±ã•ã‚Œã¾ã—ãŸã€‚
 		</description>
 		<fare>500</fare>
 		<price>30000000</price>
@@ -428,10 +428,10 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‹C" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-meitetu}"/>
+			<car char="æ°—" ref="{FreeTrain-Shika-DieselRailcar-RailBus-TrainCar-kiha10-meitetu}"/>
 			
-			<composition>‹C</composition>
-			<composition>‹C‹C</composition>
+			<composition>æ°—</composition>
+			<composition>æ°—æ°—</composition>
 		</config>
 	</contribution>
 

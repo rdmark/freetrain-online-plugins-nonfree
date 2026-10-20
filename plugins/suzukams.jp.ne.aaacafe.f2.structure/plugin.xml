@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
-	<author>‰É</author>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
+	<author>æš‡</author>
 	<homepage></homepage>
 	
 	<contribution type="picture" id="{kaden-js01-1001201801}">
@@ -13,8 +13,8 @@
 
 
 	<contribution type="GenericStructure" id="{kaden-js01d1-1001201801}">
-		<group>‰Æ“d—Ê”Ì“X</group>
-		<name>ƒWƒ‡[ƒVƒ“type1</name>
+		<group>å®¶é›»é‡è²©åº—</group>
+		<name>ã‚¸ãƒ§ãƒ¼ã‚·ãƒ³type1</name>
 		<price>100000000</price>
 		<size>2,2</size>
 		<height>2</height>
@@ -23,7 +23,7 @@
 			<base>120</base>
 		</population>
 		<structure>
-			<category  byname="‰Æ“d“X"/>
+			<category  byname="å®¶é›»åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="40">
 			<picture ref="{kaden-js01-1001201801}"/>
@@ -40,8 +40,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{kaden-md01d1-1001242203}">
-		<group>‰Æ“d—Ê”Ì“X</group>
-		<name>ƒ~ƒhƒŠ“d‰»type1</name>
+		<group>å®¶é›»é‡è²©åº—</group>
+		<name>ãƒŸãƒ‰ãƒªé›»åŒ–type1</name>
 		<price>100000000</price>
 		<size>2,2</size>
 		<height>2</height>
@@ -50,7 +50,7 @@
 			<base>120</base>
 		</population>
 		<structure>
-			<category  byname="‰Æ“d“X"/>
+			<category  byname="å®¶é›»åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="40">
 			<picture ref="{kaden-md01-1001242203}" />
@@ -67,8 +67,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{diy-kn01d1-1001302235}">
-		<group>“ú—j‘åH“X</group>
-		<name>ƒR[ƒiƒ“type1</name>
+		<group>æ—¥æ›œå¤§å·¥åº—</group>
+		<name>ã‚³ãƒ¼ãƒŠãƒ³type1</name>
 		<price>100000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -77,7 +77,7 @@
 			<base>70</base>
 		</population>
 		<structure>
-			<category  byname="’nˆæƒ`ƒF[ƒ““ú—p•i“X"/>
+			<category  byname="åœ°åŸŸãƒã‚§ãƒ¼ãƒ³æ—¥ç”¨å“åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="27">
 			<picture ref="{DIY-kn01-1001242203}" />
@@ -93,8 +93,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{DIY-km01d1-1001311926}">
-		<group>“ú—j‘åH“X</group>
-		<name>ƒRƒƒŠtype1</name>
+		<group>æ—¥æ›œå¤§å·¥åº—</group>
+		<name>ã‚³ãƒ¡ãƒªtype1</name>
 		<price>50000000</price>
 		<size>2,2</size>
 		<height>2</height>
@@ -103,7 +103,7 @@
 			<base>50</base>
 		</population>
 		<structure>
-			<category  byname="’nˆæƒ`ƒF[ƒ““ú—p•i“X"/>
+			<category  byname="åœ°åŸŸãƒã‚§ãƒ¼ãƒ³æ—¥ç”¨å“åº—"/>
 		</structure>
 		<sprite origin="0,0" offset="14">
 			<picture ref="{DIY-km01-1001311926}" />

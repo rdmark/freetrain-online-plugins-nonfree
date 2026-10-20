@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY robby '
 		<price>60000000</price>
 		<size>2,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -14,7 +14,7 @@
 		<size>5,7</size>
 		<height>2</height>
 		<structure>
-			<category byname="—·‹qƒ^[ƒ~ƒiƒ‹"/>
+			<category byname="æ—…å®¢ã‚¿ãƒ¼ãƒŸãƒŠãƒ«"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -22,8 +22,8 @@
 ]>
 
 <plug-in>
-	<title>‹ó`ƒ^[ƒ~ƒiƒ‹‚a</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ç©ºæ¸¯ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ï¼¢</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{278D9A05-BD93-400B-C477-029AC72C275F}-01">
@@ -42,10 +42,10 @@
 		</picture>
 	</contribution>
 		
-	<!--ƒƒCƒ“ƒh[ƒ€-->
+	<!--ãƒ¡ã‚¤ãƒ³ãƒ‰ãƒ¼ãƒ -->
 	<contribution type="GenericStructure" id="{DC4BD38D-FA51-4CDC-C477-9D6F5FFC8A34}">
-		<group>‹ó`‘Ûüƒ^[ƒ~ƒiƒ‹</group>
-		<design>ƒƒCƒ“ƒz[ƒ‹</design>
+		<group>ç©ºæ¸¯å›½éš›ç·šã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ãƒ¡ã‚¤ãƒ³ãƒ›ãƒ¼ãƒ«</design>
 		&hall;
 		<sprite origin="0,8" offset="56">
 			<picture ref="{278D9A05-BD93-400B-C477-029AC72C275F}-01"/>
@@ -61,8 +61,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{D73E9558-7685-4A09-C477-54902A0FAF7B}">
-		<group>‹ó`‘Ûüƒ^[ƒ~ƒiƒ‹</group>
-		<design>ƒz[ƒ‹Šg’£</design>
+		<group>ç©ºæ¸¯å›½éš›ç·šã‚¿ãƒ¼ãƒŸãƒŠãƒ«</group>
+		<design>ãƒ›ãƒ¼ãƒ«æ‹¡å¼µ</design>
 		&hall;
 		<sprite origin="0,8" offset="56">
 			<picture ref="{278D9A05-BD93-400B-C477-029AC72C275F}-02"/>
@@ -77,10 +77,10 @@
 			<picture ref="{278D9A05-BD93-400B-C477-029AC72C275F}-02"/>
 		</sprite>		
 	</contribution>
-	<!--o”­ƒƒr[-->
+	<!--å‡ºç™ºãƒ­ãƒ“ãƒ¼-->
 	<contribution type="GenericStructure" id="{731CF80D-81C9-41B0-C477-E06FB565850D}">
-		<group>‹ó`“‹æŒû</group>
-		<design>ƒ~ƒ‰[ƒKƒ‰ƒX</design>
+		<group>ç©ºæ¸¯æ­ä¹—å£</group>
+		<design>ãƒŸãƒ©ãƒ¼ã‚¬ãƒ©ã‚¹</design>
 		&robby;
 		<sprite origin="0,0" offset="32">
 			<picture ref="{278D9A05-BD93-400B-C477-029AC72C275F}-03"/>

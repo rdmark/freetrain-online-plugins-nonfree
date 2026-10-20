@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(1x1)</title> 
- <author>ƒ‚ƒKƒ~</author> 
+ <title>åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³(1x1)</title> 
+ <author>ãƒ¢ã‚¬ãƒŸ</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-buildingi-building-mansyon06-picture-42EEED9DC411}">
  <picture src="mansyon06.bmp" > 
@@ -9,9 +9,9 @@
  </picture>
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-mansyon06-E81DC0B796DA}">
- <group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(1x1)</group> 
+ <group>åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³(1x1)</group> 
  <structure>
- <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+ <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
  </structure>
  <price>30000000</price> 
  <size>1,1</size> 

@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
 
-<title>“¹˜H</title>
-<author>‚µ‚©‚µ‚©</author>
+<title>é“è·¯</title>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
 
-<!-- Îô -->
+<!-- çŸ³ç•³ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved}">
 <class name="freetrain.contributions.road.A3RoadContribution" />
-<name>Îô/‹O“¹/’ƒ</name>
-<description>‹O“¹—pÎô</description>
+<name>çŸ³ç•³/è»Œé“/èŒ¶</name>
+<description>è»Œé“ç”¨çŸ³ç•³</description>
 <picture src="road_stonepaved001_ocher.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved-grey}">
 <class name="freetrain.contributions.road.A3RoadContribution" />
-<name>Îô/‹O“¹/ŠD</name>
-<description>‹O“¹—pÎô</description>
+<name>çŸ³ç•³/è»Œé“/ç°</name>
+<description>è»Œé“ç”¨çŸ³ç•³</description>
 <picture src="road_stonepaved001_grey.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved-entrancepath-ocher}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>Îô/ŽQ“¹/’ƒ</name>
+<name>çŸ³ç•³/å‚é“/èŒ¶</name>
 <style name="footpath"/>
-<description>ŽQ“¹</description>
+<description>å‚é“</description>
 <picture src="road_stonepaved002_ocher.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved-entrancepath-grey}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>Îô/ŽQ“¹/ŠD</name>
+<name>çŸ³ç•³/å‚é“/ç°</name>
 <style name="footpath"/>
-<description>ŽQ“¹</description>
+<description>å‚é“</description>
 <picture src="road_stonepaved002_grey.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved-entrancepath-stonelantern-ocher}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>Îô/“”âÄ/’ƒ</name>
+<name>çŸ³ç•³/ç¯ç± /èŒ¶</name>
 <style name="footpath"/>
-<description>ŽQ“¹(Î“”âÄ•t)</description>
+<description>å‚é“(çŸ³ç¯ç± ä»˜)</description>
 <picture src="road_stonepaved003_ocher.bmp" size="32,32" offset="16">
 	<override when="night" src="road_stonepaved003_ocher_n.bmp"/>
 </picture>
@@ -51,22 +51,22 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-stonepaved-entrancepath-stonelantern-grey}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>Îô/“”âÄ/ŠD</name>
+<name>çŸ³ç•³/ç¯ç± /ç°</name>
 <style name="footpath"/>
-<description>ŽQ“¹(Î“”âÄ•t)</description>
+<description>å‚é“(çŸ³ç¯ç± ä»˜)</description>
 <picture src="road_stonepaved003_grey.bmp" size="32,32" offset="16">
 	<override when="night" src="road_stonepaved003_grey_n.bmp"/>
 </picture>
 </contribution>
 
 
-<!-- —Ñ“¹ -->
+<!-- æž—é“ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-woodlandpath-001}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>—Ñ“¹/–¢•Ü‘•</name>
+<name>æž—é“/æœªèˆ—è£…</name>
 <style name="footpath"/>
-<description>—Ñ“¹(–¢•Ü‘•)</description>
+<description>æž—é“(æœªèˆ—è£…)</description>
 <picture src="road_woodlandpath_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_woodlandpath001_spring.bmp"/>
 	<override when="summer" src="road_woodlandpath001_summer.bmp"/>
@@ -77,9 +77,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-woodlandpath-002}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>—Ñ“¹/•Ü‘•</name>
+<name>æž—é“/èˆ—è£…</name>
 <style name="footpath"/>
-<description>—Ñ“¹(•Ü‘•)</description>
+<description>æž—é“(èˆ—è£…)</description>
 <picture src="road_woodlandpath_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_woodlandpath002_spring.bmp"/>
 	<override when="summer" src="road_woodlandpath002_summer.bmp"/>
@@ -89,85 +89,85 @@
 </contribution>
 
 
-<!-- ‘åŠX˜H/–³“” -->
+<!-- å¤§è¡—è·¯/ç„¡ç¯ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-concrete-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg‰E</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a000_concrete_r.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-concrete-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg¶</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a000_concrete_l.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-walk-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/‰w‘O•à“¹‰E</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/é§…å‰æ­©é“å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a000_walk_r.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-walk-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/‰w‘O•à“¹¶</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/é§…å‰æ­©é“å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a000_walk_l.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-entrance-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/‰w‘OLê‰E</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/é§…å‰åºƒå ´å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a000_entrance_r.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-entrance-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/•à“¹•t/‰w‘OLê¶</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/æ­©é“ä»˜/é§…å‰åºƒå ´å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a000_entrance_l.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-lane-add-add}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/2ŽÔü/’Ç‰ÁŽÔü</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/2è»Šç·š/è¿½åŠ è»Šç·š</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰Á‘–sŽÔü</description>
+<description>è¿½åŠ èµ°è¡Œè»Šç·š</description>
 <picture src="road_a000_add.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-passinglane-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/2ŽÔü/’Ç‰z‰E</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/2è»Šç·š/è¿½è¶Šå³</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a000_pl_r.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-passinglane-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/2ŽÔü/’Ç‰z¶</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/2è»Šç·š/è¿½è¶Šå·¦</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a000_pl_l.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-passinglane-verge-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/2ŽÔü/’Ç‰zAÍ•t‰E</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/2è»Šç·š/è¿½è¶Šæ¤æ ½ä»˜å³</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a000_pl_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a000_pl_r_spring.bmp" />
 	<override when="summer" src="road_a000_pl_r_summer.bmp" />
@@ -178,9 +178,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-passinglane-verge-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/2ŽÔü/’Ç‰zAÍ•t¶</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/2è»Šç·š/è¿½è¶Šæ¤æ ½ä»˜å·¦</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a000_pl_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a000_pl_l_spring.bmp" />
 	<override when="summer" src="road_a000_pl_l_summer.bmp" />
@@ -191,25 +191,25 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-center-white}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/’†‰›ü/”’ŽÀü</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/ä¸­å¤®ç·š/ç™½å®Ÿç·š</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’†‰›ü”’ŽÀü</description>
+<description>ä¸­å¤®ç·šç™½å®Ÿç·š</description>
 <picture src="road_a000_c_white.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-center-orange}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/’†‰›ü/žòŽÀü</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/ä¸­å¤®ç·š/æ©™å®Ÿç·š</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’†‰›üžòŽÀü</description>
+<description>ä¸­å¤®ç·šæ©™å®Ÿç·š</description>
 <picture src="road_a000_c_orange.bmp" size="32,32" offset="16" />
 </contribution>
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-verge-center}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/–³“”/’†‰›ü/’†‰›•ª—£‘Ñ</name>
+<name>å¤§è¡—è·¯/ç„¡ç¯/ä¸­å¤®ç·š/ä¸­å¤®åˆ†é›¢å¸¯</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’†‰›•ª—£‘Ñ</description>
+<description>ä¸­å¤®åˆ†é›¢å¸¯</description>
 <picture src="road_a000_c_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a000_c_spring.bmp" />
 	<override when="summer" src="road_a000_c_summer.bmp" />
@@ -219,13 +219,13 @@
 </contribution>
 
 
-<!-- ‘åŠX˜H/ŠX“”•t -->
+<!-- å¤§è¡—è·¯/è¡—ç¯ä»˜ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-concrete-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg‰E</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a001_concrete_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_concrete_r_n.bmp"/>
 </picture>
@@ -233,9 +233,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-concrete-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg¶</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a001_concrete_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_concrete_l_n.bmp"/>
 </picture>
@@ -243,9 +243,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-walk-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/‰w‘O•à“¹‰E</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/é§…å‰æ­©é“å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a001_walk_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_walk_r_n.bmp"/>
 </picture>
@@ -253,9 +253,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-walk-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/‰w‘O•à“¹¶</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/é§…å‰æ­©é“å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a001_walk_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_walk_l_n.bmp"/>
 </picture>
@@ -263,9 +263,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-entrance-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/‰w‘OLê‰E</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/é§…å‰åºƒå ´å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a001_entrance_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_entrance_r_n.bmp"/>
 </picture>
@@ -273,9 +273,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-entrance-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/•à“¹•t/‰w‘OLê¶</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/æ­©é“ä»˜/é§…å‰åºƒå ´å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a001_entrance_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_entrance_l_n.bmp"/>
 </picture>
@@ -283,9 +283,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-passinglane-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/2ŽÔü/’Ç‰z‰E</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/2è»Šç·š/è¿½è¶Šå³</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a001_pl_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_pl_r_n.bmp"/>
 </picture>
@@ -293,22 +293,22 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue--streetlamp-passinglane-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/ŠX“”/2ŽÔü/’Ç‰z¶</name>
+<name>å¤§è¡—è·¯/è¡—ç¯/2è»Šç·š/è¿½è¶Šå·¦</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a001_pl_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a001_pl_l_n.bmp"/>
 </picture>
 </contribution>
 
 
-<!-- ‘åŠX˜H/ŠX“”AÍ‘Ñ•t -->
+<!-- å¤§è¡—è·¯/è¡—ç¯æ¤æ ½å¸¯ä»˜ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-concrete-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg‰E</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a002_concrete_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_concrete_r_spring.bmp">
             <override when="night" src="road_a002_concrete_r_spring_n.bmp"/>
@@ -327,9 +327,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-concrete-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg¶</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a002_concrete_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_concrete_l_spring.bmp">
             <override when="night" src="road_a002_concrete_l_spring_n.bmp"/>
@@ -348,9 +348,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-walk-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/‰w‘O•à“¹‰E</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/é§…å‰æ­©é“å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a002_walk_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_walk_r_spring.bmp">
             <override when="night" src="road_a002_walk_r_spring_n.bmp"/>
@@ -369,9 +369,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-walk-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/‰w‘O•à“¹¶</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/é§…å‰æ­©é“å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘O•à“¹•t“¹˜H</description>
+<description>é§…å‰æ­©é“ä»˜é“è·¯</description>
 <picture src="road_a002_walk_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_walk_l_spring.bmp">
             <override when="night" src="road_a002_walk_l_spring_n.bmp"/>
@@ -390,9 +390,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-entrance-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/‰w‘OLê‰E</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/é§…å‰åºƒå ´å³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a002_entrance_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_entrance_r_spring.bmp">
             <override when="night" src="road_a002_entrance_r_spring_n.bmp"/>
@@ -411,9 +411,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-verge-entrance-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/•à“¹•t/‰w‘OLê¶</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/æ­©é“ä»˜/é§…å‰åºƒå ´å·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>‰w‘OLê•t“¹˜H</description>
+<description>é§…å‰åºƒå ´ä»˜é“è·¯</description>
 <picture src="road_a002_entrance_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_entrance_l_spring.bmp">
             <override when="night" src="road_a002_entrance_l_spring_n.bmp"/>
@@ -432,9 +432,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-passinglane-verge-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/2ŽÔü/’Ç‰z‰E</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/2è»Šç·š/è¿½è¶Šå³</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a002_pl_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_pl_r_spring.bmp">
             <override when="night" src="road_a002_pl_r_spring_n.bmp"/>
@@ -453,9 +453,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-passinglane-verge-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/2ŽÔü/’Ç‰z¶</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/2è»Šç·š/è¿½è¶Šå·¦</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a002_pl_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a002_pl_l_spring.bmp">
             <override when="night" src="road_a002_pl_l_spring_n.bmp"/>
@@ -474,9 +474,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-verge-center}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/AÍ/’†‰›ü/’†‰›•ª—£‘Ñ</name>
+<name>å¤§è¡—è·¯/æ¤æ ½/ä¸­å¤®ç·š/ä¸­å¤®åˆ†é›¢å¸¯</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’†‰›•ª—£‘Ñ</description>
+<description>ä¸­å¤®åˆ†é›¢å¸¯</description>
 <picture src="road_a002_pl_c_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a001_c_spring.bmp">
             <override when="night" src="road_a001_c_spring_n.bmp"/>
@@ -494,13 +494,13 @@
 </contribution>
 
 
-<!-- ‘åŠX˜H/‹´‹r•t -->
+<!-- å¤§è¡—è·¯/æ©‹è„šä»˜ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-pier-concrete-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/‹´‹r/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg‰E</name>
+<name>å¤§è¡—è·¯/æ©‹è„š/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå³</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a003_concrete_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a003_concrete_r_n.bmp"/>
 </picture>
@@ -508,9 +508,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-sidewalk-streetlamp-pier-concrete-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/‹´‹r/•à“¹•t/ƒRƒ“ƒNƒŠ[ƒg¶</name>
+<name>å¤§è¡—è·¯/æ©‹è„š/æ­©é“ä»˜/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå·¦</name>
 <style name="street" sidewalk="pavement" lanes="1"/>
-<description>ƒRƒ“ƒNƒŠ[ƒg•à“¹•t“¹˜H</description>
+<description>ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæ­©é“ä»˜é“è·¯</description>
 <picture src="road_a003_concrete_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_a003_concrete_l_n.bmp"/>
 </picture>
@@ -518,9 +518,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-passinglane-verge-pier-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/‹´‹r/‚QŽÔü/’Ç‰z‰E</name>
+<name>å¤§è¡—è·¯/æ©‹è„š/ï¼’è»Šç·š/è¿½è¶Šå³</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a003_pl_r_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a003_pl_r_spring.bmp">
             <override when="night" src="road_a003_pl_r_spring_n.bmp"/>
@@ -539,9 +539,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-passinglane-verge-pier-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/‹´‹r/‚QŽÔü/’Ç‰z¶</name>
+<name>å¤§è¡—è·¯/æ©‹è„š/ï¼’è»Šç·š/è¿½è¶Šå·¦</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’Ç‰zŽÔü</description>
+<description>è¿½è¶Šè»Šç·š</description>
 <picture src="road_a003_pl_l_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a003_pl_l_spring.bmp">
             <override when="night" src="road_a003_pl_l_spring_n.bmp"/>
@@ -560,9 +560,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-avenue-streetlamp-verge-pier-center}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‘åŠX˜H/‹´‹r/’†‰›ü/’†‰›•ª—£‘Ñ</name>
+<name>å¤§è¡—è·¯/æ©‹è„š/ä¸­å¤®ç·š/ä¸­å¤®åˆ†é›¢å¸¯</name>
 <style name="street" sidewalk="none" lanes="2"/>
-<description>’†‰›•ª—£‘Ñ</description>
+<description>ä¸­å¤®åˆ†é›¢å¸¯</description>
 <picture src="road_a003_pl_c_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_a003_c_spring.bmp">
             <override when="night" src="road_a003_c_spring_n.bmp"/>
@@ -580,13 +580,13 @@
 </contribution>
 
 
-<!-- ‚‰Ë‰º“¹˜H -->
+<!-- é«˜æž¶ä¸‹é“è·¯ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-pier-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/1ŽÔü/‰E</name>
+<name>é«˜æž¶ä¸‹é“è·¯/1è»Šç·š/å³</name>
 <style name="street" sidewalk="shoulder" lanes="1"/>
-<description>‚‰Ë‰º“¹˜H</description>
+<description>é«˜æž¶ä¸‹é“è·¯</description>
 <picture src="road_pier001_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_pier001_r_n.bmp"/>
 </picture>
@@ -594,9 +594,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-pier-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/1ŽÔü/¶</name>
+<name>é«˜æž¶ä¸‹é“è·¯/1è»Šç·š/å·¦</name>
 <style name="street" sidewalk="shoulder" lanes="1"/>
-<description>‚‰Ë‰º“¹˜H</description>
+<description>é«˜æž¶ä¸‹é“è·¯</description>
 <picture src="road_pier001_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_pier001_l_n.bmp"/>
 </picture>
@@ -604,9 +604,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-pier}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/2ŽÔü/’†</name>
+<name>é«˜æž¶ä¸‹é“è·¯/2è»Šç·š/ä¸­</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>‚‰Ë‰º“¹˜H</description>
+<description>é«˜æž¶ä¸‹é“è·¯</description>
 <picture src="road_pier001_c_spring.bmp" size="32,32" offset="16">
 	<override when="spring" src="road_pier001_c_spring.bmp">
             <override when="night" src="road_pier001_c_spring_n.bmp"/>
@@ -625,9 +625,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-pier-lane2-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/2ŽÔü/‰E</name>
+<name>é«˜æž¶ä¸‹é“è·¯/2è»Šç·š/å³</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>‚‰Ë‰º“¹˜H</description>
+<description>é«˜æž¶ä¸‹é“è·¯</description>
 <picture src="road_pier002_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_pier002_r_n.bmp"/>
 </picture>
@@ -635,21 +635,21 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-pier-lane2-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/2ŽÔü/¶</name>
+<name>é«˜æž¶ä¸‹é“è·¯/2è»Šç·š/å·¦</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>‚‰Ë‰º“¹˜H</description>
+<description>é«˜æž¶ä¸‹é“è·¯</description>
 <picture src="road_pier002_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_pier002_l_n.bmp"/>
 </picture>
 </contribution>
 
-<!-- ƒ‚ƒmƒŒ[ƒ‹‰º“¹˜H -->
+<!-- ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹é“è·¯ -->
 
 <contribution type="road" id="{FreeTrain-Shika-Road-monorail-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/ƒ‚ƒmƒŒ[ƒ‹‰º/‚‰Ë1‰E</name>
+<name>é«˜æž¶ä¸‹é“è·¯/ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹/é«˜æž¶1å³</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>ƒ‚ƒmƒŒ[ƒ‹‰º“¹˜H1</description>
+<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹é“è·¯1</description>
 <picture src="road_monorail001_r.bmp" size="32,32" offset="16">
 	<override when="night" src="road_monorail001_r_n.bmp"/>
 </picture>
@@ -657,9 +657,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-monorail-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/ƒ‚ƒmƒŒ[ƒ‹‰º/‚‰Ë1¶</name>
+<name>é«˜æž¶ä¸‹é“è·¯/ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹/é«˜æž¶1å·¦</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>ƒ‚ƒmƒŒ[ƒ‹‰º“¹˜H1</description>
+<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹é“è·¯1</description>
 <picture src="road_monorail001_l.bmp" size="32,32" offset="16">
 	<override when="night" src="road_monorail001_l_n.bmp"/>
 </picture>
@@ -667,9 +667,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-monorail2-right}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/ƒ‚ƒmƒŒ[ƒ‹‰º/‚‰Ë2‰E</name>
+<name>é«˜æž¶ä¸‹é“è·¯/ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹/é«˜æž¶2å³</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>ƒ‚ƒmƒŒ[ƒ‹‰º“¹˜H2</description>
+<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹é“è·¯2</description>
 <picture src="road_monorail002_r.bmp" size="32,48" offset="32">
 	<override when="night" src="road_monorail002_r_n.bmp"/>
 </picture>
@@ -677,9 +677,9 @@
 
 <contribution type="road" id="{FreeTrain-Shika-Road-monorail2-left}">
 <class name="freetrain.contributions.road.StandardRoadContribution" />
-<name>‚‰Ë‰º“¹˜H/ƒ‚ƒmƒŒ[ƒ‹‰º/‚‰Ë2¶</name>
+<name>é«˜æž¶ä¸‹é“è·¯/ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹/é«˜æž¶2å·¦</name>
 <style name="street" sidewalk="shoulder" lanes="2"/>
-<description>ƒ‚ƒmƒŒ[ƒ‹‰º“¹˜H2</description>
+<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ä¸‹é“è·¯2</description>
 <picture src="road_monorail002_l.bmp" size="32,48" offset="32">
 	<override when="night" src="road_monorail002_l_n.bmp"/>
 </picture>

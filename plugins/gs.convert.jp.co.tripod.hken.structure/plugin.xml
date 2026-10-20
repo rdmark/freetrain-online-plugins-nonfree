@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-   <title>Œš•¨‘‡ƒRƒ“ƒo[ƒg Ken</title>
-   <author>‚è‚¨‚è‚¨</author>
+   <title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆ Ken</title>
+   <author>ã‚ŠãŠã‚ŠãŠ</author>
    <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
    <depend on="jp.co.tripod.hken.structure" />
 
@@ -73,13 +73,13 @@
 
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-GSS1-94478B392AE7}-Ags">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<design>V“ú–{Î–û SS</design>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<design>æ–°æ—¥æœ¬çŸ³æ²¹ SS</design>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" />
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -96,13 +96,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{AE1549EB-F7F9-433F-GSS2-1E2A913013FF}-Ags">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<design>JOMO SS</design>
 		<price>12000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" />
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -127,13 +127,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{52B9BF4A-7AB7-4828-GSS3-249A1A149A24}-Ags">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<design>Shell GS</design>
 		<price>12000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" />
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -162,13 +162,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-GSS4-94478B392AE7}-Ags">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<design>ƒRƒXƒ‚Î–û SS</design>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<design>ã‚³ã‚¹ãƒ¢çŸ³æ²¹ SS</design>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" />
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -185,13 +185,13 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{52B9BF4A-7AB7-4828-GSS5-249A1A149A24}-Ags">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<design>Mobil GS</design>
 		<price>12000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ƒ`ƒF[ƒ“ê–å“X" />
+			<category byname="ãƒã‚§ãƒ¼ãƒ³å°‚é–€åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -209,13 +209,13 @@
 
 
 	<contribution type="GenericStructure" id="{7EDDCD3E-C592-4692-CDR1-9603E8E6CF18}-Ags">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="Ž©“®ŽÔ”Ì”„“X" />
+			<category byname="è‡ªå‹•è»Šè²©å£²åº—" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -245,13 +245,13 @@
 
 
 	<contribution type="GenericStructure" id="{C193B660-3BFC-4F7C-BF2F-449BCED5AE9E}-Ags">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç(¬)</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€(å°)</name>
 		<price>5000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="—X•Ö‹Ç" />
+			<category byname="éƒµä¾¿å±€" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -262,19 +262,19 @@
 			</picture>
 		</sprite>
 		<sprite origin="48,0" offset="24" opposite="true">
-		@@@@<picture ref="{5AAB6C26-8C58-4C8C-8B46-94478B392AE7}" >
+		ã€€ã€€ã€€ã€€<picture ref="{5AAB6C26-8C58-4C8C-8B46-94478B392AE7}" >
 			</picture>
 		</sprite>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-YUB2-94478B392AE7}-Ags">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç‘å</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€å¤§</name>
 		<price>10000000</price>
 		<size>1,2</size>
 		<height>2</height>
 		<structure>
-			<category byname="—X•Ö‹Ç" />
+			<category byname="éƒµä¾¿å±€" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -291,8 +291,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{568195AB-CEB3-42E9-CON2-5422C86D4DE9}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒ[ƒ\ƒ“</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ãƒ­ãƒ¼ã‚½ãƒ³</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -301,7 +301,7 @@
 			<base>25</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con2}" >
@@ -314,8 +314,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{EA3F5C47-D1EF-41A9-CON1-641E6CFEE22B}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒXƒŠ[ƒGƒt</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ã‚¹ãƒªãƒ¼ã‚¨ãƒ•</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -324,7 +324,7 @@
 			<base>25</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con1}" >
@@ -337,8 +337,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{578195AB-CEB3-42E9-CON6-5422C86D4DC5}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>‚‚‚‚</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ï½ï½ï½ï½</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -347,7 +347,7 @@
 			<base>22</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con6}" >
@@ -360,8 +360,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{578195AB-CEB3-42E9-CON4-5422C86D4DC5}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒ~ƒjƒXƒgƒbƒv</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ãƒŸãƒ‹ã‚¹ãƒˆãƒƒãƒ—</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -370,7 +370,7 @@
 			<base>23</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con4}" >
@@ -383,8 +383,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{578195AB-CEB3-42E9-CON5-5422C86D4DC5}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒT[ƒNƒ‹‚j</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ã‚µãƒ¼ã‚¯ãƒ«ï¼«</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -393,7 +393,7 @@
 			<base>22</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con5}" >
@@ -406,8 +406,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{568195AB-CEB3-42E9-CON3-5422C86D4DC5}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒTƒ“ƒNƒX</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ã‚µãƒ³ã‚¯ã‚¹</design>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -416,7 +416,7 @@
 			<base>23</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con3}" >
@@ -429,8 +429,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{578195AB-CEB3-42E9-CON7-5422C86D4DC5}-Ags">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<design>ƒfƒCƒŠ[ƒ„ƒ}ƒUƒL</design>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<design>ãƒ‡ã‚¤ãƒªãƒ¼ãƒ¤ãƒžã‚¶ã‚­</design>
 		<price>6000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -439,7 +439,7 @@
 			<base>20</base>
 		</population>
 		<structure>
-			<category byname="ƒRƒ“ƒrƒj" />
+			<category byname="ã‚³ãƒ³ãƒ“ãƒ‹" />
 		</structure>
 		<sprite origin="0,0" offset="10">
 			<picture ref="{riorio-gs-convert-ken-picture-con7}" >
@@ -453,8 +453,8 @@
 
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-RES1-94478B392AE7}-Ags">
-		<group>ƒŒƒXƒgƒ‰ƒ“</group>
-		<name>ƒŒƒXƒgƒ‰ƒ“</name>
+		<group>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³</group>
+		<name>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³</name>
 		<price>10000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -463,7 +463,7 @@
 			<base>50</base>
 		</population>
 		<structure>
-			<category byname="ˆê”ÊˆùH“X" />
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-gs-convert-ken-picture-rest1}" >
@@ -476,8 +476,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-Ags">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<design>ƒƒbƒZ1</design>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<design>ãƒ¡ãƒƒã‚»1</design>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -486,8 +486,8 @@
 			<base>2500</base>
 		</population>
 		<structure>
-			<category byname="“WŽ¦ê" />
-			<category byname="ƒCƒxƒ“ƒg‰ïê" />
+			<category byname="å±•ç¤ºå ´" />
+			<category byname="ã‚¤ãƒ™ãƒ³ãƒˆä¼šå ´" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-gs-convert-ken-picture-messe2}" >
@@ -500,14 +500,14 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-Cgs">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<design>ƒƒbƒZ2</design>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<design>ãƒ¡ãƒƒã‚»2</design>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="“WŽ¦ê" />
-			<category byname="ƒCƒxƒ“ƒg‰ïê" />
+			<category byname="å±•ç¤ºå ´" />
+			<category byname="ã‚¤ãƒ™ãƒ³ãƒˆä¼šå ´" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.ShopperPopulation"/>
@@ -524,8 +524,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-Egs">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<design>ƒƒbƒZ3</design>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<design>ãƒ¡ãƒƒã‚»3</design>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -534,8 +534,8 @@
 			<base>2500</base>
 		</population>
 		<structure>
-			<category byname="“WŽ¦ê" />
-			<category byname="ƒCƒxƒ“ƒg‰ïê" />
+			<category byname="å±•ç¤ºå ´" />
+			<category byname="ã‚¤ãƒ™ãƒ³ãƒˆä¼šå ´" />
 		</structure>
 		<sprite origin="192,0" offset="16">
 			<picture ref="{riorio-gs-convert-ken-picture-messe2}" >
@@ -548,8 +548,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-Ggs">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<design>ƒƒbƒZ4</design>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<design>ãƒ¡ãƒƒã‚»4</design>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -558,8 +558,8 @@
 			<base>2500</base>
 		</population>
 		<structure>
-			<category byname="“WŽ¦ê" />
-			<category byname="ƒCƒxƒ“ƒg‰ïê" />
+			<category byname="å±•ç¤ºå ´" />
+			<category byname="ã‚¤ãƒ™ãƒ³ãƒˆä¼šå ´" />
 		</structure>
 		<sprite origin="288,0" offset="16">
 			<picture ref="{riorio-gs-convert-ken-picture-messe2}" >

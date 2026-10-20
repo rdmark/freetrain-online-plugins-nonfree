@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 	<!ENTITY StationShop '
-		<group>�s�s�ߍx�̉w��</group>
+		<group>都市近郊の駅舎</group>
 		<price>3700000</price>
 		<height>1</height>
 		<operationCost>250000</operationCost>
@@ -37,8 +37,8 @@
 	
 ]>
 <plug-in>
-	<title>�s�s�ߍx�̉w��</title>
-	<author>C477@2����</author>
+	<title>都市近郊の駅舎</title>
+	<author>C477@2両目</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{F90AB629-60A4-4E04-C477-E443434EB3B3}">

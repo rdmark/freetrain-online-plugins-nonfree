@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@ˆ»£ƒqƒ</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ç¶¾ç€¬ãƒ’ãƒ­</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.big.ayase.freetrain.road_station" />
 
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01a1}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚P)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼‘)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,0" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -30,12 +30,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01a2}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚P)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼‘)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,0" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -54,12 +54,12 @@
 
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01b1}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚Q)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼’)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,64" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -77,12 +77,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01b2}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚Q)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼’)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,64" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -101,12 +101,12 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01c1}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚R)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼“)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,128" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -124,12 +124,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01c2}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚R)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼“)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,128" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -147,12 +147,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01d1}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚S)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼”)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,192" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -170,12 +170,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl01d2}-gs">
-		<group>‰w‘OLê(’[‚»‚Ì‚S)</group>
+		<group>é§…å‰åºƒå ´(ç«¯ãã®ï¼”)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,192" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -194,12 +194,12 @@
 
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02a1}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚P)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼‘)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,256" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -217,12 +217,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02a2}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚P)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼‘)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,256" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -241,12 +241,12 @@
 
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02b1}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚Q)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼’)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,320" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -264,12 +264,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02b2}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚Q)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼’)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,320" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -288,12 +288,12 @@
 
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02c1}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚R)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼“)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="0,384" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>
@@ -311,12 +311,12 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{FreeTrain-AYASE-Hiro-RoadImg-StationImpl02c2}-gs">
-		<group>‰w‘OLê(’†‚»‚Ì‚R)</group>
+		<group>é§…å‰åºƒå ´(ä¸­ãã®ï¼“)</group>
 		<price>4000000</price>
 		<size>1,3</size>
 		<height>1</height>
 		<structure>
-			<category byname="“¹˜HŠÖ˜A•¨" />
+			<category byname="é“è·¯é–¢é€£ç‰©" />
 		</structure>
 		<sprite origin="64,384" offset="32">
 			<picture ref="{FreeTrain-AYASE-Hiro-RoadImg-Station}"/>

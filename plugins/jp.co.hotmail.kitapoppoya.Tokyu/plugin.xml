@@ -1,102 +1,102 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>109�p�b�N</title> 
-  <author>�k�̋D�ԉ�</author> 
+  <title>109パック</title> 
+  <author>北の汽車屋</author> 
   <homepage>http://www.geocities.jp/kitapoppoya/</homepage> 
-<!-- 8500�擪�� --> 
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8500先頭車 --> 
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8500_a.bmp" /> 
   </sprite>
   <capacity>144</capacity>
   <seatedcapacity>56</seatedcapacity> 
   </contribution>
-<!-- 8500�Ō���� -->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 8500最後尾車 -->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-8500-A}"/> 
   <capacity>144</capacity>
   <seatedcapacity>56</seatedcapacity> 
   </contribution> 
-<!-- 8500���������Ԏ�-->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8500中央線中間車-->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8500-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8500_b.bmp" /> 
   </sprite>
   <capacity>160</capacity>
   <seatedcapacity>64</seatedcapacity> 
   </contribution>
-<!-- 8090�擪�� --> 
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8090先頭車 --> 
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8090_a.bmp" /> 
   </sprite>
   <capacity>136</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution>
-<!-- 8090�Ō���� -->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 8090最後尾車 -->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-8090-A}"/> 
   <capacity>136</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution> 
-<!-- 8090���Ԏ�-->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8090中間車-->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8090-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8090_b.bmp" /> 
   </sprite>
   <capacity>144</capacity>
   <seatedcapacity>54</seatedcapacity> 
   </contribution>
-<!-- 8590�擪�� --> 
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8590先頭車 --> 
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8590_a.bmp" /> 
   </sprite>
   <capacity>136</capacity>
   <seatedcapacity>48</seatedcapacity> 
   </contribution>
-<!-- 8590�Ō���� -->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 8590最後尾車 -->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AEAF-D-8590-A}"/> 
   <capacity>136</capacity> 
   <seatedcapacity>48</seatedcapacity>
   </contribution> 
-<!-- 8590���Ԏ�-->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 8590中間車-->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AEAF-D-8590-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="toq8090_b.bmp" /> 
   </sprite>
   <capacity>144</capacity>
   <seatedcapacity>54</seatedcapacity> 
   </contribution>
-<!-- ���l�s�c3000�擪�� --> 
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-A}">
-�@<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 横浜市営3000先頭車 --> 
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-A}">
+　<class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="YTB_3000_a.bmp" /> 
   </sprite>
   <capacity>132</capacity>
    <seatedcapacity>54</seatedcapacity>
   </contribution>
-<!-- ���l�s�c3000�Ō���� -->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 横浜市営3000最後尾車 -->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{5ACFD81E-6A4E-4981-AE-YTB3000-A}"/> 
   <seatedcapacity>56</seatedcapacity> 
   </contribution> 
-<!-- ���l�s�c3000���Ԏ�-->
-�@<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
-�@<sprite origin="0,0">
+<!-- 横浜市営3000中間車-->
+　<contribution type="trainCar" id="{5ACFD81E-6A4E-4981-AE-YTB3000-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+　<sprite origin="0,0">
   <picture src="YTB_3000_b.bmp" /> 
   </sprite>
   <capacity>140</capacity>
@@ -104,10 +104,10 @@
   </contribution>
 
   <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-8500}">
-<company>�����}�s�d�S</company>
-<type>8500�n</type>
+<company>東京急行電鉄</company>
+<type>8500系</type>
 <name></name>
-<author>�k�̋D�ԉ�</author>
+<author>北の汽車屋</author>
 <description></description>
 <fare>420</fare>
 <price>8000000</price>
@@ -121,10 +121,10 @@
  </composition>
 </contribution>
   <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-8090}">
-<company>�����}�s�d�S</company>
-<type>8090�n</type>
+<company>東京急行電鉄</company>
+<type>8090系</type>
 <name></name>
-<author>�k�̋D�ԉ�</author>
+<author>北の汽車屋</author>
 <description></description>
 <fare>500</fare>
 <price>8000000</price>
@@ -138,10 +138,10 @@
  </composition>
 </contribution>
  <contribution type="train" id="{5ACFD81E-6A4E-4981-AEAF-D-8590}">
-<company>�����}�s�d�S</company>
-<type>8590�n</type>
+<company>東京急行電鉄</company>
+<type>8590系</type>
 <name></name>
-<author>�k�̋D�ԉ�</author>
+<author>北の汽車屋</author>
 <description></description>
 <fare>500</fare>
 <price>10000000</price>
@@ -155,9 +155,9 @@
  </composition>
 </contribution>
  <contribution type="train" id="{5ACFD81E-6A4E-4981-AE-YTB3000}">
-<company>���l�s�c�n���S</company>
-<type>3000�n</type>
-<author>�k�̋D�ԉ�</author>
+<company>横浜市営地下鉄</company>
+<type>3000系</type>
+<author>北の汽車屋</author>
 <description></description>
 <name></name>
 <fare>540</fare>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
-  <title>415�n1900�ԑ� �肭�킢���[��Qua_Ra��415�n1500�ԑ�</title>
-  <author>�k�̋D�ԉ�</author>
+  <title>415系1900番台 りくわいあーどQua_Ra氏415系1500番台</title>
+  <author>北の汽車屋</author>
   <homepage></homepage>
-<!-- 415�n1900�ԑ�擪�� --> 
+<!-- 415系1900番台先頭車 --> 
   <contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-4151900-A}">
   <class name="freetrain.contributions.train.AsymTrainCarImpl" /> 
   <sprite origin="0,0">
@@ -11,17 +11,17 @@
   </sprite>
   <capacity>140</capacity>
   <seatedcapacity>140</seatedcapacity> 
-<!-- 415�n1900�ԑ�Ō���� --> 
-�@</contribution>
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-4151900-B}">
-�@<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
+<!-- 415系1900番台最後尾車 --> 
+　</contribution>
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-4151900-B}">
+　<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
   <base carRef="{757F660D-9BC9-48E4-9E1-4151900-A}"/> 
   <capacity>140</capacity> 
   <seatedcapacity>140</seatedcapacity> 
 </contribution>
-<!-- 415�n1900�ԑ䒆�Ԏ�-->
-�@<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-4151900-C}">
-�@<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
+<!-- 415系1900番台中間車-->
+　<contribution type="trainCar" id="{757F660D-9BC9-48E4-9E1-4151900-C}">
+　<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
   <sprite origin="0,0">
   <picture src="4151910.bmp" /> 
   </sprite>
@@ -31,11 +31,11 @@
 
 
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC3-B-4151901H}">
-<company>JR�����{</company>
-<type>415�n1500�ԑ�</type>
-<name>��֐�1901�ԑ�擪</name>
-<author>�k�̋D�ԉ�</author>
-<description>�}�������֐��̒ʋ΋q�ɑΉ����A�Ȃ������ȒʋΗ������コ���邽�߂Ɉꗼ�������Y���ꂽ415�n�̃_�u���f�b�J�[�Ԃ�g�ݍ��ޕҐ��B</description>
+<company>JR東日本</company>
+<type>415系1500番台</type>
+<name>常磐線1901番台先頭</name>
+<author>北の汽車屋</author>
+<description>急増する常磐線の通勤客に対応し、なおかつ着席通勤率を向上させるために一両だけ生産された415系のダブルデッカー車を組み込む編成。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>100</amenity>
@@ -48,11 +48,11 @@
 </composition>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC3-B-4151901T}">
-<company>JR�����{</company>
-<type>415�n1500�ԑ�</type>
-<name>��֐�1901�ԑ�Ō��</name>
-<author>�k�̋D�ԉ�</author>
-<description>�}�������֐��̒ʋ΋q�ɑΉ����A�Ȃ������ȒʋΗ������コ���邽�߂Ɉꗼ�������Y���ꂽ415�n�̃_�u���f�b�J�[�Ԃ�g�ݍ��ޕҐ��B�Ō���ɘA���������ꍇ�͂�������ǂ����B</description>
+<company>JR東日本</company>
+<type>415系1500番台</type>
+<name>常磐線1901番台最後尾</name>
+<author>北の汽車屋</author>
+<description>急増する常磐線の通勤客に対応し、なおかつ着席通勤率を向上させるために一両だけ生産された415系のダブルデッカー車を組み込む編成。最後尾に連結したい場合はこちらをどうぞ。</description>
 <fare>500</fare>
 <price>35000000</price>
 <amenity>100</amenity>
@@ -65,11 +65,11 @@
 </composition>
 </contribution>
  <contribution type="train" id="{669D5BDE-23F1-43BD-AC3-B-4151900}">
-<company>JR�����{</company>
-<type>415�n1900�ԑ�</type>
-<name>��֐�</name>
-<author>�k�̋D�ԉ�</author>
-<description>���ӂ������߂��܂����E�E�Eorz�B�d���@��͂ǂ��ֲ��ϯ���ށE�E�E�H</description>
+<company>JR東日本</company>
+<type>415系1900番台</type>
+<name>常磐線</name>
+<author>北の汽車屋</author>
+<description>おふざけが過ぎました・・・orz。電装機器はどこへｲｯﾁﾏｯﾀﾝﾀﾞ・・・？</description>
 <fare>500</fare>
 <price>45000000</price>
 <triprange>middle</triprange>

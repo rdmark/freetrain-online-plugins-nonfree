@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�����{���L�S��</title>
-	<author>�肨�肨��Kei</author>
+	<title>旧日本国有鉄道</title>
+	<author>りおりお←Kei</author>
  	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.dion.kei_s.freetrain.train" />
  	
- 	<!-- �C���[�W�摜��` -->
+ 	<!-- イメージ画像定義 -->
 
- 	<!-- �ԗ���` -->
+ 	<!-- 車両定義 -->
 
 
-	<!-- �L�n30(���) -->
+	<!-- キハ30(一般) -->
 	<contribution type="trainCar" id="{riorio-freetrain-KeiH-TrainImg-KIHA30-1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -22,11 +22,11 @@
 	
 	
 	<contribution type="train" id="{riorio-freetrain-KeiH-TrainHensei-kiha30only}">
-		<company>�����{���L�S��</company>
-		<type>�L�n30�n</type>
-		<name>��ʐF</name>
-		<author>�肨�肨��Kei</author>
-		<description>��ʐF�ɓh�����ꂽ�L�n30�n�݂̂ŕҐ����ꂽ��ԁB</description>
+		<company>旧日本国有鉄道</company>
+		<type>キハ30系</type>
+		<name>一般色</name>
+		<author>りおりお←Kei</author>
+		<description>一般色に塗装されたキハ30系のみで編成された列車。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>85</amenity>

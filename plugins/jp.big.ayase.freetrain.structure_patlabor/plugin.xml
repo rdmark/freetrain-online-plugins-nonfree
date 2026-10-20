@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>建物プラグイン</title>
-	<author>綾瀬ヒロ</author>
+	<title>蟒ｺ迚ｩ繝励Λ繧ｰ繧､繝ｳ</title>
+	<author>邯ｾ轢ｬ繝偵Ο</author>
 	<homepage>http://www14.big.or.jp/~ayase/freetrain/</homepage>
 	
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-StructureImg-Patlabor01}">
@@ -9,7 +9,7 @@
 	</contribution>
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-Patlabor01a}">
-		<group>特車２課棟</group>
+		<group>迚ｹ霆奇ｼ定ｪｲ譽�</group>
 		<price>3000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -20,7 +20,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-Patlabor01b}">
-		<group>特車２課棟</group>
+		<group>迚ｹ霆奇ｼ定ｪｲ譽�</group>
 		<price>3000000</price>
 		<size>3,3</size>
 		<height>2</height>

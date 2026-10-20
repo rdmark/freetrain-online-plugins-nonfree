@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒ}ƒNƒhƒiƒ‹ƒh</title>
-	<author>ima‚³‚ñ</author>
+	<title>ãƒã‚¯ãƒ‰ãƒŠãƒ«ãƒ‰</title>
+	<author>imaã•ã‚“</author>
 	<homepage>mailto:ima@imaden.bizland.com</homepage>
 	<depend on="org.kohsuke.freetrain.structure.ima"/>	
 	
 	<contribution type="GenericStructure" id="{594D6A74-2678-4a35-9FE6-E2FFA90C207A}-gs">
-		<name>ƒnƒ“ƒo[ƒK[ƒVƒ‡ƒbƒv</name>
-		<design>ƒ}ƒNƒhƒiƒ‹ƒh</design>
+		<name>ãƒãƒ³ãƒãƒ¼ã‚¬ãƒ¼ã‚·ãƒ§ãƒƒãƒ—</name>
+		<design>ãƒã‚¯ãƒ‰ãƒŠãƒ«ãƒ‰</design>
 		<structure>
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh"/>
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰"/>
 		</structure>
 		<price>1900000</price>
 		<size>1,1</size>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title></title>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
@@ -6,7 +6,7 @@
 	
 	
 	
-	<!-- �����ʋΎԃ^�C�v -->
+	<!-- 京王通勤車タイプ -->
 	<contribution type="trainCar" id="{E5123166-35D8-4f00-B556-9FA6143EA539}">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="KEIO.bmp" origin="0,0"/>
@@ -14,12 +14,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{2B3E6067-B2C3-43c5-BA0E-236DC69533CF}">
-		<company>�����d�S</company>
-		<type>�ʋΎԃ^�C�v</type>
+		<company>京王電鉄</company>
+		<type>通勤車タイプ</type>
 		<name></name>
-		<author>�����̐l����</author>
+		<author>無名の人さん</author>
 		<description>
-�����d�S�̒ʋΌ^�d�ԁB
+京王電鉄の通勤型電車。
 		</description>
 		<price>980</price>
 		<speed>medium</speed>

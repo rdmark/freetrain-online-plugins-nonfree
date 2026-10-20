@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY templeTower '
-	<group>ŒÜd“ƒ</group>
+	<group>äº”é‡å¡”</group>
 	<structure>
-		<category byname="—L–¼›Ğ"/>
+		<category byname="æœ‰åå¯ºç¤¾"/>
 	</structure>
 	<price>300000000</price>
 	<size>1,1</size>
@@ -16,8 +16,8 @@
 '>
 ]>
 <plug-in>
-	<title>›ĞƒZƒbƒg</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å¯ºç¤¾ã‚»ãƒƒãƒˆ</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 	<contribution type="picture" id="{EDF30556-04D0-472E-C477-D7E5710D2025}">
@@ -26,7 +26,7 @@
 
 	<contribution type="GenericStructure" id="{A672D45E-FA9B-405F-C477-0EE109E8B38D}">
 		&templeTower;
-		<design>Š¢•˜‚«</design>
+		<design>ç“¦è‘ºã</design>
 		<sprite origin="0,0" offset="40">
 			<picture ref="{EDF30556-04D0-472E-C477-D7E5710D2025}"/>
 		</sprite>
@@ -34,7 +34,7 @@
 
 	<contribution type="GenericStructure" id="{DEBD4FD7-C11D-43E3-C477-84D3A2979DB8}">
 		&templeTower;
-		<design>w”ç•˜‚«</design>
+		<design>æªœçš®è‘ºã</design>
 		<sprite origin="32,0" offset="40">
 			<picture ref="{EDF30556-04D0-472E-C477-D7E5710D2025}"/>
 		</sprite>

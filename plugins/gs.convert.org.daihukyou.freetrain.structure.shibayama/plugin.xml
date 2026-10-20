@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@ŽÄŽRe•û</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€æŸ´å±±è¦ªæ–¹</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="org.daihukyou.freetrain.structure.shibayama" />
 
 
         <contribution type="GenericStructure" id="{1EBA4A26-C35D-4209-9C71-AA9B1237C14C}-gs">
-		<group>ƒeƒNƒmƒK[ƒfƒ“ƒrƒ‹</group>
+		<group>ãƒ†ã‚¯ãƒŽã‚¬ãƒ¼ãƒ‡ãƒ³ãƒ“ãƒ«</group>
 		<price>100000000</price>
 		<size>2,4</size>
 		<height>10</height>
@@ -16,11 +16,11 @@
 			<base>2200</base>
 		</population>
 		<structure>
-			<category byname="‘ÝŽ––±Š" />
-			<category byname="“X•Ü" hide="true"/>
-			<category byname="‹âs" hide="true"/>
-			<category byname="ˆê”ÊˆùH“X" hide="true"/>
-			<category byname="ƒtƒ@[ƒXƒgƒt[ƒh" hide="true"/>
+			<category byname="è²¸äº‹å‹™æ‰€" />
+			<category byname="åº—èˆ—" hide="true"/>
+			<category byname="éŠ€è¡Œ" hide="true"/>
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true"/>
+			<category byname="ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒ•ãƒ¼ãƒ‰" hide="true"/>
 		</structure>
 		<sprite origin="0,0" offset="142">
 			<picture ref="{9FAB85B3-1232-4DAE-B833-BD2E5ADBDDD2}"/>

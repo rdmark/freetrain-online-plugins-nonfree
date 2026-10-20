@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>¬–©èc“¹E‚¢‚·‚Ý“S“¹ŽÔ—¼ƒvƒ‰ƒOƒCƒ“</title>
-	<author>‚¢‚Á‚¿[</author>
+	<title>å°æ¹Šéµé“ãƒ»ã„ã™ã¿é‰„é“è»Šä¸¡ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
+	<author>ã„ã£ã¡ãƒ¼</author>
 	<homepage>http://www.geocities.jp/cyber_express_1703d/freetrain/FT_plugin.html</homepage>
 	
-<!-- ‚¢‚·‚Ý200 -->
+<!-- ã„ã™ã¿200 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040417-isumi200}-a">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -16,12 +16,12 @@
 	</contribution>
 
 	<contribution type="train" id="{cyber-express-1703d-040417-isumi200}">
-		<company>‚¢‚·‚Ý“S“¹</company>
-		<type>‚¢‚·‚Ý200Œ`</type>
-		<name>‚¢‚·‚Ýü</name>
-		<author>‚¢‚Á‚¿[</author>
+		<company>ã„ã™ã¿é‰„é“</company>
+		<type>ã„ã™ã¿200å½¢</type>
+		<name>ã„ã™ã¿ç·š</name>
+		<author>ã„ã£ã¡ãƒ¼</author>
 		<description>
-ç—tŒ§‚Ì‘åŒ´`ã‘’†–ì‚ðŒ‹‚Ô‘æŽOƒZƒNƒ^[A‚¢‚·‚Ý“S“¹‚ÌŽÔ—¼‚Å‚·B
+åƒè‘‰çœŒã®å¤§åŽŸï½žä¸Šç·ä¸­é‡Žã‚’çµã¶ç¬¬ä¸‰ã‚»ã‚¯ã‚¿ãƒ¼ã€ã„ã™ã¿é‰„é“ã®è»Šä¸¡ã§ã™ã€‚
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>
@@ -33,7 +33,7 @@
 		</composition>
 	</contribution>
 
-<!-- ¬–©èc“¹ƒLƒn200 -->
+<!-- å°æ¹Šéµé“ã‚­ãƒ200 -->
 
 	<contribution type="trainCar" id="{cyber-express-1703d-040417-kominato200}-a">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -45,14 +45,14 @@
 	</contribution>
 
 	<contribution type="train" id="{cyber-express-1703d-040417-kominato200}">
-		<company>¬–©èc“¹</company>
-		<type>ƒLƒn200Œ`</type>
+		<company>å°æ¹Šéµé“</company>
+		<type>ã‚­ãƒ200å½¢</type>
 		<name></name>
-		<author>‚¢‚Á‚¿[</author>
+		<author>ã„ã£ã¡ãƒ¼</author>
 		<description>
-ç—tŒ§‚ÌŒÜˆä`ã‘’†–ì‚ðŒ‹‚ÔŽ„“SA¬–©èc“¹‚ÌŽÔ—¼B
-‘“S‚Ö‚Ìæ“ü‚ê‚ðl—¶‚µ‘“SƒLƒn20Œ`‚É€‚¶‚Ä»ì‚³‚ê‚½ŽÔ—¼‚ÅAˆÈ‘O‚Í‘“Sç—t‰w‚Öæ“ü‚ê‚Ä‚¢‚½‚ªŒ»Ý‚ÍÝ’è‚³‚ê‚Ä‚¢‚È‚¢B
-•Ò¬—¼”‚Í1—¼‚©‚ç5—¼B‘S14—¼‚ª»ì‚³‚êŒ»Ý‚àŠˆ–ô’†‚Å‚ ‚éB 
+åƒè‘‰çœŒã®äº”äº•ï½žä¸Šç·ä¸­é‡Žã‚’çµã¶ç§é‰„ã€å°æ¹Šéµé“ã®è»Šä¸¡ã€‚
+å›½é‰„ã¸ã®ä¹—å…¥ã‚Œã‚’è€ƒæ…®ã—å›½é‰„ã‚­ãƒ20å½¢ã«æº–ã˜ã¦è£½ä½œã•ã‚ŒãŸè»Šä¸¡ã§ã€ä»¥å‰ã¯å›½é‰„åƒè‘‰é§…ã¸ä¹—å…¥ã‚Œã¦ã„ãŸãŒç¾åœ¨ã¯è¨­å®šã•ã‚Œã¦ã„ãªã„ã€‚
+ç·¨æˆä¸¡æ•°ã¯1ä¸¡ã‹ã‚‰5ä¸¡ã€‚å…¨14ä¸¡ãŒè£½ä½œã•ã‚Œç¾åœ¨ã‚‚æ´»èºä¸­ã§ã‚ã‚‹ã€‚ 
 		</description>
 		<fare>400</fare>
 		<price>28000000</price>

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒ‚ƒmƒŒ[ƒ‹‚¹‚Á‚Æ</title>
-	<author>‚½‚¢‚Ó`‚ñ</author>
+	<title>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ã›ã£ã¨</title>
+	<author>ãŸã„ãµï½žã‚“</author>
 	<homepage></homepage>
 
 	<contribution type="road" id="{TYPHOON-MONO-ROAD-7567171D3CEF}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒ‚ƒmƒŒ[ƒ‹—pƒŒ[ƒ‹</name>
-		<description>ƒ‚ƒmƒŒ[ƒ‹—pƒŒ[ƒ‹</description>
+		<name>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ãƒ¬ãƒ¼ãƒ«</name>
+		<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ç”¨ãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="road_mono.bmp" size="32,32" offset="16">
 		</picture>
 	</contribution>
@@ -15,7 +15,7 @@
 
 
 
-	<!-- ‘½–€1000Œn æ“ªŽÔ-->
+	<!-- å¤šæ‘©1000ç³» å…ˆé ­è»Š-->
 	<contribution type="trainCar" id="{TYPHOON-TAMATOSHI-1000-7567171D3CEF}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -24,7 +24,7 @@
 		<capacity>100</capacity>
 		<seatedcapacity>38</seatedcapacity>
 	</contribution>
-	<!-- ‘½–€1000Œn ’†ŠÔŽÔ-->
+	<!-- å¤šæ‘©1000ç³» ä¸­é–“è»Š-->
 	<contribution type="trainCar" id="{TYPHOON-TAMATOSHI-1000-7567171D3CEF}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -33,18 +33,18 @@
 		<capacity>107</capacity>
 		<seatedcapacity>41</seatedcapacity>
 	</contribution>
-	<!-- ‘½–€1000Œn Œã”öŽÔ-->
+	<!-- å¤šæ‘©1000ç³» å¾Œå°¾è»Š-->
 	<contribution type="trainCar" id="{TYPHOON-TAMATOSHI-1000-7567171D3CEF}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{TYPHOON-TAMATOSHI-1000-7567171D3CEF}-h"/>
 	</contribution>
 
 	<contribution type="train" id="{TYPHOON-TAMATOSHI-1000-HENSEI-7567171D3CEF}">
-		<company>‘½–€“sŽsƒ‚ƒmƒŒ[ƒ‹</company>
-		<type>1000Œn</type>
+		<company>å¤šæ‘©éƒ½å¸‚ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</company>
+		<type>1000ç³»</type>
 		<name></name>
-		<author>‚½‚¢‚Ó`‚ñ</author>
-		<description>‘½–€ƒZƒ“ƒ^[‚©‚ç–kã‚µ—§ì‚ð’´‚¦‚Äã–k‘ä‚Ü‚Å‚ðŒ‹‚ñ‚Å‚¢‚é‘½–€“sŽsƒ‚ƒmƒŒ[ƒ‹‚ÅŽg—p‚³‚ê‚Ä‚¢‚éŽÔ—¼‚Å‚·B14•Ò¬‚ª‘¶Ý‚µ‚Ü‚·B</description>
+		<author>ãŸã„ãµï½žã‚“</author>
+		<description>å¤šæ‘©ã‚»ãƒ³ã‚¿ãƒ¼ã‹ã‚‰åŒ—ä¸Šã—ç«‹å·ã‚’è¶…ãˆã¦ä¸ŠåŒ—å°ã¾ã§ã‚’çµã‚“ã§ã„ã‚‹å¤šæ‘©éƒ½å¸‚ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ã§ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹è»Šä¸¡ã§ã™ã€‚14ç·¨æˆãŒå­˜åœ¨ã—ã¾ã™ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

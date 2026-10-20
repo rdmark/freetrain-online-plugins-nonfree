@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>’Yz</title> 
-  <author>ƒ‚ƒKƒ~</author> 
+  <title>ç‚­é‰±</title> 
+  <author>ãƒ¢ã‚¬ãƒŸ</author> 
   <homepage>hhttp://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{E7785798-1B39-487B-8647-6E7BB8B2DBDF}">
   <picture src="tankou.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-0">
-  <group>’YzEŽ––±Š</group> 
+  <group>ç‚­é‰±ãƒ»äº‹å‹™æ‰€</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>16000000</price> 
@@ -21,9 +21,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-1">
-  <group>’YBE’GR˜E</group> 
+  <group>ç‚­å‘ãƒ»ç«ªæŠ—æ«“</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>50000000</price> 
@@ -34,9 +34,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-2">
-  <group>’YBEƒhƒ‹ƒVƒbƒNƒi[</group> 
+  <group>ç‚­å‘ãƒ»ãƒ‰ãƒ«ã‚·ãƒƒã‚¯ãƒŠãƒ¼</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>10000000</price> 
@@ -47,9 +47,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-3">
-  <group>’YBEƒxƒ‹ƒgƒRƒ“ƒxƒA[1</group> 
+  <group>ç‚­å‘ãƒ»ãƒ™ãƒ«ãƒˆã‚³ãƒ³ãƒ™ã‚¢ãƒ¼1</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>6000000</price> 
@@ -60,9 +60,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-4">
-  <group>’YBEƒxƒ‹ƒgƒRƒ“ƒxƒA[2</group> 
+  <group>ç‚­å‘ãƒ»ãƒ™ãƒ«ãƒˆã‚³ãƒ³ãƒ™ã‚¢ãƒ¼2</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>6000000</price> 
@@ -73,9 +73,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{14B295A3-7EC2-4265-842F-650B3F089A6A}-5">
-  <group>’YBE‘qŒÉ”Ž{Ý</group> 
+  <group>ç‚­å‘ãƒ»å€‰åº«è«¸æ–½è¨­</group> 
   <structure>
-  <category byname="’YB" /> 
+  <category byname="ç‚­å‘" /> 
   </structure>
   <size>1,1</size> 
   <price>16000000</price> 

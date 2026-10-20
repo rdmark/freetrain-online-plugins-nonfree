@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY Pastel1 '
 	<spriteType name="hueTransform">
@@ -85,8 +85,8 @@
 
 <plug-in>
 
-	<title>—V‰€’nƒZƒbƒg‚Q</title>
-	<author>C477@2—¼–Ú</author>
+	<title>éŠåœ’åœ°ã‚»ãƒƒãƒˆï¼’</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{EECD562F-03C5-4256-C477-D1F6B7912F24}">
@@ -113,22 +113,22 @@
 
 	<contribution type="road" id="{B0E968D8-BE76-4861-C477-9112FA78C953}-w">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒTƒCƒNƒ‹ƒ‚ƒmƒŒ[ƒ‹(—Î)</name>
-		<description>ƒTƒCƒNƒ‹ƒ‚ƒmƒŒ[ƒ‹</description>
+		<name>ã‚µã‚¤ã‚¯ãƒ«ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«(ç·‘)</name>
+		<description>ã‚µã‚¤ã‚¯ãƒ«ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</description>
 		<picture ref="{741DB0BD-6F5B-4BCA-C477-3A2BFAA3E3A3}-1" size="32,32" offset="16"/>
 	</contribution>
 	<contribution type="road" id="{B0E968D8-BE76-4861-C477-9112FA78C953}-g">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ƒTƒCƒNƒ‹ƒ‚ƒmƒŒ[ƒ‹(”’)</name>
-		<description>ƒTƒCƒNƒ‹ƒ‚ƒmƒŒ[ƒ‹</description>
+		<name>ã‚µã‚¤ã‚¯ãƒ«ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«(ç™½)</name>
+		<description>ã‚µã‚¤ã‚¯ãƒ«ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</description>
 		<picture ref="{741DB0BD-6F5B-4BCA-C477-3A2BFAA3E3A3}-2" size="32,32" offset="16"/>
 	</contribution>
 
 	<contribution type="GenericStructure" id="{657DE35E-C898-4BCC-C477-B1A3AA649C1E}">
-		<group>”„“X</group>
-		<design>¬ƒXƒ^ƒ“ƒhx3</design>
+		<group>å£²åº—</group>
+		<design>å°ã‚¹ã‚¿ãƒ³ãƒ‰x3</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>180000</price>
 		<population>
@@ -156,10 +156,10 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{D5CEA823-5FA3-44CD-C477-A3D638703394}">
-		<group>”„“X</group>
-		<design>¬ƒXƒ^ƒ“ƒhx2</design>
+		<group>å£²åº—</group>
+		<design>å°ã‚¹ã‚¿ãƒ³ãƒ‰x2</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>120000</price>
 		<population>
@@ -187,10 +187,10 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{2661E02A-78F0-4978-C477-A1A8F32CAC1B}">
-		<group>”„“X</group>
-		<design>ƒŒƒXƒgƒnƒEƒX</design>
+		<group>å£²åº—</group>
+		<design>ãƒ¬ã‚¹ãƒˆãƒã‚¦ã‚¹</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>600000</price>
 		<population>
@@ -215,10 +215,10 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{5B5843D7-7C58-47A3-C477-F9D24B5F21FD}">
-		<group>”„“X</group>
-		<design>ƒVƒ‡ƒbƒvƒ‚[ƒ‹</design>
+		<group>å£²åº—</group>
+		<design>ã‚·ãƒ§ãƒƒãƒ—ãƒ¢ãƒ¼ãƒ«</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>2000000</price>
 		<population>
@@ -243,7 +243,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="land" id="{7E1EEEA8-AF6F-4810-C477-88C3AED6DE66}-0">
-		<group>—V‰€’n:ƒe[ƒuƒ‹</group>
+		<group>éŠåœ’åœ°:ãƒ†ãƒ¼ãƒ–ãƒ«</group>
 		<computerCannotBuild/>
 		<price>40000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
@@ -252,7 +252,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="land" id="{7E1EEEA8-AF6F-4810-C477-88C3AED6DE66}-1">
-		<group>—V‰€’n:ƒe[ƒuƒ‹</group>
+		<group>éŠåœ’åœ°:ãƒ†ãƒ¼ãƒ–ãƒ«</group>
 		<computerCannotBuild/>
 		<price>40000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
@@ -261,7 +261,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="land" id="{7E1EEEA8-AF6F-4810-C477-88C3AED6DE66}-2">
-		<group>—V‰€’n:ƒe[ƒuƒ‹</group>
+		<group>éŠåœ’åœ°:ãƒ†ãƒ¼ãƒ–ãƒ«</group>
 		<computerCannotBuild/>
 		<price>40000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
@@ -270,7 +270,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="land" id="{7E1EEEA8-AF6F-4810-C477-88C3AED6DE66}-3">
-		<group>—V‰€’n:ƒe[ƒuƒ‹</group>
+		<group>éŠåœ’åœ°:ãƒ†ãƒ¼ãƒ–ãƒ«</group>
 		<computerCannotBuild/>
 		<price>40000</price>
 		<class name="freetrain.contributions.land.StaticLandBuilder"/>
@@ -279,7 +279,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="land" id="{7E1EEEA8-AF6F-4810-C477-88C3AED6DE66}">
-		<group>—V‰€’n:ƒe[ƒuƒ‹</group>
+		<group>éŠåœ’åœ°:ãƒ†ãƒ¼ãƒ–ãƒ«</group>
 		<computerCannotBuild/>
 		<price>40000</price>
 		<class name="freetrain.contributions.land.RandomLandBuilder"/>

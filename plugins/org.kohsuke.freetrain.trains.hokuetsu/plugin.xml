@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�e�X�g</title>
+	<title>テスト</title>
  	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 
 	<!-- HK100 -->
@@ -14,12 +14,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{601F4004-9318-417B-B027-9138F8D37C35}">
-		<company>�k�z�}�s</company>
+		<company>北越急行</company>
 		<type>HK100</type>
 		<name></name>
-		<author>�Ă�</author>
+		<author>ては</author>
 		<description>
-���K�i�H���Ƃ��Đ݌v���ꂽ�ق��ق����p�ɐ݌v���ꂽ�ԗ��B������u���[�L���\�ɗD�ꂽ�ԑ̂ł���B
+高規格路線として設計されたほくほく線用に設計された車両。加速･ブレーキ性能に優れた車体である。
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>

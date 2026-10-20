@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>���������R���o�[�g�@�ԕH��΁@���`</title>
-	<author>�肨�肨</author>
+	<title>建物総合コンバート　花菱烈火　漁港</title>
+	<author>りおりお</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 	<contribution type="picture" id="{riorio-gsconvert-rekka-picture-minato-0001}">
@@ -27,7 +27,7 @@
 
 
 	<contribution type="GenericStructure" id="{rk-minato-n001}-gs">
-		<group>�`</group>
+		<group>港</group>
 		<design>A</design>
 		<price>1000</price>
 		<size>3,3</size>
@@ -39,14 +39,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-minato-0001}" />
 		</sprite>
 		<structure>
-			<category  byname="���̑��`�p�ݔ�" />
+			<category  byname="その他港湾設備" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 
 	<contribution type="GenericStructure" id="{rk-minato-n003}-gs">
-		<group>�`</group>
+		<group>港</group>
 		<design>B</design>
 		<price>1000</price>
 		<size>3,3</size>
@@ -58,14 +58,14 @@
 			<picture ref="{riorio-gsconvert-rekka-picture-minato-0002}" />
 		</sprite>
 		<structure>
-			<category  byname="���̑��`�p�ݔ�" />
+			<category  byname="その他港湾設備" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 
 	<contribution type="GenericStructure" id="{rk-minato-n005}-gs">
-		<group>�`</group>
+		<group>港</group>
 		<design>C</design>
 		<price>1000</price>
 		<size>3,2</size>
@@ -78,14 +78,14 @@ opposite="true">
 			<picture ref="{riorio-gsconvert-rekka-picture-minato-0003}" />
 		</sprite>
 		<structure>
-			<category  byname="���̑��`�p�ݔ�" />
+			<category  byname="その他港湾設備" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 
 	<contribution type="GenericStructure" id="{rk-minato-n007}-gs">
-		<group>�`</group>
+		<group>港</group>
 		<design>D</design>
 		<price>1000</price>
 		<size>3,3</size>
@@ -97,14 +97,14 @@ opposite="true">
 			<picture ref="{riorio-gsconvert-rekka-picture-minato-0005}" />
 		</sprite>
 		<structure>
-			<category  byname="���̑��`�p�ݔ�" />
+			<category  byname="その他港湾設備" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>
 
 
 	<contribution type="GenericStructure" id="{rk-minato-n010}-gs">
-		<group>�`</group>
+		<group>港</group>
 		<design>E</design>
 		<price>1000</price>
 		<size>3,3</size>
@@ -116,7 +116,7 @@ opposite="true">
 			<picture ref="{riorio-gsconvert-rekka-picture-minato-0006}" />
 		</sprite>
 		<structure>
-			<category  byname="���̑��`�p�ݔ�" />
+			<category  byname="その他港湾設備" />
 		</structure>
 		<computerCannotBuild/>
 	</contribution>

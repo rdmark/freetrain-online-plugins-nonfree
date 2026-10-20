@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY building2x2Param '
-	<group>貸しビル(2x2)</group>
+	<group>雋ｸ縺励ン繝ｫ(2x2)</group>
 	<price>32000000</price>
 	<size>2,2</size>
 	<minHeight>3</minHeight>
@@ -14,8 +14,8 @@
 ]>
 	
 <plug-in>
-	<title>建物プラグイン</title>
-	<author>しの</author>
+	<title>蟒ｺ迚ｩ繝励Λ繧ｰ繧､繝ｳ</title>
+	<author>縺励�ｮ</author>
 	<homepage></homepage>
 
 

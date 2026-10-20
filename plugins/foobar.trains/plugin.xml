@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 <author>foobar</author>
 <homepage>http://foobar.ifdef.jp</homepage>
-<title>���</title>
-<!-- TAKUROU����́u�L�n�R�P�v�𗬗p�����L�n54-500 -->
+<title>列車</title>
+<!-- TAKUROUさんの「キハ３１」を流用したキハ54-500 -->
 <depend on="jp.dion.kei_s.freetrain.train.TAKUROU" />
 
-	<!-- �L�n54-500 -->
+	<!-- キハ54-500 -->
 
-		<!-- ���q��` -->
+		<!-- 車輌定義 -->
 		<contribution type="trainCar" id="{3594DB9F-87AC-447f-A06A-5D1CA30658DE}">
 			<class name="freetrain.contributions.train.SymTrainCarImpl" />
 			<sprite origin="0,0">
@@ -21,13 +21,13 @@
 			<seatedcapacity>70</seatedcapacity>
 		</contribution>
 
-		<!-- ��Ԓ�` -->
+		<!-- 列車定義 -->
 		<contribution type="train" id="{C9FC390D-64A1-42bf-A456-F8D8A95867B2}">
-			<company>�����{���L�S��</company>
-			<type>�L�n54�n500�ԑ�</type>
-			<name>�L�n54-500�̂�</name>
+			<company>旧日本国有鉄道</company>
+			<type>キハ54系500番台</type>
+			<name>キハ54-500のみ</name>
 			<author>foobar</author>
-			<description>�L�n54-500�݂̂̕Ґ�</description>
+			<description>キハ54-500のみの編成</description>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>100</amenity>
@@ -38,9 +38,9 @@
 			</composition>
 		</contribution>
 
-	<!-- �L�n53-500 -->
+	<!-- キハ53-500 -->
 
-		<!-- ���q��` -->
+		<!-- 車輌定義 -->
 		<contribution type="trainCar" id="{A7ABE8F1-5661-40ac-B9E0-9B5016E82ED6}">
 			<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 			<sprite origin="0,0"><picture src="kiha53500.png" /></sprite>
@@ -48,13 +48,13 @@
 			<seatedcapacity>74</seatedcapacity>
 		</contribution>
 
-		<!-- ��Ԓ�` -->
+		<!-- 列車定義 -->
 		<contribution type="train" id="{2111E09F-6C00-48d7-AE20-7EC1E4910E6E}">
-			<company>�����{���L�S��</company>
-			<type>�L�n53�n500�ԑ�</type>
-			<name>�L�n53-500�̂�</name>
+			<company>旧日本国有鉄道</company>
+			<type>キハ53系500番台</type>
+			<name>キハ53-500のみ</name>
 			<author>foobar</author>
-			<description>�L�n53-500�݂̂̕Ґ�</description>
+			<description>キハ53-500のみの編成</description>
 		<fare>500</fare>
 		<price>30000000</price>
 		<triprange>middle</triprange>

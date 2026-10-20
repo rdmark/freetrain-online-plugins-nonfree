@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>�C�㎩�q���͒�</title> 
- <author>Hermes(���싽�̐l)</author> 
+ <title>海上自衛隊艦艇</title> 
+ <author>Hermes(白川郷の人)</author> 
  <homepage>nothing</homepage> 
- <!--  �摜��`  --> 
+ <!--  画像定義  --> 
  <contribution type="picture" id="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E905}">
  <picture src="DDH_hyuga_class.bmp" /> 
  </contribution>
@@ -13,15 +13,15 @@
  <contribution type="picture" id="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E925}">
  <picture src="PG_hayabusa_class.bmp" /> 
  </contribution>
- <!--  �v���O�C����`  --> 
- <!--  �������^��q��  --> 
+ <!--  プラグイン定義  --> 
+ <!--  あたご型護衛艦  --> 
  <contribution type="GenericStructure" id="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E900}-01">
- <group>�C�㎩�q���͒�</group> 
- <design>�Ђイ���^��q��</design> 
+ <group>海上自衛隊艦艇</group> 
+ <design>ひゅうが型護衛艦</design> 
  <price>1500</price> 
  <size>6,2</size> 
  <structure>
- <category byname="�R���{��" /> 
+ <category byname="軍事施設" /> 
  </structure>
  <height>3</height> 
  <population>
@@ -42,14 +42,14 @@
  <picture ref="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E905}" /> 
  </sprite>
  </contribution>
- <!--  �Ђイ���^��q��  --> 
+ <!--  ひゅうが型護衛艦  --> 
  <contribution type="GenericStructure" id="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E910}-01">
- <group>�C�㎩�q���͒�</group> 
- <design>�������^��q��</design> 
+ <group>海上自衛隊艦艇</group> 
+ <design>あたご型護衛艦</design> 
  <price>1500</price> 
  <size>6,2</size> 
  <structure>
- <category byname="�R���{��" /> 
+ <category byname="軍事施設" /> 
  </structure>
  <height>3</height> 
  <population>
@@ -70,14 +70,14 @@
  <picture ref="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E915}" /> 
  </sprite>
  </contribution>
- <!--  �͂�Ԃ��^�~�T�C����  --> 
+ <!--  はやぶさ型ミサイル艇  --> 
  <contribution type="GenericStructure" id="{1CDCD81D-8368-4CBC-HERM-JMSDFBD1E920}-01">
- <group>�C�㎩�q���͒�</group> 
- <design>�͂�Ԃ��^�~�T�C����</design> 
+ <group>海上自衛隊艦艇</group> 
+ <design>はやぶさ型ミサイル艇</design> 
  <price>250</price> 
  <size>2,2</size> 
  <structure>
- <category byname="�R���{��" /> 
+ <category byname="軍事施設" /> 
  </structure>
  <height>1</height> 
  <population>

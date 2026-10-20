@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY HouseStatus '
-		<group>��ˌ���</group>
+		<group>一戸建て</group>
 		<structure>
-			<category byname="��ˌ���"/>
+			<category byname="一戸建て"/>
 		</structure>
 		<price>1000000</price>
 		<size>1,1</size>
@@ -12,8 +12,8 @@
 ]>
 
 <plug-in>
-	<title>��ˌ��ăZ�b�g</title>
-	<author>�ɂ���</author>
+	<title>一戸建てセット</title>
+	<author>暇さん</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.hima"/>	
 	

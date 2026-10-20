@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY gasshoA '
-	<group>‡¶‘¢‚è</group>
-	<design>ØÈ‘¢</design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>åˆ‡å¦»é€ </design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -15,12 +15,12 @@
 	</population>
 '>
 <!ENTITY gasshoB '
-	<group>‡¶‘¢‚è</group>
-	<design>“ü•ê‰®‘¢</design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>å…¥æ¯å±‹é€ </design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -30,12 +30,12 @@
 
 '>
 <!ENTITY gasshoC '
-	<group>‡¶‘¢‚è</group>
-	<design>Šñ“‘¢</design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>å¯„æ£Ÿé€ </design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -45,12 +45,12 @@
 
 '>
 <!ENTITY gasshoD '
-	<group>‡¶‘¢‚è</group>
-	<design>“y‘ </design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>åœŸè”µ</design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -61,12 +61,12 @@
 
 '>
 <!ENTITY gasshoE '
-	<group>‡¶‘¢‚è</group>
-	<design>…ŽÔ¬‰®</design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>æ°´è»Šå°å±‹</design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -76,12 +76,12 @@
     <computerCannotBuild />
 '>
 <!ENTITY gasshoF '
-	<group>‡¶‘¢‚è</group>
-	<design>“¹‘c_</design>
+	<group>åˆæŽŒé€ ã‚Š</group>
+	<design>é“ç¥–ç¥ž</design>
 	<price>500000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆêŒËŒš‚Ä"/>
+		<category byname="ä¸€æˆ¸å»ºã¦"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -92,7 +92,7 @@
 '>]>
 
 <plug-in>
-	<title>‡¶‘¢‚è</title>
+	<title>åˆæŽŒé€ ã‚Š</title>
 	<author>Hermes</author>
 	<homepage>nothing</homepage>
 		

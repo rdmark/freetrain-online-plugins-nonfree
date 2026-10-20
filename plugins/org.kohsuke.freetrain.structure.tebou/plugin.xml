@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>水門</title>
-	<author>花菱烈火</author>
+	<title>豌ｴ髢</title>
+	<author>闃ｱ闖ｱ辜育↓</author>
 	<homepage></homepage>
 	
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C300-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>50000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -22,7 +22,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C301-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>50000000</price>
 		<size>3,3</size>
 		<height>2</height>
@@ -38,7 +38,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C302-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -53,7 +53,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C303-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -68,7 +68,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C304-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -83,7 +83,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C305-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -98,7 +98,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C306-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -113,7 +113,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C307-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -128,7 +128,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C308-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -143,7 +143,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C309-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -158,7 +158,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C310-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -173,7 +173,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C311-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -188,7 +188,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C312-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -203,7 +203,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{S5776500-11118-hana-C313-A0036A6ECDEB}">
-		<group>水門</group>
+		<group>豌ｴ髢</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>

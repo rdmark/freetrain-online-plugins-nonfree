@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒtƒFƒŠ[</title>
-	<author>‚µ‚©‚µ‚©</author>
+	<title>ãƒ•ã‚§ãƒªãƒ¼</title>
+	<author>ã—ã‹ã—ã‹</author>
  	<homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-	<!-- ƒCƒ[ƒW‰æ‘œ’è‹` --> 
-	<!-- ¼‘åŠÏŒõ‘D ‚‘¬‘D -->
+	<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© --> 
+	<!-- æ¾å¤§è¦³å…‰èˆ¹ é«˜é€Ÿèˆ¹ -->
 	<contribution type="picture" id="{FreeTrain-Ship-PassengerShip-picture-BlueShuttle}">
 		<picture src="BlueShuttle.bmp" />
 	</contribution>
- 	<!-- ‘D”•’è‹` -->
-	<!-- ¼‘åŠÏŒõ‘D ‚‘¬‘D -->
+ 	<!-- èˆ¹èˆ¶å®šç¾© -->
+	<!-- æ¾å¤§è¦³å…‰èˆ¹ é«˜é€Ÿèˆ¹ -->
 	<contribution type="trainCar" id="{FreeTrain-Ship-PassengerShip-Ship-BlueShuttle}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -19,13 +19,13 @@
 		<capacity>94</capacity>
 		<seatedcapacity>94</seatedcapacity>
 	</contribution>
-	<!-- ‰^q‘D”•‚Ì’è‹` -->
+	<!-- é‹èˆªèˆ¹èˆ¶ã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-Ship-PassengerShip-Boat-BlueShuttle}">
-		<company>¼‘åŠÏŒõ‘D</company>
-		<type>‚‘¬‘D</type>
-		<name>ƒuƒ‹[ƒVƒƒƒgƒ‹</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>19ƒgƒ“A’èˆõ94–¼AÀÈ68ÈB
+		<company>æ¾å¤§è¦³å…‰èˆ¹</company>
+		<type>é«˜é€Ÿèˆ¹</type>
+		<name>ãƒ–ãƒ«ãƒ¼ã‚·ãƒ£ãƒˆãƒ«</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>19ãƒˆãƒ³ã€å®šå“¡94åã€åº§å¸­68å¸­ã€‚
 		</description>
 		<fare>600</fare>
 		<price>420000000</price>
@@ -33,19 +33,19 @@
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‘D" ref="{FreeTrain-Ship-PassengerShip-Ship-BlueShuttle}"/>
+			<car char="èˆ¹" ref="{FreeTrain-Ship-PassengerShip-Ship-BlueShuttle}"/>
 			
-			<composition>‘D</composition>
+			<composition>èˆ¹</composition>
 		</config>
 	</contribution>
 
-	<!-- ƒCƒ[ƒW‰æ‘œ’è‹` --> 
-	<!-- ¼‘åŠÏŒõ‘D ƒtƒFƒŠ[ -->
+	<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© --> 
+	<!-- æ¾å¤§è¦³å…‰èˆ¹ ãƒ•ã‚§ãƒªãƒ¼ -->
 	<contribution type="picture" id="{FreeTrain-Ship-PassengerShip-picture-itukushima}">
 		<picture src="itukushima.bmp" />
 	</contribution>
- 	<!-- ‘D”•’è‹` -->
-	<!-- ¼‘åŠÏŒõ‘D ƒtƒFƒŠ[ -->
+ 	<!-- èˆ¹èˆ¶å®šç¾© -->
+	<!-- æ¾å¤§è¦³å…‰èˆ¹ ãƒ•ã‚§ãƒªãƒ¼ -->
 	<contribution type="trainCar" id="{FreeTrain-Ship-PassengerShip-Ship-itukushima}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -54,13 +54,13 @@
 		<capacity>350</capacity>
 		<seatedcapacity>350</seatedcapacity>
 	</contribution>
-	<!-- ‰^q‘D”•‚Ì’è‹` -->
+	<!-- é‹èˆªèˆ¹èˆ¶ã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-Ship-PassengerShip-Ferry-itukushima}">
-		<company>¼‘åŠÏŒõ‘D</company>
-		<type>ƒtƒFƒŠ[</type>
-		<name>Œµ“‡</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>_Œ´‘¢‘D»‘¢B197ƒgƒ“A’èˆõ350–¼A¬Œ^æ—pŽÔ10‘äB
+		<company>æ¾å¤§è¦³å…‰èˆ¹</company>
+		<type>ãƒ•ã‚§ãƒªãƒ¼</type>
+		<name>åŽ³å³¶</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>ç¥žåŽŸé€ èˆ¹è£½é€ ã€‚197ãƒˆãƒ³ã€å®šå“¡350åã€å°åž‹ä¹—ç”¨è»Š10å°ã€‚
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -68,19 +68,19 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‘D" ref="{FreeTrain-Ship-PassengerShip-Ship-itukushima}"/>
+			<car char="èˆ¹" ref="{FreeTrain-Ship-PassengerShip-Ship-itukushima}"/>
 			
-			<composition>‘D</composition>
+			<composition>èˆ¹</composition>
 		</config>
 	</contribution>
 
-	<!-- ƒCƒ[ƒW‰æ‘œ’è‹` --> 
-	<!-- JR˜A—‘D ƒtƒFƒŠ[ -->
+	<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒå®šç¾© --> 
+	<!-- JRé€£çµ¡èˆ¹ ãƒ•ã‚§ãƒªãƒ¼ -->
 	<contribution type="picture" id="{FreeTrain-Ship-PassengerShip-picture-mishenmaru}">
 		<picture src="mishenmaru.bmp" />
 	</contribution>
- 	<!-- ‘D”•’è‹` -->
-	<!-- JR˜A—‘D ƒtƒFƒŠ[ -->
+ 	<!-- èˆ¹èˆ¶å®šç¾© -->
+	<!-- JRé€£çµ¡èˆ¹ ãƒ•ã‚§ãƒªãƒ¼ -->
 	<contribution type="trainCar" id="{FreeTrain-Ship-PassengerShip-Ship-mishenmaru}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -89,13 +89,13 @@
 		<capacity>460</capacity>
 		<seatedcapacity>460</seatedcapacity>
 	</contribution>
-	<!-- ‰^q‘D”•‚Ì’è‹` -->
+	<!-- é‹èˆªèˆ¹èˆ¶ã®å®šç¾© -->
 	<contribution type="train" id="{FreeTrain-Ship-PassengerShip-Ferry-mishenmaru}">
-		<company>JR¼“ú–{</company>
-		<type>ƒtƒFƒŠ[</type>
-		<name>‚Ý‚¹‚ñŠÛ</name>
-		<author>‚µ‚©‚µ‚©</author>
-		<description>“àŠC‘¢‘D»‘¢B218ƒgƒ“A’èˆõ460–¼B
+		<company>JRè¥¿æ—¥æœ¬</company>
+		<type>ãƒ•ã‚§ãƒªãƒ¼</type>
+		<name>ã¿ã›ã‚“ä¸¸</name>
+		<author>ã—ã‹ã—ã‹</author>
+		<description>å†…æµ·é€ èˆ¹è£½é€ ã€‚218ãƒˆãƒ³ã€å®šå“¡460åã€‚
 		</description>
 		<fare>500</fare>
 		<price>35000000</price>
@@ -103,9 +103,9 @@
 		<speed>slow</speed>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="‘D" ref="{FreeTrain-Ship-PassengerShip-Ship-mishenmaru}"/>
+			<car char="èˆ¹" ref="{FreeTrain-Ship-PassengerShip-Ship-mishenmaru}"/>
 			
-			<composition>‘D</composition>
+			<composition>èˆ¹</composition>
 		</config>
 	</contribution>
 

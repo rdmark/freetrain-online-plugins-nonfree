@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY ta-white '
@@ -111,11 +111,11 @@
 '>
 
 <!ENTITY component_lamianrestaurant_001 '
-	<group>ˆê”ÊˆùH“X</group>
-	<name>ƒ‰[ƒƒ“‰®(1x1)</name>
+	<group>ä¸€èˆ¬é£²é£Ÿåº—</group>
+	<name>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹(1x1)</name>
 	<structure>
-		<category byname="ˆê”ÊˆùH“X"/>
-		<category byname="Z‘î" hide="true"/>
+		<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
+		<category byname="ä½å®…" hide="true"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -137,11 +137,11 @@
 	</population>
 '>
 <!ENTITY component_noodlerestaurant_001 '
-	<group>ˆê”ÊˆùH“X</group>
-	<name>‚¤‚Ç‚ñ¥‚»‚Î‰®(1x1)</name>
+	<group>ä¸€èˆ¬é£²é£Ÿåº—</group>
+	<name>ã†ã©ã‚“ï½¥ãã°å±‹(1x1)</name>
 	<structure>
-		<category byname="ˆê”ÊˆùH“X"/>
-		<category byname="Z‘î" hide="true"/>
+		<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
+		<category byname="ä½å®…" hide="true"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -163,11 +163,11 @@
 	</population>
 '>
 <!ENTITY component_thinrestaurant_001 '
-	<group>ˆê”ÊˆùH“X</group>
-	<name>‚¨D‚İÄ‚«‰®(1x1)</name>
+	<group>ä¸€èˆ¬é£²é£Ÿåº—</group>
+	<name>ãŠå¥½ã¿ç„¼ãå±‹(1x1)</name>
 	<structure>
-		<category byname="ˆê”ÊˆùH“X"/>
-		<category byname="Z‘î" hide="true"/>
+		<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
+		<category byname="ä½å®…" hide="true"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -190,11 +190,11 @@
 '>
 
 <!ENTITY component_teahouse_001 '
-	<group>ˆê”ÊˆùH“X</group>
-	<name>’ƒ“X(1x1)</name>
+	<group>ä¸€èˆ¬é£²é£Ÿåº—</group>
+	<name>èŒ¶åº—(1x1)</name>
 	<structure>
-		<category byname="ˆê”ÊˆùH“X"/>
-		<category byname="Z‘î" hide="true"/>
+		<category byname="ä¸€èˆ¬é£²é£Ÿåº—"/>
+		<category byname="ä½å®…" hide="true"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -221,14 +221,14 @@
 
 <plug-in>
 
-<author>‚µ‚©‚µ‚©</author>
+<author>ã—ã‹ã—ã‹</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>Œš•¨(ˆùH)</title>
+<title>å»ºç‰©(é£²é£Ÿ)</title>
 
-<!-- ˆê”ÊˆùH“X -->
+<!-- ä¸€èˆ¬é£²é£Ÿåº— -->
 
-<!-- ƒ‰[ƒƒ“‰® -->
+<!-- ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹ -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-building-restaurant-lamian-01}">
 	<picture  src="lamian_01.bmp">
@@ -243,7 +243,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-01-a}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®A</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹A</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -271,7 +271,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-02-a}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®A(Š¢‰®ª)</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹A(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -299,7 +299,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-01-b}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®B</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹B</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -327,7 +327,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-02-b}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®B(Š¢‰®ª)</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹B(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -355,7 +355,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-01-c}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®C</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹C</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -383,7 +383,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-02-c}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®C(Š¢‰®ª)</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹C(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -411,7 +411,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-01-d}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®D</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹D</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -439,7 +439,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-lamian-02-d}">
 &component_lamianrestaurant_001;
-	<design>ƒ‰[ƒƒ“‰®D(Š¢‰®ª)</design>
+	<design>ãƒ©ãƒ¼ãƒ¡ãƒ³å±‹D(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -465,7 +465,7 @@
 
 </contribution>
 
-<!-- ‚¤‚Ç‚ñ¥‚»‚Î‰® -->
+<!-- ã†ã©ã‚“ï½¥ãã°å±‹ -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-building-restaurant-noodle-01}">
 	<picture  src="noodle_01.bmp">
@@ -480,7 +480,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-01-a}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®A</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹A</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -508,7 +508,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-02-a}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®A(Š¢‰®ª)</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹A(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -536,7 +536,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-01-b}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®B</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹B</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -564,7 +564,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-02-b}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®B(Š¢‰®ª)</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹B(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -592,7 +592,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-01-c}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®C</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹C</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -620,7 +620,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-02-c}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®C(Š¢‰®ª)</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹C(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -648,7 +648,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-01-d}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®D</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹D</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -676,7 +676,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-noodle-02-d}">
 &component_noodlerestaurant_001;
-	<design>‚¤‚Ç‚ñ¥‚»‚Î‰®D(Š¢‰®ª)</design>
+	<design>ã†ã©ã‚“ï½¥ãã°å±‹D(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -702,7 +702,7 @@
 
 </contribution>
 
-<!-- ‚¨D‚İÄ‚«‰® -->
+<!-- ãŠå¥½ã¿ç„¼ãå±‹ -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-building-restaurant-thin-01}">
 	<picture  src="thin_01.bmp">
@@ -717,7 +717,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-01-a}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®A</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹A</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -745,7 +745,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-02-a}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®A(Š¢‰®ª)</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹A(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -773,7 +773,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-01-b}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®B</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹B</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -801,7 +801,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-02-b}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®B(Š¢‰®ª)</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹B(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -829,7 +829,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-01-c}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®C</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹C</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -857,7 +857,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-02-c}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®C(Š¢‰®ª)</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹C(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -885,7 +885,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-01-d}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®D</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹D</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -913,7 +913,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-thin-02-d}">
 &component_thinrestaurant_001;
-	<design>‚¨D‚İÄ‚«‰®D(Š¢‰®ª)</design>
+	<design>ãŠå¥½ã¿ç„¼ãå±‹D(ç“¦å±‹æ ¹)</design>
 	&wall-brownbeige;
 	&wall-redbrick;
 	&wall-ivory;
@@ -939,7 +939,7 @@
 
 </contribution>
 
-<!-- ’ƒ“X -->
+<!-- èŒ¶åº— -->
 
 <contribution type="picture" id="{FreeTrain-Shika-picture-building-restaurant-teahouse-01}">
 	<picture  src="teahouse_01.bmp">
@@ -949,7 +949,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-teahouse-001-a}">
 &component_teahouse_001;
-	<design>’ƒ“XA</design>
+	<design>èŒ¶åº—A</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -977,7 +977,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-teahouse-001-b}">
 &component_teahouse_001;
-	<design>’ƒ“XB</design>
+	<design>èŒ¶åº—B</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -1005,7 +1005,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-teahouse-001-c}">
 &component_teahouse_001;
-	<design>’ƒ“XC</design>
+	<design>èŒ¶åº—C</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;
@@ -1033,7 +1033,7 @@
 
 <contribution type="GenericStructure" id="{FreeTrain-Shika-structure-building-restaurant-teahouse-001-d}">
 &component_teahouse_001;
-	<design>’ƒ“XD</design>
+	<design>èŒ¶åº—D</design>
 	&wall-wood003;
 	&wall-wood004;
 	&wall-wood005;

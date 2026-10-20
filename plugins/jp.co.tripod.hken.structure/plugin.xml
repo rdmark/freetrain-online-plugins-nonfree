@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-   <title>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒhEƒRƒ“ƒrƒj‘¼</title>
+   <title>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰ãƒ»ã‚³ãƒ³ãƒ“ãƒ‹ä»–</title>
    <author>Ken</author>
    <homepage></homepage>
 
@@ -17,8 +17,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-GSS1-94478B392AE7}-A">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>V“ú–{Î–û SS(¶)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>æ–°æ—¥æœ¬çŸ³æ²¹ SS(å·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -33,8 +33,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-GSS1-94478B392AE7}-B">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>V“ú–{Î–û SS(‰E)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>æ–°æ—¥æœ¬çŸ³æ²¹ SS(å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -49,8 +49,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{AE1549EB-F7F9-433F-GSS2-1E2A913013FF}-A">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>JOMO SS(¶)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>JOMO SS(å·¦)</name>
 		<price>12000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -69,8 +69,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-GSS2-94478B392AE7}-B">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>JOMO SS(‰E)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>JOMO SS(å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -89,7 +89,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{52B9BF4A-7AB7-4828-GSS3-249A1A149A24}-A">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<name>Shell GS</name>
 		<price>12000000</price>
 		<size>1,2</size>
@@ -111,7 +111,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{52B9BF4A-7AB7-4828-GSS3-249A1A149A24}-B">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<name>Shell GS</name>
 		<price>12000000</price>
 		<size>2,1</size>
@@ -133,8 +133,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-GSS4-94478B392AE7}-A">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>ƒRƒXƒ‚Î–û SS(¶)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>ã‚³ã‚¹ãƒ¢çŸ³æ²¹ SS(å·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -149,8 +149,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-GSS4-94478B392AE7}-B">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
-		<name>ƒRƒXƒ‚Î–û SS(‰E)</name>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
+		<name>ã‚³ã‚¹ãƒ¢çŸ³æ²¹ SS(å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -165,7 +165,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{52B9BF4A-7AB7-4828-GSS5-249A1A149A24}-A">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<name>Mobil GS</name>
 		<price>12000000</price>
 		<size>1,2</size>
@@ -181,7 +181,7 @@
 	</contribution>
 
 	<contribution type="commercial" id="{52B9BF4A-7AB7-4828-GSS5-249A1A149A24}-B">
-		<group>ƒKƒ\ƒŠƒ“ƒXƒ^ƒ“ƒh</group>
+		<group>ã‚¬ã‚½ãƒªãƒ³ã‚¹ã‚¿ãƒ³ãƒ‰</group>
 		<name>Mobil GS</name>
 		<price>12000000</price>
 		<size>2,1</size>
@@ -197,8 +197,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR1-9603E8E6CF18}-A">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(Ô¶)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(èµ¤å·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -213,8 +213,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR1-9603E8E6CF18}-B">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(Ô‰E)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(èµ¤å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -229,8 +229,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR2-9603E8E6CF18}-A">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(®¶)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(ç´ºå·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -248,8 +248,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR2-9603E8E6CF18}-B">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(®‰E)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(ç´ºå³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -267,8 +267,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR3-9603E8E6CF18}-A">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(—Î¶)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(ç·‘å·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -286,8 +286,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR3-9603E8E6CF18}-B">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(—Î‰E)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(ç·‘å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -305,8 +305,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR4-9603E8E6CF18}-A">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(Â¶)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(é’å·¦)</name>
 		<price>15000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -324,8 +324,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{7EDDCD3E-C592-4692-CDR4-9603E8E6CF18}-B">
-		<group>Ž©“®ŽÔ”Ì”„‰ïŽÐ</group>
-		<name>Ž©“®ŽÔ”Ì”„‰ïŽÐ(Â‰E)</name>
+		<group>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾</group>
+		<name>è‡ªå‹•è»Šè²©å£²ä¼šç¤¾(é’å³)</name>
 		<price>15000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -344,8 +344,8 @@
 
 
 	<contribution type="commercial" id="{C193B660-3BFC-4F7C-BF2F-449BCED5AE9E}-A">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç(¬)(¶)</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€(å°)(å·¦)</name>
 		<price>5000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -360,8 +360,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{C193B660-3BFC-4F7C-BF2F-449BCED5AE9E}-B">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç(¬)(‰E)</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€(å°)(å³)</name>
 		<price>5000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -370,14 +370,14 @@
 			<base>20</base>
 		</population>
 		<sprite origin="48,0" offset="24">
-		@@@@<picture src="yubin1.bmp" >
+		ã€€ã€€ã€€ã€€<picture src="yubin1.bmp" >
 			</picture>
 		</sprite>
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-YUB2-94478B392AE7}-A">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç‘å(¶)</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€å¤§(å·¦)</name>
 		<price>10000000</price>
 		<size>1,2</size>
 		<height>2</height>
@@ -392,8 +392,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-YUB2-94478B392AE7}-B">
-		<group>—X•Ö‹Ç</group>
-		<name>—X•Ö‹Ç‘å(‰E)</name>
+		<group>éƒµä¾¿å±€</group>
+		<name>éƒµä¾¿å±€å¤§(å³)</name>
 		<price>10000000</price>
 		<size>2,1</size>
 		<height>2</height>
@@ -408,8 +408,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{568195AB-CEB3-42E9-CON2-5422C86D4DE9}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒ[ƒ\ƒ“(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒ­ãƒ¼ã‚½ãƒ³(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -425,8 +425,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{568195AB-CEB3-42E9-CON2-5422C86D4DE9}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒ[ƒ\ƒ“(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒ­ãƒ¼ã‚½ãƒ³(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -442,8 +442,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{EA3F5C47-D1EF-41A9-CON1-641E6CFEE22B}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒXƒŠ[ƒGƒt(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚¹ãƒªãƒ¼ã‚¨ãƒ•(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -459,8 +459,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{EA3F5C47-D1EF-41A9-CON1-641E6CFEE22B}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒXƒŠ[ƒGƒt(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚¹ãƒªãƒ¼ã‚¨ãƒ•(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -476,8 +476,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON6-5422C86D4DC5}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>‚‚‚‚(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ï½ï½ï½ï½(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -493,8 +493,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON6-5422C86D4DC5}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>‚‚‚‚(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ï½ï½ï½ï½(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -510,8 +510,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON4-5422C86D4DC5}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒ~ƒjƒXƒgƒbƒv(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒŸãƒ‹ã‚¹ãƒˆãƒƒãƒ—(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -527,8 +527,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON4-5422C86D4DC5}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒ~ƒjƒXƒgƒbƒv(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒŸãƒ‹ã‚¹ãƒˆãƒƒãƒ—(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -544,8 +544,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON5-5422C86D4DC5}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒT[ƒNƒ‹‚j(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚µãƒ¼ã‚¯ãƒ«ï¼«(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -561,8 +561,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON5-5422C86D4DC5}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒT[ƒNƒ‹‚j(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚µãƒ¼ã‚¯ãƒ«ï¼«(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -578,8 +578,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{568195AB-CEB3-42E9-CON3-5422C86D4DC5}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒTƒ“ƒNƒX(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚µãƒ³ã‚¯ã‚¹(å·¦å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -595,8 +595,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{568195AB-CEB3-42E9-CON3-5422C86D4DC5}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒTƒ“ƒNƒX(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ã‚µãƒ³ã‚¯ã‚¹(å³å‘ã)</name>
 		<price>7000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -612,8 +612,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON7-5422C86D4DC5}-A">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒfƒCƒŠ[ƒ„ƒ}ƒUƒL(¶Œü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒ‡ã‚¤ãƒªãƒ¼ãƒ¤ãƒžã‚¶ã‚­(å·¦å‘ã)</name>
 		<price>6000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -629,8 +629,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{578195AB-CEB3-42E9-CON7-5422C86D4DC5}-B">
-		<group>ƒRƒ“ƒrƒj(‘¼‚VŽí)</group>
-		<name>ƒfƒCƒŠ[ƒ„ƒ}ƒUƒL(‰EŒü‚«)</name>
+		<group>ã‚³ãƒ³ãƒ“ãƒ‹(ä»–ï¼—ç¨®)</group>
+		<name>ãƒ‡ã‚¤ãƒªãƒ¼ãƒ¤ãƒžã‚¶ã‚­(å³å‘ã)</name>
 		<price>6000000</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -646,8 +646,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-RES1-94478B392AE7}-A">
-		<group>ƒŒƒXƒgƒ‰ƒ“</group>
-		<name>ƒŒƒXƒgƒ‰ƒ“(¶)</name>
+		<group>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³</group>
+		<name>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³(å·¦)</name>
 		<price>10000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -662,8 +662,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-RES1-94478B392AE7}-B">
-		<group>ƒŒƒXƒgƒ‰ƒ“</group>
-		<name>ƒŒƒXƒgƒ‰ƒ“(‰E)</name>
+		<group>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³</group>
+		<name>ãƒ¬ã‚¹ãƒˆãƒ©ãƒ³(å³)</name>
 		<price>10000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -678,8 +678,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-A">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ1(¶)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»1(å·¦)</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -694,8 +694,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-B">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ2(‰E)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»2(å³)</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -710,8 +710,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-C">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ3(¶)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»3(å·¦)</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -727,8 +727,8 @@
 
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-D">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ4(‰E)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»4(å³)</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -743,8 +743,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-E">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ5(¶)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»5(å·¦)</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -759,8 +759,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-F">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ6(‰E)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»6(å³)</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -775,8 +775,8 @@
 	</contribution>
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-G">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ7(¶)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»7(å·¦)</name>
 		<price>50000000</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -792,8 +792,8 @@
 
 
 	<contribution type="commercial" id="{3AAB6C26-8C58-4C8C-MES1-94478B392AE7}-H">
-		<group>“WŽ¦êƒz[ƒ‹</group>
-		<name>ƒƒbƒZ8(‰E)</name>
+		<group>å±•ç¤ºå ´ãƒ›ãƒ¼ãƒ«</group>
+		<name>ãƒ¡ãƒƒã‚»8(å³)</name>
 		<price>50000000</price>
 		<size>2,1</size>
 		<height>1</height>

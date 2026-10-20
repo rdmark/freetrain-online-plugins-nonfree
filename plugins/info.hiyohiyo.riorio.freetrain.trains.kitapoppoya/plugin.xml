@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-  <title>203ŒnE207Œn900E209Œn1000EE231Œn“ŒŠC“¹E‰c’c01,02</title>
-    <author>‚è‚¨‚è‚¨©–k‚Ì‹DŽÔ‰®Œ´‰æ</author>
+  <title>203ç³»ãƒ»207ç³»900ãƒ»209ç³»1000ãƒ»E231ç³»æ±æµ·é“ãƒ»å–¶å›£01,02</title>
+    <author>ã‚ŠãŠã‚ŠãŠâ†åŒ—ã®æ±½è»Šå±‹åŽŸç”»</author>
   <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 
-  <!-- 203Œn æ“ªŽÔ-->
+  <!-- 203ç³» å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-203-9D62-6091DF75AC9A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -15,7 +15,7 @@
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- 203Œn ’†ŠÔŽÔ-->
+  <!-- 203ç³» ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-203-9D62-6091DF75AC9A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -25,21 +25,21 @@
     <seatedcapacity>54</seatedcapacity>
   </contribution>
 
-  <!-- 203Œn Œã”öŽÔ-->
+  <!-- 203ç³» å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-203-9D62-6091DF75AC9A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-203-9D62-6091DF75AC9A}-h" />
   </contribution>
 
 
-    <!-- 203Œní”ÖŠÉsüEç‘ã“cü’¼’Ê•Ò¬ -->
+    <!-- 203ç³»å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-203jobanchiyoda-8080-BCF7E8DC11FF}">
-    <company>JR“Œ“ú–{</company>
-    <type>203Œn</type>
-    <name>í”ÖŠÉsüEç‘ã“cü’¼’Ê</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>í”ÖŠÉsü‚©‚çç‘ã“cü‚É’¼’Êæ‚è“ü‚ê‚·‚éŽÔ—¼‚Æ‚µ‚ÄA‚»‚ê‚Ü‚ÅŽg—p‚³‚ê‚Ä‚¢‚½103Œn1000”Ô‘ä‚ð’u‚«Š·‚¦‚é‚½‚ß1982”N‚©‚ç‘“S‚ª»‘¢‚µ‚½’Ê‹ÎŒ^“dŽÔBŒy—ÊƒAƒ‹ƒ~ŽÔ‘Ì‚É‰ñ¶ƒuƒŒ[ƒL•tƒ`ƒ‡ƒbƒp§Œä‚ðÌ—p‚µAÈƒGƒlE’á”­”M‚ðŽÀŒ»‚·‚é‚Æ‹¤‚É—â–[‚à“‹Ú‚³‚ê‚½B
-JR‰»Œã‚à‚±‚Ìü‚ÌŽå—Í‚Æ‚µ‚ÄŽg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚ªŽn‚Ü‚Á‚Ä‚¢‚éB</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>203ç³»</type>
+    <name>å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€š</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>å¸¸ç£ç·©è¡Œç·šã‹ã‚‰åƒä»£ç”°ç·šã«ç›´é€šä¹—ã‚Šå…¥ã‚Œã™ã‚‹è»Šä¸¡ã¨ã—ã¦ã€ãã‚Œã¾ã§ä½¿ç”¨ã•ã‚Œã¦ã„ãŸ103ç³»1000ç•ªå°ã‚’ç½®ãæ›ãˆã‚‹ãŸã‚1982å¹´ã‹ã‚‰å›½é‰„ãŒè£½é€ ã—ãŸé€šå‹¤åž‹é›»è»Šã€‚è»½é‡ã‚¢ãƒ«ãƒŸè»Šä½“ã«å›žç”Ÿãƒ–ãƒ¬ãƒ¼ã‚­ä»˜ãƒãƒ§ãƒƒãƒ‘åˆ¶å¾¡ã‚’æŽ¡ç”¨ã—ã€çœã‚¨ãƒãƒ»ä½Žç™ºç†±ã‚’å®Ÿç¾ã™ã‚‹ã¨å…±ã«å†·æˆ¿ã‚‚æ­è¼‰ã•ã‚ŒãŸã€‚
+JRåŒ–å¾Œã‚‚ã“ã®ç·šã®ä¸»åŠ›ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã¦ããŸãŒã€E233ç³»2000ç•ªå°ã®å¢—å‚™ã«ã‚ˆã£ã¦å»ƒè»ŠãŒå§‹ã¾ã£ã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>35000000</price>
 		<amenity>100</amenity>
@@ -53,7 +53,7 @@ JR‰»Œã‚à‚±‚Ìü‚ÌŽå—Í‚Æ‚µ‚ÄŽg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚ªŽn
   </contribution>
 
 
-  <!-- 207Œn900”Ô‘ä æ“ªŽÔ-->
+  <!-- 207ç³»900ç•ªå° å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-207-900-4BE1250139BE}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -63,7 +63,7 @@ JR‰»Œã‚à‚±‚Ìü‚ÌŽå—Í‚Æ‚µ‚ÄŽg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚ªŽn
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- 207Œn900”Ô‘ä ’†ŠÔŽÔ-->
+  <!-- 207ç³»900ç•ªå° ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-207-900-4BE1250139BE}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -73,22 +73,22 @@ JR‰»Œã‚à‚±‚Ìü‚ÌŽå—Í‚Æ‚µ‚ÄŽg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚ªŽn
     <seatedcapacity>54</seatedcapacity>
   </contribution>
 
-  <!-- 207Œn900”Ô‘ä Œã”öŽÔ-->
+  <!-- 207ç³»900ç•ªå° å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-207-900-4BE1250139BE}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-207-900-4BE1250139BE}-h" />
   </contribution>
 
 
-    <!-- 207Œn900”Ô‘äí”ÖŠÉsüEç‘ã“cü’¼’Ê•Ò¬ -->
+    <!-- 207ç³»900ç•ªå°å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-207-900jobanchiyoda-D8638258151F}">
-    <company>JR“Œ“ú–{</company>
-    <type>207Œn900”Ô‘ä</type>
-    <name>í”ÖŠÉsüEç‘ã“cü’¼’Ê</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>í”ÖŠÉsü‚©‚çç‘ã“cü‚É’¼’Êæ‚è“ü‚ê‚·‚éŽÔ—¼‚Æ‚µ‚ÄA1986”N‚É1•Ò¬‚¾‚¯‘“S‚ª»‘¢‚µ‚½’Ê‹ÎŒ^“dŽÔB205Œn‚É€‚¶‚½Œy—ÊƒXƒeƒ“ƒŒƒXŽÔ‘Ì‚Æ‚µA‘“S‚Å‰‚ß‚ÄVVVF§Œä‚ªÌ—p‚³‚ê‚½B“–Žž‚ÍVVVF§ŒäŠí‚ª”ñí‚É‚‰¿‚¾‚Á‚½‚±‚ÆAí”ÖŠÉsü‚â‘¼‚Ìü‹æ‚Å‚±‚ÌŒ`Ž®‚ÌV»‚ª•K—v‚Æ‚³‚ê‚Ä‚¢‚È‚©‚Á‚½‚±‚Æ‚©‚çA‚»‚ÌŒã‚Ì‘”õ‚ªs‚í‚ê‚È‚©‚Á‚½B
-“¯‚¶207Œn‚ð–¼æ‚Á‚Ä‚Í‚¢‚é‚ªAJR¼“ú–{‚ªŽg—p‚µ‚Ä‚¢‚é207Œn0”Ô‘äE1000”Ô‘ä‚Æ‚Í‚Ü‚Á‚½‚­‚Ì•ÊŒ`Ž®‚Å‚ ‚éB
-JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ‚Ü‚Á‚Ä‚¢‚éB</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>207ç³»900ç•ªå°</type>
+    <name>å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€š</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>å¸¸ç£ç·©è¡Œç·šã‹ã‚‰åƒä»£ç”°ç·šã«ç›´é€šä¹—ã‚Šå…¥ã‚Œã™ã‚‹è»Šä¸¡ã¨ã—ã¦ã€1986å¹´ã«1ç·¨æˆã ã‘å›½é‰„ãŒè£½é€ ã—ãŸé€šå‹¤åž‹é›»è»Šã€‚205ç³»ã«æº–ã˜ãŸè»½é‡ã‚¹ãƒ†ãƒ³ãƒ¬ã‚¹è»Šä½“ã¨ã—ã€å›½é‰„ã§åˆã‚ã¦VVVFåˆ¶å¾¡ãŒæŽ¡ç”¨ã•ã‚ŒãŸã€‚å½“æ™‚ã¯VVVFåˆ¶å¾¡å™¨ãŒéžå¸¸ã«é«˜ä¾¡ã ã£ãŸã“ã¨ã€å¸¸ç£ç·©è¡Œç·šã‚„ä»–ã®ç·šåŒºã§ã“ã®å½¢å¼ã®æ–°è£½ãŒå¿…è¦ã¨ã•ã‚Œã¦ã„ãªã‹ã£ãŸã“ã¨ã‹ã‚‰ã€ãã®å¾Œã®å¢—å‚™ãŒè¡Œã‚ã‚Œãªã‹ã£ãŸã€‚
+åŒã˜207ç³»ã‚’åä¹—ã£ã¦ã¯ã„ã‚‹ãŒã€JRè¥¿æ—¥æœ¬ãŒä½¿ç”¨ã—ã¦ã„ã‚‹207ç³»0ç•ªå°ãƒ»1000ç•ªå°ã¨ã¯ã¾ã£ãŸãã®åˆ¥å½¢å¼ã§ã‚ã‚‹ã€‚
+JRåŒ–å¾Œã‚‚å¼•ãç¶šãä½¿ç”¨ã•ã‚Œã¦ããŸãŒã€E233ç³»2000ç•ªå°ã®å¢—å‚™ã«ã‚ˆã£ã¦å»ƒè»Šã•ã‚Œã‚‹ã“ã¨ãŒæ±ºã¾ã£ã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>35000000</price>
 		<amenity>100</amenity>
@@ -102,7 +102,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-  <!-- 209Œn1000”Ô‘ä æ“ªŽÔ-->
+  <!-- 209ç³»1000ç•ªå° å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-209-1000-E57752B77BC4}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -112,7 +112,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>48</seatedcapacity>
   </contribution>
 
-  <!-- 209Œn1000”Ô‘ä ’†ŠÔŽÔ-->
+  <!-- 209ç³»1000ç•ªå° ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-209-1000-E57752B77BC4}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -122,21 +122,21 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>54</seatedcapacity>
   </contribution>
 
-  <!-- 209Œn1000”Ô‘ä Œã”öŽÔ-->
+  <!-- 209ç³»1000ç•ªå° å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-209-1000-E57752B77BC4}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-209-1000-E57752B77BC4}-h" />
   </contribution>
 
 
-    <!-- 209Œn1000”Ô‘äí”ÖŠÉsüEç‘ã“cü’¼’Ê•Ò¬ -->
+    <!-- 209ç³»1000ç•ªå°å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-209-1000jobanchiyoda-4981CB7BB03B}">
-    <company>JR“Œ“ú–{</company>
-    <type>209Œn</type>
-    <name>1000”Ô‘ä í”ÖŠÉsüEç‘ã“cü’¼’Ê</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>í”ÖŠÉsü‚©‚çç‘ã“cü‚É’¼’Êæ‚è“ü‚ê‚·‚éŽÔ—¼‚Ì•K—v–{”‚ª‘‰Á‚µ‚½‚½‚ßA1999”N‚ÉJR“Œ“ú–{‚ª2•Ò¬»‘¢‚µ‚½’Ê‹ÎŒ^“dŽÔB’†‰›‘•ŠÉsü‚©‚ç“Œ¼ü‚É’¼’Ê‚·‚é500”Ô‘ä‚É€‚¶‚½ÝŒv‚Æ‚È‚Á‚Ä‚¢‚éB
-‚»‚ÌŒã‚Ì‘”õ‚Ís‚í‚ê‚¸A2008”N‚©‚çŠJŽn‚Ì˜V‹€‰»‚µ‚½203Œn“™‚ð’u‚«Š·‚¦‚é‚Ì‚ÍAE233Œn‚Ì‘”õ‚Å‚Ü‚©‚È‚í‚ê‚é‚±‚Æ‚Æ‚È‚Á‚½B
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>209ç³»</type>
+    <name>1000ç•ªå° å¸¸ç£ç·©è¡Œç·šãƒ»åƒä»£ç”°ç·šç›´é€š</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>å¸¸ç£ç·©è¡Œç·šã‹ã‚‰åƒä»£ç”°ç·šã«ç›´é€šä¹—ã‚Šå…¥ã‚Œã™ã‚‹è»Šä¸¡ã®å¿…è¦æœ¬æ•°ãŒå¢—åŠ ã—ãŸãŸã‚ã€1999å¹´ã«JRæ±æ—¥æœ¬ãŒ2ç·¨æˆè£½é€ ã—ãŸé€šå‹¤åž‹é›»è»Šã€‚ä¸­å¤®ç·æ­¦ç·©è¡Œç·šã‹ã‚‰æ±è¥¿ç·šã«ç›´é€šã™ã‚‹500ç•ªå°ã«æº–ã˜ãŸè¨­è¨ˆã¨ãªã£ã¦ã„ã‚‹ã€‚
+ãã®å¾Œã®å¢—å‚™ã¯è¡Œã‚ã‚Œãšã€2008å¹´ã‹ã‚‰é–‹å§‹ã®è€æœ½åŒ–ã—ãŸ203ç³»ç­‰ã‚’ç½®ãæ›ãˆã‚‹ã®ã¯ã€E233ç³»ã®å¢—å‚™ã§ã¾ã‹ãªã‚ã‚Œã‚‹ã“ã¨ã¨ãªã£ãŸã€‚
 </description>
 		<fare>400</fare>
 		<price>25000000</price>
@@ -151,7 +151,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c01Œn æ“ªŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£01ç³» å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro01-A3FD-2D4038984F10}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -161,7 +161,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>36</seatedcapacity>
   </contribution>
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c01Œn ’†ŠÔŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£01ç³» ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro01-A3FD-2D4038984F10}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -171,20 +171,20 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>44</seatedcapacity>
   </contribution>
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c01Œn Œã”öŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£01ç³» å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro01-A3FD-2D4038984F10}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-tokyometro01-A3FD-2D4038984F10}-h" />
   </contribution>
 
 
-    <!-- ’é“s‚‘¬“xŒð’Ê‰c’c01Œn‹âÀü•Ò¬ -->
+    <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£01ç³»éŠ€åº§ç·šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-tokyometro01-ginzaline-0D7CF234710C}">
-    <company>’é“s‚‘¬“xŒð’Ê‰c’c</company>
-    <type>01Œn</type>
-    <name>‹âÀü@@</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>˜V‹€‰»‚µ‚½‹âÀü‚ÌŽÔ—¼‚ð’u‚«Š·‚¦‚é‚½‚ßA’é“s‚‘¬“xŒð’Ê‰c’c‚ª1984”N‚©‚ç»‘¢‚µ‚½’n‰º“S—p’Ê‹ÎŒ^“dŽÔBƒAƒ‹ƒ~ŽÔ‘Ì‚ÅA§ŒäŠí‚Í»‘¢”N“x‚É‚æ‚èƒ`ƒ‡ƒbƒp§Œä‚ÆVVVF§Œä‚Æ‚ª‚ ‚éBƒpƒ“ƒ^ƒOƒ‰ƒt‚Å‚Í‚È‚­A‘æŽO‹Oð‚©‚çW“d‚·‚é•ûŽ®‚Å‚ ‚éB</description>
+    <company>å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£</company>
+    <type>01ç³»</type>
+    <name>éŠ€åº§ç·šã€€ã€€</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>è€æœ½åŒ–ã—ãŸéŠ€åº§ç·šã®è»Šä¸¡ã‚’ç½®ãæ›ãˆã‚‹ãŸã‚ã€å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£ãŒ1984å¹´ã‹ã‚‰è£½é€ ã—ãŸåœ°ä¸‹é‰„ç”¨é€šå‹¤åž‹é›»è»Šã€‚ã‚¢ãƒ«ãƒŸè»Šä½“ã§ã€åˆ¶å¾¡å™¨ã¯è£½é€ å¹´åº¦ã«ã‚ˆã‚Šãƒãƒ§ãƒƒãƒ‘åˆ¶å¾¡ã¨VVVFåˆ¶å¾¡ã¨ãŒã‚ã‚‹ã€‚ãƒ‘ãƒ³ã‚¿ã‚°ãƒ©ãƒ•ã§ã¯ãªãã€ç¬¬ä¸‰è»Œæ¡ã‹ã‚‰é›†é›»ã™ã‚‹æ–¹å¼ã§ã‚ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -198,7 +198,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c02Œn æ“ªŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£02ç³» å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro02-8682-02585E8E4D52}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -208,7 +208,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>42</seatedcapacity>
   </contribution>
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c02Œn ’†ŠÔŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£02ç³» ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro02-8682-02585E8E4D52}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -218,20 +218,20 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>52</seatedcapacity>
   </contribution>
 
-  <!-- ’é“s‚‘¬“xŒð’Ê‰c’c02Œn Œã”öŽÔ-->
+  <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£02ç³» å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-tokyometro02-8682-02585E8E4D52}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-tokyometro02-8682-02585E8E4D52}-h" />
   </contribution>
 
 
-    <!-- ’é“s‚‘¬“xŒð’Ê‰c’c02ŒnŠÛƒm“àü•Ò¬ -->
+    <!-- å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£02ç³»ä¸¸ãƒŽå†…ç·šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-tokyometro02-marunouchiline-9092A2B5D6FC}">
-    <company>’é“s‚‘¬“xŒð’Ê‰c’c</company>
-    <type>02Œn</type>
-    <name>ŠÛƒm“àü@@</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>˜V‹€‰»‚µ‚½ŠÛƒm“àü‚ÌŽÔ—¼‚ð’u‚«Š·‚¦‚é‚½‚ßA’é“s‚‘¬“xŒð’Ê‰c’c‚ª1988”N‚©‚ç»‘¢‚µ‚½’n‰º“S—p’Ê‹ÎŒ^“dŽÔBƒAƒ‹ƒ~ŽÔ‘Ì‚ÅA§ŒäŠí‚Í»‘¢”N“x‚É‚æ‚èƒ`ƒ‡ƒbƒp§Œä‚ÆVVVF§Œä‚Æ‚ª‚ ‚éBƒpƒ“ƒ^ƒOƒ‰ƒt‚Å‚Í‚È‚­A‘æŽO‹Oð‚©‚çW“d‚·‚é•ûŽ®‚Å‚ ‚éB</description>
+    <company>å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£</company>
+    <type>02ç³»</type>
+    <name>ä¸¸ãƒŽå†…ç·šã€€ã€€</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>è€æœ½åŒ–ã—ãŸä¸¸ãƒŽå†…ç·šã®è»Šä¸¡ã‚’ç½®ãæ›ãˆã‚‹ãŸã‚ã€å¸éƒ½é«˜é€Ÿåº¦äº¤é€šå–¶å›£ãŒ1988å¹´ã‹ã‚‰è£½é€ ã—ãŸåœ°ä¸‹é‰„ç”¨é€šå‹¤åž‹é›»è»Šã€‚ã‚¢ãƒ«ãƒŸè»Šä½“ã§ã€åˆ¶å¾¡å™¨ã¯è£½é€ å¹´åº¦ã«ã‚ˆã‚Šãƒãƒ§ãƒƒãƒ‘åˆ¶å¾¡ã¨VVVFåˆ¶å¾¡ã¨ãŒã‚ã‚‹ã€‚ãƒ‘ãƒ³ã‚¿ã‚°ãƒ©ãƒ•ã§ã¯ãªãã€ç¬¬ä¸‰è»Œæ¡ã‹ã‚‰é›†é›»ã™ã‚‹æ–¹å¼ã§ã‚ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -245,12 +245,12 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-  <!-- “ŒŠC“¹üE231Œn æ“ªŽÔ ‰æ‘œ’è‹`-->
+  <!-- æ±æµ·é“ç·šE231ç³» å…ˆé ­è»Š ç”»åƒå®šç¾©-->
   <contribution type="picture" id="{riorio-kitapoppoya-train-picture-kuhae231-E5AE5F7B1D04}">
     <picture src="E231toukaidoa.bmp" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn æ“ªŽÔ-->
+  <!-- æ±æµ·é“ç·šE231ç³» å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -263,7 +263,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>52</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn ’†ŠÔŽÔ-->
+  <!-- æ±æµ·é“ç·šE231ç³» ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -276,13 +276,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>64</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn Œã”öŽÔ-->
+  <!-- æ±æµ·é“ç·šE231ç³» å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-h" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn æ“ªŽÔ’†ŠÔ‘OŒü-->
+  <!-- æ±æµ·é“ç·šE231ç³» å…ˆé ­è»Šä¸­é–“å‰å‘-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-1">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -295,13 +295,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>64</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn æ“ªŽÔ’†ŠÔŒãŒü-->
+  <!-- æ±æµ·é“ç·šE231ç³» å…ˆé ­è»Šä¸­é–“å¾Œå‘-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-2">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-1" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE231Œn 2ŠKŒš‚ÄƒOƒŠ[ƒ“ŽÔ-->
+  <!-- æ±æµ·é“ç·šE231ç³» 2éšŽå»ºã¦ã‚°ãƒªãƒ¼ãƒ³è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-s">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -315,13 +315,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-    <!-- “ŒŠC“¹üE231ŒnƒOƒŠ[ƒ“ŽÔ“ü‚è•Ò¬ -->
+    <!-- æ±æµ·é“ç·šE231ç³»ã‚°ãƒªãƒ¼ãƒ³è»Šå…¥ã‚Šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-jre231-tokaidoddts-349DE7270A56}">
-    <company>JR“Œ“ú–{</company>
-    <type>E231Œn</type>
-    <name>2ŠKŒšƒOƒŠ[ƒ“ŽÔ“ü‚èE“ŒŠC“¹ü“™</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>2000”N‚©‚ç‰F“s‹{üŒü‚¯‚É»‘¢‚ªŠJŽn‚³‚ê‚½E231Œn1000”Ô‘ä‹ßxƒ^ƒCƒv‚¾‚Á‚½‚ªAÃ“ìVhƒ‰ƒCƒ“‚Ö‚ÌƒOƒŠ[ƒ“ŽÔ˜AŒ‹‹y‚Ñ“¯”Ô‘äV‘¢‚É‚æ‚è“ŒŠC“¹ü113Œn‚Ì’u‚«Š·‚¦‚ðs‚¤‚½‚ßA2004”N‚©‚ç2ŠKŒš‚ÄƒOƒŠ[ƒ“ŽÔ‚ª‘”õ‚³‚êA10—¼Šî–{•Ò¬’†‚É2—¼‚ª˜AŒ‹‚³‚ê‚é‚±‚Æ‚Æ‚È‚Á‚½B‚Ü‚½2006”N‚©‚ç‚ÍAã–ì”­’…‚Ì‰F“s‹{üE‚èü‚Å‚àƒOƒŠ[ƒ“ŽÔ‚ª˜AŒ‹‚³‚ê‚é‚±‚Æ‚Æ‚È‚Á‚½B</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>E231ç³»</type>
+    <name>2éšŽå»ºã‚°ãƒªãƒ¼ãƒ³è»Šå…¥ã‚Šãƒ»æ±æµ·é“ç·šç­‰</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>2000å¹´ã‹ã‚‰å®‡éƒ½å®®ç·šå‘ã‘ã«è£½é€ ãŒé–‹å§‹ã•ã‚ŒãŸE231ç³»1000ç•ªå°è¿‘éƒŠã‚¿ã‚¤ãƒ—ã ã£ãŸãŒã€æ¹˜å—æ–°å®¿ãƒ©ã‚¤ãƒ³ã¸ã®ã‚°ãƒªãƒ¼ãƒ³è»Šé€£çµåŠã³åŒç•ªå°æ–°é€ ã«ã‚ˆã‚Šæ±æµ·é“ç·š113ç³»ã®ç½®ãæ›ãˆã‚’è¡Œã†ãŸã‚ã€2004å¹´ã‹ã‚‰2éšŽå»ºã¦ã‚°ãƒªãƒ¼ãƒ³è»ŠãŒå¢—å‚™ã•ã‚Œã€10ä¸¡åŸºæœ¬ç·¨æˆä¸­ã«2ä¸¡ãŒé€£çµã•ã‚Œã‚‹ã“ã¨ã¨ãªã£ãŸã€‚ã¾ãŸ2006å¹´ã‹ã‚‰ã¯ã€ä¸Šé‡Žç™ºç€ã®å®‡éƒ½å®®ç·šãƒ»é«˜å´Žç·šã§ã‚‚ã‚°ãƒªãƒ¼ãƒ³è»ŠãŒé€£çµã•ã‚Œã‚‹ã“ã¨ã¨ãªã£ãŸã€‚</description>
 	<fare>550</fare>
 	<price>38500000</price>
 	<amenity>110</amenity>
@@ -329,31 +329,31 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <speed>medium</speed>
     <class name="freetrain.contributions.train.PatternTrainImpl"/>
     <config>
-      <car char="ƒ" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-h" />
-      <car char="‚l" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-m" />
-      <car char="‚r" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-s" />
-      <car char="„" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-t" />
-      <car char="m" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-1" />
-      <car char="n" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-2" />
-      <composition>ƒ‚l‚l‚r‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚lnm‚l‚l‚l„</composition>
+      <car char="ï¼œ" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-h" />
+      <car char="ï¼­" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-m" />
+      <car char="ï¼³" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-s" />
+      <car char="ï¼ž" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-t" />
+      <car char="ï¼»" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-1" />
+      <car char="ï¼½" ref="{riorio-kitapoppoya-e231-tokaidoDDts-A5EDA12C01A0}-2" />
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼­ï¼ž</composition>
     </config>
   </contribution>
 
 
-  <!-- “ŒŠC“¹üE531Œn æ“ªŽÔ ‰æ‘œ’è‹`-->
+  <!-- æ±æµ·é“ç·šE531ç³» å…ˆé ­è»Š ç”»åƒå®šç¾©-->
   <contribution type="picture" id="{riorio-kitapoppoya-train-picture-kuhae531-D355ECABBD74}">
     <picture src="E531a.bmp" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn æ“ªŽÔ-->
+  <!-- æ±æµ·é“ç·šE531ç³» å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -363,7 +363,7 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>52</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn ’†ŠÔŽÔ-->
+  <!-- æ±æµ·é“ç·šE531ç³» ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -373,13 +373,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>64</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn Œã”öŽÔ-->
+  <!-- æ±æµ·é“ç·šE531ç³» å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-h" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn æ“ªŽÔ’†ŠÔ‘OŒü-->
+  <!-- æ±æµ·é“ç·šE531ç³» å…ˆé ­è»Šä¸­é–“å‰å‘-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-1">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -389,13 +389,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <seatedcapacity>52</seatedcapacity> 
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn æ“ªŽÔ’†ŠÔŒãŒü-->
+  <!-- æ±æµ·é“ç·šE531ç³» å…ˆé ­è»Šä¸­é–“å¾Œå‘-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-2">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-1" />
   </contribution>
 
-  <!-- “ŒŠC“¹üE531Œn 2ŠKŒš‚ÄƒOƒŠ[ƒ“ŽÔ-->
+  <!-- æ±æµ·é“ç·šE531ç³» 2éšŽå»ºã¦ã‚°ãƒªãƒ¼ãƒ³è»Š-->
   <contribution type="trainCar" id="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-s">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -410,13 +410,13 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
   </contribution>
 
 
-    <!-- “ŒŠC“¹üE531ŒnƒOƒŠ[ƒ“ŽÔ“ü‚è•Ò¬ -->
+    <!-- æ±æµ·é“ç·šE531ç³»ã‚°ãƒªãƒ¼ãƒ³è»Šå…¥ã‚Šç·¨æˆ -->
   <contribution type="train" id="{riorio-kitapoppoya-jre531-jobanddts-105FA5926D74}">
-    <company>JR“Œ“ú–{</company>
-    <type>E531Œn</type>
-    <name>2ŠKŒšƒOƒŠ[ƒ“ŽÔ“ü‚è</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>˜V‹€‰»‚µ‚½415Œn‚ð’u‚«Š·‚¦ƒXƒs[ƒhƒAƒbƒv‚·‚é‚½‚ßA2005”N‚©‚çí”ÖüŒü‚¯‚É»‘¢‚ªŠJŽn‚³‚ê‚½Œð’¼—¬‹ßxŒ^“dŽÔ‚ªE531ŒnBÅ‚‘¬“x130km/hB2007”N‚©‚ç‚Í10—¼Šî–{•Ò¬‚É2—¼‚Ì2ŠKŒš‚ÄƒOƒŠ[ƒ“ŽÔ‚ª˜AŒ‹‚³‚ê‚é‚±‚Æ‚Æ‚È‚Á‚½B</description>
+    <company>JRæ±æ—¥æœ¬</company>
+    <type>E531ç³»</type>
+    <name>2éšŽå»ºã‚°ãƒªãƒ¼ãƒ³è»Šå…¥ã‚Š</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>è€æœ½åŒ–ã—ãŸ415ç³»ã‚’ç½®ãæ›ãˆã‚¹ãƒ”ãƒ¼ãƒ‰ã‚¢ãƒƒãƒ—ã™ã‚‹ãŸã‚ã€2005å¹´ã‹ã‚‰å¸¸ç£ç·šå‘ã‘ã«è£½é€ ãŒé–‹å§‹ã•ã‚ŒãŸäº¤ç›´æµè¿‘éƒŠåž‹é›»è»ŠãŒE531ç³»ã€‚æœ€é«˜é€Ÿåº¦130km/hã€‚2007å¹´ã‹ã‚‰ã¯10ä¸¡åŸºæœ¬ç·¨æˆã«2ä¸¡ã®2éšŽå»ºã¦ã‚°ãƒªãƒ¼ãƒ³è»ŠãŒé€£çµã•ã‚Œã‚‹ã“ã¨ã¨ãªã£ãŸã€‚</description>
 	<fare>550</fare>
 	<price>40000000</price>
 	<amenity>110</amenity>
@@ -424,21 +424,21 @@ JR‰»Œã‚àˆø‚«‘±‚«Žg—p‚³‚ê‚Ä‚«‚½‚ªAE233Œn2000”Ô‘ä‚Ì‘”õ‚É‚æ‚Á‚Ä”pŽÔ‚³‚ê‚é‚±‚Æ‚ªŒˆ
     <speed>fast</speed>
     <class name="freetrain.contributions.train.PatternTrainImpl"/>
     <config>
-      <car char="ƒ" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-h" />
-      <car char="‚l" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-m" />
-      <car char="‚r" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-s" />
-      <car char="„" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-t" />
-      <car char="m" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-1" />
-      <car char="n" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-2" />
-      <composition>ƒ‚l‚l‚r‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚lnm‚l‚l„</composition>
-      <composition>ƒ‚l‚l‚r‚r‚l‚l‚l‚lnm‚l‚l‚l„</composition>
+      <car char="ï¼œ" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-h" />
+      <car char="ï¼­" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-m" />
+      <car char="ï¼³" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-s" />
+      <car char="ï¼ž" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-t" />
+      <car char="ï¼»" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-1" />
+      <car char="ï¼½" ref="{riorio-kitapoppoya-e531-jobanDDts-72D334F97C41}-2" />
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼ž</composition>
+      <composition>ï¼œï¼­ï¼­ï¼³ï¼³ï¼­ï¼­ï¼­ï¼­ï¼½ï¼»ï¼­ï¼­ï¼­ï¼ž</composition>
     </config>
   </contribution>
 

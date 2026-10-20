@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>道路plugin線路バラスト</title>
-	<author>りおりお　画像：花菱烈火</author>
+	<title>驕楢ｷｯplugin邱夊ｷｯ繝舌Λ繧ｹ繝�</title>
+	<author>繧翫♀繧翫♀縲逕ｻ蜒擾ｼ夊干闖ｱ辜育↓</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
-	<!-- 花菱烈火さんのバラスト画像をりおりおがplugin化したものです。 -->
+	<!-- 闃ｱ闖ｱ辜育↓縺輔ｓ縺ｮ繝舌Λ繧ｹ繝育判蜒上ｒ繧翫♀繧翫♀縺継lugin蛹悶＠縺溘ｂ縺ｮ縺ｧ縺吶� -->
 	
-	<!-- 新しい線路敷石 -->
+	<!-- 譁ｰ縺励＞邱夊ｷｯ謨ｷ遏ｳ -->
 	<contribution type="road" id="{riorio-HanabishiRekka-Road-ballast-silver}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>線路敷石/灰色</name>
-		<description>線路敷石</description>
+		<name>邱夊ｷｯ謨ｷ遏ｳ/轣ｰ濶ｲ</name>
+		<description>邱夊ｷｯ謨ｷ遏ｳ</description>
 		<picture src="road_ballast_silver.bmp" />
 	</contribution>
 	

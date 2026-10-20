@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY HiClassHotelPopulation '
 	<population>
@@ -23,8 +23,8 @@
 '>
 ]>
 <plug-in>
-	<title>‘‡•a‰@</title>
-	<author>C477@2—¼–Ú</author>
+	<title>ç·åˆç—…é™¢</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 	<contribution type="picture" id="{C1E8C47D-219F-4FAC-C477-7BCC21E2999A}">
 		<picture src="gene_hospitalA.bmp">
@@ -38,10 +38,10 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{45E15A82-EC17-48FE-C477-27F07E6130F9}">
-		<name>‘‡•a‰@</name>
-		<design>xŠOŒ^(Žå)</design>
+		<name>ç·åˆç—…é™¢</name>
+		<design>éƒŠå¤–åž‹(ä¸»)</design>
 		<structure>
-			<category byname="•a‰@"/>
+			<category byname="ç—…é™¢"/>
 		</structure>
 		<price>3200000000</price>
 		<size>6,5</size>
@@ -64,10 +64,10 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{4A9A4AFC-3351-4B3D-C477-8D0AC25D5D0F}">
-		<name>‘‡•a‰@</name>
-		<design>xŠOŒ^(•›)</design>
+		<name>ç·åˆç—…é™¢</name>
+		<design>éƒŠå¤–åž‹(å‰¯)</design>
 		<structure>
-			<category byname="•a‰@"/>
+			<category byname="ç—…é™¢"/>
 		</structure>
 		<price>3200000000</price>
 		<size>5,4</size>

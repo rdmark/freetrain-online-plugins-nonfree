@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>–Î‚Ý</title>
+	<title>èŒ‚ã¿</title>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
-	<author>477@‚Q—¼–Ú</author>
+	<author>477@ï¼’ä¸¡ç›®</author>
 	
 	<depend on="org.kohsuke.freetrain.land.forest" />
 	<!--contribution type="picture" id="{FBD0CD06-016A-4037-AB15-02040218CBAA}-G"-->	
 	
 	<contribution type="land" id="{4307947B-3E50-4467-C477-37938B23AB89}">
-		<group>Ÿó–Ø</group>
-		<name>ƒcƒQ</name>
+		<group>çŒæœ¨</group>
+		<name>ãƒ„ã‚²</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -24,8 +24,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{7FA5C87F-2C70-460E-C477-405D5DFEB16A}">
-		<group>Ÿó–Ø</group>
-		<name>ƒXƒXƒL</name>
+		<group>çŒæœ¨</group>
+		<name>ã‚¹ã‚¹ã‚­</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -42,8 +42,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{1C67B6F8-65D2-4837-C477-D2FDF1E3102A}">
-		<group>Ÿó–Ø</group>
-		<name>—Ž—tŽ÷A</name>
+		<group>çŒæœ¨</group>
+		<name>è½è‘‰æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -59,8 +59,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{D828F5C5-2C45-43F7-C477-AB619FB21F03}">
-		<group>Ÿó–Ø</group>
-		<name>í—ÎŽ÷A</name>
+		<group>çŒæœ¨</group>
+		<name>å¸¸ç·‘æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -76,8 +76,8 @@
 	
 	
 	<contribution type="land" id="{4307947B-3E50-4467-C477-37938B23AB89}-m">
-		<group>Ÿó–Ø(ŽR”§)</group>
-		<name>ƒcƒQ</name>
+		<group>çŒæœ¨(å±±è‚Œ)</group>
+		<name>ãƒ„ã‚²</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -95,8 +95,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{7FA5C87F-2C70-460E-C477-405D5DFEB16A}-m">
-		<group>Ÿó–Ø(ŽR”§)</group>
-		<name>ƒXƒXƒL</name>
+		<group>çŒæœ¨(å±±è‚Œ)</group>
+		<name>ã‚¹ã‚¹ã‚­</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -116,8 +116,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{1C67B6F8-65D2-4837-C477-D2FDF1E3102A}-m">
-		<group>Ÿó–Ø(ŽR”§)</group>
-		<name>—Ž—tŽ÷A</name>
+		<group>çŒæœ¨(å±±è‚Œ)</group>
+		<name>è½è‘‰æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -136,8 +136,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{D828F5C5-2C45-43F7-C477-AB619FB21F03}-m">
-		<group>Ÿó–Ø(ŽR”§)</group>
-		<name>í—ÎŽ÷A</name>
+		<group>çŒæœ¨(å±±è‚Œ)</group>
+		<name>å¸¸ç·‘æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -156,8 +156,8 @@
 	
 	
 	<contribution type="land" id="{4307947B-3E50-4467-C477-37938B23AB89}-g">
-		<group>Ÿó–Ø(‘Œ´)</group>
-		<name>ƒcƒQ</name>
+		<group>çŒæœ¨(è‰åŽŸ)</group>
+		<name>ãƒ„ã‚²</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -175,8 +175,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{7FA5C87F-2C70-460E-C477-405D5DFEB16A}-g">
-		<group>Ÿó–Ø(‘Œ´)</group>
-		<name>ƒXƒXƒL</name>
+		<group>çŒæœ¨(è‰åŽŸ)</group>
+		<name>ã‚¹ã‚¹ã‚­</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -196,8 +196,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{1C67B6F8-65D2-4837-C477-D2FDF1E3102A}-g">
-		<group>Ÿó–Ø(‘Œ´)</group>
-		<name>—Ž—tŽ÷A</name>
+		<group>çŒæœ¨(è‰åŽŸ)</group>
+		<name>è½è‘‰æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		
@@ -216,8 +216,8 @@
 	</contribution>
 	
 	<contribution type="land" id="{D828F5C5-2C45-43F7-C477-AB619FB21F03}-g">
-		<group>Ÿó–Ø(‘Œ´)</group>
-		<name>í—ÎŽ÷A</name>
+		<group>çŒæœ¨(è‰åŽŸ)</group>
+		<name>å¸¸ç·‘æ¨¹A</name>
 		<class name="freetrain.world.land.forest.ForestBuilder"
 			codebase="../org.kohsuke.freetrain.land.forest/bin/Debug/FreeTrain.Forest.dll"/>
 		

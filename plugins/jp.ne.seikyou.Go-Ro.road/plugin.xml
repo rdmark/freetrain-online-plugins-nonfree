@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜HiFreeTrain-‘zìŠÙj</title>
+	<title>é“è·¯ï¼ˆFreeTrain-æƒ³ä½œé¤¨ï¼‰</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 	
 	<contribution type="road" id="{9257AF06-6515-6BC1-8160-5336FDF6FB6B}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
-		<name>ƒA[ƒP[ƒh</name>
+		<name>ã‚¢ãƒ¼ã‚±ãƒ¼ãƒ‰</name>
 		<style name="footpath"/>
-		<description>ƒA[ƒP[ƒh</description>
+		<description>ã‚¢ãƒ¼ã‚±ãƒ¼ãƒ‰</description>
 		<picture src="arcade.bmp">
 			<override when="night" src="arcade_n.bmp"/>
 		</picture>
@@ -16,9 +16,9 @@
 	
 	<contribution type="road" id="{road_001-road-C000-0000-4C8B212DD67q}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>¶Šˆ“¹˜H</name>
+		<name>ç”Ÿæ´»é“è·¯</name>
 		<style name="street" sidewalk="shoulder" lanes="1"/>
-		<description>¶Šˆ“¹˜H</description>
+		<description>ç”Ÿæ´»é“è·¯</description>
 		<picture src="road_001.bmp" size="32,32" offset="16" >
 			<override when="night" src="road_001n.bmp"/>
 		</picture>
@@ -26,9 +26,9 @@
 	
 	<contribution type="road" id="{road_002-road-C000-0000-4C8B212DD67q}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‹´‹rid‘w‚‰Ë‘Î‰žj</name>
+		<name>æ©‹è„šï¼ˆé‡å±¤é«˜æž¶å¯¾å¿œï¼‰</name>
 		<style name="railballast" />
-		<description>‹´‹rid‘w‚‰Ë‘Î‰žj</description>
+		<description>æ©‹è„šï¼ˆé‡å±¤é«˜æž¶å¯¾å¿œï¼‰</description>
 		<picture src="road_002.bmp" size="32,32" offset="16" >
 		</picture>
 	</contribution>
@@ -37,17 +37,17 @@
 	<contribution type="road" id="{road_003-road-C000-0000-4C8B212DD67q}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>‚‰Ë‹´Œ…</name>
-		<description>‚‰Ë‹´Œ…</description>
+		<name>é«˜æž¶æ©‹æ¡</name>
+		<description>é«˜æž¶æ©‹æ¡</description>
 		<picture src="road_003.bmp" size="32,32" offset="16" />
 	</contribution>
 
 
 	<contribution type="road" id="{sidewalk_001-road-C000-0000-4C8B212DD67q}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚¯‚â‚«•À–Ø‚Ì•à“¹</name>
+		<name>ã‘ã‚„ãä¸¦æœ¨ã®æ­©é“</name>
 		<style name="footpath"/>
-		<description>‚¯‚â‚«•À–Ø‚Ì•à“¹</description>
+		<description>ã‘ã‚„ãä¸¦æœ¨ã®æ­©é“</description>
 		<picture src="sidewalk_001.bmp" size="32,32" offset="16" >
 			<override when="summer" src="sidewalk_001sum.bmp"/>
 			<override when="autumn" src="sidewalk_001aut.bmp"/>

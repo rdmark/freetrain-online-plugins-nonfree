@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>貸しビル(3x4)</title> 
- <author>モガミ</author> 
+ <title>雋ｸ縺励ン繝ｫ(3x4)</title> 
+ <author>繝｢繧ｬ繝�</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-buildingi-building-hibill2-picture-2E1004005113}">
  <picture src="hibill.bmp" /> 
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-hibill2-E07233000ED8}">
- <group>貸しビル(3x4)</group> 
+ <group>雋ｸ縺励ン繝ｫ(3x4)</group> 
  <structure>
- <category byname="貸事務所" /> 
+ <category byname="雋ｸ莠句漁謇" /> 
  </structure>
  <price>500000000</price> 
  <size>3,4</size> 

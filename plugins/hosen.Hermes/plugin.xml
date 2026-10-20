@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY t400 '
 	<name>T400</name>
         <price>300000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆê”Ê“S“¹•t‘®•¨"/>
+		<category byname="ä¸€èˆ¬é‰„é“ä»˜å±žç‰©"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -14,11 +14,11 @@
 	</population>
 '>
 <!ENTITY railtruck '
-	<name>ƒŒ[ƒ‹‰^”À—pƒgƒƒbƒR</name>
+	<name>ãƒ¬ãƒ¼ãƒ«é‹æ¬ç”¨ãƒˆãƒ­ãƒƒã‚³</name>
         <price>120000</price>
 	<size>1,1</size>
 	<structure>
-		<category byname="ˆê”Ê“S“¹•t‘®•¨"/>
+		<category byname="ä¸€èˆ¬é‰„é“ä»˜å±žç‰©"/>
 	</structure>
 	<height>1</height>
 	<population>
@@ -29,7 +29,7 @@
 '>]>
 
 <plug-in>
-	<title>•ÛüŽÔ—¼</title>
+	<title>ä¿ç·šè»Šä¸¡</title>
 	<author>Hermes</author>
 	<homepage>nothing</homepage>
 		

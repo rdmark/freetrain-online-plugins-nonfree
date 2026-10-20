@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-  <title>–k‹ãBƒ‚ƒmƒŒ[ƒ‹‚¹‚Á‚Æ</title>
-  <author>‚è‚¨‚è‚¨</author>
+  <title>åŒ—ä¹å·žãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«ã›ã£ã¨</title>
+  <author>ã‚ŠãŠã‚ŠãŠ</author>
   <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÂ æ“ªŽÔƒOƒ‰ƒtƒBƒbƒN-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é’ å…ˆé ­è»Šã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯-->
   <contribution type="picture" id="{riorio-kitakyushumonorail-1000-picture-blue}-h">
       <picture src="kk1000-bluea.bmp" />
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÂ ’†ŠÔŽÔƒOƒ‰ƒtƒBƒbƒN-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é’ ä¸­é–“è»Šã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯-->
   <contribution type="picture" id="{riorio-kitakyushumonorail-1000-picture-blue}-m">
       <picture src="kk1000-blueb.bmp" />
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÂ æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é’ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-blue-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -24,7 +24,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÂ ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é’ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-blue-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -34,19 +34,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÂ Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é’ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-blue-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-blue-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-blue-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>Â</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>é’</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -59,7 +59,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn—Î æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç·‘ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-green-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -76,7 +76,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn—Î ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç·‘ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-green-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -93,19 +93,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn—Î Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç·‘ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-green-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-green-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-green-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>—Î</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>ç·‘</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -118,7 +118,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnƒIƒŒƒ“ƒW æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ã‚ªãƒ¬ãƒ³ã‚¸ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-orange-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -135,7 +135,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnƒIƒŒƒ“ƒW ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ã‚ªãƒ¬ãƒ³ã‚¸ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-orange-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -152,19 +152,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnƒIƒŒƒ“ƒW Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ã‚ªãƒ¬ãƒ³ã‚¸ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-orange-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-orange-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-orange-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>ƒIƒŒƒ“ƒW</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>ã‚ªãƒ¬ãƒ³ã‚¸</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -177,7 +177,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnŽ‡ æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç´« å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-purple-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -194,7 +194,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnŽ‡ ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç´« ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-purple-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -211,19 +211,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnŽ‡ Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»ç´« å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-purple-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-purple-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-purple-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>Ž‡</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>ç´«</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -236,7 +236,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÔ æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»èµ¤ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-red-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -253,7 +253,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÔ ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»èµ¤ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-red-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -270,19 +270,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000ŒnÔ Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»èµ¤ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-red-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-red-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-red-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>Ô</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>èµ¤</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -295,7 +295,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn…F æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»æ°´è‰² å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-sky-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -312,7 +312,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn…F ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»æ°´è‰² ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-sky-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -329,19 +329,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn…F Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»æ°´è‰² å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-sky-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-sky-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-sky-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>…F</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>æ°´è‰²</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -354,7 +354,7 @@
   </contribution>
 
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn‰© æ“ªŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é»„ å…ˆé ­è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-yellow-51E0A0DAC82A}-h">
     <class name="freetrain.contributions.train.AsymTrainCarImpl" />
     <sprite origin="0,0">
@@ -371,7 +371,7 @@
     <seatedcapacity>34</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn‰© ’†ŠÔŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é»„ ä¸­é–“è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-yellow-51E0A0DAC82A}-m">
     <class name="freetrain.contributions.train.SymTrainCarImpl" />
     <sprite origin="0,0">
@@ -388,19 +388,19 @@
     <seatedcapacity>40</seatedcapacity>
   </contribution>
 
-  <!-- –k‹ãB‚‘¬“S“¹1000Œn‰© Œã”öŽÔ-->
+  <!-- åŒ—ä¹å·žé«˜é€Ÿé‰„é“1000ç³»é»„ å¾Œå°¾è»Š-->
   <contribution type="trainCar" id="{riorio-kitakyushumonorail-1000-yellow-51E0A0DAC82A}-t">
     <class name="freetrain.contributions.train.ReverseTrainCarImpl" />
     <base carRef="{riorio-kitakyushumonorail-1000-yellow-51E0A0DAC82A}-h"/>
   </contribution>
 
   <contribution type="train" id="{riorio-train-kitakyushumonorail-1000-yellow-11CA747B62F9}">
-    <company>–k‹ãB‚‘¬“S“¹</company>
-    <type>1000Œn</type>
-    <name>‰©</name>
-    <author>‚è‚¨‚è‚¨</author>
-    <description>1985”N‚©‚ç»‘¢‚³‚ê‚½–k‹ãB‚‘¬“S“¹‚Ìƒ‚ƒmƒŒ[ƒ‹ŽÔ—¼BŠJ‹Æ“–‰‚Í‘S•Ò¬‚ªƒNƒŠ[ƒ€‚ÌŽÔ‘Ì‚Éƒuƒ‹[‘Ñ‚Ì“h‘•ˆêŽí—Þ‚Ì‚Ý‚¾‚Á‚½‚ªAŒã‚ÉƒJƒ‰[ƒoƒŠƒG[ƒVƒ‡ƒ“‚ªì‚ç‚ê‚½B
-Œ»Ý‚Í4—¼ŒÅ’è•Ò¬‚Å‰^“]‚³‚ê‚Ä‚¢‚éB</description>
+    <company>åŒ—ä¹å·žé«˜é€Ÿé‰„é“</company>
+    <type>1000ç³»</type>
+    <name>é»„</name>
+    <author>ã‚ŠãŠã‚ŠãŠ</author>
+    <description>1985å¹´ã‹ã‚‰è£½é€ ã•ã‚ŒãŸåŒ—ä¹å·žé«˜é€Ÿé‰„é“ã®ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«è»Šä¸¡ã€‚é–‹æ¥­å½“åˆã¯å…¨ç·¨æˆãŒã‚¯ãƒªãƒ¼ãƒ ã®è»Šä½“ã«ãƒ–ãƒ«ãƒ¼å¸¯ã®å¡—è£…ä¸€ç¨®é¡žã®ã¿ã ã£ãŸãŒã€å¾Œã«ã‚«ãƒ©ãƒ¼ãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ãŒä½œã‚‰ã‚ŒãŸã€‚
+ç¾åœ¨ã¯4ä¸¡å›ºå®šç·¨æˆã§é‹è»¢ã•ã‚Œã¦ã„ã‚‹ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

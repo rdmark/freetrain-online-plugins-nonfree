@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>NY•—‚‘wƒrƒ‹</title> 
-  <author>ƒ‚ƒKƒ~</author> 
+  <title>NYé¢¨é«˜å±¤ãƒ“ãƒ«</title> 
+  <author>ãƒ¢ã‚¬ãƒŸ</author> 
   <homepage>hhttp://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{06D01A7D-1D38-4E31-AD3C-A4D4C9BE934A}">
   <picture src="NY1bilding.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{D5810FA5-8DF4-4235-8D5A-C5BEA7828962}-0">
-  <group>NY•—‚‘wƒrƒ‹</group> 
+  <group>NYé¢¨é«˜å±¤ãƒ“ãƒ«</group> 
   <structure>
-  <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+  <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <size>2,2</size> 
   <price>800000000</price> 
@@ -25,9 +25,9 @@
   </sprite>
   </contribution>
   <contribution type="GenericStructure" id="{D5810FA5-8DF4-4235-8D5A-C5BEA7828962}-1">
-  <group>NY•—‚‘wƒrƒ‹</group> 
+  <group>NYé¢¨é«˜å±¤ãƒ“ãƒ«</group> 
   <structure>
-  <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+  <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <size>2,2</size> 
   <price>8000</price> 

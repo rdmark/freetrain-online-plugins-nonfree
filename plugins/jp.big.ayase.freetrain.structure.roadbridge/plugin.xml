@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜H</title>
-	<author>ˆ»£ƒqƒ</author>
+	<title>é“è·¯</title>
+	<author>ç¶¾ç€¬ãƒ’ãƒ­</author>
 	<homepage>http://www14.big.oir.jp/~ayase/</homepage>
 	
 	<contribution type="picture" id="{FreeTrain-AYASE-Hiro-StructureImage-hashi-01}">
@@ -19,7 +19,7 @@
 	
 	
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-01a}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
@@ -29,7 +29,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-01b}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>3,4</size>
@@ -39,7 +39,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-02a}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
@@ -49,7 +49,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-02b}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>3,4</size>
@@ -59,7 +59,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-03a}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
@@ -69,7 +69,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-03b}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>3,4</size>
@@ -79,7 +79,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-04a}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>4,3</size>
@@ -89,7 +89,7 @@
 		<computerCannotBuild/>
 	</contribution>
 	<contribution type="commercial" id="{FreeTrain-AYASE-Hiro-StructureImpl-hashi-04b}">
-		<group>“¹˜H‹´</group>
+		<group>é“è·¯æ©‹</group>
 		<price>1000000</price>
 		<height>2</height>
 		<size>3,4</size>

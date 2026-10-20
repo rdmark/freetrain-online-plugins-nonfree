@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY hc01 '
 	<spriteType name="colorMapped">
@@ -117,9 +117,9 @@
 	</spriteType>
 '>
 <!ENTITY h1001 '
-	<name>’[‚‰Ë‹´‹r</name>
+	<name>ç«¯é«˜æž¶æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -130,9 +130,9 @@
 	<computerCannotBuild/>
 '>
 <!ENTITY h1002 '
-	<name>’[‹´‹r</name>
+	<name>ç«¯æ©‹è„š</name>
 	<structure>
-		<category byname="“y–Ø"/>
+		<category byname="åœŸæœ¨"/>
 	</structure>
 	<price>3000000</price>
 	<size>1,1</size>
@@ -143,13 +143,13 @@
 '>
 ]>
 <plug-in>
-	<title>Œš•¨@ƒ{ƒNƒZƒ‹’[‹´‹r</title>
-	<author>‚è‚¨‚è‚¨@©‰æHEUER</author>
+	<title>å»ºç‰©ã€€ãƒœã‚¯ã‚»ãƒ«ç«¯æ©‹è„š</title>
+	<author>ã‚ŠãŠã‚ŠãŠã€€â†ç”»HEUER</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 
 
-<!-- ‹´‹r -->
+<!-- æ©‹è„š -->
 	<contribution type="picture" id="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}">
 		<picture src="bp.bmp">
 		</picture>
@@ -164,7 +164,7 @@
 
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0001}">
 		&h1001;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
@@ -212,7 +212,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0003}">
 		&h1001;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
@@ -260,7 +260,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0005}">
 		&h1001;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
@@ -308,7 +308,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0007}">
 		&h1001;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
@@ -356,7 +356,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0009}">
 		&h1001;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<pictures>
 			<top    origin="0,0" offset="16">
 				<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
@@ -405,7 +405,7 @@
 
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0011}">
 		&h1002;
-		<design>’Êí</design>
+		<design>é€šå¸¸</design>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -421,7 +421,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0013}">
 		&h1002;
-		<design>…–Ê</design>
+		<design>æ°´é¢</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>
@@ -437,7 +437,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0015}">
 		&h1002;
-		<design>‘Œ´</design>
+		<design>è‰åŽŸ</design>
 		<sprite origin="64,0" offset="16">
 			<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -453,7 +453,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0017}">
 		&h1002;
-		<design>ŽR”§</design>
+		<design>å±±è‚Œ</design>
 		<sprite origin="32,0" offset="16">
 			<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0002}"/>
 		</sprite>
@@ -469,7 +469,7 @@
 	</contribution>
 	<contribution type="GenericStructure" id="{riorio-HEUER-BRIDGEPIER-STRUCTURE-0019}">
 		&h1002;
-		<design>ƒAƒXƒtƒ@ƒ‹ƒg</design>
+		<design>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</design>
 		<sprite origin="192,0" offset="16">
 			<picture ref="{riorio-HEUER-BRIDGEPIER-PICTURE-0001}"/>
 		</sprite>

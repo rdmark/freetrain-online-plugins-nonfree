@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY hc101 '
 	<spriteType name="hueTransform">
@@ -13,7 +13,7 @@
 ]>
 
 <plug-in>
-	<title>’n•\</title>
+	<title>åœ°è¡¨</title>
 	<author>rk</author>
 	<homepage></homepage>
 
@@ -467,8 +467,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A1-FENCE-PICTURE-1001}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z01</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…01</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -481,8 +481,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A1-FENCE-PICTURE-1002}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z02</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…02</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -495,8 +495,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A1-FENCE-PICTURE-1003}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z03</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…03</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -509,8 +509,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A1-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z04</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…04</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -524,8 +524,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A5-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z05</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…05</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -538,8 +538,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A6-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z06</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…06</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -552,8 +552,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A7-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z07</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…07</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -566,8 +566,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A8-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü</group>
-		<name>Œù”z08</name>
+		<group>å‹¾é…å˜ç·š</group>
+		<name>å‹¾é…08</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -581,8 +581,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A9-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z09</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…09</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -595,8 +595,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A10-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z10</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…10</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -609,8 +609,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A11-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z11</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…11</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -623,8 +623,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A12-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z12</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…12</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -637,8 +637,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A17-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z09</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…09</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -651,8 +651,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A18-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z10</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…10</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -665,8 +665,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A19-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z11</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…11</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -679,8 +679,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A20-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚P</group>
-		<name>Œù”z12</name>
+		<group>å‹¾é…è¤‡ç·šï¼‘</group>
+		<name>å‹¾é…12</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -694,8 +694,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A13-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z09</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…09</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -708,8 +708,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A14-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z10</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…10</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -722,8 +722,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A15-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z11</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…11</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -736,8 +736,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A16-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z12</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…12</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -750,8 +750,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A21-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z21</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…21</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -764,8 +764,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A22-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z22</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…22</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -778,8 +778,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A23-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z23</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…23</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -792,8 +792,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A24-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚Q</group>
-		<name>Œù”z24</name>
+		<group>å‹¾é…è¤‡ç·šï¼’</group>
+		<name>å‹¾é…24</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -809,8 +809,8 @@
 
 
 	<contribution type="land" id="{rk-00A101-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z101</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…101</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -823,8 +823,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A102-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z102</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…102</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -837,8 +837,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A103-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z103</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…103</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -851,8 +851,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A104-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z104</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…104</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -865,8 +865,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A129-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z129</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…129</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -879,8 +879,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A130-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z130</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…130</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -893,8 +893,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A131-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z131</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…131</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -907,8 +907,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A132-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü·“y</group>
-		<name>Œù”z132</name>
+		<group>å‹¾é…å˜ç·šç››åœŸ</group>
+		<name>å‹¾é…132</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -922,8 +922,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A109-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z109</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…109</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -936,8 +936,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A110-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z110</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…110</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -950,8 +950,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A111-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z111</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…111</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -964,8 +964,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A112-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z112</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…112</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -978,8 +978,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A125-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z125</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…125</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -992,8 +992,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A126-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z126</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…126</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1006,8 +1006,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A127-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z127</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…127</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1020,8 +1020,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A128-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚P</group>
-		<name>Œù”z128</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼‘</group>
+		<name>å‹¾é…128</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1037,8 +1037,8 @@
 
 
 	<contribution type="land" id="{rk-00A113-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z113</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…113</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1051,8 +1051,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A114-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z114</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…114</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1065,8 +1065,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A115-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z115</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…115</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1079,8 +1079,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A116-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z116</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…116</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1093,8 +1093,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A133-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z133</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…133</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1107,8 +1107,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A134-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z134</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…134</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1121,8 +1121,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A135-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z135</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…135</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1135,8 +1135,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A136-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y‚Q</group>
-		<name>Œù”z136</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸï¼’</group>
+		<name>å‹¾é…136</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1151,8 +1151,8 @@
 
 
 	<contribution type="land" id="{rk-00A117-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z117</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…117</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1165,8 +1165,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A118-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z118</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…118</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1179,8 +1179,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A119-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z119</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…119</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1193,8 +1193,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A120-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z120</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…120</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1207,8 +1207,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A121-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z121</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…121</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1221,8 +1221,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A122-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z122</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…122</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1235,8 +1235,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A123-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z123</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…123</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1249,8 +1249,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A124-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü·“y’†</group>
-		<name>Œù”z124</name>
+		<group>å‹¾é…è¤‡ç·šç››åœŸä¸­</group>
+		<name>å‹¾é…124</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1265,8 +1265,8 @@
 
 
 	<contribution type="land" id="{rk-00A201-FENCE-PICTURE-1001}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z201</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…201</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1279,8 +1279,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A202-FENCE-PICTURE-1002}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z202</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…202</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1293,8 +1293,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A203-FENCE-PICTURE-1003}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z203</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…203</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1307,8 +1307,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A204-FENCE-PICTURE-1004}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z204</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…204</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1321,8 +1321,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A205-FENCE-PICTURE-1001}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z205</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…205</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1335,8 +1335,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A206-FENCE-PICTURE-1002}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z206</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…206</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1349,8 +1349,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A207-FENCE-PICTURE-1003}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z207</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…207</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1363,8 +1363,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A208-FENCE-PICTURE-1004}">
-		<group>Œù”z’PüRC</group>
-		<name>Œù”z208</name>
+		<group>å‹¾é…å˜ç·šRC</group>
+		<name>å‹¾é…208</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1377,8 +1377,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A209-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z209</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…209</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1391,8 +1391,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A210-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z210</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…210</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1405,8 +1405,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A211-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z211</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…211</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1419,8 +1419,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A212-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z212</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…212</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1433,8 +1433,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A213-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z213</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…213</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1447,8 +1447,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A214-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z214</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…214</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1461,8 +1461,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A215-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z215</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…215</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1475,8 +1475,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A216-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üRC‚P</group>
-		<name>Œù”z216</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼‘</group>
+		<name>å‹¾é…216</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1489,8 +1489,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A217-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z217</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…217</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1503,8 +1503,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A218-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z218</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…218</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1517,8 +1517,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A219-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z219</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…219</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1531,8 +1531,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A220-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z220</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…220</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1545,8 +1545,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A221-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z221</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…221</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1559,8 +1559,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A222-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z222</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…222</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1573,8 +1573,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A223-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z223</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…223</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1587,8 +1587,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A224-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üRC‚Q</group>
-		<name>Œù”z224</name>
+		<group>å‹¾é…è¤‡ç·šRCï¼’</group>
+		<name>å‹¾é…224</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1602,8 +1602,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A225-FENCE-PICTURE-1001}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z225</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…225</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1616,8 +1616,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A226-FENCE-PICTURE-1002}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z226</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…226</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1630,8 +1630,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A227-FENCE-PICTURE-1003}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z227</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…227</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1644,8 +1644,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A228-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z228</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…228</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1658,8 +1658,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A229-FENCE-PICTURE-1001}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z229</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…229</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1672,8 +1672,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A230-FENCE-PICTURE-1002}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z230</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…230</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1686,8 +1686,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A231-FENCE-PICTURE-1003}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z231</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…231</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1700,8 +1700,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A232-FENCE-PICTURE-1004}">
-		<group>Œù”z’Pü‚s</group>
-		<name>Œù”z0232</name>
+		<group>å‹¾é…å˜ç·šï¼´</group>
+		<name>å‹¾é…0232</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1715,8 +1715,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A233-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z233</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…233</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1729,8 +1729,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A234-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z234</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…234</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1743,8 +1743,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A235-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z235</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…235</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1757,8 +1757,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A236-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z0236</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…0236</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1771,8 +1771,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A237-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z237</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…237</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1785,8 +1785,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A238-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z238</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…238</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1799,8 +1799,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A239-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z239</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…239</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1813,8 +1813,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A240-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s‚P</group>
-		<name>Œù”z0240</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼‘</group>
+		<name>å‹¾é…0240</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1828,8 +1828,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A241-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z241</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…241</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1842,8 +1842,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A242-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z242</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…242</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1856,8 +1856,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A243-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z243</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…243</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1870,8 +1870,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A244-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z0244</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…0244</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1884,8 +1884,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A245-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z245</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…245</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1898,8 +1898,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A246-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z246</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…246</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1912,8 +1912,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A247-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z247</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…247</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1926,8 +1926,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A248-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s‚Q</group>
-		<name>Œù”z0248</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ï¼’</group>
+		<name>å‹¾é…0248</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1941,8 +1941,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A249-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z249</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…249</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1955,8 +1955,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A250-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z250</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…250</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1969,8 +1969,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A251-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z251</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…251</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1983,8 +1983,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A252-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z0252</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…0252</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -1997,8 +1997,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A253-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z253</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…253</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2011,8 +2011,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A254-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z254</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…254</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2025,8 +2025,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A255-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z255</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…255</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2039,8 +2039,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A256-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s’†‚P</group>
-		<name>Œù”z0256</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼‘</group>
+		<name>å‹¾é…0256</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2054,8 +2054,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A257-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s’†‚Q</group>
-		<name>Œù”z0257</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼’</group>
+		<name>å‹¾é…0257</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2069,8 +2069,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A258-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡ü‚s’†‚R</group>
-		<name>Œù”z0258</name>
+		<group>å‹¾é…è¤‡ç·šï¼´ä¸­ï¼“</group>
+		<name>å‹¾é…0258</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2085,8 +2085,8 @@
 
 
 	<contribution type="land" id="{rk-00A300-FENCE-PICTURE-1001}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z300</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…300</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2099,8 +2099,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A301-FENCE-PICTURE-1002}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z301</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…301</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2113,8 +2113,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A302-FENCE-PICTURE-1003}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z302</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…302</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2127,8 +2127,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A303-FENCE-PICTURE-1004}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z303</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…303</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2141,8 +2141,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A304-FENCE-PICTURE-1001}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z304</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…304</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2155,8 +2155,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A305-FENCE-PICTURE-1002}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z305</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…305</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2169,8 +2169,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A306-FENCE-PICTURE-1003}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z306</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…306</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2183,8 +2183,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A307-FENCE-PICTURE-1004}">
-		<group>Œù”z’PüŠÛ</group>
-		<name>Œù”z307</name>
+		<group>å‹¾é…å˜ç·šä¸¸</group>
+		<name>å‹¾é…307</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2198,8 +2198,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A308-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z308</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…308</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2212,8 +2212,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A309-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z309</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…309</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2226,8 +2226,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A310-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z310</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…310</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2240,8 +2240,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A311-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z311</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…311</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2254,8 +2254,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A312-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z312</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…312</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2268,8 +2268,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A313-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z313</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…313</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2282,8 +2282,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A314-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z314</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…314</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2296,8 +2296,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A315-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üŠÛ‚P</group>
-		<name>Œù”z315</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼‘</group>
+		<name>å‹¾é…315</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2311,8 +2311,8 @@
 	</contribution>
 
 	<contribution type="land" id="{rk-00A316-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z316</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…316</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2325,8 +2325,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A317-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z317</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…317</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2339,8 +2339,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A318-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z318</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…318</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2353,8 +2353,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A319-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z319</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…319</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2367,8 +2367,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A320-FENCE-PICTURE-1001}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z320</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…320</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2381,8 +2381,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A321-FENCE-PICTURE-1002}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z321</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…321</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2395,8 +2395,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A322-FENCE-PICTURE-1003}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z322</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…322</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2409,8 +2409,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A323-FENCE-PICTURE-1004}">
-		<group>Œù”z•¡üŠÛ‚Q</group>
-		<name>Œù”z323</name>
+		<group>å‹¾é…è¤‡ç·šä¸¸ï¼’</group>
+		<name>å‹¾é…323</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2423,8 +2423,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A350-FENCE-PICTURE-1004}">
-		<group>Œù”z‚»‚Ì‘¼ŠÛ</group>
-		<name>Œù”z350</name>
+		<group>å‹¾é…ãã®ä»–ä¸¸</group>
+		<name>å‹¾é…350</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2437,8 +2437,8 @@
 		<price>30000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A351-FENCE-PICTURE-1003}">
-		<group>Œù”z‚»‚Ì‘¼ŠÛ</group>
-		<name>Œù”z351</name>
+		<group>å‹¾é…ãã®ä»–ä¸¸</group>
+		<name>å‹¾é…351</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2451,8 +2451,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A352-FENCE-PICTURE-1003}">
-		<group>Œù”z‚»‚Ì‘¼ŠÛ</group>
-		<name>Œù”z351</name>
+		<group>å‹¾é…ãã®ä»–ä¸¸</group>
+		<name>å‹¾é…351</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2465,8 +2465,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A353-FENCE-PICTURE-1003}">
-		<group>Œù”z‚»‚Ì‘¼ŠÛ</group>
-		<name>Œù”z353</name>
+		<group>å‹¾é…ãã®ä»–ä¸¸</group>
+		<name>å‹¾é…353</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -2479,8 +2479,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-00A354-FENCE-PICTURE-1003}">
-		<group>Œù”z‚»‚Ì‘¼ŠÛ</group>
-		<name>Œù”z354</name>
+		<group>å‹¾é…ãã®ä»–ä¸¸</group>
+		<name>å‹¾é…354</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>

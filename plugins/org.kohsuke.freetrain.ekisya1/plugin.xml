@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 	<!ENTITY unmannedStation1 "
-		<group>‰º¼‰w1</group>
+		<group>ä¸‹æ¾é§…1</group>
 		<price>10000000</price>
 		<height>1</height>
 		<operationCost>200000</operationCost>
 	">
 
 	<!ENTITY unmannedStation2 "
-		<group>‰º¼‰w2</group>
+		<group>ä¸‹æ¾é§…2</group>
 		<price>10000000</price>
 		<height>1</height>
 		<operationCost>200000</operationCost>
 	">
 ]>
 <plug-in>
-	<title>‰Ëü’Œ</title>
-	<author>‰Ô•H—ó‰Î</author>
+	<title>æž¶ç·šæŸ±</title>
+	<author>èŠ±è±çƒˆç«</author>
 	<homepage></homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -35,14 +35,14 @@
 	</contribution>
 
 	<contribution type="electricPole" id="{10000000-1000-2004-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wi¶ŠK’i‰œj</name>
+		<name>ä¸‹æ¾é§…é§…ï¼ˆå·¦éšŽæ®µå¥¥ï¼‰</name>
 		<sprite>
 			<picture src="JRW-Simomatu6.bmp"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{10000000-1000-2005-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wi‰EŠK’i‰œj</name>
+		<name>ä¸‹æ¾é§…é§…ï¼ˆå³éšŽæ®µå¥¥ï¼‰</name>
 		<sprite>
 			<picture src="JRW-Simomatu7.bmp"/>
 		</sprite>
@@ -51,28 +51,28 @@
 
 	
 	<contribution type="electricPole" id="{200000000-1000-3001-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wŽÉ‚`0</name>
+		<name>ä¸‹æ¾é§…é§…èˆŽï¼¡0</name>
 		<sprite>
 			<picture ref="{10000000-1000-2000-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{200000000-1001-3001-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wŽÉ‚a</name>
+		<name>ä¸‹æ¾é§…é§…èˆŽï¼¢</name>
 		<sprite>
 			<picture ref="{10000000-1000-2001-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{200000000-1002-3001-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wŽÉ‚b</name>
+		<name>ä¸‹æ¾é§…é§…èˆŽï¼£</name>
 		<sprite>
 			<picture ref="{10000000-1000-2002-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 
 	<contribution type="electricPole" id="{200000000-1003-3001-9C5A-D0EA1049D28D}">
-		<name>‰º¼‰w‰wŽÉ‚`0</name>
+		<name>ä¸‹æ¾é§…é§…èˆŽï¼¡0</name>
 		<sprite>
 			<picture ref="{10000000-1000-2003-9C5A-D0EA1049D28D}"/>
 		</sprite>

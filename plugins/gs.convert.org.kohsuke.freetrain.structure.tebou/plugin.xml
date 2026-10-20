@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‰Ô•H—ó‰Î</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€èŠ±è±çƒˆç«</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.tebou" />
 	
@@ -88,12 +88,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C300-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>50000000</price>
 		<size>3,3</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{riorio-gs-convert-hanabishirekka-picture-teibou}">
@@ -108,12 +108,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C302-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>
@@ -130,12 +130,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C304-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>
@@ -152,12 +152,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C306-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>
@@ -176,12 +176,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C308-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>2</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>
@@ -200,12 +200,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C310-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>
@@ -224,12 +224,12 @@
 
 
 	<contribution type="GenericStructure" id="{S5776500-11118-hana-C312-A0036A6ECDEB}-gs">
-		<group>…–å</group>
+		<group>æ°´é–€</group>
 		<price>2500000</price>
 		<size>1,1</size>
 		<height>1</height>
 		<structure>
-			<category byname="Ž¡…–h”gÝ”õ" />
+			<category byname="æ²»æ°´é˜²æ³¢è¨­å‚™" />
 		</structure>
 		<population>
 			<class name="freetrain.contributions.population.RestaurantPopulation"/>

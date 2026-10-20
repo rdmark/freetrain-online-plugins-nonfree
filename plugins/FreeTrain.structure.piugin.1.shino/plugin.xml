@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>国際展示場</title>
-	<author>しの</author>
+	<title>蝗ｽ髫帛ｱ慕､ｺ蝣ｴ</title>
+	<author>縺励�ｮ</author>
 	<homepage></homepage>
 	
 	<contribution type="commercial" id="{S5776500-E8E5-4D5E-B30A-A0036A6ECDEB}">
-		<group>国際展示場</group>
+		<group>蝗ｽ髫帛ｱ慕､ｺ蝣ｴ</group>
 		<price>50000000</price>
 		<size>4,7</size>
 		<height>2</height>

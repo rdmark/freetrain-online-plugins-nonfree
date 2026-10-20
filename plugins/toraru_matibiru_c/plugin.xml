@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>’¬ƒrƒ‹C</title>
+	<title>ç”ºãƒ“ãƒ«C</title>
 	<author>toaru</author>
 	<homepage>http://monatomachi-ft.jpn.org/</homepage>
 <contribution type="picture" id="{704D7DCE-04BB-4DF2-8309-7531A1E43A36}">
@@ -10,11 +10,11 @@
 </contribution>
 		
 <contribution type="GenericStructure" id="{DB92672A-6A4E-4D89-833B-1DB58720B897}">
-		<name>’¬ƒrƒ‹C</name>
+		<name>ç”ºãƒ“ãƒ«C</name>
 		<price>9000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="ƒiƒCƒgƒNƒ‰ƒu"/>
+			<category byname="ãƒŠã‚¤ãƒˆã‚¯ãƒ©ãƒ–"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -30,11 +30,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{E0205615-A94C-4393-9FBB-1F44341F724E}">
-		<name>’¬ƒrƒ‹C</name>
+		<name>ç”ºãƒ“ãƒ«C</name>
 		<price>9000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="ƒiƒCƒgƒNƒ‰ƒu"/>
+			<category byname="ãƒŠã‚¤ãƒˆã‚¯ãƒ©ãƒ–"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -50,11 +50,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{9EC44EC3-080D-453F-A57A-C605064EA80C}">
-		<name>’¬ƒrƒ‹C</name>
+		<name>ç”ºãƒ“ãƒ«C</name>
 		<price>9000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="ƒiƒCƒgƒNƒ‰ƒu"/>
+			<category byname="ãƒŠã‚¤ãƒˆã‚¯ãƒ©ãƒ–"/>
 		</structure>
 		<height>1</height>
 		<population>
@@ -70,11 +70,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{EE55A5B4-48C6-4D15-957F-9746C1729F7F}">
-		<name>’¬ƒrƒ‹C</name>
+		<name>ç”ºãƒ“ãƒ«C</name>
 		<price>9000000</price>
 		<size>1,1</size>
 		<structure>
-			<category byname="ƒiƒCƒgƒNƒ‰ƒu"/>
+			<category byname="ãƒŠã‚¤ãƒˆã‚¯ãƒ©ãƒ–"/>
 		</structure>
 		<height>1</height>
 		<population>

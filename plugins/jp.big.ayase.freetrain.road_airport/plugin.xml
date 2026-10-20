@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>���H</title>
-	<author>�����q��</author>
+	<title>道路</title>
+	<author>綾瀬ヒロ</author>
 	<homepage>http://www14.big.oir.jp/~ayase/</homepage>
 	
 	<contribution type="road" id="{FreeTrain-AYASE-Hiro-RoadImg-Airport}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>��`�p�����H</name>
-		<description>�����H</description>
+		<name>空港用滑走路</name>
+		<description>滑走路</description>
 		<picture src="road_airport.bmp" size="32,32" offset="16">
 			<override when="night" src="road_airport_n.bmp"/>
 		</picture>
-		<!-- size�͈������̓��H�`�b�v�̃T�C�Y�B�z�u�͉摜���Q�� -->
-		<!-- offset�́A�`�b�v���ł̈ʒu���킹�p�B�ʏ�Asize.Y-16 -->
+		<!-- sizeは一つあたりの道路チップのサイズ。配置は画像を参照 -->
+		<!-- offsetは、チップ内での位置あわせ用。通常、size.Y-16 -->
 	</contribution>
 
 </plug-in>

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Λό’</title>
-	<author>‚θ‚¨‚θ‚¨“ό·©»£ƒqƒ</author>
+	<title>ζ¶η·ζ±</title>
+	<author>γ‚γγ‚γε…¥ζ›β†η¶Ύη€¬γƒ’γƒ­</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	
 	<contribution type="electricPole" id="{riorio-ayasehiro-4ba7-BFE8-ABFBDF5DFA0A}">
-		<name>•Π’(1)'</name>
+		<name>η‰‡ζ±(1)'</name>
 		<sprite>
 			<picture src="kasen4b.bmp"/>
 		</sprite>
 	</contribution>
 	
 	<contribution type="electricPole" id="{riorio-ayasehiro-41af-9185-4891B983E2A4}">
-		<name>•Π’(2)'</name>
+		<name>η‰‡ζ±(2)'</name>
 		<sprite>
 			<picture src="kasen3b.bmp"/>
 		</sprite>

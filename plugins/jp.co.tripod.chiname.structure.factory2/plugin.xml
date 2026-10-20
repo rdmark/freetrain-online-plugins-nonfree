@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY NormalFactory '
 	<price>50000000</price>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<population>
 		<class name="freetrain.contributions.population.OfficePopulation"/>
@@ -16,7 +16,7 @@
 <!ENTITY OldFactory '
 	<price>40000000</price>
 	<structure>
-		<category byname="Hê—pƒp[ƒc"/>
+		<category byname="å·¥å ´ç”¨ãƒ‘ãƒ¼ãƒ„"/>
 	</structure>
 	<population>
 		<class name="freetrain.contributions.population.OfficePopulation"/>
@@ -55,8 +55,8 @@
 ]>
 <plug-in>
 
-	<title>Hê‚»‚Ì‚Q</title>
-	<author>C477@2—¼–Ú</author>
+	<title>å·¥å ´ãã®ï¼’</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{25229E91-5548-468B-C477-3D2DC45327B5}">
@@ -70,8 +70,8 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-00">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>”à‚ ‚è‚`</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ‰‰ã‚ã‚Šï¼¡</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -90,8 +90,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-01">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>”à‚ ‚è‚a</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ‰‰ã‚ã‚Šï¼¢</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -110,8 +110,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-02">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>Š·‹CŒû‚Â‚«</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ›æ°—å£ã¤ã</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -130,8 +130,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-03">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>Žè‘O‘¤–Ê</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ‰‹å‰å´é¢</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -150,8 +150,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-04">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>Žè‘O‘¤–Ê”à•t‚«</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ‰‹å‰å´é¢æ‰‰ä»˜ã</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -170,8 +170,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-05">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>‰œ‘¤–Ê</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>å¥¥å´é¢</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -190,8 +190,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-06">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>”w–Ê</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>èƒŒé¢</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -210,8 +210,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-07">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>‚©‚Ç</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>ã‹ã©</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -230,8 +230,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-08">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>‚©‚Ç</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>ã‹ã©</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;
@@ -250,8 +250,8 @@
 		</sprite>
 	</contribution>
 	<contribution type="GenericStructure" id="{6DC0B940-3DD3-45DF-A67C-2A633C466036}-09">
-		<group>Hê‰®ŽÉ(‹˜‰®ª)</group>
-		<design>”À(“ü/o)Œû</design>
+		<group>å·¥å ´å±‹èˆŽ(é‹¸å±‹æ ¹)</group>
+		<design>æ¬(å…¥/å‡º)å£</design>
 		&NormalFactory;
 		&crSkyBlue;
 		&crWineRed;

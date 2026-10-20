@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒLƒn30‹v—¯—¢ü</title>
+	<title>ã‚­ãƒ30ä¹…ç•™é‡Œç·š</title>
 	<homepage></homepage>
 	
-<!-- ƒLƒn30‹v—¯—¢ü -->
+<!-- ã‚­ãƒ30ä¹…ç•™é‡Œç·š -->
 
 <contribution type="trainCar" id="{09D6B15A-6DAD-47DF-B8E1-4F413CC19942}">
 	<class name="freetrain.contributions.train.SymTrainCarImpl" />
@@ -15,14 +15,14 @@
 </contribution>
 
 <contribution type="train" id="{09D6B15A-6DAD-47DF-B8E1-kiha30-kururi}">
-		<company>JR“Œ“ú–{</company>
-		<type>ƒLƒn30Œn</type>
-		<name>ƒLƒn30‹v—¯—¢ü</name>
-		<author>‚¢‚Á‚¿[</author>
+		<company>JRæ±æ—¥æœ¬</company>
+		<type>ã‚­ãƒ30ç³»</type>
+		<name>ã‚­ãƒ30ä¹…ç•™é‡Œç·š</name>
+		<author>ã„ã£ã¡ãƒ¼</author>
 		<description>
-–ØX’Ã`ã‘‹TŽR‚ð‘–‚é“ú–{—L”‚Ì(H)ƒ[ƒJƒ‹üA‹v—¯—¢ü‚ÌŽÔ—¼‚Å‚·B
-””N‘O‚ÉŒ»Ý‚ÌA‰ˆüŽ©Ž¡‘Ì‚ðƒCƒ[ƒW‚µ‚½“h‘•‚É•ÏX‚³‚ê‚Ü‚µ‚½B
-’Êí‚Q`4—¼•Ò¬‚Å‰^s‚µ‚Ü‚·B
+æœ¨æ›´æ´¥ï½žä¸Šç·äº€å±±ã‚’èµ°ã‚‹æ—¥æœ¬æœ‰æ•°ã®(ï¼Ÿ)ãƒ­ãƒ¼ã‚«ãƒ«ç·šã€ä¹…ç•™é‡Œç·šã®è»Šä¸¡ã§ã™ã€‚
+æ•°å¹´å‰ã«ç¾åœ¨ã®ã€æ²¿ç·šè‡ªæ²»ä½“ã‚’ã‚¤ãƒ¡ãƒ¼ã‚¸ã—ãŸå¡—è£…ã«å¤‰æ›´ã•ã‚Œã¾ã—ãŸã€‚
+é€šå¸¸ï¼’ï½ž4ä¸¡ç·¨æˆã§é‹è¡Œã—ã¾ã™ã€‚
 		</description>
 		<speed>slow</speed>
 		<fare>400</fare>

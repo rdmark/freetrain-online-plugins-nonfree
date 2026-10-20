@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-<title>–¼ŒÃ‰®—ÕŠC‚‘¬“S“¹</title>
-<author>‚È‚à[</author>
+<title>åå¤å±‹è‡¨æµ·é«˜é€Ÿé‰„é“</title>
+<author>ãªã‚‚ãƒ¼</author>
 	<homepage>http://www.medias.co.jp/~bell8528/freetrain/</homepage>
 
-<!-- ‚ ‚¨‚È‚Ýüæ“ª -->
+<!-- ã‚ãŠãªã¿ç·šå…ˆé ­ -->
 <contribution type="trainCar" id="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-1}">
 	<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 	<sprite origin="0,0">
@@ -14,7 +14,7 @@
 	<seatedcapacity>52</seatedcapacity>
 </contribution>
 
-<!-- ’†ŠÔ -->
+<!-- ä¸­é–“ -->
 <contribution type="trainCar" id="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-2}">
 	<class name="freetrain.contributions.train.SymTrainCarImpl" />
 	<sprite origin="0,0">
@@ -24,32 +24,32 @@
 	<seatedcapacity>60</seatedcapacity>
 </contribution>
 
-<!-- Œã”ö -->
+<!-- å¾Œå°¾ -->
 <contribution type="trainCar" id="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-3}">
 	<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 	<base carRef="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-1}"/>
 </contribution>
 
 <contribution type="train" id="{DD0220E0-7998-4E8B-A17D-C6116089B1CF}">
-	<company>–¼ŒÃ‰®—ÕŠC‚‘¬“S“¹</company>
-	<type>1000Œ`</type>
-	<name>‚ ‚¨‚È‚Ýü</name>
+	<company>åå¤å±‹è‡¨æµ·é«˜é€Ÿé‰„é“</company>
+	<type>1000å½¢</type>
+	<name>ã‚ãŠãªã¿ç·š</name>
 	<speed>medium</speed>
-	<author>‚È‚à[</author>
+	<author>ãªã‚‚ãƒ¼</author>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
 <description>
-‘Û`˜pE–¼ŒÃ‰®`‚Æ–¼ŒÃ‰®“sS•”‚ð’¼Œ‹‚·‚é˜Hü‚Æ‚µ‚ÄA•½¬16”N10ŒŽ6“úA‘SüŠJ‹Æ‚¢‚½‚µ‚Ü‚µ‚½B
+å›½éš›æ¸¯æ¹¾ãƒ»åå¤å±‹æ¸¯ã¨åå¤å±‹éƒ½å¿ƒéƒ¨ã‚’ç›´çµã™ã‚‹è·¯ç·šã¨ã—ã¦ã€å¹³æˆ16å¹´10æœˆ6æ—¥ã€å…¨ç·šé–‹æ¥­ã„ãŸã—ã¾ã—ãŸã€‚
 </description>
 <class name="freetrain.contributions.train.PatternTrainImpl"/>
 <config>
-<car char="‘O" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-1}"/>
-<car char="’†" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-2}"/>
-<car char="Œã" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-3}"/>
+<car char="å‰" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-1}"/>
+<car char="ä¸­" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-2}"/>
+<car char="å¾Œ" ref="{DD0220E0-7998-4E8B-A17D-C6116089B1CF-3}"/>
 
 
-<composition>‘O’†’†Œã</composition>
+<composition>å‰ä¸­ä¸­å¾Œ</composition>
 </config>
 
 

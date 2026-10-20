@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ƒoƒ‰ƒXƒg</title>
-	<author>ANK‚³‚ñ</author>
+	<title>ãƒãƒ©ã‚¹ãƒˆ</title>
+	<author>ANKã•ã‚“</author>
 	<homepage></homepage>
 	
 	<contribution type="road" id="{FreeTrain-Uploder-RoadImg-Siba3}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg(ŠD)</name>
-		<description>ƒoƒ‰ƒXƒg(ŠD)</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ(ç°)</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ(ç°)</description>
 		<picture src="road_siba3.bmp" size="32,32" offset="16" />
 	</contribution>
 	
 	<contribution type="road" id="{FreeTrain-Uploder-RoadImg-Siba2}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast" />
-		<name>ƒoƒ‰ƒXƒg(’ƒ)</name>
-		<description>ƒoƒ‰ƒXƒg(’ƒ)</description>
+		<name>ãƒãƒ©ã‚¹ãƒˆ(èŒ¶)</name>
+		<description>ãƒãƒ©ã‚¹ãƒˆ(èŒ¶)</description>
 		<picture src="road_siba2.bmp" size="32,32" offset="16" />
 	</contribution>
 

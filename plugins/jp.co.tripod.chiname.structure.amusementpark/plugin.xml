@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY ColorSet '
 	<!--Red-White-White-->
@@ -92,8 +92,8 @@
 
 <plug-in>
 
-	<title>—V‰€’nƒZƒbƒg‚P</title>
-	<author>C477@2—¼–Ú</author>
+	<title>éŠåœ’åœ°ã‚»ãƒƒãƒˆï¼‘</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{F88FF34F-6262-41F3-C477-F2337FF9B6BB}">
@@ -123,10 +123,10 @@
 	</contribution>
 		
 	<contribution type="GenericStructure" id="{83E34DCA-4F85-4B19-C477-08FD870912C7}">
-		<group>ƒAƒgƒ‰ƒNƒVƒ‡ƒ“2x2</group>
-		<design>ƒƒŠ[ƒS[ƒ‰ƒEƒ“ƒh‚`</design>
+		<group>ã‚¢ãƒˆãƒ©ã‚¯ã‚·ãƒ§ãƒ³2x2</group>
+		<design>ãƒ¡ãƒªãƒ¼ã‚´ãƒ¼ãƒ©ã‚¦ãƒ³ãƒ‰ï¼¡</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>7500000</price>
 		<population>
@@ -143,10 +143,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{EE314C4B-8743-47AC-C477-928BC05F22AE}">
-		<group>ƒAƒgƒ‰ƒNƒVƒ‡ƒ“2x2</group>
-		<design>ƒƒŠ[ƒS[ƒ‰ƒEƒ“ƒh‚a</design>
+		<group>ã‚¢ãƒˆãƒ©ã‚¯ã‚·ãƒ§ãƒ³2x2</group>
+		<design>ãƒ¡ãƒªãƒ¼ã‚´ãƒ¼ãƒ©ã‚¦ãƒ³ãƒ‰ï¼¢</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>8000000</price>
 		<population>
@@ -164,10 +164,10 @@
 
 
 	<contribution type="GenericStructure" id="{F3288563-FB70-409C-C477-037B789C109B}">
-		<group>ŠÏ——ŽÔ</group>
-		<design>’†Œ^</design>
+		<group>è¦³è¦§è»Š</group>
+		<design>ä¸­åž‹</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>100000000</price>
 		<population>
@@ -187,10 +187,10 @@
 	</contribution>
 
 	<contribution type="GenericStructure" id="{7DCC878C-1D30-49DA-C477-58FAE78FB551}">
-		<group>ŠÏ——ŽÔ</group>
-		<design>‘åŒ^</design>
+		<group>è¦³è¦§è»Š</group>
+		<design>å¤§åž‹</design>
 		<structure>
-			<category byname="—V‰€’n"/>
+			<category byname="éŠåœ’åœ°"/>
 		</structure>
 		<price>460000000</price>
 		<population>
@@ -211,14 +211,14 @@
 	
 	<contribution type="road" id="{9D70C491-72FA-4562-C477-13E62F2B3545}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>—V‰€’n•Ü‘•(ŠX“”‚ ‚è)</name>
-		<description>—V‰€’n“à‚Ì•Ü‘•</description>
+		<name>éŠåœ’åœ°èˆ—è£…(è¡—ç¯ã‚ã‚Š)</name>
+		<description>éŠåœ’åœ°å†…ã®èˆ—è£…</description>
 		<picture ref="{467E9AA2-640E-49FA-C477-67CBC09D270A}" size="32,24" offset="8"/>
 	</contribution>
 	<contribution type="road" id="{BCCD83F5-F857-4055-C477-F042B0CF002C}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
-		<name>—V‰€’n•Ü‘•(ŠX“”‚È‚µ)</name>
-		<description>—V‰€’n“à‚Ì•Ü‘•</description>
+		<name>éŠåœ’åœ°èˆ—è£…(è¡—ç¯ãªã—)</name>
+		<description>éŠåœ’åœ°å†…ã®èˆ—è£…</description>
 		<picture ref="{2DE5315B-2BE5-40F6-C477-6C597B29B3C4}"/>
 	</contribution>
 

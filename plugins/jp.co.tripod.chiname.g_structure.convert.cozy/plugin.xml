@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�t�@�~�}�����}�_�d�C</title>
-	<author>cozy@E.G.R.����</author>
+	<title>ファミマ＆ヤマダ電気</title>
+	<author>cozy@E.G.R.さん</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	<depend on="org.kohsuke.freetrain.structure.cozy"/>
 	
 	<contribution type="GenericStructure" id="{487900B6-EBCA-4c98-9E28-194050E9706D}-gs">
-		<group>�R���r�j</group>
-		<design>�t�@�~���[�}�[�g</design>
+		<group>コンビニ</group>
+		<design>ファミリーマート</design>
 		<structure>
-			<category byname="�R���r�j"/>
+			<category byname="コンビニ"/>
 		</structure>
 		<price>2000000</price>
 		<size>1,1</size>
@@ -24,10 +24,10 @@
 	</contribution>
 	
 	<contribution type="GenericStructure" id="{D6DED1EF-FA6F-4734-A4CA-46D217A1EC1F}-gs">
-		<group>�Ɠd�ʔ̓X</group>
-		<design>���}�_�d�@</design>
+		<group>家電量販店</group>
+		<design>ヤマダ電機</design>
 		<structure>
-			<category byname="�s�s�^�ʔ̓X"/>
+			<category byname="都市型量販店"/>
 		</structure>
 		<price>16000000</price>
 		<size>2,2</size>

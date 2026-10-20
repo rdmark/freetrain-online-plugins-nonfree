@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>HIMAwษ</title>
-	<author>ษ</author>
+	<title>HIMA้ง…่</title>
+	<author>ๆ</author>
 	<homepage></homepage>
 	
 	<contribution type="station" id="{0405292143}l3574341">
-		<name>ฌw—pwษ01</name>
+		<name>ๅฐ้ง…็”จ้ง…่01</name>
 		<price>7000000</price>
 		<operationCost>120000</operationCost>
 		<size>1,1</size>
@@ -16,7 +16,7 @@
 	</contribution>
 
 	<contribution type="station" id="{0405292143}u373241">
-		<name>ฌw—pwษ01</name>
+		<name>ๅฐ้ง…็”จ้ง…่01</name>
 		<price>7000000</price>
 		<operationCost>120000</operationCost>
 		<size>1,1</size>
@@ -27,7 +27,7 @@
 	</contribution>
 
 	<contribution type="station" id="{0405292143}r6732421">
-		<name>ฌw—pwษ01</name>
+		<name>ๅฐ้ง…็”จ้ง…่01</name>
 		<price>7000000</price>
 		<operationCost>120000</operationCost>
 		<size>1,1</size>
@@ -38,7 +38,7 @@
 	</contribution>
 
 	<contribution type="station" id="{0405292143}w57341">
-		<name>ฌw—pwษ01</name>
+		<name>ๅฐ้ง…็”จ้ง…่01</name>
 		<price>7000000</price>
 		<operationCost>120000</operationCost>
 		<size>1,1</size>

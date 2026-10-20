@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>ÇµÇ©ÇµÇ©</author>
+<author>„Åó„Åã„Åó„Åã</author>
 <homepage>http://shikashika.hp.infoseek.co.jp/</homepage>
 
-<title>é‘Áq(ãqé‘:ãåçëìSãyÇ—JRäeé–)</title>
+<title>ËªäËºå(ÂÆ¢Ëªä:ÊóßÂõΩÈâÑÂèä„Å≥JRÂêÑÁ§æ)</title>
 
-<!-- ì¡ã}å`ãqé‘(ÉXÉn44ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉnÉj35(3ìôâ◊ï®çáë¢é‘) -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè44Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éã35(3Á≠âËç∑Áâ©ÂêàÈÄ†Ëªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuhani35}">
 		<picture src="shuhani35.bmp" />
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉn44(3ìôé‘) -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè44(3Á≠âËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuha44}">
 		<picture src="shuha44.bmp" />
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉç60(ì¡ï 2ìôé‘) -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„É≠60(ÁâπÂà•2Á≠âËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuro60}">
 		<picture src="shuro60.bmp" />
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉV35(êHì∞é‘) -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç∑35(È£üÂ†ÇËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-mashi35}">
 		<picture src="mashi35.bmp" />
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉCÉe49(1ìôìWñ]é‘) -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç§„ÉÜ49(1Á≠âÂ±ïÊúõËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-maite49}">
 		<picture src="maite49.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-<!-- ì¡ã}å`ãqé‘(ÉXÉn44ån)Ç‘Ç«Ç§êF -->
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉnÉj35(3ìôâ◊ï®çáë¢é‘) íËàı48êl Ç‘Ç«Ç§êF -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè44Á≥ª)„Å∂„Å©„ÅÜËâ≤ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éã35(3Á≠âËç∑Áâ©ÂêàÈÄ†Ëªä) ÂÆöÂì°48‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhani35}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -38,7 +38,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉn44(3ìôé‘) íËàı76êl Ç‘Ç«Ç§êF -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè44(3Á≠âËªä) ÂÆöÂì°76‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuha44}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -47,7 +47,7 @@
 		<capacity>76</capacity>
 		<seatedcapacity>76</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉç60(ì¡ï 2ìôé‘) íËàı44êl Ç‘Ç«Ç§êF -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„É≠60(ÁâπÂà•2Á≠âËªä) ÂÆöÂì°44‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuro60}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -56,7 +56,7 @@
 		<capacity>44</capacity>
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉV35(êHì∞é‘) íËàı30êl Ç‘Ç«Ç§êF -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç∑35(È£üÂ†ÇËªä) ÂÆöÂì°30‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mashi35}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -65,7 +65,7 @@
 		<capacity>30</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉCÉe49(1ìôìWñ]é‘) íËàı30êl Ç‘Ç«Ç§êF -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç§„ÉÜ49(1Á≠âÂ±ïÊúõËªä) ÂÆöÂì°30‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-maite49}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -74,8 +74,8 @@
 		<capacity>30</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-<!-- ì¡ã}å`ãqé‘(ÉXÉn44ån)ê¬ -->
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉnÉj35(3ìôâ◊ï®çáë¢é‘) íËàı48êl ê¬ -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè44Á≥ª)Èùí -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éã35(3Á≠âËç∑Áâ©ÂêàÈÄ†Ëªä) ÂÆöÂì°48‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhani35-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -92,7 +92,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉn44(3ìôé‘) íËàı76êl ê¬ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè44(3Á≠âËªä) ÂÆöÂì°76‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuha44-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -109,7 +109,7 @@
 		<capacity>76</capacity>
 		<seatedcapacity>76</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉç60(ì¡ï 2ìôé‘) íËàı44êl ê¬ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„É≠60(ÁâπÂà•2Á≠âËªä) ÂÆöÂì°44‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuro60-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -127,7 +127,7 @@
 		<capacity>44</capacity>
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉV35(êHì∞é‘) íËàı30êl ê¬ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç∑35(È£üÂ†ÇËªä) ÂÆöÂì°30‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mashi35-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -144,7 +144,7 @@
 		<capacity>30</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉCÉe49(1ìôìWñ]é‘) íËàı30êl ê¬ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç§„ÉÜ49(1Á≠âÂ±ïÊúõËªä) ÂÆöÂì°30‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-maite49-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -162,8 +162,8 @@
 		<capacity>30</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-<!-- ì¡ã}å`ãqé‘(ÉXÉn44ån)ê¬ëÂè´ -->
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉnÉj35(3ìôâ◊ï®çáë¢é‘) íËàı48êl ê¬ëÂè´ -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè44Á≥ª)ÈùíÂ§ßÂ∞Ü -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éã35(3Á≠âËç∑Áâ©ÂêàÈÄ†Ëªä) ÂÆöÂì°48‰∫∫ ÈùíÂ§ßÂ∞Ü -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhani35-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -187,7 +187,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉn44(3ìôé‘) íËàı76êl ê¬ëÂè´ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè44(3Á≠âËªä) ÂÆöÂì°76‰∫∫ ÈùíÂ§ßÂ∞Ü -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuha44-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -211,7 +211,7 @@
 		<capacity>76</capacity>
 		<seatedcapacity>76</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ ÉXÉç60(ì¡ï 2ìôé‘) íËàı44êl ê¬ëÂè´ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„É≠60(ÁâπÂà•2Á≠âËªä) ÂÆöÂì°44‰∫∫ ÈùíÂ§ßÂ∞Ü -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuro60-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -236,7 +236,7 @@
 		<capacity>44</capacity>
 		<seatedcapacity>44</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉV35(êHì∞é‘) íËàı30êl ê¬ëÂè´ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç∑35(È£üÂ†ÇËªä) ÂÆöÂì°30‰∫∫ ÈùíÂ§ßÂ∞Ü -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mashi35-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -260,7 +260,7 @@
 		<capacity>30</capacity>
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn44ånì¡ã}å`ãqé‘ É}ÉCÉe49(1ìôìWñ]é‘) íËàı30êl ê¬ëÂè´ -->
+	<!-- „Çπ„Éè44Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Éû„Ç§„ÉÜ49(1Á≠âÂ±ïÊúõËªä) ÂÆöÂì°30‰∫∫ ÈùíÂ§ßÂ∞Ü -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-maite49-A}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -288,19 +288,19 @@
 		<seatedcapacity>30</seatedcapacity>
 	</contribution>
 
-<!-- àÍî å`ãqé‘(ÉXÉn43ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉn43(ã}çsóp3ìôé‘) -->
+<!-- ‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè43Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè43(ÊÄ•Ë°åÁî®3Á≠âËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuha43}">
 		<picture src="shuha43.bmp" />
 	</contribution>
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉnÉt42(ã}çsóp3ìôé‘) -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï42(ÊÄ•Ë°åÁî®3Á≠âËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuhahu42}">
 		<picture src="shuhahu42.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-<!-- àÍî å`ãqé‘(ÉXÉn43ån)Ç‘Ç«Ç§êF -->
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉn43(ã}çsóp3ìôé‘) íËàı88êl Ç‘Ç«Ç§êF -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè43Á≥ª)„Å∂„Å©„ÅÜËâ≤ -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè43(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°88‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuha43}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -309,7 +309,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>88</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉnÉt42(ã}çsóp3ìôé‘) íËàı80êl Ç‘Ç«Ç§êF -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï42(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°80‰∫∫ „Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -318,13 +318,13 @@
 		<capacity>80</capacity>
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉnÉt42(ã}çsóp3ìôé‘) íËàı80êl Ç‘Ç«Ç§êFÅ@å¸Ç´ÅFãt-->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï42(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°80‰∫∫ „Å∂„Å©„ÅÜËâ≤„ÄÄÂêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42}"/>
 	</contribution>
-<!-- àÍî å`ãqé‘(ÉXÉn43ån)ê¬ -->
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉn43(ã}çsóp3ìôé‘) íËàı88êl ê¬ -->
+<!-- ‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä(„Çπ„Éè43Á≥ª)Èùí -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè43(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°88‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuha43-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -342,7 +342,7 @@
 		<capacity>88</capacity>
 		<seatedcapacity>88</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉnÉt42(ã}çsóp3ìôé‘) íËàı80êl ê¬ -->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï42(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°80‰∫∫ Èùí -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -360,33 +360,33 @@
 		<capacity>80</capacity>
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
-	<!-- ÉXÉn43ånàÍî å`ãqé‘ ÉXÉnÉt42(ã}çsóp3ìôé‘) íËàı80êl ê¬Å@å¸Ç´ÅFãt-->
+	<!-- „Çπ„Éè43Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï42(ÊÄ•Ë°åÁî®3Á≠âËªä) ÂÆöÂì°80‰∫∫ Èùí„ÄÄÂêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-B-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-B}"/>
 	</contribution>
 
-<!-- àÍî å`ãqé‘(50ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50(ïÅí ä…ã}é‘) -->
+<!-- ‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä(50Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50(ÊôÆÈÄöÁ∑©ÊÄ•Ëªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohahu50}">
 		<picture src="ohahu50.bmp" />
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉt50(ïÅí é‘) -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éï50(ÊôÆÈÄöËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oha50}">
 		<picture src="oha50.bmp" />
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50-1000î‘ë‰(ïÅí ä…ã}é‘•ó‚ñ[é‘) -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50-1000Áï™Âè∞(ÊôÆÈÄöÁ∑©ÊÄ•ËªäÔΩ•ÂÜ∑ÊàøËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohahu50-1000}">
 		<picture src="ohahu50_1000.bmp" />
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉt50-1000î‘ë‰(ïÅí é‘•ó‚ñ[é‘) -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éï50-1000Áï™Âè∞(ÊôÆÈÄöËªäÔΩ•ÂÜ∑ÊàøËªä) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oha50-1000}">
 		<picture src="oha50_1000.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-<!-- àÍî å`ãqé‘(50ån) -->
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50(ïÅí ä…ã}é‘) ç¿ê»67óßê»25íËàı92êl -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- ‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä(50Á≥ª) -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50(ÊôÆÈÄöÁ∑©ÊÄ•Ëªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-T}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -395,7 +395,7 @@
 		<capacity>92</capacity>
 		<seatedcapacity>67</seatedcapacity>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50(ïÅí ä…ã}é‘) ç¿ê»67óßê»25íËàı92êl -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50(ÊôÆÈÄöÁ∑©ÊÄ•Ëªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -407,12 +407,12 @@
 		<capacity>92</capacity>
 		<seatedcapacity>67</seatedcapacity>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50(ïÅí ä…ã}é‘) ç¿ê»67óßê»25íËàı92êlÅ@å¸Ç´ÅFãt-->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50(ÊôÆÈÄöÁ∑©ÊÄ•Ëªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫„ÄÄÂêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50}"/>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉt50(ïÅí é‘) ç¿ê»80óßê»32íËàı112êl -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éï50(ÊôÆÈÄöËªä) Â∫ßÂ∏≠80Á´ãÂ∏≠32ÂÆöÂì°112‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oha50}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -422,7 +422,7 @@
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
 
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50-1000î‘ë‰(ïÅí ä…ã}é‘•ó‚ñ[é‘) ç¿ê»67óßê»25íËàı92êl -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50-1000Áï™Âè∞(ÊôÆÈÄöÁ∑©ÊÄ•ËªäÔΩ•ÂÜ∑ÊàøËªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000-T}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -431,7 +431,7 @@
 		<capacity>92</capacity>
 		<seatedcapacity>67</seatedcapacity>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50-1000î‘ë‰(ïÅí ä…ã}é‘•ó‚ñ[é‘) ç¿ê»67óßê»25íËàı92êl -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50-1000Áï™Âè∞(ÊôÆÈÄöÁ∑©ÊÄ•ËªäÔΩ•ÂÜ∑ÊàøËªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -443,12 +443,12 @@
 		<capacity>92</capacity>
 		<seatedcapacity>67</seatedcapacity>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉnÉt50-1000î‘ë‰(ïÅí ä…ã}é‘•ó‚ñ[é‘) ç¿ê»67óßê»25íËàı92êlÅ@å¸Ç´ÅFãt-->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï50-1000Áï™Âè∞(ÊôÆÈÄöÁ∑©ÊÄ•ËªäÔΩ•ÂÜ∑ÊàøËªä) Â∫ßÂ∏≠67Á´ãÂ∏≠25ÂÆöÂì°92‰∫∫„ÄÄÂêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu50-1000}"/>
 	</contribution>
-	<!-- 50ånàÍî å`ãqé‘ ÉIÉt50-1000î‘ë‰(ïÅí é‘•ó‚ñ[é‘) ç¿ê»80óßê»32íËàı112êl -->
+	<!-- 50Á≥ª‰∏ÄËà¨ÂΩ¢ÂÆ¢Ëªä „Ç™„Éï50-1000Áï™Âè∞(ÊôÆÈÄöËªäÔΩ•ÂÜ∑ÊàøËªä) Â∫ßÂ∏≠80Á´ãÂ∏≠32ÂÆöÂì°112‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oha50-1000}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -458,18 +458,18 @@
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
 
-<!-- ã}çså`ãqé‘(12ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- 12ånã}çså`ãqé‘ ÉIÉnÉt13(ÉXÉnÉt12) -->
+<!-- ÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä(12Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï13(„Çπ„Éè„Éï12) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohahu13}">
 		<picture src="ohahu13.bmp" />
 	</contribution>
-	<!-- 12ånã}çså`ãqé‘ ÉIÉn12 -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Ç™„Éè12 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oha12}">
 		<picture src="oha12.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-	<!-- 12ånã}çså`ãqé‘ ÉIÉnÉt13 íËàı80êl -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï13 ÂÆöÂì°80‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu13}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -481,7 +481,7 @@
 		<capacity>80</capacity>
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
-	<!-- 12ånã}çså`ãqé‘ ÉXÉnÉt12 íËàı80êl -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï12 ÂÆöÂì°80‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -490,17 +490,17 @@
 		<capacity>80</capacity>
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
-	<!-- 12ånã}çså`ãqé‘ ÉXÉnÉt12 íËàı80êlÅ@å¸Ç´ÅFãt -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï12 ÂÆöÂì°80‰∫∫„ÄÄÂêë„ÅçÔºöÈÄÜ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T}"/>
 	</contribution>
-	<!-- 12ånã}çså`ãqé‘ ÉXÉnÉt12 íËàı80êlÅ@å¸Ç´ÅFãt -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï12 ÂÆöÂì°80‰∫∫„ÄÄÂêë„ÅçÔºöÈÄÜ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu12-T}"/>
 	</contribution>
-	<!-- 12ånã}çså`ãqé‘ ÉIÉn12 íËàı88êl -->
+	<!-- 12Á≥ªÊÄ•Ë°åÂΩ¢ÂÆ¢Ëªä „Ç™„Éè12 ÂÆöÂì°88‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oha12}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -511,34 +511,34 @@
 	</contribution>
 
 
-<!-- ì¡ã}å`êQë‰ãqé‘(14ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉXÉnÉlÉt14 -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä(14Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Çπ„Éè„Éç„Éï14 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-suhanehu14}">
 		<picture src="suhanehu14.bmp" />
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉnÉl14 -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç14 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohane14}">
 		<picture src="ohane14.bmp" />
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉçÉl14 -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„É≠„Éç14 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-orone14}">
 		<picture src="orone14.bmp" />
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉV14 -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Ç∑14 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oshi14}">
 		<picture src="oshi14.bmp" />
 	</contribution>
-	<!-- 14ånì¡ã}å`ãqé‘ ÉIÉnÉt15(ÉXÉnÉt14) -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï15(„Çπ„Éè„Éï14) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohahu15}">
 		<picture src="ohahu15.bmp" />
 	</contribution>
-	<!-- 14ånì¡ã}å`ãqé‘ ÉIÉn14 -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè14 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oha14}">
 		<picture src="oha14.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉXÉnÉlÉt14(BêQë‰ä…ã}é‘(î≠ìdã@)ÅF3íiéÆ45ë‰) íËàı45êl -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Çπ„Éè„Éç„Éï14(BÂØùÂè∞Á∑©ÊÄ•Ëªä(Áô∫ÈõªÊ©ü)Ôºö3ÊÆµÂºè45Âè∞) ÂÆöÂì°45‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-suhanehu14}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -547,12 +547,12 @@
 		<capacity>45</capacity>
 		<seatedcapacity>45</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉXÉnÉlÉt14(BêQë‰ä…ã}é‘(î≠ìdã@)ÅF3íiéÆ45ë‰) íËàı45êl å¸Ç´ÅFãt -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Çπ„Éè„Éç„Éï14(BÂØùÂè∞Á∑©ÊÄ•Ëªä(Áô∫ÈõªÊ©ü)Ôºö3ÊÆµÂºè45Âè∞) ÂÆöÂì°45‰∫∫ Âêë„ÅçÔºöÈÄÜ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-suhanehu14-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-suhanehu14}"/>
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉnÉl14(BêQë‰é‘ÅF3íiéÆ48ë‰) íËàı48êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç14(BÂØùÂè∞ËªäÔºö3ÊÆµÂºè48Âè∞) ÂÆöÂì°48‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohane14}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -561,7 +561,7 @@
 		<capacity>48</capacity>
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉçÉl14(AêQë‰é‘ÅF2íiéÆ28ë‰) íËàı28êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„É≠„Éç14(AÂØùÂè∞ËªäÔºö2ÊÆµÂºè28Âè∞) ÂÆöÂì°28‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-orone14}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -570,7 +570,7 @@
 		<capacity>28</capacity>
 		<seatedcapacity>28</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`êQë‰ãqé‘ ÉIÉV14(êHì∞é‘ÅF10ÉeÅ[ÉuÉã) íËàı40êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Ç∑14(È£üÂ†ÇËªäÔºö10„ÉÜ„Éº„Éñ„É´) ÂÆöÂì°40‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oshi14}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -579,7 +579,7 @@
 		<capacity>40</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`ãqé‘ ÉIÉnÉt15(ä…ã}é‘) íËàı64êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè„Éï15(Á∑©ÊÄ•Ëªä) ÂÆöÂì°64‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu15}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -588,7 +588,7 @@
 		<capacity>64</capacity>
 		<seatedcapacity>64</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`ãqé‘ ÉIÉn14 íËàı72êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Ç™„Éè14 ÂÆöÂì°72‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oha14}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -597,40 +597,40 @@
 		<capacity>72</capacity>
 		<seatedcapacity>72</seatedcapacity>
 	</contribution>
-	<!-- 14ånì¡ã}å`ãqé‘ ÉXÉnÉt14(ä…ã}é‘(î≠ìdã@)) íËàı64êl -->
+	<!-- 14Á≥ªÁâπÊÄ•ÂΩ¢ÂÆ¢Ëªä „Çπ„Éè„Éï14(Á∑©ÊÄ•Ëªä(Áô∫ÈõªÊ©ü)) ÂÆöÂì°64‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu14}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-ohahu15}"/>
 	</contribution>
 
-<!-- ì¡ã}å`êQë‰ãqé‘(24ån25å`) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉnÉlÉt25 -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä(24Á≥ª25ÂΩ¢) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç„Éï25 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohanehu25}">
 		<picture src="ohanehu25.bmp" />
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉnÉl25 -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç25 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-ohane25}">
 		<picture src="ohane25.bmp" />
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉn24-700 -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè24-700 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oha24}">
 		<picture src="oha24.bmp" />
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉV24 -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Ç∑24 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oshi24}">
 		<picture src="oshi24.bmp" />
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉçÉl25 -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„É≠„Éç25 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-orone25}">
 		<picture src="orone25.bmp" />
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉJÉj24 -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç´„Éã24 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-kani24}">
 		<picture src="kani24.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉnÉlÉt25(BêQë‰ä…ã}é‘) íËàı32êl -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç„Éï25(BÂØùÂè∞Á∑©ÊÄ•Ëªä) ÂÆöÂì°32‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohanehu25}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -639,12 +639,12 @@
 		<capacity>32</capacity>
 		<seatedcapacity>32</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉnÉlÉt25(BêQë‰ä…ã}é‘) íËàı32êl å¸Ç´ÅFãt-->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç„Éï25(BÂØùÂè∞Á∑©ÊÄ•Ëªä) ÂÆöÂì°32‰∫∫ Âêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohanehu25-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-ohanehu25}"/>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉnÉl25(BêQë‰ä…ã}é‘ÅF2íiéÆ) íËàı34êl -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè„Éç25(BÂØùÂè∞Á∑©ÊÄ•ËªäÔºö2ÊÆµÂºè) ÂÆöÂì°34‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-ohane25}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -653,7 +653,7 @@
 		<capacity>34</capacity>
 		<seatedcapacity>34</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉn24-700(ÉçÉrÅ[ÉJÅ[) -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Éè24-700(„É≠„Éì„Éº„Ç´„Éº) -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oha24}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -662,7 +662,7 @@
 		<capacity>10</capacity>
 		<seatedcapacity>10</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉV24(êHì∞é‘) íËàı40êl -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„Ç∑24(È£üÂ†ÇËªä) ÂÆöÂì°40‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oshi24}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -671,7 +671,7 @@
 		<capacity>40</capacity>
 		<seatedcapacity>40</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉIÉçÉl25(AêQë‰é‘ÅFàÍêlópå¬é∫14é∫) íËàı14êl -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç™„É≠„Éç25(AÂØùÂè∞ËªäÔºö‰∏Ä‰∫∫Áî®ÂÄãÂÆ§14ÂÆ§) ÂÆöÂì°14‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-orone25}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -680,7 +680,7 @@
 		<capacity>14</capacity>
 		<seatedcapacity>14</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉJÉj24(ìdåπâ◊ï®é‘) -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç´„Éã24(ÈõªÊ∫êËç∑Áâ©Ëªä) -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-kani24}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -689,49 +689,49 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- 24ån25å`ì¡ã}å`êQë‰ãqé‘ ÉJÉj24(ìdåπâ◊ï®é‘) å¸Ç´ÅFãt -->
+	<!-- 24Á≥ª25ÂΩ¢ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä „Ç´„Éã24(ÈõªÊ∫êËç∑Áâ©Ëªä) Âêë„ÅçÔºöÈÄÜ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-kani24-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-kani24}"/>
 	</contribution>
 
 
-<!-- ì¡ã}å`êQë‰ãqé‘(E26ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` --> 
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlÉtE26-1 -->
+<!-- ÁâπÊÄ•ÂΩ¢ÂØùÂè∞ÂÆ¢Ëªä(E26Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© --> 
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„Éç„ÉïE26-1 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuronehuE26-1}">
 		<picture src="shuronehuE26_001.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE26-1 -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE26-1 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuroneE26-1}">
 		<picture src="shuroneE26_001.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰êHì∞é‘ É}ÉVE26-1 -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞È£üÂ†ÇËªä „Éû„Ç∑E26-1 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-mashiE26-1}">
 		<picture src="mashiE26_001.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-1(201,301) -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-1(201,301) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuroneE27-1}">
 		<picture src="shuroneE27_001.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-101 -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-101 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuroneE27-101}">
 		<picture src="shuroneE27_101.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-401 -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-401 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-shuroneE27-401}">
 		<picture src="shuroneE27_401.bmp" />
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉJÉnÉtE26-1 -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Ç´„Éè„ÉïE26-1 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-kahahuE26-1}">
 		<picture src="kahahuE26_001.bmp" />
 	</contribution>
-	<!-- ó\îıìdåπé‘ ÉJÉÑE27-501 -->
+	<!-- ‰∫àÂÇôÈõªÊ∫êËªä „Ç´„É§E27-501 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-kaya27-501}">
 		<picture src="kaya27_501.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlÉtE26-1(2êlópå¬é∫ì¡AêQë‰:ÉJÉVÉIÉyÉA•ÉXÉCÅ[Ég4é∫) íËàı11êl -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„Éç„ÉïE26-1(2‰∫∫Áî®ÂÄãÂÆ§ÁâπAÂØùÂè∞:„Ç´„Ç∑„Ç™„Éö„Ç¢ÔΩ•„Çπ„Ç§„Éº„Éà4ÂÆ§) ÂÆöÂì°11‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuronehuE26-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -740,7 +740,7 @@
 		<capacity>11</capacity>
 		<seatedcapacity>11</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE26-1(2êlópå¬é∫ì¡AêQë‰:ÉJÉVÉIÉyÉA•ÉXÉCÅ[Ég3é∫ÉJÉVÉIÉyÉA•ÉfÉâÉbÉNÉX1é∫) íËàı12êl  -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE26-1(2‰∫∫Áî®ÂÄãÂÆ§ÁâπAÂØùÂè∞:„Ç´„Ç∑„Ç™„Éö„Ç¢ÔΩ•„Çπ„Ç§„Éº„Éà3ÂÆ§„Ç´„Ç∑„Ç™„Éö„Ç¢ÔΩ•„Éá„É©„ÉÉ„ÇØ„Çπ1ÂÆ§) ÂÆöÂì°12‰∫∫  -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE26-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -749,7 +749,7 @@
 		<capacity>12</capacity>
 		<seatedcapacity>12</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ É}ÉVE26-1(êHì∞:íËàı28ñº) íËàı28êl -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Éû„Ç∑E26-1(È£üÂ†Ç:ÂÆöÂì°28Âêç) ÂÆöÂì°28‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mashiE26-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -758,7 +758,7 @@
 		<capacity>28</capacity>
 		<seatedcapacity>28</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-1(201,301)(2êlópå¬é∫AêQë‰:ÉJÉVÉIÉyÉAÅEÉcÉCÉì10é∫) íËàı21êl -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-1(201,301)(2‰∫∫Áî®ÂÄãÂÆ§AÂØùÂè∞:„Ç´„Ç∑„Ç™„Éö„Ç¢„Éª„ÉÑ„Ç§„É≥10ÂÆ§) ÂÆöÂì°21‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -767,7 +767,7 @@
 		<capacity>21</capacity>
 		<seatedcapacity>21</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-101(2êlópå¬é∫AêQë‰:ÉJÉVÉIÉyÉAÅEÉcÉCÉì10é∫) íËàı20êl -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-101(2‰∫∫Áî®ÂÄãÂÆ§AÂØùÂè∞:„Ç´„Ç∑„Ç™„Éö„Ç¢„Éª„ÉÑ„Ç§„É≥10ÂÆ§) ÂÆöÂì°20‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-101}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -776,7 +776,7 @@
 		<capacity>20</capacity>
 		<seatedcapacity>20</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉXÉçÉlE27-401(2êlópå¬é∫AêQë‰:ÉJÉVÉIÉyÉAÅEÉcÉCÉì10é∫) íËàı21êl -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Çπ„É≠„ÉçE27-401(2‰∫∫Áî®ÂÄãÂÆ§AÂØùÂè∞:„Ç´„Ç∑„Ç™„Éö„Ç¢„Éª„ÉÑ„Ç§„É≥10ÂÆ§) ÂÆöÂì°21‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-shuroneE27-401}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -785,7 +785,7 @@
 		<capacity>21</capacity>
 		<seatedcapacity>21</seatedcapacity>
 	</contribution>
-	<!-- E26ånì¡ã}å`2äKåöêQë‰ãqé‘ ÉJÉnÉtE26-1(ÉâÉEÉìÉW:íËàı18ñº,ìdåπé‘) íËàı18êl -->
+	<!-- E26Á≥ªÁâπÊÄ•ÂΩ¢2ÈöéÂª∫ÂØùÂè∞ÂÆ¢Ëªä „Ç´„Éè„ÉïE26-1(„É©„Ç¶„É≥„Ç∏:ÂÆöÂì°18Âêç,ÈõªÊ∫êËªä) ÂÆöÂì°18‰∫∫ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-kahahuE26-1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -794,7 +794,7 @@
 		<capacity>18</capacity>
 		<seatedcapacity>18</seatedcapacity>
 	</contribution>
-	<!-- ó\îıìdåπé‘ ÉJÉÑE27-501(ó\îıìdåπé‘) -->
+	<!-- ‰∫àÂÇôÈõªÊ∫êËªä „Ç´„É§E27-501(‰∫àÂÇôÈõªÊ∫êËªä) -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-kaya27-501}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -806,22 +806,22 @@
 
 
 
-<title>é‘Áq(â◊ï®é‘:ãåçëìSãyÇ—JRäeé–)</title>
+<title>ËªäËºå(Ëç∑Áâ©Ëªä:ÊóßÂõΩÈâÑÂèä„Å≥JRÂêÑÁ§æ)</title>
 
-<!-- â◊ï®é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- â◊ï®é‘ É}Éj60 -->
+<!-- Ëç∑Áâ©Ëªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- Ëç∑Áâ©Ëªä „Éû„Éã60 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-mani60}">
 		<picture src="mani60.bmp" />
 	</contribution>
-	<!-- â◊ï®é‘ É}Éj30(ì˙ñ{ã‚çsèäóL) -->
+	<!-- Ëç∑Áâ©Ëªä „Éû„Éã30(Êó•Êú¨ÈäÄË°åÊâÄÊúâ) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-mani30}">
 		<picture src="mani30.bmp" />
 	</contribution>
 
 
-<!-- é‘óºíËã` -->
-	<!-- â◊ï®é‘ É}Éj60Ç‘Ç«Ç§êF -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- Ëç∑Áâ©Ëªä „Éû„Éã60„Å∂„Å©„ÅÜËâ≤ -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mani60}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -830,7 +830,7 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- åªã‡óAëóópâ◊ï®é‘ É}Éj30(ì˙ñ{ã‚çsèäóL) -->
+	<!-- ÁèæÈáëËº∏ÈÄÅÁî®Ëç∑Áâ©Ëªä „Éû„Éã30(Êó•Êú¨ÈäÄË°åÊâÄÊúâ) -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mani30}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -839,21 +839,21 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- åªã‡óAëóópâ◊ï®é‘ É}Éj30(ì˙ñ{ã‚çsèäóL)Å@å¸Ç´ÅFãt-->
+	<!-- ÁèæÈáëËº∏ÈÄÅÁî®Ëç∑Áâ©Ëªä „Éû„Éã30(Êó•Êú¨ÈäÄË°åÊâÄÊúâ)„ÄÄÂêë„ÅçÔºöÈÄÜ-->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mani30-R}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{FreeTrain-Shika-PassengerCar-TrainCar-mani30}"/>
 	</contribution>
 
-<!-- â◊ï®é‘(50ån) -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- 50ånâ◊ï®é‘ É}Éj50 -->
+<!-- Ëç∑Áâ©Ëªä(50Á≥ª) -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- 50Á≥ªËç∑Áâ©Ëªä „Éû„Éã50 -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-mani50}">
 		<picture src="mani50.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-<!-- â◊ï®é‘(50ån) -->
-	<!-- 50ånâ◊ï®é‘ É}Éj50 -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+<!-- Ëç∑Áâ©Ëªä(50Á≥ª) -->
+	<!-- 50Á≥ªËç∑Áâ©Ëªä „Éû„Éã50 -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mani50-T}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -862,7 +862,7 @@
 		<capacity>0</capacity>
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
-	<!-- 50ånâ◊ï®é‘ É}Éj50 -->
+	<!-- 50Á≥ªËç∑Áâ©Ëªä „Éû„Éã50 -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-mani50}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -875,14 +875,14 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-<!-- óXï÷é‘ -->
-<!-- ÉCÉÅÅ[ÉWâÊëúíËã` -->
-	<!-- óXï÷é‘ ÉIÉÜ10(óXê≠è»èäóL) -->
+<!-- ÈÉµ‰æøËªä -->
+<!-- „Ç§„É°„Éº„Ç∏ÁîªÂÉèÂÆöÁæ© -->
+	<!-- ÈÉµ‰æøËªä „Ç™„É¶10(ÈÉµÊîøÁúÅÊâÄÊúâ) -->
 	<contribution type="picture" id="{FreeTrain-Shika-PassengerCar-picture-oyu10}">
 		<picture src="oyu10.bmp" />
 	</contribution>
-<!-- é‘óºíËã` -->
-	<!-- óXï÷é‘ ÉIÉÜ10ê¬(óXê≠è»èäóL) -->
+<!-- Ëªä‰∏°ÂÆöÁæ© -->
+	<!-- ÈÉµ‰æøËªä „Ç™„É¶10Èùí(ÈÉµÊîøÁúÅÊâÄÊúâ) -->
 	<contribution type="trainCar" id="{FreeTrain-Shika-PassengerCar-TrainCar-oyu10-B}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">

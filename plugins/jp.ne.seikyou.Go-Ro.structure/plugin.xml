@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>åöï®"picture"(FreeTrain-ëzçÏäŸ)</title>
+	<title>Âª∫Áâ©"picture"(FreeTrain-ÊÉ≥‰ΩúÈ§®)</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
 
 
 
-<!-- ãiíÉìX -->	
+<!-- Âñ´Ëå∂Â∫ó -->	
 	<contribution type="picture" id="{CfeS_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="CfeS_001.bmp"/>
 	</contribution>
 
 
-<!-- ÉeÉiÉìÉgÉrÉã1 -->	
+<!-- „ÉÜ„Éä„É≥„Éà„Éì„É´1 -->	
 	<contribution type="picture" id="{vhbi_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_001.bmp">
 			<override when="night" src="vhbi_001n.bmp" />
@@ -21,13 +21,13 @@
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_001) -->	
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_001) -->	
 	<contribution type="picture" id="{home_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="home_001.bmp"/>
 	</contribution>
 
 
-<!-- ëæózÇÃìÉ -->	
+<!-- Â§™ÈôΩ„ÅÆÂ°î -->	
 	<contribution type="picture" id="{885A55E5-F548-1276-83FD-001854178F24}">
 		<picture src="taiyo.bmp">
 		 	<override when="summer" src="taiyo_SUM.bmp" />
@@ -37,7 +37,7 @@
 	</contribution>
 
 
-<!-- ìÒé‘ê¸ìπòHópå˘îz -->
+<!-- ‰∫åËªäÁ∑öÈÅìË∑ØÁî®ÂãæÈÖç -->
 	<contribution type="picture" id="{slope_a3road_d-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="slope_a3road_d.bmp">
 			<override when="night" src="slope_a3road_n.bmp" />
@@ -45,7 +45,7 @@
 	</contribution>
 
 
-<!-- ÉAÉpÅ[Ég -->	
+<!-- „Ç¢„Éë„Éº„Éà -->	
 	<contribution type="picture" id="{Apartment_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="Apartment_001.bmp">
 			<override when="winter" src="Apartment_001_WIN.bmp" />
@@ -53,7 +53,7 @@
 	</contribution>
 
 
-<!-- í¨çHèÍ -->	
+<!-- Áî∫Â∑•Â†¥ -->	
 	<contribution type="picture" id="{factory_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="factory_001.bmp">
 			<override when="night" src="factory_001n.bmp" />
@@ -61,13 +61,13 @@
 	</contribution>
 
 
-<!-- îƒópëqå… -->	
+<!-- Ê±éÁî®ÂÄâÂ∫´ -->	
 	<contribution type="picture" id="{warehouse_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="warehouse_001.bmp"/>
 	</contribution>
 
 
-<!-- ñqèÍ -->
+<!-- ÁâßÂ†¥ -->
 	<contribution type="picture" id="{FarmStr_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="FarmStr_001.bmp"/>
 	</contribution>
@@ -87,7 +87,7 @@
 	</contribution>
 
 
-<!-- ÉCÉìÉeÉäÉWÉFÉìÉgÉrÉã -->
+<!-- „Ç§„É≥„ÉÜ„É™„Ç∏„Çß„É≥„Éà„Éì„É´ -->
 	<contribution type="picture" id="{vhbi_005-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_005.bmp">
 		 <override when="spring">
@@ -107,7 +107,7 @@
 
 
 
-<!-- ÉåÉìÉ^ÉãÉrÉfÉIÉ`ÉFÅ[Éì -->
+<!-- „É¨„É≥„Çø„É´„Éì„Éá„Ç™„ÉÅ„Çß„Éº„É≥ -->
 	<contribution type="picture" id="{RentalVideoShop_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="RentalVideoShop_001.bmp">
 			<override when="night" src="RentalVideoShop_001n.bmp" />
@@ -115,7 +115,7 @@
 	</contribution>
 
 
-<!-- êMópã‡å… -->
+<!-- ‰ø°Áî®ÈáëÂ∫´ -->
 	<contribution type="picture" id="{CreditA_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="CreditA_001.bmp">
 		 <override when="spring">
@@ -134,7 +134,7 @@
 	</contribution>
 
 
-<!-- êaémïûÉ`ÉFÅ[Éì -->
+<!-- Á¥≥Â£´Êúç„ÉÅ„Çß„Éº„É≥ -->
 	<contribution type="picture" id="{MensWearShop_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="MensWearShop_001.bmp">
 			<override when="night" src="MensWearShop_001n.bmp" />
@@ -142,7 +142,7 @@
 	</contribution>
 
 
-<!-- ëÂå^ÉXÅ[ÉpÅ[ -->
+<!-- Â§ßÂûã„Çπ„Éº„Éë„Éº -->
 	<contribution type="picture" id="{supermarket_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="supermarket_001.bmp">
 			<override when="night" src="supermarket_001n.bmp" />
@@ -150,14 +150,14 @@
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_002) -->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_002) -->
 	<contribution type="picture" id="{home_002-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="home_002.bmp">
 		</picture>
 	</contribution>
 
 
-<!-- òaêHèà -->
+<!-- ÂíåÈ£üÂá¶ -->
 	<contribution type="picture" id="{restaurant_001-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="restaurant_001.bmp">
 			<override when="night" src="restaurant_001n.bmp" />
@@ -165,7 +165,7 @@
 	</contribution>
 
 
-<!-- ÉhÅ[ÉiÉcÉ`ÉFÅ[Éì -->
+<!-- „Éâ„Éº„Éä„ÉÑ„ÉÅ„Çß„Éº„É≥ -->
 	<contribution type="picture" id="{DoughnutShop-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="DoughnutShop.bmp">
 			<override when="night" src="DoughnutShopn.bmp" />
@@ -173,7 +173,7 @@
 	</contribution>
 
 
-<!-- ÉeÉiÉìÉgÉrÉã2 -->
+<!-- „ÉÜ„Éä„É≥„Éà„Éì„É´2 -->
 	<contribution type="picture" id="{vhbi_002-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_002.bmp">
 			<override when="night" src="vhbi_002n.bmp" />
@@ -181,7 +181,7 @@
 	</contribution>
 
 
-<!-- ÉeÉiÉìÉgÉrÉã3 -->
+<!-- „ÉÜ„Éä„É≥„Éà„Éì„É´3 -->
 	<contribution type="picture" id="{vhbi_004-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_004.bmp">
 			<override when="night" src="vhbi_004n.bmp" />
@@ -189,7 +189,7 @@
 	</contribution>
 
 
-<!-- ÉeÉiÉìÉgÉrÉã4 -->
+<!-- „ÉÜ„Éä„É≥„Éà„Éì„É´4 -->
 	<contribution type="picture" id="{vhbi_007-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_007.bmp">
 			<override when="night" src="vhbi_007n.bmp" />
@@ -197,7 +197,7 @@
 	</contribution>
 
 
-<!-- í¿ë›É}ÉìÉVÉáÉì -->
+<!-- Ë≥ÉË≤∏„Éû„É≥„Ç∑„Éß„É≥ -->
 	<contribution type="picture" id="{vhbi_003-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_003.bmp">
 			<override when="night" src="vhbi_003n.bmp" />
@@ -205,13 +205,13 @@
 	</contribution>
 
 
-<!-- ï∂âªèZëÓ -->
+<!-- ÊñáÂåñ‰ΩèÂÆÖ -->
 	<contribution type="picture" id="{Apartment_002-pcon-C000-0000-4C8B212Dharu}">
 		<picture src="Apartment_002.bmp"/>
 	</contribution>
 
 
-<!-- ÉrÉWÉlÉXÉzÉeÉã -->
+<!-- „Éì„Ç∏„Éç„Çπ„Éõ„ÉÜ„É´ -->
 	<contribution type="picture" id="{vhbi_009-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="vhbi_009.bmp">
 			<override when="night" src="vhbi_009n.bmp" />
@@ -219,7 +219,7 @@
 	</contribution>
 
 
-<!-- å{é… -->
+<!-- È∂èËàé -->
 	<contribution type="picture" id="{FarmStr_004-picture-C000-0000-4C8B212Dharu}">
 		<picture src="FarmStr_004.bmp">
 			<override when="night" src="FarmStr_004n.bmp" />
@@ -228,7 +228,7 @@
 
 
 
-<!-- ä«êßìÉ -->
+<!-- ÁÆ°Âà∂Â°î -->
 	<contribution type="picture" id="{airport_ControlTower-picture-C000-0000-4C8B212Dharu}">
 		<picture src="airport_ControlTower.bmp">
 			<override when="night" src="airport_ControlTower_n.bmp" />
@@ -236,7 +236,7 @@
 	</contribution>
 
 
-<!-- ÉfÉpÅ[Ég -->
+<!-- „Éá„Éë„Éº„Éà -->
 	<contribution type="picture" id="{DepartmentStore_001-pcon-C000-0000-4C8B212Dharu}">
 		<picture src="DepartmentStore_001.bmp">
 			<override when="night" src="DepartmentStore_001n.bmp" />
@@ -244,7 +244,7 @@
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_005)Å@-->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_005)„ÄÄ-->
 	<contribution type="picture" id="{home_005-picture-C000-0000-4C8B212Dharu}">
 		<picture src="home_005.bmp">
 			<override when="autumn" src="home_005AUT.bmp" />
@@ -253,35 +253,35 @@
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_003)Å@-->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_003)„ÄÄ-->
 	<contribution type="picture" id="{home_003-picture-C000-0000-4C8B212Dharu}">
 		<picture src="home_003.bmp">
 		</picture>
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_004)Å@-->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_004)„ÄÄ-->
 	<contribution type="picture" id="{home_004-picture-C000-0000-4C8B212Dharu}">
 		<picture src="home_004.bmp">
 		</picture>
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_006)Å@-->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_006)„ÄÄ-->
 	<contribution type="picture" id="{home_006-picture-C000-0000-4C8B212Dharu}">
 		<picture src="home_006.bmp">
 		</picture>
 	</contribution>
 
 
-<!-- àÍåÀåöÇƒèZëÓ(home_007)Å@-->
+<!-- ‰∏ÄÊà∏Âª∫„Å¶‰ΩèÂÆÖ(home_007)„ÄÄ-->
 	<contribution type="picture" id="{home_007-picture-C000-0000-4C8B212Dharu}">
 		<picture src="home_007.bmp">
 		</picture>
 	</contribution>
 
 
-<!-- ÉtÉ@É~ÉåÉXÅ@-->
+<!-- „Éï„Ç°„Éü„É¨„Çπ„ÄÄ-->
 	<contribution type="picture" id="{restaurant_002-picture-C000-0000-4C8B212Dharu}">
 		<picture src="restaurant_002.bmp">
 			<override when="night" src="restaurant_002n.bmp" />
@@ -289,7 +289,7 @@
 	</contribution>
 
 
-<!-- äpínÉrÉã(1x1)1 -->
+<!-- ËßíÂú∞„Éì„É´(1x1)1 -->
 	<contribution type="picture" id="{vhbi_010-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_010.bmp">
 			<override when="night" src="vhbi_010n.bmp" />
@@ -297,7 +297,7 @@
 	</contribution>
 
 
-<!-- äpínÉrÉã(1x1)2 -->
+<!-- ËßíÂú∞„Éì„É´(1x1)2 -->
 	<contribution type="picture" id="{vhbi_011-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_011.bmp">
 			<override when="night" src="vhbi_011n.bmp" />
@@ -305,7 +305,7 @@
 	</contribution>
 
 
-<!-- ë›ÇµÉrÉã(3x4) -->
+<!-- Ë≤∏„Åó„Éì„É´(3x4) -->
 	<contribution type="picture" id="{vhbi_012-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_012_SPR.bmp">
 		 <override when="spring">
@@ -324,7 +324,7 @@
 	</contribution>
 
 
-<!-- éDñyéûåvë‰ -->
+<!-- Êú≠ÂπåÊôÇË®àÂè∞ -->
 	<contribution type="picture" id="{tokeidai-picture-C000-0000-4C8B212Dharu}">
 		<picture src="tokeidai.bmp">
 		 <override when="spring">
@@ -343,7 +343,7 @@
 	</contribution>
 
 
-<!-- ë›ÇµÉrÉã3x3[A]-->
+<!-- Ë≤∏„Åó„Éì„É´3x3[A]-->
 	<contribution type="picture" id="{vhbi_013-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_013.bmp">
  		 <override when="spring">
@@ -362,7 +362,7 @@
 	</contribution>
 
 
-<!-- ÉJÉWÉÖÉAÉãàﬂóøïiìXÅ@-->
+<!-- „Ç´„Ç∏„É•„Ç¢„É´Ë°£ÊñôÂìÅÂ∫ó„ÄÄ-->
 	<contribution type="picture" id="{ClothingStore_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ClothingStore_001.bmp">
 			<override when="night" src="ClothingStore_001n.bmp" />
@@ -388,12 +388,12 @@
        			</override>
       			<override when="winter" src="ClothingStore_003WIN.bmp" >
         			<override when="night" src="ClothingStore_003WIN-n.bmp" />
-Å@		        </override>
+„ÄÄ		        </override>
  		</picture>
 	</contribution>
 
 
-<!-- åCìXÅ@-->
+<!-- Èù¥Â∫ó„ÄÄ-->
 	<contribution type="picture" id="{ShoesShop_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ShoesShop_001.bmp">
 		  <override when="night" src="ShoesShop_001n.bmp"/>
@@ -406,7 +406,7 @@
 	</contribution>
 
 
-<!-- ÉoÉãÅ[ÉìÉ^ÉèÅ[Å@-->
+<!-- „Éê„É´„Éº„É≥„Çø„ÉØ„Éº„ÄÄ-->
 	<contribution type="picture" id="{ampark_BalloonTower_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ampark_BalloonTower_001.bmp">
 			<override when="night" src="ampark_BalloonTower_001n.bmp" />
@@ -414,7 +414,7 @@
 	</contribution>
 
 
-<!-- ÉXÉyÅ[ÉXÉVÉáÉbÉgÅ@-->
+<!-- „Çπ„Éö„Éº„Çπ„Ç∑„Éß„ÉÉ„Éà„ÄÄ-->
 	<contribution type="picture" id="{ampark_SpaceShot_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ampark_SpaceShot_001.bmp">
 			<override when="night" src="ampark_SpaceShot_001n.bmp" />
@@ -422,7 +422,7 @@
 	</contribution>
 
 
-<!-- óVâÄínÉGÉìÉgÉâÉìÉXÅ@-->
+<!-- ÈÅäÂúíÂú∞„Ç®„É≥„Éà„É©„É≥„Çπ„ÄÄ-->
 	<contribution type="picture" id="{ampark_entrance_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ampark_entrance_001.bmp">
 			<override when="night" src="ampark_entrance_001n.bmp" />
@@ -430,7 +430,7 @@
 	</contribution>
 
 
-<!-- óVâÄínÉAÉXÉgÉçÉtÉ@ÉCÉ^Å[ -->
+<!-- ÈÅäÂúíÂú∞„Ç¢„Çπ„Éà„É≠„Éï„Ç°„Ç§„Çø„Éº -->
 	<contribution type="picture" id="{ampark_AstroFighter_001-picture-C000-0000-4C8B212Dharu}">
  		<picture src="ampark_AstroFighter_001.bmp">
 		  <override when="night" src="ampark_AstroFighter_001n.bmp"/>
@@ -438,7 +438,7 @@
 	</contribution>
 
 
-<!-- óVâÄínÉQÅ[ÉÄÉZÉìÉ^Å[ -->
+<!-- ÈÅäÂúíÂú∞„Ç≤„Éº„É†„Çª„É≥„Çø„Éº -->
 	<contribution type="picture" id="{ampark_GameCenter_001-picture-C000-0000-4C8B212Dharu}">
  		<picture src="ampark_GameCenter_001.bmp">
 		  <override when="night" src="ampark_GameCenter_001n.bmp"/>
@@ -446,7 +446,7 @@
 	</contribution>
 
 
-<!-- óVâÄínÉpÉâÉ\Éã -->
+<!-- ÈÅäÂúíÂú∞„Éë„É©„ÇΩ„É´ -->
 	<contribution type="picture" id="{ampark_Parasol_001-picture-C000-0000-4C8B212Dharu}">
  		<picture src="ampark_Parasol_001.bmp">
 		  <override when="night" src="ampark_Parasol_001n.bmp"/>
@@ -454,7 +454,7 @@
 	</contribution>
 
 
-<!-- ï¨êÖçLèÍÅ@-->
+<!-- Âô¥Ê∞¥Â∫ÉÂ†¥„ÄÄ-->
 	<contribution type="picture" id="{square_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="square_001.bmp">
 		 <override when="spring">
@@ -473,7 +473,7 @@
 	</contribution>
 
 
-<!-- óVâÄínï¨êÖçLèÍÅ@-->
+<!-- ÈÅäÂúíÂú∞Âô¥Ê∞¥Â∫ÉÂ†¥„ÄÄ-->
 	<contribution type="picture" id="{ampark_square_001-picture-C000-0000-4C8B212Dharu}">
 		<picture src="ampark_square_001.bmp">
 		  <override when="night" src="ampark_square_001n.bmp"/>

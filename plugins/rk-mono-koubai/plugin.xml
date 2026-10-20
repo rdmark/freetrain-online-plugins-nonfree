@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <plug-in>
 
-	<title>’n•\</title>
+	<title>åœ°è¡¨</title>
 	<author>rk</author>
 	<homepage></homepage>
 
 	<contribution type="road" id="{rk-MONO-001-001a}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast"/>
-		<name>ƒ‚ƒmƒŒ[ƒ‹(ƒŒ[ƒ‹)</name>
-		<description>ƒ‚ƒmƒŒ[ƒ‹</description>
+		<name>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«(ãƒ¬ãƒ¼ãƒ«)</name>
+		<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="mono.bmp" size="32,32" offset="16">
 		</picture>
 	</contribution>
@@ -18,8 +18,8 @@
 	<contribution type="road" id="{rk-m00A009-FENCE-PICTURE-1001}">
 		<class name="freetrain.contributions.road.A3RoadContribution" />
 		<style name="railballast"/>
-		<name>ƒ‚ƒmƒŒ[ƒ‹(ŽÔŽ~‚ß)</name>
-		<description>ƒ‚ƒmƒŒ[ƒ‹</description>
+		<name>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«(è»Šæ­¢ã‚)</name>
+		<description>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«</description>
 		<picture src="mono-end.png" size="32,32" offset="16" />
 	</contribution>
 
@@ -51,8 +51,8 @@
 
 
 	<contribution type="land" id="{rk-m00A001-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z01</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…01</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -65,8 +65,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A002-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z02</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…02</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -79,8 +79,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A003-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z03</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…03</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -93,8 +93,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A004-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z04</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…04</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -109,8 +109,8 @@
 
 
 	<contribution type="land" id="{rk-m00A005-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z01</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…01</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -123,8 +123,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A006-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z02</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…02</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -137,8 +137,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A007-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z03</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…03</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>
@@ -151,8 +151,8 @@
 		<price>10000</price>
 	</contribution>
 	<contribution type="land" id="{rk-m00A008-FENCE-PICTURE-1001}">
-		<group>ƒ‚ƒmƒŒ[ƒ‹Œù”z</group>
-		<name>Œù”z08</name>
+		<group>ãƒ¢ãƒŽãƒ¬ãƒ¼ãƒ«å‹¾é…</group>
+		<name>å‹¾é…08</name>
 		<computerCannotBuild/>
 		<class name="freetrain.contributions.fence.FenceBuilder"
 			codebase="../jp.co.tripod.chiname.lib.fence/bin/Fence.DLL"/>

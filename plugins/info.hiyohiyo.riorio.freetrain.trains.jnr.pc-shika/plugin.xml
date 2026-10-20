@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-<author>�肨�肨�g������������</author>
+<author>りおりお組換←しかしか</author>
 <homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 <depend on="shikashika.freetrain.traincar.locomotive"/>
 <depend on="shikashika.freetrain.traincar.passenger"/>
 
-<title>���(�����{���L�S��)</title>
+<title>列車(旧日本国有鉄道)</title>
 
 
-	<!-- �ԗ��̒�` -->
+	<!-- 車両の定義 -->
 
-	<!-- �X�֎� �I��10��(�X���ȏ��L) -->
+	<!-- 郵便車 オユ10茶(郵政省所有) -->
 	<contribution type="trainCar" id="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-oyu10}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -21,7 +21,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- �ו��� �}�j60���@���� -->
+	<!-- 荷物車 マニ60茶　末尾 -->
 
 	<contribution type="picture" id="{FreeTrain-riorio-shikashika-PassengerCar-picture-mani60t}">
 		<picture src="mani60t.bmp" />
@@ -36,7 +36,7 @@
 		<seatedcapacity>0</seatedcapacity>
 	</contribution>
 
-	<!-- ��ʌ`�q�� �X�n�t42���@���� -->
+	<!-- 一般形客車 スハフ42茶　末尾 -->
 
 	<contribution type="picture" id="{FreeTrain-riorio-shikashika-PassengerCar-picture-shuhahu42t}">
 		<picture src="shuhahu42t.bmp" />
@@ -51,7 +51,7 @@
 		<seatedcapacity>80</seatedcapacity>
 	</contribution>
 
-	<!-- 1���q�� �X��60���@�W�Α� -->
+	<!-- 1等客車 スロ60茶　淡緑帯 -->
 
 	<contribution type="trainCar" id="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-shuro60green}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
@@ -66,14 +66,14 @@
 	</contribution>
 
 
-	<!-- ���q��Ԃ̒�` -->
+	<!-- 旅客列車の定義 -->
 
 	<contribution type="train" id="{FreeTrain-riorio-shikashika-TrainHensei-EF58boxbrown-laggageonly}">
-		<company>�����{���L�S��</company>
+		<company>旧日本国有鉄道</company>
 		<type>EF 58</type>
-		<name>�� �ו����</name>
-		<author>�肨�肨����������</author>
-		<description>�ו���ԁB������EF58�̒��B
+		<name>茶 荷物列車</name>
+		<author>りおりお←しかしか</author>
+		<description>荷物列車。牽引はEF58の茶。
 		</description>
 		<fare>0</fare>
 		<price>35000000</price>
@@ -82,36 +82,36 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="��" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58}"/>
-			<car char="��" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mani60}"/>
-			<car char="��" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-oyu10}"/>
-			<car char="�t" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-mani60t}"/>
+			<car char="＜" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58}"/>
+			<car char="荷" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mani60}"/>
+			<car char="ユ" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-oyu10}"/>
+			<car char="フ" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-mani60t}"/>
 			
-			<composition>���t</composition>
-			<composition>���׃t</composition>
-			<composition>���׉׃t</composition>
-			<composition>�����׉׃t</composition>
-			<composition>���׃��׉׃t</composition>
-			<composition>���׃��׉׉׃t</composition>
-			<composition>���׃��׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׉׉׉׉׃t</composition>
-			<composition>���׉׉׃��׉׉׉׉׉׉׉׉׉׉׃t</composition>
+			<composition>＜フ</composition>
+			<composition>＜荷フ</composition>
+			<composition>＜荷荷フ</composition>
+			<composition>＜ユ荷荷フ</composition>
+			<composition>＜荷ユ荷荷フ</composition>
+			<composition>＜荷ユ荷荷荷フ</composition>
+			<composition>＜荷ユ荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷荷荷荷荷フ</composition>
+			<composition>＜荷荷荷ユ荷荷荷荷荷荷荷荷荷荷荷フ</composition>
 		</config>
 	</contribution>
 
 	<contribution type="train" id="{FreeTrain-riorio-shikashika-TrainHensei-EF58boxbrown-pcexpress}">
-		<company>�����{���L�S��</company>
+		<company>旧日本国有鉄道</company>
 		<type>EF 58</type>
-		<name>�� �}�s���</name>
-		<author>�肨�肨����������</author>
-		<description>�}�s��ԁB������EF58�̒��B
+		<name>茶 急行列車</name>
+		<author>りおりお←しかしか</author>
+		<description>急行列車。牽引はEF58の茶。
 		</description>
 		<fare>600</fare>
 		<price>42000000</price>
@@ -121,31 +121,31 @@
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="��" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58}"/>
-			<car char="��" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mani60}"/>
-			<car char="��" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-shuro60green}"/>
-			<car char="�n" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuha43}"/>
-			<car char="�l" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42}"/>
-			<car char="�k" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-R}" />
-			<car char="�t" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-shuhahu42t}"/>
+			<car char="＜" ref="{FreeTrain-Shika-ElectricLocomotive-TrainCar-EF58}"/>
+			<car char="荷" ref="{FreeTrain-Shika-PassengerCar-TrainCar-mani60}"/>
+			<car char="ロ" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-shuro60green}"/>
+			<car char="ハ" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuha43}"/>
+			<car char="〕" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42}"/>
+			<car char="〔" ref="{FreeTrain-Shika-PassengerCar-TrainCar-shuhahu42-R}" />
+			<car char="フ" ref="{FreeTrain-riorio-shikashika-PassengerCar-TrainCar-shuhahu42t}"/>
 			
-			<composition>���t</composition>
-			<composition>���k�t</composition>
-			<composition>���k�n�t</composition>
-			<composition>���k�n�n�t</composition>
-			<composition>���ׁk���n�t</composition>
-			<composition>���ׁk���n�n�t</composition>
-			<composition>���ׁk���n�n�n�t</composition>
-			<composition>���ׁk�����n�n�n�t</composition>
-			<composition>���ׁk�����n�n�l�n�t</composition>
-			<composition>���ׁk�����n�n�l�n�n�t</composition>
-			<composition>���ׁk�����n�n�l�k�n�n�t</composition>
-			<composition>���ׁk�����n�n�l�k�n�n�n�t</composition>
-			<composition>���ׁk�����n�n�l�k�n�n�n�n�t</composition>
+			<composition>＜フ</composition>
+			<composition>＜〔フ</composition>
+			<composition>＜〔ハフ</composition>
+			<composition>＜〔ハハフ</composition>
+			<composition>＜荷〔ロハフ</composition>
+			<composition>＜荷〔ロハハフ</composition>
+			<composition>＜荷〔ロハハハフ</composition>
+			<composition>＜荷〔ロロハハハフ</composition>
+			<composition>＜荷〔ロロハハ〕ハフ</composition>
+			<composition>＜荷〔ロロハハ〕ハハフ</composition>
+			<composition>＜荷〔ロロハハ〕〔ハハフ</composition>
+			<composition>＜荷〔ロロハハ〕〔ハハハフ</composition>
+			<composition>＜荷〔ロロハハ〕〔ハハハハフ</composition>
 		</config>
 	</contribution>
 
-	<!-- �ݕ���Ԃ̒�` -->
+	<!-- 貨物列車の定義 -->
 
 
 </plug-in>

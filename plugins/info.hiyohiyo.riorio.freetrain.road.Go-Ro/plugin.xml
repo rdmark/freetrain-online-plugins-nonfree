@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>“¹˜Hiharu‚³‚ñìF‚©‚¦j</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>é“è·¯ï¼ˆharuã•ã‚“ä½œè‰²ã‹ãˆï¼‰</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 
 	<contribution type="road" id="{riorio-GoRo-road-8638-4C37CCCEFA41}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
 		<style name="railballast" />
-		<name>‚‰Ë‹´Œ…/ƒRƒ“ƒNƒŠ[ƒg</name>
-		<description>‚‰Ë‹´Œ…iƒRƒ“ƒNƒŠ[ƒgj</description>
+		<name>é«˜æž¶æ©‹æ¡/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆ</name>
+		<description>é«˜æž¶æ©‹æ¡ï¼ˆã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆï¼‰</description>
 		<picture src="road_003.bmp" size="32,32" offset="16" />
 	</contribution>
 

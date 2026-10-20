@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
   <plug-in>
-  <title>ŽæŽè‚Æ‚¤‚«‚ã‚¤</title> 
-  <author>”’‰ÍEƒ‚ƒKƒ~</author> 
+  <title>å–æ‰‹ã¨ã†ãã‚…ã†</title> 
+  <author>ç™½æ²³ãƒ»ãƒ¢ã‚¬ãƒŸ</author> 
   <homepage></homepage> 
   <contribution type="picture" id="{shirakawa-building-toridetoukyu-picture-64A28EF056D1}">
   <picture src="toukyu.bmp">
   </picture>
   </contribution>
   <contribution type="GenericStructure" id="{shirakawa-building-toridetoukyu-C7EC9E5936B7}">
-  <group>ŽæŽè‚Æ‚¤‚«‚ã‚¤</group> 
+  <group>å–æ‰‹ã¨ã†ãã‚…ã†</group> 
   <structure>
-  <category byname="ƒVƒ‡ƒbƒsƒ“ƒOƒ‚[ƒ‹" /> 
+  <category byname="ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ãƒ¢ãƒ¼ãƒ«" /> 
   </structure>
   <size>3,4</size> 
   <price>800000000</price> 

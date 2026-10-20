@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>Œš•¨‘‡ƒRƒ“ƒo[ƒg@‚Ä‚Í</title>
-	<author>‚è‚¨‚è‚¨</author>
+	<title>å»ºç‰©ç·åˆã‚³ãƒ³ãƒãƒ¼ãƒˆã€€ã¦ã¯</title>
+	<author>ã‚ŠãŠã‚ŠãŠ</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	<depend on="jp.zaq.pant012.structure.ctowers" />
 
@@ -11,14 +11,14 @@
 
 
 	<contribution type="GenericStructure" id="{F5776500-E8E5-4D5E-B30A-A0036A6ECDEB}-gs">
-		<group>ƒZƒ“ƒgƒ‰ƒ‹ƒ^ƒ[ƒY</group>
+		<group>ã‚»ãƒ³ãƒˆãƒ©ãƒ«ã‚¿ãƒ¯ãƒ¼ã‚º</group>
 		<price>50000000</price>
 		<size>5,2</size>
 		<height>10</height>
 		<structure>
-			<category byname="‘ÝŽ––±Š" />
-			<category byname="ˆê”ÊˆùH“X" hide="true" />
-			<category byname="‚‹‰ƒzƒeƒ‹" hide="true" />
+			<category byname="è²¸äº‹å‹™æ‰€" />
+			<category byname="ä¸€èˆ¬é£²é£Ÿåº—" hide="true" />
+			<category byname="é«˜ç´šãƒ›ãƒ†ãƒ«" hide="true" />
 		</structure>
 		<sprite origin="0,0" offset="186">
 			<picture ref="{riorio-gs-convert-teha-picture-ctowers}" />

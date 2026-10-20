@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 <!ENTITY vhbi_001colorMap002 '
@@ -125,7 +125,7 @@
 '>
 
 <!ENTITY vhbi_001Population '
-	<group>ƒeƒiƒ“ƒgƒrƒ‹</group>
+	<group>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«</group>
 	<price>270</price>
 	<size>1,1</size>
 	<minHeight>2</minHeight>
@@ -137,7 +137,7 @@
 '>
 
 <!ENTITY home_001Population '
-	<group>ˆêŒËŒš‚ÄZ‘î</group>
+	<group>ä¸€æˆ¸å»ºã¦ä½å®…</group>
 	<price>96</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -148,8 +148,8 @@
 '>
 
 <!ENTITY factory_001data '
-	<group>Hê</group>
-	<name>’¬Hê</name>
+	<group>å·¥å ´</group>
+	<name>ç”ºå·¥å ´</name>
 	<price>100</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -161,15 +161,15 @@
 
 
 <!ENTITY slope_a3road_data '
-		<group>Œù”z“¹˜H(ˆê”Ê)</group>
-		<name>“ñÔü“¹˜H—p</name>
+		<group>å‹¾é…é“è·¯(ä¸€èˆ¬)</group>
+		<name>äºŒè»Šç·šé“è·¯ç”¨</name>
 		<price>1000</price>
 		<height>2</height>
 		<computerCannotBuild/>
 '>
 
 <!ENTITY warehouse_001data '
-	<group>‘qŒÉ</group>
+	<group>å€‰åº«</group>
 	<price>120</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -181,7 +181,7 @@
 
 
 <!ENTITY Apartment_001data '
-	<group>ƒAƒp[ƒg</group>
+	<group>ã‚¢ãƒ‘ãƒ¼ãƒˆ</group>
 	<price>140</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -192,8 +192,8 @@
 '>
 
 <!ENTITY FarmStr_001data '
-	<group>–qê</group>
-	<name>‹É</name>
+	<group>ç‰§å ´</group>
+	<name>ç‰›èˆ</name>
 	<price>100</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -205,8 +205,8 @@
 '>
 
 <!ENTITY FarmStr_002data '
-	<group>–qê</group>
-	<name>–q‘’n</name>
+	<group>ç‰§å ´</group>
+	<name>ç‰§è‰åœ°</name>
 	<price>160</price>
 	<height>2</height>
 	<population>
@@ -219,8 +219,8 @@
 
 
 <!ENTITY FarmStr_003data '
-	<group>–qê</group>
-	<name>ƒTƒCƒ</name>
+	<group>ç‰§å ´</group>
+	<name>ã‚µã‚¤ãƒ­</name>
 	<price>200</price>
 	<size>1,1</size>
 	<height>2</height>
@@ -232,7 +232,7 @@
 '>
 
 <!ENTITY vhbi_005Population '
-		<group>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹</group>
+		<group>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«</group>
 		<price>1250</price>
 		<size>2,2</size>
 		<minHeight>3</minHeight>
@@ -275,7 +275,7 @@
 '>
 
 <!ENTITY home_002data '
-	<group>ˆêŒËŒš‚ÄZ‘î</group>
+	<group>ä¸€æˆ¸å»ºã¦ä½å®…</group>
 	<price>88</price>
 	<size>1,1</size>
 	<height>1</height>
@@ -292,7 +292,7 @@
 
 
 <plug-in>
-	<title>Œš•¨ƒZƒbƒg</title>
+	<title>å»ºç‰©ã‚»ãƒƒãƒˆ</title>
 	<author>qra_ra</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
@@ -313,7 +313,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C000-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(—Î)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ç·‘)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 0, 2" offset="8">
@@ -333,7 +333,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C000-000B-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(—Î)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ç·‘)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 32, 0" offset="10">
@@ -352,7 +352,7 @@
 	</contribution>
 
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C000-000c-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(—Î)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ç·‘)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 64, 0" offset="10">
@@ -372,7 +372,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C000-000d-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(—Î)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ç·‘)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 96, 0" offset="10">
@@ -393,7 +393,7 @@
 			
 			
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C001-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(Â)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(é’)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 0, 2" offset="8">
@@ -413,7 +413,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C001-000B-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(Â)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(é’)</name>
 		<price>270</price>
 				&vhbi_001Population;
 		<pictures>
@@ -435,7 +435,7 @@
 			
 			
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C001-000c-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(Â)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(é’)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 64, 2" offset="8">
@@ -455,7 +455,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C001-000d-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(Â)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(é’)</name>
 		<price>270</price>
 				&vhbi_001Population;
 		<pictures>
@@ -476,7 +476,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C002-000A-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(ƒsƒ“ƒN)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ãƒ”ãƒ³ã‚¯)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 0, 2" offset="8">
@@ -496,7 +496,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C002-000B-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(ƒsƒ“ƒN)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ãƒ”ãƒ³ã‚¯)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 32, 0" offset="10">
@@ -516,7 +516,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C002-000c-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(ƒsƒ“ƒN)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ãƒ”ãƒ³ã‚¯)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 64, 2" offset="8">
@@ -536,7 +536,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_001-varH-C002-000d-4C8B212DD67q}">
-		<name>ƒeƒiƒ“ƒgƒrƒ‹(ƒsƒ“ƒN)</name>
+		<name>ãƒ†ãƒŠãƒ³ãƒˆãƒ“ãƒ«(ãƒ”ãƒ³ã‚¯)</name>
 				&vhbi_001Population;
 		<pictures>
 			<top    origin=" 96, 0" offset="10">
@@ -557,7 +557,7 @@
 
 
 	<contribution type="commercial" id="{CfeS_001-comm-C000-000A-4C8B212DD67q}">
-		<name>‹i’ƒ“X</name>
+		<name>å–«èŒ¶åº—</name>
 		<price>180</price>
 		<size>1,1</size>
 		<height>1</height>
@@ -572,7 +572,7 @@
 
 
 	<contribution type="commercial" id="{home_001-comm-C000-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î(®+ƒNƒŠ[ƒ€)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…(ç´º+ã‚¯ãƒªãƒ¼ãƒ )</name>
 				&home_001Population;
 		<sprite origin="0,0" offset="8">
 			<picture ref="{home_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -581,7 +581,7 @@
 
 
 	<contribution type="commercial" id="{home_001-comm-C000-000B-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î(®+ƒNƒŠ[ƒ€)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…(ç´º+ã‚¯ãƒªãƒ¼ãƒ )</name>
 				&home_001Population;
 		<sprite origin="32,0" offset="8">
 			<picture ref="{home_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -590,7 +590,7 @@
 
 
 	<contribution type="commercial" id="{home_001-comm-C001-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î(ƒT[ƒ‚ƒ“ƒsƒ“ƒN)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…(ã‚µãƒ¼ãƒ¢ãƒ³ãƒ”ãƒ³ã‚¯)</name>
 				&home_001Population;
 		<sprite origin="0,0" offset="8">
 				&home_001colorMap001;
@@ -600,7 +600,7 @@
 
 
 	<contribution type="commercial" id="{home_001-comm-C001-000B-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î(ƒT[ƒ‚ƒ“ƒsƒ“ƒN)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…(ã‚µãƒ¼ãƒ¢ãƒ³ãƒ”ãƒ³ã‚¯)</name>
 				&home_001Population;
 		<sprite origin="32,0" offset="8">
 				&home_001colorMap001;
@@ -615,8 +615,8 @@
 
 
 	<contribution type="commercial" id="{1BC58789-5D12-64CA-BB35-91C4A00A5316}">
-		<group>‘¾—z‚Ì“ƒ</group>
-		<name>¶‘O</name>
+		<group>å¤ªé™½ã®å¡”</group>
+		<name>å·¦å‰</name>
 		<price>3000</price>
 		<size>2,4</size>
 		<height>6</height>
@@ -628,8 +628,8 @@
 	
 
 	<contribution type="commercial" id="{1BC58789-5D12-64CA-BB35-92C4A00A5316}">
-		<group>‘¾—z‚Ì“ƒ</group>
-		<name>‰E‘O</name>
+		<group>å¤ªé™½ã®å¡”</group>
+		<name>å³å‰</name>
 		<price>3000</price>
 		<size>4,2</size>
 		<height>6</height>
@@ -641,7 +641,7 @@
 
 
 	
-	<!-- “ñÔü“¹˜H—pŒù”z -->
+	<!-- äºŒè»Šç·šé“è·¯ç”¨å‹¾é… -->
 
 	<contribution type="picture" id="{slope_a3road_d-pcon-C000-0000-4C8B212DD67q}">
 		<picture src="slope_a3road_d.bmp">
@@ -690,7 +690,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C000-000A-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(…F)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(æ°´è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="32,0" offset="7">
 			<picture ref="{Apartment_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -699,7 +699,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C000-000B-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(…F)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(æ°´è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="0,0" offset="7">
 			<picture ref="{Apartment_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -708,7 +708,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C001-000A-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(’ƒF)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(èŒ¶è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="32,0" offset="7">
 				&Apartment_001colorMap001;
@@ -718,7 +718,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C001-000B-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(’ƒF)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(èŒ¶è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="0,0" offset="7">
 				&Apartment_001colorMap001;
@@ -728,7 +728,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C002-000A-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(‡F)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(ç´«è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="32,0" offset="7">
 				&Apartment_001colorMap002;
@@ -738,7 +738,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C002-000B-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(‡F)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(ç´«è‰²)</name>
 				&Apartment_001data;
 		<sprite origin="0,0" offset="7">
 				&Apartment_001colorMap002;
@@ -748,7 +748,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C003-000A-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(ƒsƒ“ƒN)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(ãƒ”ãƒ³ã‚¯)</name>
 				&Apartment_001data;
 		<sprite origin="32,0" offset="7">
 				&Apartment_001colorMap003;
@@ -758,7 +758,7 @@
 
 
 	<contribution type="commercial" id="{Apartment_001-comm-C003-000B-4C8B212DD67q}">
-		<name>ƒAƒp[ƒg(ƒsƒ“ƒN)</name>
+		<name>ã‚¢ãƒ‘ãƒ¼ãƒˆ(ãƒ”ãƒ³ã‚¯)</name>
 				&Apartment_001data;
 		<sprite origin="0,0" offset="7">
 				&Apartment_001colorMap003;
@@ -814,7 +814,7 @@
 
 
 	<contribution type="commercial" id="{warehouse_001-comm-C000-000A-4C8B212DD67q}">
-		<name>”Ä—p‘qŒÉ(ŠJ)</name>
+		<name>æ±ç”¨å€‰åº«(é–‹)</name>
 				&warehouse_001data;
 		<sprite origin="32,0" offset="9">
 			<picture ref="{warehouse_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -823,7 +823,7 @@
 
 
 	<contribution type="commercial" id="{warehouse_001-comm-C000-000B-4C8B212DD67q}">
-		<name>”Ä—p‘qŒÉ(ŠJ)</name>
+		<name>æ±ç”¨å€‰åº«(é–‹)</name>
 				&warehouse_001data;
 		<sprite origin="0,0" offset="9">
 			<picture ref="{warehouse_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -832,7 +832,7 @@
 
 
 	<contribution type="commercial" id="{warehouse_001-comm-C000-000c-4C8B212DD67q}">
-		<name>”Ä—p‘qŒÉ(•Â)</name>
+		<name>æ±ç”¨å€‰åº«(é–‰)</name>
 				&warehouse_001data;
 		<sprite origin="96,0" offset="9">
 			<picture ref="{warehouse_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -841,7 +841,7 @@
 
 
 	<contribution type="commercial" id="{warehouse_001-comm-C000-000d-4C8B212DD67q}">
-		<name>”Ä—p‘qŒÉ(•Â)</name>
+		<name>æ±ç”¨å€‰åº«(é–‰)</name>
 				&warehouse_001data;
 		<sprite origin="64,0" offset="9">
 			<picture ref="{warehouse_001-pcon-C000-0000-4C8B212DD67q}" />
@@ -849,7 +849,7 @@
 	</contribution>
 
 
-<!-- –qê -->
+<!-- ç‰§å ´ -->
 
 
 	<contribution type="picture" id="{FarmStr_001-pcon-C000-0000-4C8B212DD67q}">
@@ -945,7 +945,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C001-000A-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹iƒuƒ‹[j</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆãƒ–ãƒ«ãƒ¼ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 0, 4" offset="12">
@@ -965,7 +965,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C001-000B-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹iƒuƒ‹[j</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆãƒ–ãƒ«ãƒ¼ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 64, 4" offset="12">
@@ -985,7 +985,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C002-000A-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹iŠD‡j</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆç°ç´«ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 0, 4" offset="12">
@@ -1005,7 +1005,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C002-000B-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹iŠD‡j</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆç°ç´«ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 64, 4" offset="12">
@@ -1025,7 +1025,7 @@
 
 			
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C003-000A-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹i’ƒj</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆèŒ¶ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 0, 4" offset="12">
@@ -1045,7 +1045,7 @@
 
 	
 	<contribution type="varHeightBuilding" id="{vhbi_005-varH-C003-000B-4C8B212DD67q}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹i’ƒj</name>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«ï¼ˆèŒ¶ï¼‰</name>
 				&vhbi_005Population;
 		<pictures>
 			<top    origin=" 64, 4" offset="12">
@@ -1072,7 +1072,7 @@
 
 
 	<contribution type="commercial" id="{RentalVideoShop_001-comm-C000-000A-4C8B212DD67q}">
-		<name>ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“</name>
+		<name>ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³</name>
 		<price>200</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -1084,7 +1084,7 @@
 
 
 	<contribution type="commercial" id="{RentalVideoShop_001-comm-C000-000B-4C8B212DD67q}">
-		<name>ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“</name>
+		<name>ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³</name>
 		<price>200</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -1096,7 +1096,7 @@
 
 
 	<contribution type="commercial" id="{RentalVideoShop_001-comm-C000-000c-4C8B212DD67q}">
-		<name>ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“</name>
+		<name>ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³</name>
 		<price>200</price>
 		<size>1,2</size>
 		<height>1</height>
@@ -1108,7 +1108,7 @@
 
 
 	<contribution type="commercial" id="{RentalVideoShop_001-comm-C000-000d-4C8B212DD67q}">
-		<name>ƒŒƒ“ƒ^ƒ‹ƒrƒfƒIƒ`ƒF[ƒ“</name>
+		<name>ãƒ¬ãƒ³ã‚¿ãƒ«ãƒ“ãƒ‡ã‚ªãƒã‚§ãƒ¼ãƒ³</name>
 		<price>200</price>
 		<size>2,1</size>
 		<height>1</height>
@@ -1129,7 +1129,7 @@
 
 
 	<contribution type="commercial" id="{CreditA_001-comm-C000-000A-4C8B212DD67q}">
-		<name>M—p‹àŒÉ</name>
+		<name>ä¿¡ç”¨é‡‘åº«</name>
 		<price>220</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1141,7 +1141,7 @@
 
 
 	<contribution type="commercial" id="{CreditA_001-comm-C000-000B-4C8B212DD67q}">
-		<name>M—p‹àŒÉ</name>
+		<name>ä¿¡ç”¨é‡‘åº«</name>
 		<price>220</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1153,7 +1153,7 @@
 
 
 	<contribution type="commercial" id="{CreditA_001-comm-C000-000c-4C8B212DD67q}">
-		<name>M—p‹àŒÉ</name>
+		<name>ä¿¡ç”¨é‡‘åº«</name>
 		<price>220</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1165,7 +1165,7 @@
 
 
 	<contribution type="commercial" id="{CreditA_001-comm-C000-000d-4C8B212DD67q}">
-		<name>M—p‹àŒÉ</name>
+		<name>ä¿¡ç”¨é‡‘åº«</name>
 		<price>220</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1186,7 +1186,7 @@
 
 
 	<contribution type="commercial" id="{MensWearShop_001-comm-C000-000A-4C8B212DD67q}">
-		<name>am•ƒ`ƒF[ƒ“</name>
+		<name>ç´³å£«æœãƒã‚§ãƒ¼ãƒ³</name>
 		<price>160</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1198,7 +1198,7 @@
 
 
 	<contribution type="commercial" id="{MensWearShop_001-comm-C000-000B-4C8B212DD67q}">
-		<name>am•ƒ`ƒF[ƒ“</name>
+		<name>ç´³å£«æœãƒã‚§ãƒ¼ãƒ³</name>
 		<price>160</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1210,7 +1210,7 @@
 
 
 	<contribution type="commercial" id="{MensWearShop_001-comm-C000-000c-4C8B212DD67q}">
-		<name>am•ƒ`ƒF[ƒ“</name>
+		<name>ç´³å£«æœãƒã‚§ãƒ¼ãƒ³</name>
 		<price>160</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1222,7 +1222,7 @@
 
 
 	<contribution type="commercial" id="{MensWearShop_001-comm-C000-000d-4C8B212DD67q}">
-		<name>am•ƒ`ƒF[ƒ“</name>
+		<name>ç´³å£«æœãƒã‚§ãƒ¼ãƒ³</name>
 		<price>160</price>
 		<size>1,1</size>
 		<height>2</height>
@@ -1243,7 +1243,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C001-000A-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="0,0" offset="41">
 			&hueTransform_004;
@@ -1253,7 +1253,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C001-000B-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="64,0" offset="41">
 			&hueTransform_004;
@@ -1263,7 +1263,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C001-000c-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="128,0" offset="41">
 			&hueTransform_004;
@@ -1274,7 +1274,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C001-000d-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="192,0" offset="41">
 			&hueTransform_004;
@@ -1284,7 +1284,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C002-000A-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="0,0" offset="41">
 			&hueTransform_005;
@@ -1294,7 +1294,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C002-000B-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="64,0" offset="41">
 			&hueTransform_005;
@@ -1304,7 +1304,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C002-000c-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="128,0" offset="41">
 			&hueTransform_005;
@@ -1315,7 +1315,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C002-000d-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="192,0" offset="41">
 			&hueTransform_005;
@@ -1325,7 +1325,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C003-000A-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="0,0" offset="41">
 			&hueTransform_006;
@@ -1335,7 +1335,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C003-000B-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="64,0" offset="41">
 			&hueTransform_006;
@@ -1345,7 +1345,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C003-000c-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="128,0" offset="41">
 			&hueTransform_006;
@@ -1356,7 +1356,7 @@
 
 
 	<contribution type="commercial" id="{supermarket_001-comm-C003-000d-4C8B212DD67q}">
-		<name>‘åŒ^ƒX[ƒp[</name>
+		<name>å¤§å‹ã‚¹ãƒ¼ãƒ‘ãƒ¼</name>
 				&supermarket_001data;
 		<sprite origin="192,0" offset="41">
 			&hueTransform_006;
@@ -1373,7 +1373,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C001-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(•)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(é»’)</name>
 				&home_002data;
 		<sprite origin="0,0" offset="9">
 			&hueTransform_007;
@@ -1383,7 +1383,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C001-000B-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(•)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(é»’)</name>
 				&home_002data;
 		<sprite origin="32,0" offset="9">
 			&hueTransform_007;
@@ -1393,7 +1393,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C002-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(Ô)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(èµ¤)</name>
 				&home_002data;
 		<sprite origin="0,0" offset="9">
 			&hueTransform_008;
@@ -1403,7 +1403,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C002-000B-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(Ô)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(èµ¤)</name>
 				&home_002data;
 		<sprite origin="32,0" offset="9">
 			&hueTransform_008;
@@ -1413,7 +1413,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C003-000A-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(Â)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(é’)</name>
 				&home_002data;
 		<sprite origin="0,0" offset="9">
 			&hueTransform_009;
@@ -1423,7 +1423,7 @@
 
 
 	<contribution type="commercial" id="{home_002-comm-C003-000B-4C8B212DD67q}">
-		<name>ˆêŒËŒš‚ÄZ‘î2(Â)</name>
+		<name>ä¸€æˆ¸å»ºã¦ä½å®…2(é’)</name>
 				&home_002data;
 		<sprite origin="32,0" offset="9">
 			&hueTransform_009;

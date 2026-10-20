@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 
@@ -65,14 +65,14 @@
 
 
 <plug-in>
-	<title>Œš•¨"picture"(FreeTrain-‘zìŠÙ)</title>
+	<title>å»ºç‰©"picture"(FreeTrain-æƒ³ä½œé¤¨)</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
 
 
 
-<!-- ’´‚‘wƒ}ƒ“ƒVƒ‡ƒ“ -->
+<!-- è¶…é«˜å±¤ãƒžãƒ³ã‚·ãƒ§ãƒ³ -->
 	<contribution type="picture" id="{vhbi_014-picture-C000-0000-4C8B212Dharu}">
 		<picture src="vhbi_014_SPR.bmp">
 		 <override when="spring">
@@ -90,12 +90,12 @@
 		</picture>
 	</contribution>
 
-<!-- ’´‚‘wƒ}ƒ“ƒVƒ‡ƒ“ -->
+<!-- è¶…é«˜å±¤ãƒžãƒ³ã‚·ãƒ§ãƒ³ -->
 	<contribution type="GenericStructure" id="{vhbi_014-GenericStructure-C001-0000-4C8B212Dharu}">
-		<name>’´‚‘wƒ}ƒ“ƒVƒ‡ƒ“</name>
+		<name>è¶…é«˜å±¤ãƒžãƒ³ã‚·ãƒ§ãƒ³</name>
 		<design>3x4</design>
 		<structure>
-			<category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“"/>
+			<category byname="åˆ†è­²ãƒžãƒ³ã‚·ãƒ§ãƒ³"/>
 		</structure>
 		<price>1180000000</price>
 		<size>3,4</size>

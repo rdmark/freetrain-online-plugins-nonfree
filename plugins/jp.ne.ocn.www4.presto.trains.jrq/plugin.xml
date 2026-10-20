@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>JR‹ãBƒZƒbƒg</title>
+	<title>JRä¹å·žã‚»ãƒƒãƒˆ</title>
 	<homepage>http://www4.ocn.ne.jp/~presto/ft/</homepage>
 	<author>Hinoto</author>
 	
 
-<!-- ƒLƒn200 ‚È‚Ì‚Í‚È -->
+<!-- ã‚­ãƒ200 ãªã®ã¯ãª -->
 
-	<!-- æ“ªŽÔ—¼ -->
+	<!-- å…ˆé ­è»Šä¸¡ -->
 	<contribution type="trainCar" id="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -20,13 +20,13 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-	<!-- Œã”öŽÔ—¼ -->
+	<!-- å¾Œå°¾è»Šä¸¡ -->
 	<contribution type="trainCar" id="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h"/>
 	</contribution>
 
-	<!-- ‚È‚Ì‚Í‚ÈDX -->
+	<!-- ãªã®ã¯ãªDX -->
 	<contribution type="trainCar" id="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-dx">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -47,36 +47,36 @@
 		<speed>medium</speed>
 		<triprange>middle</triprange>
 		<author>Hinoto</author>
-		<type>ƒLƒn200Œ` ‚È‚Ì‚Í‚È</type>
-		<company>JR‹ãB</company>
+		<type>ã‚­ãƒ200å½¢ ãªã®ã¯ãª</type>
+		<company>JRä¹å·ž</company>
 		<description></description>
 		
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h"/>
-			<car char="„" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-t"/>
+			<car char="ï¼œ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h"/>
+			<car char="ï¼ž" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-t"/>
 		
-			<composition>ƒ</composition>
-			<composition>ƒ„</composition>
-			<composition>ƒ„„</composition>
-			<composition>ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
 		</config>
 	</contribution>
 
@@ -88,39 +88,39 @@
 		<triprange>middle</triprange>
 		<speed>medium</speed>
 		<author>Hinoto</author>
-		<type>ƒLƒn200Œ` ‚È‚Ì‚Í‚ÈDX</type>
-		<company>JR‹ãB</company>
+		<type>ã‚­ãƒ200å½¢ ãªã®ã¯ãªDX</type>
+		<company>JRä¹å·ž</company>
 		<description></description>
 		
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h"/>
-			<car char="„" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-t"/>
+			<car char="ï¼œ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-h"/>
+			<car char="ï¼ž" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-t"/>
 			<car char="D" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-nanohana}-dx"/>
 		
-			<composition>Dƒ„</composition>
-			<composition>Dƒ„„</composition>
-			<composition>Dƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>Dƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
+			<composition>Dï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>Dï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
 		</config>
 	</contribution>
 
-<!-- ƒLƒn200 ƒV[ƒTƒCƒhƒ‰ƒCƒi[ -->
-	<!-- æ“ªŽÔ—¼ -->
+<!-- ã‚­ãƒ200 ã‚·ãƒ¼ã‚µã‚¤ãƒ‰ãƒ©ã‚¤ãƒŠãƒ¼ -->
+	<!-- å…ˆé ­è»Šä¸¡ -->
 	<contribution type="trainCar" id="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -130,7 +130,7 @@
 		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-	<!-- Œã”öŽÔ—¼ -->
+	<!-- å¾Œå°¾è»Šä¸¡ -->
 	<contribution type="trainCar" id="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-h"/>
@@ -144,36 +144,36 @@
 		<triprange>middle</triprange>
 		<speed>medium</speed>
 		<author>Hinoto</author>
-		<type>ƒLƒn200Œ` ƒV[ƒTƒCƒhƒ‰ƒCƒi[</type>
-		<company>JR‹ãB</company>
+		<type>ã‚­ãƒ200å½¢ ã‚·ãƒ¼ã‚µã‚¤ãƒ‰ãƒ©ã‚¤ãƒŠãƒ¼</type>
+		<company>JRä¹å·ž</company>
 		<description></description>
 		
 		
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-h"/>
-			<car char="„" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-t"/>
+			<car char="ï¼œ" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-h"/>
+			<car char="ï¼ž" ref="{7C9C5240-48F0-11D8-968B-0800460222F0-titech-jrq-seeside}-t"/>
 		
-			<composition>ƒ</composition>
-			<composition>ƒ„</composition>
-			<composition>ƒ„„</composition>
-			<composition>ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„„</composition>
-			<composition>ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„ƒ„</composition>
+			<composition>ï¼œ</composition>
+			<composition>ï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼ž</composition>
+			<composition>ï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼žï¼œï¼ž</composition>
 		</config>
 	</contribution>
 

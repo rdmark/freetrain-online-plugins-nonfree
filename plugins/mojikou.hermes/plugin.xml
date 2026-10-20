@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY mojiA '
 	<price>30000000</price>
@@ -6,7 +6,7 @@
         <operationCost>600000</operationCost>
 '>]>
 <plug-in>
-	<title>–åŽi`‰w</title>
+	<title>é–€å¸æ¸¯é§…</title>
 	<author>Hermes</author>
 	<homepage>nothing</homepage>
 		
@@ -17,7 +17,7 @@
 	
 	<contribution type="station" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1F000}-0">
 		&mojiA;
-                <group>–åŽi`‰w</group>
+                <group>é–€å¸æ¸¯é§…</group>
                 <size>1,4</size>
 		<sprite origin="0,0" offset="16">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1F001}"/>
@@ -25,7 +25,7 @@
         </contribution>
         <contribution type="station" id="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1F000}-1">
 		&mojiA;
-                <group>–åŽi`‰w</group>
+                <group>é–€å¸æ¸¯é§…</group>
                 <size>4,1</size>
                 <sprite origin="80,0" offset="48">
 			<picture ref="{1CDCD81D-8368-4CBC-HERM-0F1FDBD1F001}"/>

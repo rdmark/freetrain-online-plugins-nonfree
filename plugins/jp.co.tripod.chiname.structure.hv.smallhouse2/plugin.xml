@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY housePopulation3 '
 	<population>
@@ -16,8 +16,8 @@
 ]>
 
 <plug-in>
-	<title>”¼ƒ{ƒNƒZƒ‹Z‘î</title>
-	<author>C477@2—¼–Ú</author>
+	<title>åŠãƒœã‚¯ã‚»ãƒ«ä½å®…</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>	
 	<depend on="jp.co.tripod.chiname.lib.halfvoxel" />	
 	
@@ -26,9 +26,9 @@
 	</contribution>
 
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-0">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>ØÈŽOŠKŒš‚ÄA</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>åˆ‡å¦»ä¸‰éšŽå»ºã¦A</name>
 		<price>5500000</price>
 		<height>1</height>
 		&housePopulation3;
@@ -42,9 +42,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-1">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>ØÈŽOŠKŒš‚ÄB</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>åˆ‡å¦»ä¸‰éšŽå»ºã¦B</name>
 		<price>5500000</price>
 		<height>1</height>
 		&housePopulation3;
@@ -58,9 +58,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-2">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>ŽÔŒÉ•tØÈŽOŠKŒš‚ÄA</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>è»Šåº«ä»˜åˆ‡å¦»ä¸‰éšŽå»ºã¦A</name>
 		<price>5500000</price>
 		<height>1</height>
 		&housePopulation3;
@@ -74,9 +74,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-3">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>ŽÔŒÉ•tØÈŽOŠKŒš‚ÄB</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>è»Šåº«ä»˜åˆ‡å¦»ä¸‰éšŽå»ºã¦B</name>
 		<price>5500000</price>
 		<height>1</height>
 		&housePopulation3;
@@ -90,9 +90,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-4">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>ŽÔŒÉ•tØÈŽOŠKŒš‚ÄC</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>è»Šåº«ä»˜åˆ‡å¦»ä¸‰éšŽå»ºã¦C</name>
 		<price>6000000</price>
 		<height>1</height>
 		&housePopulation6;
@@ -106,9 +106,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{2A8208CD-67C7-46A6-C477-830F25C8F3D2}-5">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ƒXƒŒ[ƒg•˜‚«Z‘î</subgroup>
-		<name>Šñ“ŽOŠKŒš‚Ä</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ã‚¹ãƒ¬ãƒ¼ãƒˆè‘ºãä½å®…</subgroup>
+		<name>å¯„æ£Ÿä¸‰éšŽå»ºã¦</name>
 		<price>6000000</price>
 		<height>1</height>
 		&housePopulation6;

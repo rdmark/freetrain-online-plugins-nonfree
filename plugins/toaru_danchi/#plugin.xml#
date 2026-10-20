@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>’c’ni‚S•ûŒüj</title>
+	<title>å›£åœ°ï¼ˆï¼”æ–¹å‘ï¼‰</title>
 	<author>toaru</author>
 	<homepage> / </homepage>
 
@@ -11,11 +11,11 @@
 </contribution>
 	
 <contribution type="GenericStructure" id="{toaru-building-danchi-gs01-E7D95B0D8FCE-1}">
-		<name>Œö’cƒXƒ^[ƒnƒEƒX</name>
+		<name>å…¬å›£ã‚¹ã‚¿ãƒ¼ãƒã‚¦ã‚¹</name>
 		<price>460000000</price>
 		<size>2,2</size>
 		<structure>
-			<category byname="’À‘ÝW‡Z‘î"/>
+			<category byname="è³ƒè²¸é›†åˆä½å®…"/>
 		</structure>
 		<height>2</height>
 		<population>
@@ -58,11 +58,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-danchi-gs01-E7D95B0D8FCE-2}">
-		<name>Œö’c’c’n‚P</name>
+		<name>å…¬å›£å›£åœ°ï¼‘</name>
 		<price>460000000</price>
 		<size>1,2</size>
 		<structure>
-			<category byname="’À‘ÝW‡Z‘î"/>
+			<category byname="è³ƒè²¸é›†åˆä½å®…"/>
 		</structure>
 		<height>2</height>
 		<population>
@@ -97,11 +97,11 @@
 </contribution>
 
 <contribution type="GenericStructure" id="{toaru-building-danchi-gs01-E7D95B0D8FCE-3}">
-		<name>Œö’c’c’n‚P</name>
+		<name>å…¬å›£å›£åœ°ï¼‘</name>
 		<price>460000000</price>
 		<size>2,1</size>
 		<structure>
-			<category byname="’À‘ÝW‡Z‘î"/>
+			<category byname="è³ƒè²¸é›†åˆä½å®…"/>
 		</structure>
 		<height>2</height>
 		<population>

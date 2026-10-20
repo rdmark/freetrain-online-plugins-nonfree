@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>�󑐐�5300�`</title>
+	<title>浅草線5300形</title>
 	<homepage></homepage>
 	<author>Noz</author>
 
 
-<!-- �s�c�󑐐� -->
+<!-- 都営浅草線 -->
 
-	<!-- 5300�`�@�擪�� -->
+	<!-- 5300形　先頭車 -->
 	<contribution type="trainCar" id="{1BD5CD6F-6CE9-4B2A-9F03-A11A42A698ED}-h">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -16,12 +16,12 @@
 		<capacity>119</capacity>
   		<seatedcapacity>42</seatedcapacity>
 	</contribution>
-	<!--�@5300�`�@�擪�� ����� -->
+	<!--　5300形　先頭車 後尾車 -->
 	<contribution type="trainCar" id="{1BD5CD6F-6CE9-4B2A-9F03-A11A42A698ED}-t">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{1BD5CD6F-6CE9-4B2A-9F03-A11A42A698ED}-h"/>
 	</contribution>
-	<!-- 5300�`�@���Ԏ� --> 
+	<!-- 5300形　中間車 --> 
 	<contribution type="trainCar" id="{1BD5CD6F-6CE9-4B2A-9F03-A11A42A698ED}-m">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
 		<sprite origin="0,0">
@@ -31,7 +31,7 @@
   		<seatedcapacity>52</seatedcapacity>
 	</contribution>
 
-	<!-- 5300�`�@�p���^���Ԏ� --> 
+	<!-- 5300形　パンタ中間車 --> 
 	<contribution type="trainCar" id="{1BD5CD6F-6CE9-4B2A-9F03-A11A42A698ED}-p">
 		<class name="freetrain.contributions.train.SymTrainCarImpl" /> 
 		<sprite origin="0,0">
@@ -45,11 +45,11 @@
 
 
 	<contribution type="train" id="{CDFFEE93-834A-425D-AF78-AB902D199D58}">
-		<company>�����s��ʋ�</company>
-		<type>5300�`</type>
-		<name>�󑐐�</name>
+		<company>東京都交通局</company>
+		<type>5300形</type>
+		<name>浅草線</name>
 		<author>Noz</author>
-		<description>1991�N�ɘV��������5000�`�̒u�������̂��߂ɓo�ꂵ���ԗ��B���̎ԗ��͍����ł��B4�A8���҂�p�ӂ��Ă��܂��B</description>
+		<description>1991年に老朽化した5000形の置き換えのために登場した車両。この車両は高速です。4、8両編を用意しています。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -69,11 +69,11 @@
 
 
 	<contribution type="train" id="{663188F5-8DF2-4396-989A-E44B17CD2DE4}">
-		<company>�����s��ʋ�</company>
-		<type>5300�`�i���j</type>
-		<name>�󑐐�</name>
+		<company>東京都交通局</company>
+		<type>5300形（高）</type>
+		<name>浅草線</name>
 		<author>Noz</author>
-		<description>1991�N�ɘV��������5000�`�̒u�������̂��߂ɓo�ꂵ���ԗ��B���̎ԗ��͒����ł��B4�A8���҂�p�ӂ��Ă��܂��B</description>
+		<description>1991年に老朽化した5000形の置き換えのために登場した車両。この車両は中速です。4、8両編を用意しています。</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

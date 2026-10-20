@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in []>
 
 <plug-in>
 
-	<title>—V‰€’nƒZƒbƒg‚R</title>
-	<author>C477@2—¼–Ú</author>
+	<title>éŠåœ’åœ°ã‚»ãƒƒãƒˆï¼“</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 		
 	<contribution type="picture" id="{842088C1-9785-4B50-C477-35EA9C7F468C}">
@@ -22,14 +22,14 @@
 			
 	<contribution type="road" id="{04D7D6D1-7072-4699-C477-2A92BE0F968E}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>—Î’n‘Ñ(ŽÅ¶)</name>
-		<description>ƒOƒŠ[ƒ“ƒxƒ‹ƒg</description>
+		<name>ç·‘åœ°å¸¯(èŠç”Ÿ)</name>
+		<description>ã‚°ãƒªãƒ¼ãƒ³ãƒ™ãƒ«ãƒˆ</description>
 		<picture ref="{842088C1-9785-4B50-C477-35EA9C7F468C}" size="32,24" offset="8"/>
 	</contribution>
 	<contribution type="road" id="{419E1E0E-808B-463E-C477-BD718F7BE7A7}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>—Î’n‘Ñ(•À–Ø)</name>
-		<description>ƒOƒŠ[ƒ“ƒxƒ‹ƒg</description>
+		<name>ç·‘åœ°å¸¯(ä¸¦æœ¨)</name>
+		<description>ã‚°ãƒªãƒ¼ãƒ³ãƒ™ãƒ«ãƒˆ</description>
 		<picture ref="{54321743-B610-48A2-C477-FF1D43BC94CF}" size="32,24" offset="8"/>
 	</contribution>
 

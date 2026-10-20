@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 
 
@@ -43,7 +43,7 @@
 
 
 <plug-in>
-	<title>Œš•¨"picture"(FreeTrain-‘zìŠÙ)</title>
+	<title>å»ºç‰©"picture"(FreeTrain-æƒ³ä½œé¤¨)</title>
 	<author>haru</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
@@ -58,12 +58,12 @@
 	</contribution>
 
 
-<!-- ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹[B] -->
+<!-- ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«[B] -->
 	<contribution type="GenericStructure" id="{vhbi_016-GenericStructure-C001-000A-4C8B212Dharu}">
-		<name>ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒrƒ‹</name>
-		<design>(ƒ^ƒCƒvB)</design>
+		<name>ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆãƒ“ãƒ«</name>
+		<design>(ã‚¿ã‚¤ãƒ—B)</design>
 		<structure>
-			<category byname="‘İ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>1500000000</price>
 		<size>2,2</size>
@@ -92,12 +92,12 @@
 	</contribution>
 
 
-<!-- G‹ƒrƒ‹(2x2) -->
+<!-- é›‘å±…ãƒ“ãƒ«(2x2) -->
 	<contribution type="GenericStructure" id="{vhbi_016-GenericStructure-C001-000B-4C8B212Dharu}">
-		<name>G‹ƒrƒ‹(2x2)</name>
-		<design>(ƒ^ƒCƒvA)</design>
+		<name>é›‘å±…ãƒ“ãƒ«(2x2)</name>
+		<design>(ã‚¿ã‚¤ãƒ—A)</design>
 		<structure>
-			<category byname="‘İ––±Š"/>
+			<category byname="è²¸äº‹å‹™æ‰€"/>
 		</structure>
 		<price>1500000000</price>
 		<size>2,2</size>

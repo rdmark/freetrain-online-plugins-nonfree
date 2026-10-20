@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY JNRwhite '
 	<colorVariation><spriteType name="colorMapped">
@@ -83,8 +83,8 @@
 ]>
 
 <plug-in>
-	<title>Ž©“®ŽÔ@ƒRƒ“ƒeƒiƒgƒŒ[ƒ‰</title>
-	<author>‚è‚¨‚è‚¨‘Š·©C477@2—¼–Ú</author>
+	<title>è‡ªå‹•è»Šã€€ã‚³ãƒ³ãƒ†ãƒŠãƒˆãƒ¬ãƒ¼ãƒ©</title>
+	<author>ã‚ŠãŠã‚ŠãŠæ›¸æ›â†C477@2ä¸¡ç›®</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>	
 	<depend on="jp.co.tripod.chiname.lib" />	
 	
@@ -93,7 +93,7 @@
 	</contribution>
 
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-0,0">
-		<name>ƒRƒ“ƒeƒiƒgƒŒ[ƒ‰(‘O)</name>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠãƒˆãƒ¬ãƒ¼ãƒ©(å‰)</name>
 		<sprite origin="0, 0" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -109,7 +109,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-1,0">
-		<name>ƒRƒ“ƒeƒiƒgƒŒ[ƒ‰(Œã)</name>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠãƒˆãƒ¬ãƒ¼ãƒ©(å¾Œ)</name>
 		<sprite origin="64, 0" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -125,7 +125,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-0,1">
-		<name>‹óƒgƒŒ[ƒ‰(‘O)</name>
+		<name>ç©ºãƒˆãƒ¬ãƒ¼ãƒ©(å‰)</name>
 		<sprite origin="0,24" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -134,7 +134,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-1,1">
-		<name>‹óƒgƒŒ[ƒ‰(Œã)</name>
+		<name>ç©ºãƒˆãƒ¬ãƒ¼ãƒ©(å¾Œ)</name>
 		<sprite origin="64,24" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -144,7 +144,7 @@
 	</contribution>
 
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-2,0">
-		<name>ƒRƒ“ƒeƒiƒgƒŒ[ƒ‰*(‘O)</name>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠãƒˆãƒ¬ãƒ¼ãƒ©*(å‰)</name>
 		<sprite origin="128, 0" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -160,7 +160,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-3,0">
-		<name>ƒRƒ“ƒeƒiƒgƒŒ[ƒ‰*(Œã)</name>
+		<name>ã‚³ãƒ³ãƒ†ãƒŠãƒˆãƒ¬ãƒ¼ãƒ©*(å¾Œ)</name>
 		<sprite origin="192, 0" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -176,7 +176,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-2,1">
-		<name>‹óƒgƒŒ[ƒ‰(‘O)*</name>
+		<name>ç©ºãƒˆãƒ¬ãƒ¼ãƒ©(å‰)*</name>
 		<sprite origin="128,24" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>
@@ -185,7 +185,7 @@
 		</sprite>
 	</contribution>
 	<contribution type="DummyCar" id="{riorio-cars-4930-C477-9699E6F37DF8}-3,1">
-		<name>‹óƒgƒŒ[ƒ‰(Œã)*</name>
+		<name>ç©ºãƒˆãƒ¬ãƒ¼ãƒ©(å¾Œ)*</name>
 		<sprite origin="192,24" offset="4">
 			<picture src="cars_container.bmp"/>
 			<variations>

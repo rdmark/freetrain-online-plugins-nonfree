@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
 	<title></title>
-	<author>–³–¼‚Ìl</author>
+	<author>ç„¡åã®äºº</author>
 	<homepage>http://www.kohsuke.org/freetrain/</homepage>
 	
 	
 	
 	
-	<!-- ‹ž‹}‰õ“Áƒ^ƒCƒv -->
+	<!-- äº¬æ€¥å¿«ç‰¹ã‚¿ã‚¤ãƒ— -->
 	<contribution type="trainCar" id="{3A3397CC-8800-4a73-B6F8-0F49320A2D40}">
 		<class name="freetrain.framework.plugin.impl.SymTrainCarImpl" />
 		<picture src="KEIKYU01.bmp" origin="0,0"/>
@@ -15,12 +15,12 @@
 	</contribution>
 	
 	<contribution type="train" id="{8684A084-CCC1-4a80-ACA0-7F8E038C54C8}">
-		<company>‹ž•l‹}s“d“S</company>
-		<type>‰õ“Áƒ^ƒCƒv</type>
+		<company>äº¬æµœæ€¥è¡Œé›»é‰„</company>
+		<type>å¿«ç‰¹ã‚¿ã‚¤ãƒ—</type>
 		<name></name>
-		<author>–³–¼‚Ìl‚³‚ñ</author>
+		<author>ç„¡åã®äººã•ã‚“</author>
 		<description>
-‹ž‹}‚Ì‰õ“Áƒ^ƒCƒvB
+äº¬æ€¥ã®å¿«ç‰¹ã‚¿ã‚¤ãƒ—ã€‚
 		</description>
 		<price>1100</price>
 		<speed>fast</speed>

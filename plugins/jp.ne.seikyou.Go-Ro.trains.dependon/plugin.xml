@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>ŽÔ—¼iŽÔ—¼Šƒvƒ‰ƒOƒCƒ“ˆË‘¶j</title>
+	<title>è»Šä¸¡ï¼ˆè»Šä¸¡æ‰€ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ä¾å­˜ï¼‰</title>
 	<author>haru(qra_ra)</author>
 	<homepage>http://hb4.seikyou.ne.jp/home/Go-Ro/FreeTrain/</homepage>
 
@@ -8,13 +8,13 @@
 
 
 
-	<!-- 381ŒnƒX[ƒp[‚­‚ë‚µ‚¨ -->
+	<!-- 381ç³»ã‚¹ãƒ¼ãƒ‘ãƒ¼ãã‚ã—ãŠ -->
 
 	<contribution type="picture" id="{381-picture-S_kuroshio-000c-4C8B212Dharu}">
 		<picture src="381S-kuro.bmp" />
 	</contribution>
 	
-	<!-- ƒNƒ380Œn -->
+	<!-- ã‚¯ãƒ­380ç³» -->
 	<contribution type="trainCar" id="{381-trainCar-S_kuroshio-000c-4C8B212Dharu}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -25,31 +25,31 @@
 	</contribution>
 
 	<contribution type="train" id="{381-train-S_kuroshio-0001-4C8B212Dharu}">
-		<name>ƒX[ƒp[‚­‚ë‚µ‚¨</name>
+		<name>ã‚¹ãƒ¼ãƒ‘ãƒ¼ãã‚ã—ãŠ</name>
 		<fare>750</fare>
 		<price>54000000</price>
 		<amenity>120</amenity>
 		<speed>fast</speed>
 		<author>haru</author>
 		<triprange>long</triprange>
-		<type>381Œn</type>
-		<company>JR¼“ú–{</company>
-		<description>4,5,6,9—¼•Ò¬‚Ì‚Ýw“ü‰Â”\</description>
+		<type>381ç³»</type>
+		<company>JRè¥¿æ—¥æœ¬</company>
+		<description>4,5,6,9ä¸¡ç·¨æˆã®ã¿è³¼å…¥å¯èƒ½</description>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒp" ref="{381-trainCar-S_kuroshio-000c-4C8B212Dharu}"/>
-			<car char="|" ref="{ADF87135-9F9C-003A-9B45-04F846A0479D}-m"/>
-			<car char="„" ref="{ADF87135-9F9C-003A-9B45-04F846A0479D}-t"/>
+			<car char="ãƒ‘" ref="{381-trainCar-S_kuroshio-000c-4C8B212Dharu}"/>
+			<car char="ï¼" ref="{ADF87135-9F9C-003A-9B45-04F846A0479D}-m"/>
+			<car char="ï¼ž" ref="{ADF87135-9F9C-003A-9B45-04F846A0479D}-t"/>
 		
-			<composition>ƒp||„</composition>
-			<composition>ƒp|||„</composition>
-			<composition>ƒp||||„</composition>
-			<composition>ƒp||||„||„</composition>
+			<composition>ãƒ‘ï¼ï¼ï¼ž</composition>
+			<composition>ãƒ‘ï¼ï¼ï¼ï¼ž</composition>
+			<composition>ãƒ‘ï¼ï¼ï¼ï¼ï¼ž</composition>
+			<composition>ãƒ‘ï¼ï¼ï¼ï¼ï¼žï¼ï¼ï¼ž</composition>
 		</config>
 	</contribution>
 
 
-	<!-- ƒLƒn58ŒŽŽRF -->
+	<!-- ã‚­ãƒ58æœˆå±±è‰² -->
 	<contribution type="trainCar" id="{kiha58-trainCar-gassan-000a-4C8B212Dharu}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl" />
 		<sprite origin="0,0">
@@ -139,7 +139,7 @@
 		<seatedcapacity>65</seatedcapacity>
 	</contribution>
 	
-	<!-- ƒLƒn58ŒŽŽRFŒã”öŽÔ—¼ -->
+	<!-- ã‚­ãƒ58æœˆå±±è‰²å¾Œå°¾è»Šä¸¡ -->
 	<contribution type="trainCar" id="{kiha58-trainCar-gassan-001a-4C8B212Dharu}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl" />
 		<base carRef="{kiha58-trainCar-gassan-000a-4C8B212Dharu}"/>
@@ -147,23 +147,23 @@
 
 
 	<contribution type="train" id="{kiha58-train-gassan-0001-4C8B212Dharu}">
-		<name>ŒŽŽRF</name>
+		<name>æœˆå±±è‰²</name>
 		<fare>500</fare>
 		<price>35000000</price>
 		<amenity>110</amenity>
 		<speed>slow</speed>
 		<triprange>middle</triprange>
 		<author>haru</author>
-		<type>ƒLƒn58Œn</type>
-		<company>JR“Œ“ú–{</company>
-		<description>2,3—¼•Ò¬‚Ì‚Ýw“ü‰Â”\</description>
+		<type>ã‚­ãƒ58ç³»</type>
+		<company>JRæ±æ—¥æœ¬</company>
+		<description>2,3ä¸¡ç·¨æˆã®ã¿è³¼å…¥å¯èƒ½</description>
 		<class name="freetrain.contributions.train.PatternTrainImpl"/>
 		<config>
-			<car char="ƒ" ref="{kiha58-trainCar-gassan-000a-4C8B212Dharu}"/>
-			<car char="„" ref="{kiha58-trainCar-gassan-001a-4C8B212Dharu}"/>
+			<car char="ï¼œ" ref="{kiha58-trainCar-gassan-000a-4C8B212Dharu}"/>
+			<car char="ï¼ž" ref="{kiha58-trainCar-gassan-001a-4C8B212Dharu}"/>
 		
-			<composition>ƒ„</composition>
-			<composition>ƒƒ„</composition>
+			<composition>ï¼œï¼ž</composition>
+			<composition>ï¼œï¼œï¼ž</composition>
 		</config>
 	</contribution>
 

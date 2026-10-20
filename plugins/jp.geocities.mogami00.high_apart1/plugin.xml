@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
  <plug-in>
-  <title>5~3‚‘wƒ}ƒ“ƒVƒ‡ƒ“</title> 
-  <author>ƒ‚ƒKƒ~</author> 
+  <title>5Ã—3é«˜å±¤ãƒãƒ³ã‚·ãƒ§ãƒ³</title> 
+  <author>ãƒ¢ã‚¬ãƒŸ</author> 
   <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
   <contribution type="picture" id="{64F7FED7-F1E5-4256-ADD3-60C1008D9573}">
   <picture src="high_apart1.bmp" /> 
   </contribution>
   <contribution type="commercial" id="{062B8F4A-F404-4B74-B40E-D8F44124A050}">
-  <group>5~3‚‘wƒ}ƒ“ƒVƒ‡ƒ“</group> 
+  <group>5Ã—3é«˜å±¤ãƒãƒ³ã‚·ãƒ§ãƒ³</group> 
   <price>1200000000</price> 
   <size>5,3</size> 
   <structure>
-  <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+  <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
   </structure>
   <height>12</height> 
   <population>
@@ -21,6 +21,6 @@
   <sprite origin="0,0" offset="201">
   <picture ref="{64F7FED7-F1E5-4256-ADD3-60C1008D9573}" /> 
   </sprite>
-@<computerCannotBuild />
+ã€€<computerCannotBuild />
   </contribution>
   </plug-in>

@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>FreeTrainExAVer—p“¹˜Hƒvƒ‰ƒOƒCƒ“</title>
+	<title>FreeTrainExAVerç”¨é“è·¯ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
 	<author>HEUER</author>
 	<homepage>http://freetrain.finito-web.com/</homepage>
 	
-	<!--”_“¹-->
+	<!--è¾²é“-->
 	<contribution type="road" id="{ROAD0001-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>”_“¹/–¢•Ü‘•/·“yE‰Ô</name>
+		<name>è¾²é“/æœªèˆ—è£…/ç››åœŸãƒ»èŠ±</name>
 		<style name="footpath"/>
-		<description>”_“¹(–¢•Ü‘•)</description>
+		<description>è¾²é“(æœªèˆ—è£…)</description>
 		<picture src="un-paving.bmp" size="32,16" offset="0">
 			<override when="autumn" src="un-paving-a.bmp"/>
 			<override when="winter" src="un-paving-w.bmp"/>
@@ -17,25 +17,25 @@
 	</contribution>
 	<contribution type="road" id="{ROAD0002-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>”_“¹/–¢•Ü‘•/·“yEŽÅ</name>
+		<name>è¾²é“/æœªèˆ—è£…/ç››åœŸãƒ»èŠ</name>
 		<style name="footpath"/>
-		<description>”_“¹(–¢•Ü‘•)</description>
+		<description>è¾²é“(æœªèˆ—è£…)</description>
 		<picture src="un-paving2.bmp" size="32,16" offset="0">
 			<override when="autumn" src="un-paving2-a.bmp"/>
 			<override when="winter" src="un-paving2-w.bmp"/>
 		</picture>
 	</contribution>
 
-	<!--ˆêŽÔü¶Šˆ“¹˜H-->
+	<!--ä¸€è»Šç·šç”Ÿæ´»é“è·¯-->
 	<contribution type="road" id="{ROAD1001-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>¶Šˆ“¹˜H/–³“”</name>
+		<name>ç”Ÿæ´»é“è·¯/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="1"/>
-		<description>¶Šˆ“¹˜H(–³“”)</description>
+		<description>ç”Ÿæ´»é“è·¯(ç„¡ç¯)</description>
 		<picture src="road1.bmp" size="32,16" offset="0" />
 	</contribution>
 
-<!-- ”¼ƒ{ƒNƒZƒ‹“¹˜H -->
+<!-- åŠãƒœã‚¯ã‚»ãƒ«é“è·¯ -->
 	<contribution type="picture" id="{ROAD1101-7058-11D7-BB78-0090FE1AB959}">
 		<picture src="hvroad1.bmp"/>
 	</contribution>
@@ -54,9 +54,9 @@
 		</picture>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1101-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒAƒXƒtƒ@ƒ‹ƒg</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</name>
 		<price>50000</price>
 		<height>1</height>
 		<sprite>
@@ -68,9 +68,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1102-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒAƒXƒtƒ@ƒ‹ƒg(‘¤a•t)</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ(å´æºä»˜)</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -82,9 +82,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…</name>
 		<price>80000</price>
 		<height>1</height>
 		<sprite>
@@ -97,9 +97,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8058-11D7-BB78-0090FE1AB960}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•/ƒAƒXƒtƒ@ƒ‹ƒg</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…/ã‚¢ã‚¹ãƒ•ã‚¡ãƒ«ãƒˆ</name>
 		<price>90000</price>
 		<height>1</height>
 		<sprite>
@@ -112,9 +112,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8058-11D7-BB78-0090FE1AB961}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•/ˆêŽÔü“¹˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…/ä¸€è»Šç·šé“è·¯</name>
 		<price>90000</price>
 		<height>1</height>
 		<sprite>
@@ -127,9 +127,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•(AÍ)</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…(æ¤æ ½)</name>
 		<price>120000</price>
 		<height>1</height>
 		<sprite>
@@ -142,9 +142,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8060-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•(AÍ)</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…(æ¤æ ½)</name>
 		<price>160000</price>
 		<height>1</height>
 		<sprite>
@@ -157,9 +157,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8061-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•(AÍ)</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…(æ¤æ ½)</name>
 		<price>120000</price>
 		<height>1</height>
 		<sprite>
@@ -172,9 +172,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1103-8062-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>“¹˜H</subgroup>
-		<name>ƒ^ƒCƒ‹•Ü‘•(AÍ)</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>é“è·¯</subgroup>
+		<name>ã‚¿ã‚¤ãƒ«èˆ—è£…(æ¤æ ½)</name>
 		<price>160000</price>
 		<height>1</height>
 		<sprite>
@@ -187,9 +187,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1104-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>’¼ü</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ç›´ç·š</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -201,9 +201,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1105-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>’¼ü/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ç›´ç·š/çŸ­</name>
 		<price>20000</price>
 		<height>1</height>
 		<sprite>
@@ -215,9 +215,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1105-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>’¼ü/’Z/…˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ç›´ç·š/çŸ­/æ°´è·¯</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -229,9 +229,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1105-8060-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>’¼ü/’Z/…˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ç›´ç·š/çŸ­/æ°´è·¯</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -243,9 +243,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1106-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ƒJ[ƒu</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -257,9 +257,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1107-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ƒJ[ƒu</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -271,9 +271,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1107-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ƒJ[ƒu/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–/çŸ­</name>
 		<price>20000</price>
 		<height>1</height>
 		<sprite>
@@ -285,9 +285,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1107-8060-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ƒJ[ƒu/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–/çŸ­</name>
 		<price>20000</price>
 		<height>1</height>
 		<sprite>
@@ -299,9 +299,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1108-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ŽO³˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ä¸‰å‰è·¯</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -313,9 +313,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1109-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>ŽO³˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>ä¸‰å‰è·¯</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -327,9 +327,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1110-8058-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>–¢•Ü‘•˜H</subgroup>
-		<name>\Žš˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>æœªèˆ—è£…è·¯</subgroup>
+		<name>åå­—è·¯</name>
 		<price>30000</price>
 		<height>1</height>
 		<sprite>
@@ -341,9 +341,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1121-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>’¼ü</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ç›´ç·š</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -355,9 +355,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1122-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>’¼ü/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ç›´ç·š/çŸ­</name>
 		<price>55000</price>
 		<height>1</height>
 		<sprite>
@@ -369,9 +369,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1123-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ƒJ[ƒu</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -383,9 +383,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1124-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ƒJ[ƒu</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -397,9 +397,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1125-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ƒJ[ƒu/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–/çŸ­</name>
 		<price>55000</price>
 		<height>1</height>
 		<sprite>
@@ -411,9 +411,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1126-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ƒJ[ƒu/’Z</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ã‚«ãƒ¼ãƒ–/çŸ­</name>
 		<price>55000</price>
 		<height>1</height>
 		<sprite>
@@ -425,9 +425,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1127-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ŽO³˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ä¸‰å‰è·¯</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -439,9 +439,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1128-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>ŽO³˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>ä¸‰å‰è·¯</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -453,9 +453,9 @@
 		</sprite>
 	</contribution>
 	<contribution type="HalfVoxelStructure" id="{ROAD1129-8059-11D7-BB78-0090FE1AB959}">
-		<group>”¼ƒ{ƒNƒZƒ‹Œš’z</group>
-		<subgroup>ˆêŽÔü“¹˜H</subgroup>
-		<name>\Žš˜H</name>
+		<group>åŠãƒœã‚¯ã‚»ãƒ«å»ºç¯‰</group>
+		<subgroup>ä¸€è»Šç·šé“è·¯</subgroup>
+		<name>åå­—è·¯</name>
 		<price>60000</price>
 		<height>1</height>
 		<sprite>
@@ -467,301 +467,301 @@
 		</sprite>
 	</contribution>
 
-	<!--“ñŽÔü“¹˜H-->
+	<!--äºŒè»Šç·šé“è·¯-->
 	<contribution type="road" id="{ROAD2001-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’”jü/ŠX“”A</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½ç ´ç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’”jü“ñŽÔü“¹˜H</description>
+		<description>ç™½ç ´ç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road2.bmp" size="32,32" offset="16">
 			<override when="night" src="road2n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2001-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’”jü/ŠX“”B</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½ç ´ç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’”jü“ñŽÔü“¹˜H</description>
+		<description>ç™½ç ´ç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road2r.bmp" size="32,32" offset="16">
 			<override when="night" src="road2rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2001-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’”jü/–³“”</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½ç ´ç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’”jü“ñŽÔü“¹˜H</description>
+		<description>ç™½ç ´ç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road2a.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2002-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’ŽÀü/ŠX“”A</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½å®Ÿç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’ŽÀü“ñŽÔü“¹˜H</description>
+		<description>ç™½å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road3.bmp" size="32,32" offset="16">
 			<override when="night" src="road3n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2002-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’ŽÀü/ŠX“”B</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½å®Ÿç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’ŽÀü“ñŽÔü“¹˜H</description>
+		<description>ç™½å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road3r.bmp" size="32,32" offset="16">
 			<override when="night" src="road3rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2002-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/”’ŽÀü/–³“”</name>
+		<name>äºŒè»Šç·šé“è·¯/ç™½å®Ÿç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’ŽÀü“ñŽÔü“¹˜H</description>
+		<description>ç™½å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road3a.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2003-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/žòŽÀü/ŠX“”A</name>
+		<name>äºŒè»Šç·šé“è·¯/æ©™å®Ÿç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>žòŽÀü“ñŽÔü“¹˜H</description>
+		<description>æ©™å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road4.bmp" size="32,32" offset="16">
 			<override when="night" src="road4n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2003-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/žòŽÀü/ŠX“”B</name>
+		<name>äºŒè»Šç·šé“è·¯/æ©™å®Ÿç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>žòŽÀü“ñŽÔü“¹˜H</description>
+		<description>æ©™å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road4r.bmp" size="32,32" offset="16">
 			<override when="night" src="road4rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2003-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>“ñŽÔü“¹˜H/žòŽÀü/–³“”</name>
+		<name>äºŒè»Šç·šé“è·¯/æ©™å®Ÿç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>”’ŽÀü“ñŽÔü“¹˜H</description>
+		<description>ç™½å®Ÿç·šäºŒè»Šç·šé“è·¯</description>
 		<picture src="road4a.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 
-	<!--ŽOŽÔü“¹˜H-->
+	<!--ä¸‰è»Šç·šé“è·¯-->
 	<contribution type="road" id="{ROAD2501-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶”jü‰EŽÀü/ŠX“”A</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦ç ´ç·šå³å®Ÿç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road5l.bmp" size="32,32" offset="16">
 			<override when="night" src="road5ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2501-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶”jü‰EŽÀü/ŠX“”B</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦ç ´ç·šå³å®Ÿç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road5r.bmp" size="32,32" offset="16">
 			<override when="night" src="road5rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2501-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶”jü‰EŽÀü/–³“”</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦ç ´ç·šå³å®Ÿç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road5.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2502-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶ŽÀü‰E”jü/ŠX“”A</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦å®Ÿç·šå³ç ´ç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road6l.bmp" size="32,32" offset="16">
 			<override when="night" src="road6ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2502-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶ŽÀü‰E”jü/ŠX“”B</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦å®Ÿç·šå³ç ´ç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road6r.bmp" size="32,32" offset="16">
 			<override when="night" src="road6rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2502-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/¶ŽÀü‰E”jü/–³“”</name>
+		<name>ä¸‰è»Šç·šé“è·¯/å·¦å®Ÿç·šå³ç ´ç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road6.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2503-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’ŽÀü/ŠX“”A</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½å®Ÿç·š/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road7l.bmp" size="32,32" offset="16">
 			<override when="night" src="road7ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2503-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’ŽÀü/ŠX“”B</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½å®Ÿç·š/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road7r.bmp" size="32,32" offset="16">
 			<override when="night" src="road7rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2503-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’ŽÀü/–³“”</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½å®Ÿç·š/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road7.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2504-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüA/ŠX“”A</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šA/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road8l.bmp" size="32,32" offset="16">
 			<override when="night" src="road8ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2504-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüA/ŠX“”B</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šA/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road8r.bmp" size="32,32" offset="16">
 			<override when="night" src="road8rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2504-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüA/–³“”</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šA/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road8.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2505-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüB/ŠX“”A</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šB/è¡—ç¯A</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road9l.bmp" size="32,32" offset="16">
 			<override when="night" src="road9ln.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2505-8058-11D7-BB78-0090FE1AB960}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüB/ŠX“”B</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šB/è¡—ç¯B</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road9r.bmp" size="32,32" offset="16">
 			<override when="night" src="road9rn.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD2505-8058-11D7-BB78-0090FE1AB959A}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>ŽOŽÔü“¹˜H/”’”jüB/–³“”</name>
+		<name>ä¸‰è»Šç·šé“è·¯/ç™½ç ´ç·šB/ç„¡ç¯</name>
 		<style name="street" sidewalk="shoulder" lanes="3"/>
-		<description>”’üŽOŽÔü“¹˜H</description>
+		<description>ç™½ç·šä¸‰è»Šç·šé“è·¯</description>
 		<picture src="road9.bmp" size="32,16" offset="0">
 		</picture>
 	</contribution>
 
-	<!--‚‘¬“¹˜H-->
+	<!--é«˜é€Ÿé“è·¯-->
 	<contribution type="road" id="{ROAD3001-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(”’”jü)</name>
+		<name>é«˜é€Ÿé“è·¯(ç™½ç ´ç·š)</name>
 		<style name="highway" lanes="2"/>
-		<description>”’”jü‚‘¬“¹˜H</description>
+		<description>ç™½ç ´ç·šé«˜é€Ÿé“è·¯</description>
 		<picture src="road10.bmp" size="32,32" offset="16">
 			<override when="night" src="road10n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD3002-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(’Pü¶)</name>
+		<name>é«˜é€Ÿé“è·¯(å˜ç·šå·¦)</name>
 		<style name="highway" lanes="1"/>
-		<description>’Pü¶‚‘¬“¹˜H</description>
+		<description>å˜ç·šå·¦é«˜é€Ÿé“è·¯</description>
 		<picture src="road11.bmp" size="32,32" offset="16">
 			<override when="night" src="road11n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD3003-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(’Pü‰E)</name>
+		<name>é«˜é€Ÿé“è·¯(å˜ç·šå³)</name>
 		<style name="highway" lanes="1"/>
-		<description>’Pü‰E‚‘¬“¹˜H</description>
+		<description>å˜ç·šå³é«˜é€Ÿé“è·¯</description>
 		<picture src="road12.bmp" size="32,32" offset="16">
 			<override when="night" src="road12n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD3004-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(•¡ü¶)</name>
+		<name>é«˜é€Ÿé“è·¯(è¤‡ç·šå·¦)</name>
 		<style name="highway" lanes="2"/>
-		<description>•¡ü¶‚‘¬“¹˜H</description>
+		<description>è¤‡ç·šå·¦é«˜é€Ÿé“è·¯</description>
 		<picture src="road13.bmp" size="32,32" offset="16">
 			<override when="night" src="road13n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD3005-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(•¡ü‰E)</name>
+		<name>é«˜é€Ÿé“è·¯(è¤‡ç·šå³)</name>
 		<style name="highway" lanes="2"/>
-		<description>•¡ü‰E‚‘¬“¹˜H</description>
+		<description>è¤‡ç·šå³é«˜é€Ÿé“è·¯</description>
 		<picture src="road14.bmp" size="32,32" offset="16">
 			<override when="night" src="road14n.bmp"/>
 		</picture>
 	</contribution>
 	<contribution type="road" id="{ROAD3006-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>‚‘¬“¹˜H(‘Î–Ê’Ês)</name>
+		<name>é«˜é€Ÿé“è·¯(å¯¾é¢é€šè¡Œ)</name>
 		<style name="highway" lanes="2"/>
-		<description>‘Î–Ê’Ês‚‘¬“¹˜H</description>
+		<description>å¯¾é¢é€šè¡Œé«˜é€Ÿé“è·¯</description>
 		<picture src="road15.bmp" size="32,32" offset="16">
 			<override when="night" src="road15n.bmp"/>
 		</picture>
 	</contribution>
 
-	<!--Œð·“_-->
+	<!--äº¤å·®ç‚¹-->
 	<contribution type="road" id="{ROAD4001-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œð·“_/ƒ[ƒuƒ‰ƒ][ƒ“</name>
+		<name>äº¤å·®ç‚¹/ã‚¼ãƒ–ãƒ©ã‚¾ãƒ¼ãƒ³</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>ƒ[ƒuƒ‰ƒ][ƒ“</description>
+		<description>ã‚¼ãƒ–ãƒ©ã‚¾ãƒ¼ãƒ³</description>
 		<picture src="road16.bmp" size="32,16" offset="0" />
 	</contribution>
 	<contribution type="road" id="{ROAD4002-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œð·“_/‰¡’f•à“¹/ƒXƒNƒ‰ƒ“ƒuƒ‹</name>
+		<name>äº¤å·®ç‚¹/æ¨ªæ–­æ­©é“/ã‚¹ã‚¯ãƒ©ãƒ³ãƒ–ãƒ«</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>ƒXƒNƒ‰ƒ“ƒuƒ‹</description>
+		<description>ã‚¹ã‚¯ãƒ©ãƒ³ãƒ–ãƒ«</description>
 		<picture src="road17.bmp" size="32,16" offset="0" />
 	</contribution>
 	<contribution type="road" id="{ROAD4003-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œð·“_/‰¡’f•à“¹/’Êí</name>
+		<name>äº¤å·®ç‚¹/æ¨ªæ–­æ­©é“/é€šå¸¸</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>‰¡’f•à“¹</description>
+		<description>æ¨ªæ–­æ­©é“</description>
 		<picture src="road18.bmp" size="32,16" offset="0" />
 	</contribution>
 	<contribution type="road" id="{ROAD4004-8058-11D7-BB78-0090FE1AB959}">
 		<class name="freetrain.contributions.road.StandardRoadContribution" />
-		<name>Œð·“_/‰¡’f•à“¹/ƒ[ƒuƒ‰•t</name>
+		<name>äº¤å·®ç‚¹/æ¨ªæ–­æ­©é“/ã‚¼ãƒ–ãƒ©ä»˜</name>
 		<style name="street" sidewalk="shoulder" lanes="2"/>
-		<description>‰¡’f•à“¹ƒ[ƒuƒ‰•t</description>
+		<description>æ¨ªæ–­æ­©é“ã‚¼ãƒ–ãƒ©ä»˜</description>
 		<picture src="road19.bmp" size="32,16" offset="0" />
 	</contribution>
 </plug-in>

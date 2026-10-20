@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œƒ^ƒCƒv’n‰º“S‹æŠÔ•Ç</title>
-	<author>‚è‚¨‚è‚¨iŒ´‰æE–k‚Ì‹DŽÔ‰®j</author>
+	<title>æž¶ç·šæŸ±ã‚¿ã‚¤ãƒ—åœ°ä¸‹é‰„åŒºé–“å£</title>
+	<author>ã‚ŠãŠã‚ŠãŠï¼ˆåŽŸç”»ãƒ»åŒ—ã®æ±½è»Šå±‹ï¼‰</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -70,7 +70,7 @@
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-object-0001-7F2AE70CF695}">
-		<name>’n‰º‰w•Ç‰w–¼”Â</name>
+		<name>åœ°ä¸‹é§…å£é§…åæ¿</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0001-1784188A2626}"/>
 		</sprite>
@@ -78,7 +78,7 @@ id="{riorio-ep-subwaywall-object-0001-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-object-0002-7F2AE70CF695}">
-		<name>’n‰º‰w•Ç˜Hü}</name>
+		<name>åœ°ä¸‹é§…å£è·¯ç·šå›³</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0002-1784188A2626}"/>
 		</sprite>
@@ -86,7 +86,7 @@ id="{riorio-ep-subwaywall-object-0002-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-object-0003-7F2AE70CF695}">
-		<name>’n‰º‰w•Ç</name>
+		<name>åœ°ä¸‹é§…å£</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0003-1784188A2626}"/>
 		</sprite>
@@ -94,7 +94,7 @@ id="{riorio-ep-subwaywall-object-0003-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-object-0004-7F2AE70CF695}">
-		<name>’n‰º“S’†’Œ</name>
+		<name>åœ°ä¸‹é‰„ä¸­æŸ±</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0004-1784188A2626}"/>
 		</sprite>
@@ -102,7 +102,7 @@ id="{riorio-ep-subwaywall-object-0004-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-object-0005-7F2AE70CF695}">
-		<name>’n‰º“S•Ç</name>
+		<name>åœ°ä¸‹é‰„å£</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0005-1784188A2626}"/>
 		</sprite>
@@ -111,7 +111,7 @@ id="{riorio-ep-subwaywall-object-0005-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-platform-0001-7F2AE70CF695}">
-		<name>’n‰ºƒz[ƒ€‰w–¼”Â</name>
+		<name>åœ°ä¸‹ãƒ›ãƒ¼ãƒ é§…åæ¿</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0001-1784188A2626}-pf"/>
 		</sprite>
@@ -119,7 +119,7 @@ id="{riorio-ep-subwaywall-platform-0001-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-platform-0002-7F2AE70CF695}">
-		<name>’n‰ºƒz[ƒ€˜Hü}</name>
+		<name>åœ°ä¸‹ãƒ›ãƒ¼ãƒ è·¯ç·šå›³</name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0002-1784188A2626}-pf"/>
 		</sprite>
@@ -127,7 +127,7 @@ id="{riorio-ep-subwaywall-platform-0002-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-platform-0003-7F2AE70CF695}">
-		<name>’n‰ºƒz[ƒ€</name>
+		<name>åœ°ä¸‹ãƒ›ãƒ¼ãƒ </name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0003-1784188A2626}-pf"/>
 		</sprite>
@@ -135,7 +135,7 @@ id="{riorio-ep-subwaywall-platform-0003-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-platform-0004-7F2AE70CF695}">
-		<name>’n‰º“S’†’ŒEƒz[ƒ€</name>
+		<name>åœ°ä¸‹é‰„ä¸­æŸ±ãƒ»ãƒ›ãƒ¼ãƒ </name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0004-1784188A2626}-pf"/>
 		</sprite>
@@ -143,7 +143,7 @@ id="{riorio-ep-subwaywall-platform-0004-7F2AE70CF695}">
 
 	<contribution type="electricPole" 
 id="{riorio-ep-subwaywall-platform-0006-7F2AE70CF695}">
-		<name>’n‰º“S’†’Œ–³ƒz[ƒ€</name>
+		<name>åœ°ä¸‹é‰„ä¸­æŸ±ç„¡ãƒ›ãƒ¼ãƒ </name>
 		<sprite>
 			<picture ref="{riorio-ep-subwaywall-picture-0006-1784188A2626}-pf"/>
 		</sprite>

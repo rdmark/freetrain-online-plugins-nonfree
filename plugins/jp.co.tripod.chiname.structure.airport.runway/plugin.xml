@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plug-in [
 <!ENTITY runway5_5 '
 		<price>1000000</price>
 		<size>4,4</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>	
 		<computerCannotBuild/>
 '>
@@ -14,7 +14,7 @@
 		<size>2,4</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -23,7 +23,7 @@
 		<size>4,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -32,7 +32,7 @@
 		<size>2,4</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -41,7 +41,7 @@
 		<size>4,2</size>
 		<height>1</height>
 		<structure>
-			<category byname="ŠŠ‘–˜H"/>
+			<category byname="æ»‘èµ°è·¯"/>
 		</structure>
 		<computerCannotBuild/>
 '>
@@ -49,8 +49,8 @@
 ]>
 
 <plug-in>
-	<title>ŠŠ‘–˜H</title>
-	<author>C477@2—¼–Ú</author>
+	<title>æ»‘èµ°è·¯</title>
+	<author>C477@2ä¸¡ç›®</author>
 	<homepage>http://www.rocket.ne.jp/~nao/</homepage>
 
 
@@ -87,10 +87,10 @@
 		</picture>
 	</contribution>
 		
-	<!--ŠŠ‘–˜Hiƒ^ƒCƒ„Õ•t‚«j-->
+	<!--æ»‘èµ°è·¯ï¼ˆã‚¿ã‚¤ãƒ¤è·¡ä»˜ãï¼‰-->
 	<contribution type="GenericStructure" id="{0D5808D6-787C-4498-C477-EE5C79ECE244}-S0">
-		<group>ŠŠ‘–˜H(ƒ^ƒCƒ„Õ)</group>
-		<design>Ý’n“_•WŽ¯</design>
+		<group>æ»‘èµ°è·¯(ã‚¿ã‚¤ãƒ¤è·¡)</group>
+		<design>è¨­åœ°ç‚¹æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="0,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1a"/>
@@ -100,8 +100,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{0D5808D6-787C-4498-C477-EE5C79ECE244}-S1">
-		<group>ŠŠ‘–˜H(ƒ^ƒCƒ„Õ)</group>
-		<design>Ý’n‘Ñ•WŽ¯</design>
+		<group>æ»‘èµ°è·¯(ã‚¿ã‚¤ãƒ¤è·¡)</group>
+		<design>è¨­åœ°å¸¯æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="128,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1a"/>
@@ -111,7 +111,7 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{0D5808D6-787C-4498-C477-EE5C79ECE244}-S2">
-		<group>ŠŠ‘–˜H(ƒ^ƒCƒ„Õ)</group>
+		<group>æ»‘èµ°è·¯(ã‚¿ã‚¤ãƒ¤è·¡)</group>
 		&runway5_5;
 		<sprite origin="256,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1a"/>
@@ -122,10 +122,10 @@
 	</contribution>
 	
 
-	<!--ŠŠ‘–˜Hiƒ^ƒCƒ„Õ‚È‚µj-->
+	<!--æ»‘èµ°è·¯ï¼ˆã‚¿ã‚¤ãƒ¤è·¡ãªã—ï¼‰-->
 	<contribution type="GenericStructure" id="{8755ECDC-6A76-46AA-C477-3ACFCFA1202B}-S0">
-		<group>ŠŠ‘–˜H</group>
-		<design>Ý’n“_•WŽ¯</design>
+		<group>æ»‘èµ°è·¯</group>
+		<design>è¨­åœ°ç‚¹æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="0,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1b"/>
@@ -135,8 +135,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{8755ECDC-6A76-46AA-C477-3ACFCFA1202B}-S1">
-		<group>ŠŠ‘–˜H</group>
-		<design>Ý’n‘Ñ•WŽ¯</design>
+		<group>æ»‘èµ°è·¯</group>
+		<design>è¨­åœ°å¸¯æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="128,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1b"/>
@@ -146,7 +146,7 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{8755ECDC-6A76-46AA-C477-3ACFCFA1202B}-S2">
-		<group>ŠŠ‘–˜H</group>
+		<group>æ»‘èµ°è·¯</group>
 		&runway5_5;
 		<sprite origin="256,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S1b"/>
@@ -156,10 +156,10 @@
 		</sprite>		
 	</contribution>
 	
-	<!--ŠŠ‘–˜Hæ’[-->
+	<!--æ»‘èµ°è·¯å…ˆç«¯-->
 	<contribution type="GenericStructure" id="{5F1C1092-23ED-410B-C477-036FE255FC6E}-S0">
-		<group>ŠŠ‘–˜H</group>
-		<design>––’[•WŽ¯</design>
+		<group>æ»‘èµ°è·¯</group>
+		<design>æœ«ç«¯æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="0,0" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S2"/>
@@ -175,8 +175,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{5F1C1092-23ED-410B-C477-036FE255FC6E}-S1">
-		<group>ŠŠ‘–˜H</group>
-		<design>ŽwŽ¦•WŽ¯</design>
+		<group>æ»‘èµ°è·¯</group>
+		<design>æŒ‡ç¤ºæ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="0,80" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S2"/>
@@ -192,8 +192,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{5F1C1092-23ED-410B-C477-036FE255FC6E}-S2">
-		<group>ŠŠ‘–˜H</group>
-		<design>æ’[•WŽ¯</design>
+		<group>æ»‘èµ°è·¯</group>
+		<design>å…ˆç«¯æ¨™è­˜</design>
 		&runway5_5;
 		<sprite origin="0,240" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S2"/>
@@ -209,10 +209,10 @@
 		</sprite>		
 	</contribution>
 	
-	<!--ƒ^ƒCƒ„Õ-->
+	<!--ã‚¿ã‚¤ãƒ¤è·¡-->
 	<contribution type="GenericStructure" id="{5F1C1092-23ED-410B-C477-036FE255FC6E}-S12">
-		<group>ŠŠ‘–˜H(ƒ^ƒCƒ„Õ)</group>
-		<design>“rØ‚êƒpƒ^[ƒ“</design>
+		<group>æ»‘èµ°è·¯(ã‚¿ã‚¤ãƒ¤è·¡)</group>
+		<design>é€”åˆ‡ã‚Œãƒ‘ã‚¿ãƒ¼ãƒ³</design>
 		&runway5_5;
 		<sprite origin="0,160" offset="24">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S2"/>
@@ -229,10 +229,10 @@
 	</contribution>
 
 
-<!--i“ü“•-->
+<!--é€²å…¥ç‡ˆ-->
 	<contribution type="GenericStructure" id="{2B1C7FD8-1F38-4B7C-C477-5A7DCFD577F9}-S00">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>ŽÅ¶‚`</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>èŠç”Ÿï¼¡</design>
 		&approach2_5;
 		<sprite origin="0,0" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3a"/>
@@ -248,8 +248,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{2B1C7FD8-1F38-4B7C-C477-5A7DCFD577F9}-S04">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>ŽÅ¶‚a</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>èŠç”Ÿï¼¢</design>
 		&approach2_5;
 		<sprite origin="0,64" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3a"/>
@@ -265,8 +265,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{2B1C7FD8-1F38-4B7C-C477-5A7DCFD577F9}-S10">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>ŽÅ¶‚b</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>èŠç”Ÿï¼£</design>
 		&approach2_5;
 		<sprite origin="0,128" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3a"/>
@@ -282,8 +282,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{2B1C7FD8-1F38-4B7C-C477-5A7DCFD577F9}-S11">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>ŽÅ¶‚c</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>èŠç”Ÿï¼¤</design>
 		&approach2_5;
 		<sprite origin="0,192" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3a"/>
@@ -299,8 +299,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{2B1C7FD8-1F38-4B7C-C477-5A7DCFD577F9}-S12">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>…ã</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>æ°´ä¸Š</design>
 		&approach2_5;
 		<sprite origin="0,256" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3a"/>
@@ -317,10 +317,10 @@
 	</contribution>
 
 	
-	<!--‰ß‘–‘Ñ-->
+	<!--éŽèµ°å¸¯-->
 	<contribution type="GenericStructure" id="{31F65668-5D60-4F47-C477-0025430882BB}}-S00">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>‰ß‘–‘Ñ‚`</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>éŽèµ°å¸¯ï¼¡</design>
 		&overrun2_5;
 		<sprite origin="0,0" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3b"/>
@@ -336,8 +336,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{31F65668-5D60-4F47-C477-0025430882BB}}-S01">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>‰ß‘–‘Ñ‚a</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>éŽèµ°å¸¯ï¼¢</design>
 		&overrun2_5;
 		<sprite origin="0,64" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3b"/>
@@ -353,8 +353,8 @@
 		</sprite>		
 	</contribution>
 	<contribution type="GenericStructure" id="{31F65668-5D60-4F47-C477-0025430882BB}}-S02">
-		<group>ŠŠ‘–˜Hi“ü“•</group>
-		<design>‰ß‘–‘Ñ‚b</design>
+		<group>æ»‘èµ°è·¯é€²å…¥ç‡ˆ</group>
+		<design>éŽèµ°å¸¯ï¼£</design>
 		&overrun2_5;
 		<sprite origin="0,128" offset="8">
 			<picture ref="{DE960968-07D0-4D16-C477-E40744A9F69F}-S3b"/>

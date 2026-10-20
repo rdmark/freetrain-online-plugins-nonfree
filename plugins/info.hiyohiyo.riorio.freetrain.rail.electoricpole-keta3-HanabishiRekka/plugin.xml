@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <plug-in>
-	<title>‰Ëü’Œƒ^ƒCƒvƒK[ƒ^[‹´</title>
-	<author>‚è‚¨‚è‚¨F‘Ö‚¦©‰Ô•H—ó‰Î</author>
+	<title>æž¶ç·šæŸ±ã‚¿ã‚¤ãƒ—ã‚¬ãƒ¼ã‚¿ãƒ¼æ©‹</title>
+	<author>ã‚ŠãŠã‚ŠãŠè‰²æ›¿ãˆâ†èŠ±è±çƒˆç«</author>
 	<homepage>http://www.hiyohiyo.info/~riorio/freetrain/</homepage>
 	
 	<depends on="org.kohsuke.freetrain.rail.electricPole" />
@@ -29,43 +29,43 @@
 	</contribution>
 	
 	<contribution type="electricPole" id="{riorio-ep-3000-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(Œ…)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(æ¡)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2000-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3001-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(’†)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(ä¸­)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2001-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3002-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(IA)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(çµ‚A)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2002-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3003-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(IB)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(çµ‚B)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2003-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3004-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(‰Ëü‘äE¶)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(æž¶ç·šå°ãƒ»å·¦)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2004-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3005-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(‰Ëü‘äE‰E)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(æž¶ç·šå°ãƒ»å³)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2005-9C5A-D0EA1049D28D}"/>
 		</sprite>
 	</contribution>
 	<contribution type="electricPole" id="{riorio-ep-3006-9C5A-D0EA1049D28D}">
-		<name>ƒKƒ^[‹´E—Î(‰Ëü‘äE¶‰E)</name>
+		<name>ã‚¬ã‚¿ãƒ¼æ©‹ãƒ»ç·‘(æž¶ç·šå°ãƒ»å·¦å³)</name>
 		<sprite>
 			<picture ref="{riorio-ep-2006-9C5A-D0EA1049D28D}"/>
 		</sprite>

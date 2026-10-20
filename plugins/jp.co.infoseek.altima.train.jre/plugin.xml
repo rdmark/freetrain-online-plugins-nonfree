@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plug-in>
-	<title>JRE205ŒnŒãŠúŒ^ŽÔ—¼ƒvƒ‰ƒOƒCƒ“</title>
+	<title>JRE205ç³»å¾ŒæœŸåž‹è»Šä¸¡ãƒ—ãƒ©ã‚°ã‚¤ãƒ³</title>
 	<author>Altima</author>
 	<homepage>http://zero-d.web.infoseek.co.jp/</homepage>
 
@@ -10,7 +10,7 @@
 	</contribution>
 
 
-	<!-- 205ŒãŠú‹ž—tüæ“ªŽÔ -->
+	<!-- 205å¾ŒæœŸäº¬è‘‰ç·šå…ˆé ­è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205KYTC1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -20,7 +20,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-	<!-- 205ŒãŠú‹ž—tü’†ŠÔŽÔ -->
+	<!-- 205å¾ŒæœŸäº¬è‘‰ç·šä¸­é–“è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205KYMI1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -50,20 +50,20 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 
-	<!-- 205ŒãŠú‹ž—tüŒã”öŽÔ -->
+	<!-- 205å¾ŒæœŸäº¬è‘‰ç·šå¾Œå°¾è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205KYTC2}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{AltimaTRAINS-EC-JREAST-205KYTC1}"/>
 	</contribution>
 
 	<contribution type="train" id="{AltimaTRAINS-EC-JREAST-205KY}">
-		<company>JR“Œ“ú–{</company>
-		<type>205ŒnŒãŠúŒ^</type>
-		<name>‹ž—tü</name>
+		<company>JRæ±æ—¥æœ¬</company>
+		<type>205ç³»å¾ŒæœŸåž‹</type>
+		<name>äº¬è‘‰ç·š</name>
 		<author>Altima</author>
 		<description>
 
-1990”N‚Ì‹ž—tü“Œ‹ž-‘h‰äŠÔ‘S’Ê‚ÌÛ‚É205Œn‚ªV»“Š“ü‚³‚ê‚½B“Š“ü‚³‚ê‚½ŽÔ—¼‚ÍA]—ˆŽÔ‚Æ‘å•‚ÉƒCƒ[ƒW‚ªˆÙ‚È‚éFRP»‚Ì”’‚¢ƒtƒƒ“ƒgƒ}ƒXƒN‚É‚È‚Á‚Ä‚¢‚é‚ªA”Ô‘ä‹æ•ª‚Í‚³‚ê‚Ä‚¢‚È‚¢B</description>
+1990å¹´ã®äº¬è‘‰ç·šæ±äº¬-è˜‡æˆ‘é–“å…¨é€šã®éš›ã«205ç³»ãŒæ–°è£½æŠ•å…¥ã•ã‚ŒãŸã€‚æŠ•å…¥ã•ã‚ŒãŸè»Šä¸¡ã¯ã€å¾“æ¥è»Šã¨å¤§å¹…ã«ã‚¤ãƒ¡ãƒ¼ã‚¸ãŒç•°ãªã‚‹FRPè£½ã®ç™½ã„ãƒ•ãƒ­ãƒ³ãƒˆãƒžã‚¹ã‚¯ã«ãªã£ã¦ã„ã‚‹ãŒã€ç•ªå°åŒºåˆ†ã¯ã•ã‚Œã¦ã„ãªã„ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>
@@ -77,7 +77,7 @@
 	</contribution>
 
 
-	<!-- 205ŒãŠú•‘ –ìüæ“ªŽÔ -->
+	<!-- 205å¾ŒæœŸæ­¦è”µé‡Žç·šå…ˆé ­è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205MSTC1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -87,7 +87,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-	<!-- 205ŒãŠú•‘ –ìü’†ŠÔŽÔ -->
+	<!-- 205å¾ŒæœŸæ­¦è”µé‡Žç·šä¸­é–“è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205MSMI1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -117,19 +117,19 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 
-	<!-- 205ŒãŠú•‘ –ìüŒã”öŽÔ -->
+	<!-- 205å¾ŒæœŸæ­¦è”µé‡Žç·šå¾Œå°¾è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205MSTC2}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{AltimaTRAINS-EC-JREAST-205MSTC1}"/>
 	</contribution>
 
 	<contribution type="train" id="{AltimaTRAINS-EC-JREAST-205MS}">
-		<company>JR“Œ“ú–{</company>
-		<type>205ŒnŒãŠúŒ^</type>
-		<name>•‘ –ìü</name>
+		<company>JRæ±æ—¥æœ¬</company>
+		<type>205ç³»å¾ŒæœŸåž‹</type>
+		<name>æ­¦è”µé‡Žç·š</name>
 		<author>Altima</author>
 		<description>
-1991”N‚Ì•‘ –ìü8—¼•Ò¬‰»‚É‡‚í‚¹‚Ä205Œn‚ªV»“Š“ü‚³‚ê‚½B‹ž—tü‚É€‚¶‚½ŒãŠúŒ^Žd—l‚É‚È‚Á‚Ä‚¢‚é‚ªA‘O–Ê‚ª‹âFAƒXƒJ[ƒg–¢‘•”õAƒhƒAƒGƒ“ƒWƒ“‚Ì•ÏX‚È‚Ç·ˆÙ‚à‘½‚¢B</description>
+1991å¹´ã®æ­¦è”µé‡Žç·š8ä¸¡ç·¨æˆåŒ–ã«åˆã‚ã›ã¦205ç³»ãŒæ–°è£½æŠ•å…¥ã•ã‚ŒãŸã€‚äº¬è‘‰ç·šã«æº–ã˜ãŸå¾ŒæœŸåž‹ä»•æ§˜ã«ãªã£ã¦ã„ã‚‹ãŒã€å‰é¢ãŒéŠ€è‰²ã€ã‚¹ã‚«ãƒ¼ãƒˆæœªè£…å‚™ã€ãƒ‰ã‚¢ã‚¨ãƒ³ã‚¸ãƒ³ã®å¤‰æ›´ãªã©å·®ç•°ã‚‚å¤šã„ã€‚</description>
 		<speed>medium</speed>
 		<class name="freetrain.contributions.train.ParamTrainImpl"/>
 		<composition>
@@ -143,7 +143,7 @@
 	</contribution>
 
 
-	<!-- 205-500‘Š–Íüæ“ªŽÔ -->
+	<!-- 205-500ç›¸æ¨¡ç·šå…ˆé ­è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205SGTC1}">
 		<class name="freetrain.contributions.train.AsymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -153,7 +153,7 @@
 		<seatedcapacity>48</seatedcapacity>
 	</contribution>
 
-	<!-- 205-500‘Š–Íü’†ŠÔŽÔ -->
+	<!-- 205-500ç›¸æ¨¡ç·šä¸­é–“è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205SGMI1}">
 		<class name="freetrain.contributions.train.SymTrainCarImpl"/>
 		<sprite origin="0,0">
@@ -183,19 +183,19 @@
 		<seatedcapacity>54</seatedcapacity>
 	</contribution>
 
-	<!-- 205-500‘Š–ÍüŒã”öŽÔ -->
+	<!-- 205-500ç›¸æ¨¡ç·šå¾Œå°¾è»Š -->
 	<contribution type="trainCar" id="{AltimaTRAINS-EC-JREAST-205SGTC2}">
 		<class name="freetrain.contributions.train.ReverseTrainCarImpl"/>
 			<base carRef="{AltimaTRAINS-EC-JREAST-205SGTC1}"/>
 	</contribution>
 
 	<contribution type="train" id="{AltimaTRAINS-EC-JREAST-205SG}">
-		<company>JR“Œ“ú–{</company>
-		<type>205Œn500”Ô‘ä</type>
-		<name>‘Š–Íü</name>
+		<company>JRæ±æ—¥æœ¬</company>
+		<type>205ç³»500ç•ªå°</type>
+		<name>ç›¸æ¨¡ç·š</name>
 		<author>Altima</author>
 		<description>
-1991”N‚Ì‘Š–Íü“d‰»‚ÌÛ‚É‚±‚Ì205Œn500”Ô‘ä‚ªV»“Š“ü‚³‚ê‚½B”¼Ž©“®”à‚âæ–±ˆõŽx‰‡‘•’u‚ð‘•”õ‚µ‚Ä‚¢‚ÄA0”Ô‘ä‚Æ‚Í‚Ü‚Á‚½‚­ˆÙ‚È‚éƒtƒƒ“ƒgƒ}ƒXƒN‚ðŽ‚ÂB</description>
+1991å¹´ã®ç›¸æ¨¡ç·šé›»åŒ–ã®éš›ã«ã“ã®205ç³»500ç•ªå°ãŒæ–°è£½æŠ•å…¥ã•ã‚ŒãŸã€‚åŠè‡ªå‹•æ‰‰ã‚„ä¹—å‹™å“¡æ”¯æ´è£…ç½®ã‚’è£…å‚™ã—ã¦ã„ã¦ã€0ç•ªå°ã¨ã¯ã¾ã£ãŸãç•°ãªã‚‹ãƒ•ãƒ­ãƒ³ãƒˆãƒžã‚¹ã‚¯ã‚’æŒã¤ã€‚</description>
 		<fare>400</fare>
 		<price>28000000</price>
 		<amenity>100</amenity>

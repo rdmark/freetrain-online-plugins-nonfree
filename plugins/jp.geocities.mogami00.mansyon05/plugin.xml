@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="Shift_JIS" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <plug-in>
- <title>ƒ}ƒ“ƒVƒ‡ƒ“05</title> 
- <author>ƒ‚ƒKƒ~</author> 
+ <title>ãƒãƒ³ã‚·ãƒ§ãƒ³05</title> 
+ <author>ãƒ¢ã‚¬ãƒŸ</author> 
  <homepage>http://www.geocities.jp/mogami00/Kamikazekensetu.html</homepage> 
  <contribution type="picture" id="{mogami-building-mansyon05-picture-B8B9B3B1D2F8}">
  <picture src="mansyon05.bmp"> 
@@ -9,9 +9,9 @@
  </picture>
  </contribution>
  <contribution type="GenericStructure" id="{mogami-building-mansyon05-C51CA251FBE9}">
- <group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(3x3)</group> 
+ <group>åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³(3x3)</group> 
  <structure>
- <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+ <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
  </structure>
  <price>180000000</price> 
  <size>3,3</size> 
@@ -35,9 +35,9 @@
  </pictures>
  </contribution>
 <contribution type="GenericStructure" id="{mogami-building-mansyon05-C51CA251FBE9}-2">
- <group>•ª÷ƒ}ƒ“ƒVƒ‡ƒ“(3x3)</group> 
+ <group>åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³(3x3)</group> 
  <structure>
- <category byname="•ª÷ƒ}ƒ“ƒVƒ‡ƒ“" /> 
+ <category byname="åˆ†è­²ãƒãƒ³ã‚·ãƒ§ãƒ³" /> 
  </structure>
  <price>180000000</price> 
  <size>3,3</size> 
